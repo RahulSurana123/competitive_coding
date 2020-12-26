@@ -1,17 +1,19 @@
 
+
 /* 
 
     Solution by Rahul Surana
 
     ***********************************************************
 
-This is Testing Workspace to learn and know about something new 
+Given an array A of N integers. Find out the minimum value of the following expression 
 
-    1. euclidean gcd
-    2. fast exponention  
+  ( A(i) and A(j) ) xor ( A(i) or A(j) )  for all valid i,j. where  i != j.
+
 
     ***********************************************************
 */
+
 
 
 
@@ -27,35 +29,37 @@ This is Testing Workspace to learn and know about something new
 #define mp          make_pair
 #define F           first
 #define S           second
+#define FOR(i,a)     for(int i = 0; i < a; i++)
 #define trace(x)    cerr<<#x<<" : "<<x<<endl;
 #define trace2(x,y) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<endl;
 #define trace3(x,y,z) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<" | "<<#z<<" : "<<z<<endl;
 #define fast_io 	std::ios::sync_with_stdio(false),cin.tie(NULL),cout.tie(NULL)
  
 using namespace std;
-int inf=1e9+7, MOD=1e9+7;
+int inf=1e9+7,MOD=1e9+7;
 
-ll int gcd(ll int a,ll int b){
-    if (b==0) return a;
-    return gcd(b,a%b);
-}
-
-ll int fastexpo(int x,int n){
-    if (n == 0) return 1;
-    ll int result = fastexpo(x,n/2);
-    if (n%2==1){
-         
-        return result * x * result ;
-    }
-    else return result * result;
-}
+int ar[100005];
 
 int main()
 {
 	fast_io;
-    ll int result = gcd(865480988334076944, 181153058753871872);
+    int t,n,q;
+    cin >> t;
+    FOR(i,t){
+        cin>>n;
+        FOR(j,n) cin >> ar[j];
+        int ans=1000000000;
+        sort(ar,ar+n);
+        
+        for(int k = 1; k < n; k++){
+            int x = ((ar[k-1])^(ar[k]));
+            if(ans>x) ans = x;
+        }
+        
 
-    cout << result <<" "<<(result & result -1) <<"\n";
-    cout << fastexpo(18,6)<<"\n";
+        cout << ans << "\n";
+
+    }
+    
 
 }

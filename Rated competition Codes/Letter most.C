@@ -5,14 +5,24 @@
 
     ***********************************************************
 
-This is Testing Workspace to learn and know about something new 
+Lonely Y loves his string s of lowercase letters, Y is about to escape so he should choose just one lowercase letter c and carry all letters in s which is equal to c with himself.
 
-    1. euclidean gcd
-    2. fast exponention  
+What is the maximum number of letters Y can carry with himself?
+
+Input
+
+First line contains only n, legnth of string s.
+
+Second line contains string s of lowercase letters.
+ 
+1 < n <10^5
+
+Output
+
+The only line of output contains an integer which is maximum number of letters that Y can carry.
 
     ***********************************************************
 */
-
 
 
 #include <bits/stdc++.h>
@@ -27,35 +37,33 @@ This is Testing Workspace to learn and know about something new
 #define mp          make_pair
 #define F           first
 #define S           second
+#define FOR(i,a)     for(int i = 0; i < a; i++)
 #define trace(x)    cerr<<#x<<" : "<<x<<endl;
 #define trace2(x,y) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<endl;
 #define trace3(x,y,z) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<" | "<<#z<<" : "<<z<<endl;
 #define fast_io 	std::ios::sync_with_stdio(false),cin.tie(NULL),cout.tie(NULL)
  
 using namespace std;
-int inf=1e9+7, MOD=1e9+7;
-
-ll int gcd(ll int a,ll int b){
-    if (b==0) return a;
-    return gcd(b,a%b);
-}
-
-ll int fastexpo(int x,int n){
-    if (n == 0) return 1;
-    ll int result = fastexpo(x,n/2);
-    if (n%2==1){
-         
-        return result * x * result ;
-    }
-    else return result * result;
-}
+int inf=1e9+7,MOD=1e9+7;
 
 int main()
 {
 	fast_io;
-    ll int result = gcd(865480988334076944, 181153058753871872);
 
-    cout << result <<" "<<(result & result -1) <<"\n";
-    cout << fastexpo(18,6)<<"\n";
-
+    int n,ar[26];
+    cin >> n;
+    
+    string s;
+    cin >> s;
+    
+    mem(ar,0);
+    
+    FOR(i,s.length())  ar[s[i]- 'a'] += 1;
+        
+    // cout << ar[s[i]- 'a'] <<" "<<s[i]<<" ";
+    int ma = -1;
+    
+    FOR(i,26) if (ma<ar[i]) ma = ar[i];
+    
+    cout << ma;
 }
