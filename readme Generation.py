@@ -29,15 +29,11 @@ f.write("### HYPERLINK To Code\n***\n")
 dic = {}
 
 for dirs in list(os.listdir(".")):
-	# for r in root:
 	print(dirs +" " + str('.' in dirs))
-	# for filename in files:
 	if not '.' in dirs:
 		for files in os.listdir(dirs):	
-			dic[files[:-2]] = "./"+dirs+"/"+files
-			f.write("-  [ "+files[:-2]+" ](./"+"%20".join(list(dirs.split(" ")))+"/"+"%20".join(list(files.split(" ")))+") \n")
-			# for files in os.listdir(d):
-			# 	print(files)
+			dic[files[:-4]] = ("./"+"%20".join(list(dirs.split(" ")))+"/"+"%20".join(list(files.split(" ")))).replace("?","%3F")
+			f.write("-  [ "+files[:-4]+" ]("+dic[files[:-4]]+") \n")
 
 print(dic)
 f.close()
