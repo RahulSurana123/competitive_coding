@@ -27,201 +27,7 @@ Second line: A denoting the string
 
 */
 
-
-
 #include <bits/stdc++.h>
-#define ll          unsigned long long int
-#define vl          vector<ll>
-#define vi          vector<int>
-#define pi          pair<int,int>
-#define pl          pair<ll,ll>
-#define all(a)      a.begin(),a.end()
-#define mem(a,x)    memset(a,x,sizeof(a))
-#define pb          push_back
-#define mp          make_pair
-#define F           first
-#define S           second
-#define FOR(i,a)     for(int i = 0; i < a; i++)
-#define trace(x)    cerr<<#x<<" : "<<x<<endl;
-#define trace2(x,y) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<endl;
-#define trace3(x,y,z) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<" | "<<#z<<" : "<<z<<endl;
-#define fast_io     std::ios::sync_with_stdio(false),cin.tie(NULL),cout.tie(NULL)
-
-using namespace std;
-
-
-
-ll binaryToDecimal(string n)
-{
-    string num = n;
-    ll dec_value = 0;
- 
-    // Initializing base value to 1, i.e 2^0
-    ll base = 1;
- 
-    ll len = num.length();
-    for (int i = len - 1; i >= 0; i--) {
-        if (num[i] == '1')
-            dec_value += base;
-        base = base * 2;
-    }
- 
-    return dec_value;
-}
-
-
-void solve() {
-    vector<int> index;
-    ll n,k;
-    cin >> n >> k;
-    string s,copy;
-    cin >> s;
-
-    // copy2 = s;
-    copy = s;
-    // cout << s << "\n";
-    for(ll i=0;i<n;i++){
-        // cout << "stoi(s) "<<stoi(s)<<" ";
-        // ll a = binaryToDecimal(s);
-        if(s >= copy){
-            
-            if ((bool)(s==copy)){
-                index.push_back(i);
-            }
-            else { index.clear(); copy = s; index.push_back(i);}
-            // m = a;
-            // cout << "copy "<<copy<<" ";
-            // cout << "a :" << a<<" ";
-        }
-        reverse(s.begin()+1, s.end());
-        reverse(s.begin(), s.end());
-    }
-    cout << "copy "<< s<< "\n";
-    // cout <<"after the max"<< s << "\n";
-    // for (ll i = 0; i < n; i++){
-    //     if ((bool)(s==copy)){
-    //         index.push_back(i);
-    //     }
-    //     reverse(s.begin()+1, s.end());
-    //     reverse(s.begin(), s.end());
-        
-    // }
-    // cout << s << "\n";
-     for (ll i = 0; i < index.size(); i++){ cout << index[i]<<" ";}
-    ll x = (int)k/index.size();
-    int y = k%index.size();
-    cout <<"\n"<< index.size() <<" "<< x-1 <<" "<< n <<" "<< (x-1)*n<< " " << y <<"\n";
-    if(x==0) cout << index[y-1] <<"\n";
-    else if(y==0 && x!=0) cout <<((x-1)*n + index[index.size()-1]) << "\n";
-    else cout << (x)*n + index[y-1] << "\n";
-}
-
-int tc;
-
-int main() {
-    fast_io;
-
-    cin >> tc;
-    for (int t = 1; t <= tc; t++) {
-        solve();
-    }
-}
-    
-
-
-
-/*#include <bits/stdc++.h>
-#define ll          unsigned long long int
-#define vl          vector<ll>
-#define vi          vector<int>
-#define pi          pair<int,int>
-#define pl          pair<ll,ll>
-#define all(a)      a.begin(),a.end()
-#define mem(a,x)    memset(a,x,sizeof(a))
-#define pb          push_back
-#define mp          make_pair
-#define F           first
-#define S           second
-#define FOR(i,a)     for(int i = 0; i < a; i++)
-#define trace(x)    cerr<<#x<<" : "<<x<<endl;
-#define trace2(x,y) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<endl;
-#define trace3(x,y,z) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<" | "<<#z<<" : "<<z<<endl;
-#define fast_io     std::ios::sync_with_stdio(false),cin.tie(NULL),cout.tie(NULL)
-
-using namespace std;
- 
-string maxone(string s){
-    string temp=s+s;
-    int p =0,mo=0,count=0;
-    string ans = "";
-    for(ll i=0; i < 2*s.length();i++){
-        if(s[i%s.length()]=='1') count++;
-        else count = 0;
-
-        if(count>=mo && s.substr((s.length()+p-mo+1)%s.length())+ s.substr(0,(s.length()+p-mo+1)%s.length())>ans) {mo=count; p = i%s.length(); ans = s.substr((s.length()+p-mo+1)%s.length())+ s.substr(0,(s.length()+p-mo+1)%s.length());}
-
-    }
-    return ans;
-}
-
-
-void solve() {
-    vector<int> index;
-    ll n,k;
-    cin >> n >> k;
-    string s,copy;
-    cin >> s;
-
-    // copy2 = s;
-    copy = maxone(s);
-    // cout << s << "\n";
-    // for(ll i=0;i<n;i++){
-    //     if(s >= copy){
-    //         if ((bool)(s>copy)){
-    //             index.clear();
-    //             index.pb(i);
-    //             copy = s;
-    //         }
-    //         else { index.pb(i);}
-    //         // m = a;
-    //         // cout << "copy "<<copy<<" ";
-    //         // cout << "a :" << a<<" ";
-    //     }
-    //     reverse(s.begin()+1, s.end());
-    //     reverse(s.begin(), s.end());
-    // }
-    // cout << "copy "<< s<< "\n";
-    // cout <<"after the max"<< s << "\n";
-    // index.push_back(0);
-    for (ll i = 0; i < n; i++){
-        if ((bool)(s==copy)){
-            index.push_back(i);
-        }
-        reverse(s.begin()+1, s.end());
-        reverse(s.begin(), s.end());
-        
-    }
-    // cout << s << "\n";
-    //  for (ll i = 0; i < index.size(); i++){ cout << index[i]<<" ";}
-    int x = k / index.size();
-    int y = k % index.size();
-    // cout <<"\n"<< index.size() <<" "<< x <<" "<< n <<" "<< (x)*n<< " " << y <<"\n";
-    if(x==0) cout << index[y-1] <<"\n";
-    else if(y==0 && x!=0) cout <<((x-1)*n + index[index.size()-1]) << "\n";
-    else cout << (x)*n + index[y-1] << "\n";
-}
-
-int tc;
-
-int main() {
-    fast_io;
-
-    cin >> tc;
-    for (int t = 1; t <= tc; t++) {
-        solve();
-        // cout << maxone("1111101110111111100111111111101111111011111010101011111111111011011110101111111111010111111110111111111111101111111011110111111111111101011110111111011111111011100111111111111111111110110111111001111101111101110100101100111111111111011110111111111110011110100110111111111101111100111011111111101111111111111110111111101111010010110111110100001101111011100011111101011111011011111111111000101011011111001111111111111111111111000111111111111011111111111111110110011111101111010111111111111110111111111011111111010111111110111001111111111111111000010111101111110110111111111111110111011111111111111110110111111111111111110111011101111010111111111111011111111111101111011111111011111011011111111111101111100011111111111011111011110111110111111111111111111101110111111110100111111101111110111010111111111111111111111101111011100111111101111111011111101101111110111001111100111111111111011110111011011111111111111111011111111101101101111011110101101100111110111110111011011111110110110101111111111110100111");
-    }
-}*/#include <bits/stdc++.h>
 #define ll          unsigned long long int
 #define vl          vector<ll>
 #define vi          vector<int>
@@ -326,6 +132,7 @@ int main()
         cin>>s;
         s = flip(s);
         vector<int> z = z_function(s);
+        for(ll i = 0; i < z.size(); i++){ cout << z[i]<<" ";}
         ll period=n;
         for(ll i=1;i<n;i++)
         {
@@ -342,3 +149,200 @@ int main()
     }
     return 0;
 }
+
+// <------------------------------------END-------------------------------------------> \\
+
+
+// #include <bits/stdc++.h>
+// #define ll          unsigned long long int
+// #define vl          vector<ll>
+// #define vi          vector<int>
+// #define pi          pair<int,int>
+// #define pl          pair<ll,ll>
+// #define all(a)      a.begin(),a.end()
+// #define mem(a,x)    memset(a,x,sizeof(a))
+// #define pb          push_back
+// #define mp          make_pair
+// #define F           first
+// #define S           second
+// #define FOR(i,a)     for(int i = 0; i < a; i++)
+// #define trace(x)    cerr<<#x<<" : "<<x<<endl;
+// #define trace2(x,y) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<endl;
+// #define trace3(x,y,z) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<" | "<<#z<<" : "<<z<<endl;
+// #define fast_io     std::ios::sync_with_stdio(false),cin.tie(NULL),cout.tie(NULL)
+
+// using namespace std;
+
+
+
+// ll binaryToDecimal(string n)
+// {
+//     string num = n;
+//     ll dec_value = 0;
+ 
+//     // Initializing base value to 1, i.e 2^0
+//     ll base = 1;
+ 
+//     ll len = num.length();
+//     for (int i = len - 1; i >= 0; i--) {
+//         if (num[i] == '1')
+//             dec_value += base;
+//         base = base * 2;
+//     }
+ 
+//     return dec_value;
+// }
+
+
+// void solve() {
+//     vector<int> index;
+//     ll n,k;
+//     cin >> n >> k;
+//     string s,copy;
+//     cin >> s;
+
+//     // copy2 = s;
+//     copy = s;
+//     // cout << s << "\n";
+//     for(ll i=0;i<n;i++){
+//         // cout << "stoi(s) "<<stoi(s)<<" ";
+//         // ll a = binaryToDecimal(s);
+//         if(s >= copy){
+            
+//             if ((bool)(s==copy)){
+//                 index.push_back(i);
+//             }
+//             else { index.clear(); copy = s; index.push_back(i);}
+//             // m = a;
+//             // cout << "copy "<<copy<<" ";
+//             // cout << "a :" << a<<" ";
+//         }
+//         reverse(s.begin()+1, s.end());
+//         reverse(s.begin(), s.end());
+//     }
+//     cout << "copy "<< s<< "\n";
+//     // cout <<"after the max"<< s << "\n";
+//     // for (ll i = 0; i < n; i++){
+//     //     if ((bool)(s==copy)){
+//     //         index.push_back(i);
+//     //     }
+//     //     reverse(s.begin()+1, s.end());
+//     //     reverse(s.begin(), s.end());
+        
+//     // }
+//     // cout << s << "\n";
+//      for (ll i = 0; i < index.size(); i++){ cout << index[i]<<" ";}
+//     ll x = (int)k/index.size();
+//     int y = k%index.size();
+//     cout <<"\n"<< index.size() <<" "<< x-1 <<" "<< n <<" "<< (x-1)*n<< " " << y <<"\n";
+//     if(x==0) cout << index[y-1] <<"\n";
+//     else if(y==0 && x!=0) cout <<((x-1)*n + index[index.size()-1]) << "\n";
+//     else cout << (x)*n + index[y-1] << "\n";
+// }
+
+// int tc;
+
+// int main() {
+//     fast_io;
+
+//     cin >> tc;
+//     for (int t = 1; t <= tc; t++) {
+//         solve();
+//     }
+// }
+    
+
+
+
+/*#include <bits/stdc++.h>
+#define ll          unsigned long long int
+#define vl          vector<ll>
+#define vi          vector<int>
+#define pi          pair<int,int>
+#define pl          pair<ll,ll>
+#define all(a)      a.begin(),a.end()
+#define mem(a,x)    memset(a,x,sizeof(a))
+#define pb          push_back
+#define mp          make_pair
+#define F           first
+#define S           second
+#define FOR(i,a)     for(int i = 0; i < a; i++)
+#define trace(x)    cerr<<#x<<" : "<<x<<endl;
+#define trace2(x,y) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<endl;
+#define trace3(x,y,z) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<" | "<<#z<<" : "<<z<<endl;
+#define fast_io     std::ios::sync_with_stdio(false),cin.tie(NULL),cout.tie(NULL)
+
+using namespace std;
+ 
+string maxone(string s){
+    string temp=s+s;
+    int p =0,mo=0,count=0;
+    string ans = "";
+    for(ll i=0; i < 2*s.length();i++){
+        if(s[i%s.length()]=='1') count++;
+        else count = 0;
+
+        if(count>=mo && s.substr((s.length()+p-mo+1)%s.length())+ s.substr(0,(s.length()+p-mo+1)%s.length())>ans) {mo=count; p = i%s.length(); ans = s.substr((s.length()+p-mo+1)%s.length())+ s.substr(0,(s.length()+p-mo+1)%s.length());}
+
+    }
+    return ans;
+}
+
+
+void solve() {
+    vector<int> index;
+    ll n,k;
+    cin >> n >> k;
+    string s,copy;
+    cin >> s;
+
+    // copy2 = s;
+    copy = maxone(s);
+    // cout << s << "\n";
+    // for(ll i=0;i<n;i++){
+    //     if(s >= copy){
+    //         if ((bool)(s>copy)){
+    //             index.clear();
+    //             index.pb(i);
+    //             copy = s;
+    //         }
+    //         else { index.pb(i);}
+    //         // m = a;
+    //         // cout << "copy "<<copy<<" ";
+    //         // cout << "a :" << a<<" ";
+    //     }
+    //     reverse(s.begin()+1, s.end());
+    //     reverse(s.begin(), s.end());
+    // }
+    // cout << "copy "<< s<< "\n";
+    // cout <<"after the max"<< s << "\n";
+    // index.push_back(0);
+    for (ll i = 0; i < n; i++){
+        if ((bool)(s==copy)){
+            index.push_back(i);
+        }
+        reverse(s.begin()+1, s.end());
+        reverse(s.begin(), s.end());
+        
+    }
+    // cout << s << "\n";
+    //  for (ll i = 0; i < index.size(); i++){ cout << index[i]<<" ";}
+    int x = k / index.size();
+    int y = k % index.size();
+    // cout <<"\n"<< index.size() <<" "<< x <<" "<< n <<" "<< (x)*n<< " " << y <<"\n";
+    if(x==0) cout << index[y-1] <<"\n";
+    else if(y==0 && x!=0) cout <<((x-1)*n + index[index.size()-1]) << "\n";
+    else cout << (x)*n + index[y-1] << "\n";
+}
+
+int tc;
+
+int main() {
+    fast_io;
+
+    cin >> tc;
+    for (int t = 1; t <= tc; t++) {
+        solve();
+        // cout << maxone("1111101110111111100111111111101111111011111010101011111111111011011110101111111111010111111110111111111111101111111011110111111111111101011110111111011111111011100111111111111111111110110111111001111101111101110100101100111111111111011110111111111110011110100110111111111101111100111011111111101111111111111110111111101111010010110111110100001101111011100011111101011111011011111111111000101011011111001111111111111111111111000111111111111011111111111111110110011111101111010111111111111110111111111011111111010111111110111001111111111111111000010111101111110110111111111111110111011111111111111110110111111111111111110111011101111010111111111111011111111111101111011111111011111011011111111111101111100011111111111011111011110111110111111111111111111101110111111110100111111101111110111010111111111111111111111101111011100111111101111111011111101101111110111001111100111111111111011110111011011111111111111111011111111101101101111011110101101100111110111110111011011111110110110101111111111110100111");
+    }
+}*/
