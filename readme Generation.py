@@ -36,4 +36,7 @@ for dirs in list(os.listdir(".")):
 			f.write("-  [ "+files[:-4]+" ]("+dic[files[:-4]]+") \n")
 
 print(dic)
+c = len(dic)
+print(f"### Total Code Count : {c}") 
+f.write(f"### Total Code Count : {c}") 
 f.close()

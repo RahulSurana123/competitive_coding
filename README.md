@@ -31,3 +31,4 @@
 -  [ Manna's First Name ](./hackerearth/Manna's%20First%20Name.cpp) 
 -  [ Monk at the Graph Factory ](./hackerearth/Monk%20at%20the%20Graph%20Factory.cpp) 
 -  [ Picu Bank ](./hackerearth/Picu%20Bank.cpp) 
+### Total Code Count : 28
