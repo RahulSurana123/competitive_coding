@@ -13,6 +13,7 @@
 -  [ Cyclic shift ](./code%20monk/Cyclic%20shift.cpp) 
 -  [ Monk and Special Integer ](./code%20monk/Monk%20and%20Special%20Integer.cpp) 
 -  [ Monk and Sorting Algorithm ](./code%20monk/Monk%20and%20Sorting%20Algorithm.cpp) 
+-  [ Monk and circular distance ](./code%20monk/Monk%20and%20circular%20distance.cpp) 
 -  [ Monk and Inversions ](./code%20monk/Monk%20and%20Inversions.cpp) 
 -  [ Monk and Suffix Sort ](./code%20monk/Monk%20and%20Suffix%20Sort.cpp) 
 -  [ Monk being monitor ](./code%20monk/Monk%20being%20monitor.cpp) 
@@ -33,4 +34,4 @@
 -  [ Manna's First Name ](./hackerearth/Manna's%20First%20Name.cpp) 
 -  [ Monk at the Graph Factory ](./hackerearth/Monk%20at%20the%20Graph%20Factory.cpp) 
 -  [ Picu Bank ](./hackerearth/Picu%20Bank.cpp) 
-### Total Code Count : 30
+### Total Code Count : 31
