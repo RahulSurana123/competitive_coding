@@ -6,7 +6,10 @@
 -  [ Areas ](./Rated%20competition%20Codes/Areas.cpp) 
 -  [ Array modification ](./Rated%20competition%20Codes/Array%20modification.cpp) 
 -  [ Very Quick Rabbits ](./Rated%20competition%20Codes/Very%20Quick%20Rabbits.cpp) 
+-  [ Vertices and edges ](./Rated%20competition%20Codes/Vertices%20and%20edges.cpp) 
+-  [ A bitwise pair ](./Rated%20competition%20Codes/A%20bitwise%20pair.cpp) 
 -  [ Letter most ](./Rated%20competition%20Codes/Letter%20most.cpp) 
+-  [ Length of a Valley ](./Rated%20competition%20Codes/Length%20of%20a%20Valley.cpp) 
 -  [ Do you order queries? ](./Rated%20competition%20Codes/Do%20you%20order%20queries%3F.cpp) 
 -  [ Substrings and Distinct Characters ](./Rated%20competition%20Codes/Substrings%20and%20Distinct%20Characters.cpp) 
 -  [ Plan for nothing ](./Rated%20competition%20Codes/Plan%20for%20nothing.cpp) 
@@ -34,4 +37,4 @@
 -  [ Manna's First Name ](./hackerearth/Manna's%20First%20Name.cpp) 
 -  [ Monk at the Graph Factory ](./hackerearth/Monk%20at%20the%20Graph%20Factory.cpp) 
 -  [ Picu Bank ](./hackerearth/Picu%20Bank.cpp) 
-### Total Code Count : 31
+### Total Code Count : 34
