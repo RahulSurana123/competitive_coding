@@ -4,18 +4,23 @@
 ### HYPERLINK To Code
 ***
 -  [ Cyclic shift ](./code%20monk/Cyclic%20shift.cpp) 
+-  [ Little Monk and Balanced Parentheses ](./code%20monk/Little%20Monk%20and%20Balanced%20Parentheses.cpp) 
 -  [ Little Monk and Goblet of Fire ](./code%20monk/Little%20Monk%20and%20Goblet%20of%20Fire.cpp) 
 -  [ Minimum AND xor OR ](./code%20monk/Minimum%20AND%20xor%20OR.cpp) 
 -  [ Monk and Chamber of Secrets ](./code%20monk/Monk%20and%20Chamber%20of%20Secrets.cpp) 
 -  [ Monk and circular distance ](./code%20monk/Monk%20and%20circular%20distance.cpp) 
 -  [ Monk and Divisor Conundrum ](./code%20monk/Monk%20and%20Divisor%20Conundrum.cpp) 
+-  [ Monk and Fredo ](./code%20monk/Monk%20and%20Fredo.cpp) 
 -  [ Monk and Inversions ](./code%20monk/Monk%20and%20Inversions.cpp) 
+-  [ Monk and Lucky Minimum ](./code%20monk/Monk%20and%20Lucky%20Minimum.cpp) 
 -  [ Monk and Nice Strings ](./code%20monk/Monk%20and%20Nice%20Strings.cpp) 
+-  [ Monk and Operations ](./code%20monk/Monk%20and%20Operations.cpp) 
 -  [ Monk and Order of Phoenix ](./code%20monk/Monk%20and%20Order%20of%20Phoenix.cpp) 
 -  [ Monk and Prisoner of Azkaban ](./code%20monk/Monk%20and%20Prisoner%20of%20Azkaban.cpp) 
 -  [ Monk and Search ](./code%20monk/Monk%20and%20Search.cpp) 
 -  [ Monk and Sorting Algorithm ](./code%20monk/Monk%20and%20Sorting%20Algorithm.cpp) 
 -  [ Monk and Special Integer ](./code%20monk/Monk%20and%20Special%20Integer.cpp) 
+-  [ Monk and Square Root ](./code%20monk/Monk%20and%20Square%20Root.cpp) 
 -  [ Monk and Suffix Sort ](./code%20monk/Monk%20and%20Suffix%20Sort.cpp) 
 -  [ Monk being monitor ](./code%20monk/Monk%20being%20monitor.cpp) 
 -  [ Wet clothes ](./code%20monk/Wet%20clothes.cpp) 
@@ -48,4 +53,4 @@
 -  [ Substrings and Distinct Characters ](./Rated%20competition%20Codes/Substrings%20and%20Distinct%20Characters.cpp) 
 -  [ Vertices and edges ](./Rated%20competition%20Codes/Vertices%20and%20edges.cpp) 
 -  [ Very Quick Rabbits ](./Rated%20competition%20Codes/Very%20Quick%20Rabbits.cpp) 
-### Total Code Count : 45
+### Total Code Count : 50
