@@ -24,7 +24,6 @@
 -  [ Monk and Suffix Sort ](./code%20monk/Monk%20and%20Suffix%20Sort.cpp) 
 -  [ Monk being monitor ](./code%20monk/Monk%20being%20monitor.cpp) 
 -  [ Wet clothes ](./code%20monk/Wet%20clothes.cpp) 
--  [ a ](./CodeChef/a.exe) 
 -  [ Appy and Contest ](./CodeChef/Appy%20and%20Contest.cpp) 
 -  [ Chef and Adventures ](./CodeChef/Chef%20and%20Adventures.cpp) 
 -  [ Chef and Semi-Primes ](./CodeChef/Chef%20and%20Semi-Primes.cpp) 
@@ -76,4 +75,4 @@
 -  [ Vaccine Drive ](./Rated%20competition%20Codes/Vaccine%20Drive.cpp) 
 -  [ Vertices and edges ](./Rated%20competition%20Codes/Vertices%20and%20edges.cpp) 
 -  [ Very Quick Rabbits ](./Rated%20competition%20Codes/Very%20Quick%20Rabbits.cpp) 
-### Total Code Count : 73
+### Total Code Count : 72
