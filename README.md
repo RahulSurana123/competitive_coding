@@ -24,7 +24,14 @@
 -  [ Monk and Suffix Sort ](./code%20monk/Monk%20and%20Suffix%20Sort.cpp) 
 -  [ Monk being monitor ](./code%20monk/Monk%20being%20monitor.cpp) 
 -  [ Wet clothes ](./code%20monk/Wet%20clothes.cpp) 
+-  [ a ](./CodeChef/a.exe) 
 -  [ Appy and Contest ](./CodeChef/Appy%20and%20Contest.cpp) 
+-  [ Chef and Adventures ](./CodeChef/Chef%20and%20Adventures.cpp) 
+-  [ Chef and Semi-Primes ](./CodeChef/Chef%20and%20Semi-Primes.cpp) 
+-  [ Chef and Squares ](./CodeChef/Chef%20and%20Squares.cpp) 
+-  [ Count K-Primes ](./CodeChef/Count%20K-Primes.cpp) 
+-  [ Count Subarrays ](./CodeChef/Count%20Subarrays.cpp) 
+-  [ Easy Fibonacci ](./CodeChef/Easy%20Fibonacci.cpp) 
 -  [ Golf ](./CodeChef/Golf.cpp) 
 -  [ Modular Equation ](./CodeChef/Modular%20Equation.cpp) 
 -  [ Solubility ](./CodeChef/Solubility.cpp) 
@@ -46,7 +53,6 @@
 -  [ Picu Bank ](./hackerearth/Picu%20Bank.cpp) 
 -  [ Testing ](./hackerearth/Testing.cpp) 
 -  [ Ways ](./hackerearth/Ways.cpp) 
--  [ a ](./HackerearthHiring/a.exe) 
 -  [ Faulty Keyboard ](./HackerearthHiring/Faulty%20Keyboard.cpp) 
 -  [ Maximum value subarray ](./HackerearthHiring/Maximum%20value%20subarray.cpp) 
 -  [ Strange Sum ](./HackerearthHiring/Strange%20Sum.cpp) 
@@ -70,4 +76,4 @@
 -  [ Vaccine Drive ](./Rated%20competition%20Codes/Vaccine%20Drive.cpp) 
 -  [ Vertices and edges ](./Rated%20competition%20Codes/Vertices%20and%20edges.cpp) 
 -  [ Very Quick Rabbits ](./Rated%20competition%20Codes/Very%20Quick%20Rabbits.cpp) 
-### Total Code Count : 67
+### Total Code Count : 73
