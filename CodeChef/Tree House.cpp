@@ -34,6 +34,9 @@ For each test case, print the sum of values, modulo 109+7.
 */
 
 
+// Most correct solution will start from bottom of tree to the top
+
+
 #include <bits/stdc++.h>
 #define ll          long long
 #define vl          vector<ll>
