@@ -31,6 +31,7 @@
 -  [ Chef and Frogs ](./CodeChef/Chef%20and%20Frogs.cpp) 
 -  [ Chef and Semi-Primes ](./CodeChef/Chef%20and%20Semi-Primes.cpp) 
 -  [ Chef and Squares ](./CodeChef/Chef%20and%20Squares.cpp) 
+-  [ Chef and Subarrays ](./CodeChef/Chef%20and%20Subarrays.cpp) 
 -  [ Correct Sentence ](./CodeChef/Correct%20Sentence.cpp) 
 -  [ Count K-Primes ](./CodeChef/Count%20K-Primes.cpp) 
 -  [ Count Subarrays ](./CodeChef/Count%20Subarrays.cpp) 
@@ -40,6 +41,7 @@
 -  [ Modular Equation ](./CodeChef/Modular%20Equation.cpp) 
 -  [ Plagiarism ](./CodeChef/Plagiarism.cpp) 
 -  [ Solubility ](./CodeChef/Solubility.cpp) 
+-  [ Subtraction Game 2 ](./CodeChef/Subtraction%20Game%202.cpp) 
 -  [ Tic Tac Toe ](./CodeChef/Tic%20Tac%20Toe.cpp) 
 -  [ Tree House ](./CodeChef/Tree%20House.cpp) 
 -  [ Valid Path ](./CodeChef/Valid%20Path.cpp) 
@@ -63,6 +65,7 @@
 -  [ Strange Sum ](./HackerearthHiring/Strange%20Sum.cpp) 
 -  [ wissen interview ](./HackerearthHiring/wissen%20interview.cpp) 
 -  [ New Year Chaos ](./hackerrank/New%20Year%20Chaos.cpp) 
+-  [ Can I Win ](./leet%20code/Can%20I%20Win.cpp) 
 -  [ A bitwise pair ](./Rated%20competition%20Codes/A%20bitwise%20pair.cpp) 
 -  [ A number on the board ](./Rated%20competition%20Codes/A%20number%20on%20the%20board.cpp) 
 -  [ Areas ](./Rated%20competition%20Codes/Areas.cpp) 
@@ -79,7 +82,8 @@
 -  [ Plan for nothing ](./Rated%20competition%20Codes/Plan%20for%20nothing.cpp) 
 -  [ Substrings and Distinct Characters ](./Rated%20competition%20Codes/Substrings%20and%20Distinct%20Characters.cpp) 
 -  [ The Last Problem ](./Rated%20competition%20Codes/The%20Last%20Problem.cpp) 
+-  [ The Wave ](./Rated%20competition%20Codes/The%20Wave.cpp) 
 -  [ Vaccine Drive ](./Rated%20competition%20Codes/Vaccine%20Drive.cpp) 
 -  [ Vertices and edges ](./Rated%20competition%20Codes/Vertices%20and%20edges.cpp) 
 -  [ Very Quick Rabbits ](./Rated%20competition%20Codes/Very%20Quick%20Rabbits.cpp) 
-### Total Code Count : 79
+### Total Code Count : 83

@@ -51,9 +51,9 @@ For each pair print "Yes" without a brackets if frogs can speak and "No" if they
 #define MOD 1000000007 
 using namespace std;
 
-int ar[100001];
-int ind[100001];
-
+pi ar[100001];
+int groups[100001];
+int group;
 int compare(int a, int b){
     return ar[a] < ar[b];
 }
@@ -61,20 +61,22 @@ int compare(int a, int b){
 int main()
 {
     fast_io;
-    FOR(i,100001) ar[i] = 0, ind[i] = i;
+    FOR(i,100001) { ar[i] = make_pair(0,i), groups[i] = i+1; }
     
-    // FOR(i,ar.size()) cout << ar[i]<<" "; 
-    
-    // FOR(i,sop.size()) cout << sop[i]<<" ";  
-    // int t;
-    // cin >> t;
-    
-    // while(t--) {
     ll n,p,k;
     cin >> n >> k >> p;
-    FOR(i,100001) cin >> ar[i];
-    sort(ind,ind+n,compare);
-
-    FOR(i,p) { int a,b; cin >> a >> b; if(abs(ar[a-1] -ar[b-1]) <= k) cout << "Yes\n"; else cout << "No\n"; } 
+    FOR(i,n) cin >> ar[i+1].F;
+    sort(ar,ar+n+1);
+    // FOR(i,n) cout << ar[i+1].F << " ";
+    // cout << "\n";
+    group = 1;
+    groups[ar[1].S] = 1;
+    for(int i = 2; i <= n; i++){
+        if(ar[i].F - ar[i-1].F <= k) { groups[ar[i].S] = group; }
+        else { group++; groups[ar[i].S] = group;}
+        // cout << group << "\n";
+    }
+    // FOR(i,n) { cout << groups[i+1] <<" "; }
+    FOR(i,p) { int a,b; bool f=false; cin >> a >> b; if(groups[a] == groups[b]) cout << "Yes\n"; else cout << "No\n"; } 
     
 } 
