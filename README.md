@@ -1,6 +1,8 @@
-# *Welcome To Coder Club*
+# *Welcome To Coding Club*
 ### <div style='text-align:right'><sub> - Rahul Surana</sub></div>
 ### Going To Update This Repo Time To Time As I Continue My Journey To Competitive Programming
+## Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together
+-  [ Whatsapp Group Link ](https://chat.whatsapp.com/FUV7H9SIBYKD3C5tgDluI6) 
 ### HYPERLINK To Code
 ***
 -  [ Cyclic shift ](./code%20monk/Cyclic%20shift.cpp) 
@@ -65,7 +67,7 @@
 -  [ Learn JS ](./HackerearthHiring/Learn%20JS.cpp) 
 -  [ Maximum value subarray ](./HackerearthHiring/Maximum%20value%20subarray.cpp) 
 -  [ Strange Sum ](./HackerearthHiring/Strange%20Sum.cpp) 
--  [ wissen interview ](./HackerearthHiring/wissen%20interview.cpp) 
+-  [ Wissen Interview ](./HackerearthHiring/Wissen%20Interview.cpp) 
 -  [ New Year Chaos ](./hackerrank/New%20Year%20Chaos.cpp) 
 -  [ Can I Win ](./leet%20code/Can%20I%20Win.cpp) 
 -  [ Cyclically Rotating a Grid ](./leet%20code/Cyclically%20Rotating%20a%20Grid.cpp) 
