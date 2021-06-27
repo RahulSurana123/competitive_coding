@@ -58,8 +58,7 @@ playing the game on the sub-sequence results in ending the game with all the val
 #define MOD 1000000007 
 using namespace std;
 
-int ar[60];
-ll ans;
+
 vector<vector<int>> seq;
 int gcd(int a, int b){
     while(b)              // while b is non-zero
@@ -71,34 +70,34 @@ int gcd(int a, int b){
     return a; 
 }
 
-int findGCD(vector<int> arr)
-{
-    int result = arr[0];
-    for (int i = 1; i < arr.size(); i++)
-    {
-        result = gcd(arr[i], result);
+// int findGCD(vector<int> arr)
+// {
+//     int result = arr[0];
+//     for (int i = 1; i < arr.size(); i++)
+//     {
+//         result = gcd(arr[i], result);
  
-        if(result == 1)
-        {
-           return 1;
-        }
-    }
-    return result;
-}
+//         if(result == 1)
+//         {
+//            return 1;
+//         }
+//     }
+//     return result;
+// }
 
-void combo(int n, int index,vector<int> subarr){
-    if(index == n){
-        if(subarr.size() != 0) seq.pb(subarr);
-        // ans += (findGCD(subarr) == 1);
-        // cout << ans << "\n";
-    }
-    else {
-        combo(n,index + 1, subarr);
-        subarr.push_back(ar[index]);
-        combo(n,index + 1, subarr);
-    }
-    // cout << ans << "\n";
-}
+// void combo(int n, int index,vector<int> subarr){
+//     if(index == n){
+//         if(subarr.size() != 0) seq.pb(subarr);
+//         // ans += (findGCD(subarr) == 1);
+//         // cout << ans << "\n";
+//     }
+//     else {
+//         combo(n,index + 1, subarr);
+//         subarr.push_back(ar[index]);
+//         combo(n,index + 1, subarr);
+//     }
+//     // cout << ans << "\n";
+// }
 
 int main()
 {
@@ -107,18 +106,29 @@ int main()
     cin >> t;
 
     while(t--) {
-    seq.clear();
+    // seq.clear();
     int n;
-    cin >> n;
-    FOR(i,n) cin >> ar[i];
+    cin>>n;
+    vector<int> ar(n);
+    for(int i=0;i<n;i++)
+    {
+       cin>>ar[i];
+    }
     // FOR(i,n) cout << ar[i] <<" ";
-    ans = 0;
-    vector<int> b;
-    combo(n,0,b);
+    vector<int> b(10001,0);
+    // combo(n,0,b);
     // FOR(i,seq.size()) { FOR(j,seq[i].size()) cout << seq[i][j] << " "; cout << "\n"; }
     // cout << "****************\n";
-    FOR(i,seq.size()) ans += (findGCD(seq[i]) == 1) ;
-    cout << ans << "\n";
+    b[ar[0]] = 1;
+    for(int i = 1; i < n; i++){
+        for(int j = 1; j <= 10000; j++){
+            if(b[j])  b[__gcd(ar[i],j)] += b[j];
+            // cout << ar[i] << " " << j <<" " << b[j] <<" " << b[1]<<" \n"; }
+        }
+        b[ar[i]]+=1;
+    } 
+
+    cout << b[1] << "\n";
 
     }
 } 

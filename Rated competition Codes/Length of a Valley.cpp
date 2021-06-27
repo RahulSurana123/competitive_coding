@@ -1,5 +1,7 @@
-*/
+/*
 
+
+Solution by Rahul Surana
 
 ***************************************************************************
 
@@ -30,7 +32,7 @@ Print T lines. For each test case, print N space-separated integers denoting the
 
 *******************************************************************************************
 
-\*
+*/
 
 
 
@@ -132,6 +134,12 @@ int main()
         cin >> n;
         // mem(ans,1);
         FOR(j,n) { cin >> ar[j]; ans[j]=0;}
+        // Atempt 5 n*logn target
+        binaryCal(ans,0,n-1);
+
+        FOR(j,n) cout << ans[j] <<" ";
+        cout << "\n";
+
         // Atempt 1
         // FOR(j,n) {
         //     bool s = true, e = true;
@@ -198,10 +206,6 @@ int main()
         //     while(ar[l]<ar[l-1] && l<n) { c++; l++; }
         //     while(k<=l) { ans[k] += c; k++; }
         // }
-        // Atempt 5 n*logn target
-        binaryCal(ans,0,n-1);
-
-        FOR(j,n) cout << ans[j] <<" ";
-        cout << "\n";
+        
     }    
 }
