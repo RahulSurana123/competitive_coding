@@ -1,7 +1,7 @@
 # *Welcome To Coding Club*
 ### <div style='text-align:right'><sub> - Rahul Surana</sub></div>
 ### Going To Update This Repo Time To Time As I Continue My Journey To Competitive Programming
-## Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together
+### Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together
 -  [ Whatsapp Group Link ](https://chat.whatsapp.com/FUV7H9SIBYKD3C5tgDluI6) 
 ### HYPERLINK To Code
 ***
@@ -62,6 +62,8 @@
 -  [ Picu Bank ](./hackerearth/Picu%20Bank.cpp) 
 -  [ Testing ](./hackerearth/Testing.cpp) 
 -  [ Ways ](./hackerearth/Ways.cpp) 
+-  [ Clear the stage ](./HackerearthHiring/Clear%20the%20stage.cpp) 
+-  [ Count buildings ](./HackerearthHiring/Count%20buildings.cpp) 
 -  [ Faulty Keyboard ](./HackerearthHiring/Faulty%20Keyboard.cpp) 
 -  [ Find Reachability ](./HackerearthHiring/Find%20Reachability.cpp) 
 -  [ Learn JS ](./HackerearthHiring/Learn%20JS.cpp) 
@@ -72,6 +74,7 @@
 -  [ Can I Win ](./leet%20code/Can%20I%20Win.cpp) 
 -  [ Cyclically Rotating a Grid ](./leet%20code/Cyclically%20Rotating%20a%20Grid.cpp) 
 -  [ Guess Number Higher or Lower II ](./leet%20code/Guess%20Number%20Higher%20or%20Lower%20II.cpp) 
+-  [ Implement Stack using Queues ](./leet%20code/Implement%20Stack%20using%20Queues.cpp) 
 -  [ Maximum Product Difference Between Two Pairs ](./leet%20code/Maximum%20Product%20Difference%20Between%20Two%20Pairs.cpp) 
 -  [ Number of Wonderful Substrings ](./leet%20code/Number%20of%20Wonderful%20Substrings.cpp) 
 -  [ A bitwise pair ](./Rated%20competition%20Codes/A%20bitwise%20pair.cpp) 
@@ -99,4 +102,4 @@
 -  [ Vaccine Drive ](./Rated%20competition%20Codes/Vaccine%20Drive.cpp) 
 -  [ Vertices and edges ](./Rated%20competition%20Codes/Vertices%20and%20edges.cpp) 
 -  [ Very Quick Rabbits ](./Rated%20competition%20Codes/Very%20Quick%20Rabbits.cpp) 
-### Total Code Count : 94
+### Total Code Count : 97

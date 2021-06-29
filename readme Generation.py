@@ -24,7 +24,7 @@ f.write("### <div style='text-align:right'><sub> - Rahul Surana</sub></div>\n")
 
 f.write("### Going To Update This Repo Time To Time As I Continue My Journey To Competitive Programming\n")
 
-f.write("## Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together\n")
+f.write("### Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together\n")
 
 f.write("-  [ Whatsapp Group Link ](https://chat.whatsapp.com/FUV7H9SIBYKD3C5tgDluI6) \n")
 
