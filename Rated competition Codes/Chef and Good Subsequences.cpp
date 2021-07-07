@@ -43,8 +43,9 @@ Print a single line containing one integer ― the number of good subsequences w
 #define MOD 1000000007 
 using namespace std;
 
-vector<int> ar(8001,0);
-vector<int> primes;
+vector<ll> primes;
+map<ll , ll> ar;
+vector<vector<ll>> dp;
 
 int main()
 {
@@ -55,24 +56,21 @@ int main()
     
     // while(t--) {
 
-    int n,k; 
+    ll n,k; 
     cin >> n >> k; 
-    FOR(i,n) { int x; cin >> x; ar[x]++; }
-    FOR(i,8001){ if(ar[i]>0) primes.pb(ar[i]); }
-    ll ans = 1;
-    for(int i = 1; i <= k; i++){
-        vector<vector<int>> inds = makeCombi(primes.size(),i);
-        FOR(j, inds.size()){
-            ll s = 1;
-            FOR(z,inds[j].size()){
-                // cout << inds[j][z] << " ";
-                s = (s%MOD * primes[inds[j][z]]%MOD) %MOD;
-            }
-            cout << "\n";
-            ans = (ans%MOD + s%MOD) %MOD;
+    FOR(i,n) { int x; cin >> x; ar[x]++; if(ar[x] == 1) primes.pb(x); }
+    ll ans = 0;
+    
+    k = min(k,1120);
+    dp.resize(n+1,vector<ll>(k+1,0));
+    FOR(i,ar.size()+1) dp[i][0] = 1;
+    
+    for(int i = 1; i <= ar.size();i++){
+        for(int j = 1; j <= k; j++){
+            dp[i][j] = (dp[i-1][j]%MOD + (ar[primes[i-1]]%MOD * dp[i-1][j-1]%MOD))%MOD;
         }
     }
-    cout << ans%MOD << "\n";
-    // }
+    FOR(i, k+1) ans = (ans%MOD+ dp[ar.size()][i]%MOD)%MOD;
+    cout << ans%MOD << "";
 
 }
