@@ -52,19 +52,21 @@ For each test case, output in a single line the answer to the problem.
  
 using namespace std;
 
-int ar[100001];
+int ar[1000005];
 vector<vector<int>> dp;
 
-int gcd(int a,int b){
-    if(a == 1 || b ==1) return 1;    
-    
-    while(a!=0){
-        int temp = b%a;
-        b = a;
-        a = temp;    
+int gcd(int a, int b)
+{
+    if (b == 0)
+        return a;
+    if(a == 0)
+        return b;
+    while(b != 0){
+        int temp = a%b;
+        a = b;
+        b = temp;
     }
-    
-    return b;
+    return a;
 }
 
 int main()
@@ -75,35 +77,50 @@ int main()
     while(t--) {
         int n;
         cin >> n;
-        FOR(i,n) cin >> ar[i];
-        dp.resize(2,vector<int>(n,0));
-        dp[0][0] = ar[0];
-        dp[1][n-1] = ar[n-1];
-        for(int i = 1; i < n;i++){
+        if(n == 1) { cout <<1<<"\n"; continue; }
+        if(n == 2) { cout <<2<<"\n"; continue; }
+        ll sum = 0;
+        for(int i = 1; i < n+1; i++) { cin >> ar[i]; sum += ar[i]; }
+        // sort(ar,ar+n+1);
+        dp.resize(2,vector<int>(n+5,0));
+        dp[0][1] = ar[1];
+        dp[1][n] = ar[n];
+        for(int i = n-1; i > 0 ;i--){
+            dp[1][i] = gcd(dp[1][i+1], ar[i]);
+        }
+        for(int i = 2; i < n+1; i++){
             dp[0][i] = gcd(dp[0][i-1], ar[i]);
             // cout << ar[i] << " "<<dp[0][i-1] << " "<<gcd(dp[0][i-1], ar[i])<<" ";
         }
-        for(int i = n-2; i >=0 ;i--){
-            dp[1][i] = gcd(dp[1][i+1], ar[i]);
-        }
-        int ignore = -1;
-        int max_gcd = dp[0][n-1];
-        for(int i=1; i < n-1; i++){
-            int g = gcd(dp[0][i-1],dp[1][i+1]);
-            if(max_gcd<=g) { if(max_gcd == g && ar[ignore] < ar[i]) ignore = i; max_gcd = g;  }
-        }
-        // FOR(i,n) break;
-        // cout <<"\n";
-        // FOR(i,n) cout << dp[1][i] << " ";
+        // for(int i =1; i<=n ; i++) 
+       //  int ignore = -1;
+       //  int max_gcd = dp[0][n-1];
+       //  for(int i=1; i < n-1; i++){
+       //      int g = gcd(dp[0][i-1],dp[1][i+1]);
+       //      if(max_gcd<=g) { if(max_gcd == g) ignore = i; max_gcd = g;  }
+       //  }
+       //  if(dp[1][1] >= max_gcd) { if(max_gcd == dp[1][0]) ignore = 0; max_gcd = dp[1][1]; }
+       //  if(dp[0][n-2] >= max_gcd) { if(max_gcd == dp[0][n-1]) ignore = n-1; max_gcd = dp[0][n-2]; }
+       //  // FOR(i,n) cout << dp[0][i] << " ";;
+       //  // cout <<"\n";
+       //  // FOR(i,n) cout << dp[1][i] << " ";
+       //  // cout << "\n";
+       // if(ignore != -1) ar[ignore] = max_gcd;
+       //  FOR(i,n) cout << ar[i] << " ";
+       //  cout << "\n";
+       //  ll count = 0;
+       //  FOR(i,n){
+       //      count += ar[i]/max_gcd;
+       //      // cout << ar[i] << " ";
+       //  }
         // cout << "\n";
-        if(dp[1][0] >= max_gcd) { if(max_gcd == dp[1][0] && ar[ignore] < ar[0]) ignore = 0; max_gcd = dp[1][0]; }
-        if(dp[0][n-1] >= max_gcd) { if(max_gcd == dp[0][n-1] && ar[ignore] < ar[n-1]) ignore = n-1; max_gcd = dp[0][n-1]; }
-        if(ignore != -1) ar[ignore] = max_gcd;
-        ll count = 0;
-        FOR(i,n){
-            count += ar[i]/max_gcd;
+        ll nmin = LLONG_MAX;
+        for(int i = 1; i < n+1;i++) {
+            int g = gcd(dp[0][i-1],dp[1][i+1]);
+            ll ans = (sum - ar[i]+ g)/g;
+            if(ans < nmin) nmin = ans; 
         }
-        // cout <<max_gcd << " ";
-        cout << count <<"\n";
+        // cout << ignore << " " << max_gcd << " ";
+        cout << nmin <<"\n";
     }
 }

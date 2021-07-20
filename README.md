@@ -54,6 +54,8 @@
 -  [ Xor Equality ](./CodeChef/Xor%20Equality.cpp) 
 -  [ XxOoRr ](./CodeChef/XxOoRr.cpp) 
 -  [ Zack And The Handkerchieves ](./CodeChef/Zack%20And%20The%20Handkerchieves.cpp) 
+-  [ Cheap Travel ](./CodeForces/Cheap%20Travel.cpp) 
+-  [ Vanya and Lanterns ](./CodeForces/Vanya%20and%20Lanterns.cpp) 
 -  [ Alice and Strings ](./hackerearth/Alice%20and%20Strings.cpp) 
 -  [ Binary Search ](./hackerearth/Binary%20Search.cpp) 
 -  [ Binary Tree Diameter ](./hackerearth/Binary%20Tree%20Diameter.cpp) 
@@ -110,4 +112,4 @@
 -  [ Vaccine Drive ](./Rated%20competition%20Codes/Vaccine%20Drive.cpp) 
 -  [ Vertices and edges ](./Rated%20competition%20Codes/Vertices%20and%20edges.cpp) 
 -  [ Very Quick Rabbits ](./Rated%20competition%20Codes/Very%20Quick%20Rabbits.cpp) 
-### Total Code Count : 105
+### Total Code Count : 107
