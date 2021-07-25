@@ -19,12 +19,14 @@
 -  [ Monk and Operations ](./code%20monk/Monk%20and%20Operations.cpp) 
 -  [ Monk and Order of Phoenix ](./code%20monk/Monk%20and%20Order%20of%20Phoenix.cpp) 
 -  [ Monk and Prisoner of Azkaban ](./code%20monk/Monk%20and%20Prisoner%20of%20Azkaban.cpp) 
+-  [ Monk and Rotation ](./code%20monk/Monk%20and%20Rotation.cpp) 
 -  [ Monk and Search ](./code%20monk/Monk%20and%20Search.cpp) 
 -  [ Monk and Sorting Algorithm ](./code%20monk/Monk%20and%20Sorting%20Algorithm.cpp) 
 -  [ Monk and Special Integer ](./code%20monk/Monk%20and%20Special%20Integer.cpp) 
 -  [ Monk and Square Root ](./code%20monk/Monk%20and%20Square%20Root.cpp) 
 -  [ Monk and Suffix Sort ](./code%20monk/Monk%20and%20Suffix%20Sort.cpp) 
 -  [ Monk being monitor ](./code%20monk/Monk%20being%20monitor.cpp) 
+-  [ The Unlucky 13 ](./code%20monk/The%20Unlucky%2013.cpp) 
 -  [ Too many numbers ](./code%20monk/Too%20many%20numbers.cpp) 
 -  [ Wet clothes ](./code%20monk/Wet%20clothes.cpp) 
 -  [ Appy and Contest ](./CodeChef/Appy%20and%20Contest.cpp) 
@@ -121,4 +123,4 @@
 -  [ Vaccine Drive ](./Rated%20competition%20Codes/Vaccine%20Drive.cpp) 
 -  [ Vertices and edges ](./Rated%20competition%20Codes/Vertices%20and%20edges.cpp) 
 -  [ Very Quick Rabbits ](./Rated%20competition%20Codes/Very%20Quick%20Rabbits.cpp) 
-### Total Code Count : 116
+### Total Code Count : 118
