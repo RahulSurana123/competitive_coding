@@ -36,8 +36,12 @@ for dirs in list(os.listdir(".")):
 	print(dirs +" " + str('.' in dirs))
 	if not '.' in dirs:
 		for files in os.listdir(dirs):	
-			dic[files[:-4]] = ("./"+"%20".join(list(dirs.split(" ")))+"/"+"%20".join(list(files.split(" ")))).replace("?","%3F")
-			f.write("-  [ "+files[:-4]+" ]("+dic[files[:-4]]+") \n")
+			if files[-3:] == ".py":
+				dic[files[:-3]] = ("./"+"%20".join(list(dirs.split(" ")))+"/"+"%20".join(list(files.split(" ")))).replace("?","%3F")
+				f.write("-  [ "+files[:-3]+" ]("+dic[files[:-3]]+") \n")
+			else:
+				dic[files[:-4]] = ("./"+"%20".join(list(dirs.split(" ")))+"/"+"%20".join(list(files.split(" ")))).replace("?","%3F") 
+				f.write("-  [ "+files[:-4]+" ]("+dic[files[:-4]]+") \n")
 
 print(dic)
 c = len(dic)
