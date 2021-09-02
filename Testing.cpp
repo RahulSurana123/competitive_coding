@@ -35,6 +35,10 @@ This is Testing Workspace to learn and know about something new
 using namespace std;
 int inf=1e9+7, MOD=1e9+7;
 
+vector<vector<int>> adj;
+vector<int> v;
+
+
 ll int gcd(ll int a,ll int b){
     if (b==0) return a;
     return gcd(b,a%b);
@@ -50,12 +54,38 @@ ll int fastexpo(int x,int n){
     else return result * result;
 }
 
+bool dfs(int u, int p){
+    if(v[u]) return true;
+    v[u]=1;
+    bool f = false;
+    for(auto x: adj[u]){
+        if(!v[x] && x!=p) { f = dfs(x,u); if(f) break; }
+    }
+    v[u]=0;
+    return f;
+}
+
+
 int main()
 {
 	fast_io;
-    ll int result = gcd(865480988334076944, 181153058753871872);
+    // ll int result = gcd(865480988334076944, 181153058753871872);
 
-    cout << result <<" "<<(result & result -1) <<"\n";
-    cout << fastexpo(18,6)<<"\n";
+    // cout << result <<" "<<(result & result -1) <<"\n";
+    // cout << fastexpo(18,6)<<"\n";
+
+    for(int i = 0; i < 1024; i++){
+        for(int j = 1; j <18 && i - (1<<j) + 1 >= 0 ; j++){
+            cout << i << " "<< j-1 << " " << i-(1<<j-1) << " " << j-1 <<"       "; 
+        }
+        cout << "\n";
+    }
+    // FOR(i,n){
+    //     int a,b;
+    //     cin >>a>>b;
+    //     adj[a].pb(b);
+    //     adj[b].pb(a);
+    // }
+    // dfs(0,-1);
 
 }

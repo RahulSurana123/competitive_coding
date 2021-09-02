@@ -72,7 +72,7 @@ void dfs(int s,int p,int pc){
 	for(auto x : adj[s]){
 		if(x != p) { 
 			
-			cout << s+1 << " -> " << x+1 << " " << ans <<" \n"; 
+			// cout << s+1 << " -> " << x+1 << " " << ans <<" \n"; 
 			
 			if(!v[x]) { c+=pc; dfs(x,s,c); } 
 			 	 
@@ -96,14 +96,14 @@ void answer(int s){
 	for(auto x : adj[s]){
 		if(!v[x]) { c.pb(size[x]); }
 	}
-	cout << "*********" << s <<" " << size[s] << "***********\n";
-	FOR(i,c.size()) cout << c[i] <<" ";
-    cout << "\n";
+	// cout << "*********" << s <<" " << size[s] << "***********\n";
+	// FOR(i,c.size()) cout << c[i] <<" ";
+ //    cout << "\n";
 	ans= (ans%MOD + size[s]%MOD)%MOD;
-	cout << "s  "<<ans << "\n";
+	// cout << "s  "<<ans << "\n";
 	ans = (ans %MOD + sop(c)%MOD) %MOD;
 
-	cout << "sop  "<<ans << "\n";
+	// cout << "sop  "<<ans << "\n";
 }
 
 int main()
@@ -125,8 +125,8 @@ int main()
             adj[v].pb(u);
         }
          determine_size(0,0);
-         FOR(i,n) cout << size[i] <<" ";
-         cout << "\n";
+         // FOR(i,n) cout << size[i] <<" ";
+         // cout << "\n";
 
         FOR(i,n) answer(i);
         // for(int i = 0; i < n; i++) { for(int j = i; j < n-i; j++) v[j] = false; cout << "******" << i <<"*****\n"; dfs(i,0,0); ans++; }
