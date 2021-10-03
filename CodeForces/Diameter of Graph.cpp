@@ -1,6 +1,5 @@
 
 
-
 /* 
     Solution by Rahul Surana
     
@@ -9,11 +8,8 @@
 
 
 
-
-
     ***********************************************************
 */
-
 
 
 #include <bits/stdc++.h>
@@ -37,41 +33,25 @@
 using namespace std;
 
 
-int s[100001];
-
-vector<int> continous_blue_and_red;
-
-int solve(int i, int a,int b){
-	if(i >= continous_blue_and_red.size()) return 0;
-	if(a > b*continous_blue_and_red[i]) return solve(i+2,a,b) + b*continous_blue_and_red[i];
-	else{
-		return solve(i+2,a,b) + a;
-	}
-}
-
 int main()
 {
-	string g;
-	cin >> g;
-	int a,b;
-	cin >> a>>b;
-	FOR(i,g.length()){
-		int c = 0;
-		if(g[i] == 'B'){
-			c = 1;
-			while(i+c < g.length() && g[i+c] == 'B') c++;
-			continous_blue_and_red.pb(c);
-			i+=c-1;
-		}
-		if(g[i] == 'R'){
-			c = 1;
-			while(i+c < g.length() && g[i+c] == 'R') c++;
-			continous_blue_and_red.pb(c);
-			i+=c-1;	
-		}
-	}
+	fast_io;
+    int t;
+    cin >> t;
+    while(t--) {
+        ll n,m,k;
+        cin >> n >> m >> k;
+        k-=2;
+        if(m < n-1 || k < 0) { cout << "NO\n"; continue; }
+        if(m > ((n * (n-1))/2)) { cout << "NO\n"; continue; }
+        if(n == 1) { cout << "YES\n"; continue; }
+        if(k == 0 ) { cout << "NO\n"; continue; }
+        if((n * (n-1)/2) == m) { cout << "YES\n"; continue; }
+        else { if(k<=1) cout << "NO\n"; else cout << "YES\n"; }
+        
+        // ll ans = 0;
+        
+        // cout << ans << "\n";
 
-	int ans =  solve(1,a,b);
-	cout << ans; 
-
+    }
 }

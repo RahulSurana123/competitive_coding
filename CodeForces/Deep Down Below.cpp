@@ -46,9 +46,13 @@ For each test case, print a single line containing one integer - the maximum num
  
 using namespace std;
 
-vector<vector<int>> ak;
-vector<pi> m;
+vector<int> ak;
+pi m[100005];
 
+bool compare(pi a, pi b){
+    if(a.F==b.F) return a.S<b.S;
+    return a.F < b.F;
+}
 
 int main()
 {
@@ -59,25 +63,27 @@ int main()
         int n;
         cin >> n;
         ak.clear();
-        m.clear();
-        ak.resize(n);
-        m.resize(n);
+        ak.resize(n+2);
         FOR(i,n) { 
             int k; 
-            cin >> k; 
-            ak[i].resize(k);  
-            FOR(j,k) { 
-                cin >> ak[i][j]; 
-                if(ak[i][j] > m[i].F) { 
-                    m[i].F = ak[i][j];
-                    m[i].S = j; 
-                } 
-            }
+            cin >> k;   
+            int v = 0;
+            FOR(j,k) {
+                int f; 
+                cin >> f;  
+                v = max(f - j+1,v);
+                }
+            m[i+1].F = v;
+            m[i+1].S = k;
         }
-        sort(m.begin(),m.end(),greater<pi>());
-        int ans = m[0].F - m[0].S+1;
-        FOR(i,n){
-            if(ans - ak[i].size() <= m[i].F) ans = max(m[i].F - m[i].S+1, ans - ak[i].size());
+        sort(m+1,m+n+1,compare);
+        // for(int i = 1;i<=n; i++) cout << m[i].F << " " << m[i].S<<" ";
+        int ans = m[1].F;
+        int p = m[1].F + m[1].S;
+        for(int i = 2;i<=n; i++){
+            if(p > m[i].F) p += m[i].S; 
+            else { ans+=m[i].F - p; p= m[i].F+m[i].S; }
+            // if(ans - ak[i].size() <= m[i].F) ans = max(m[i].F - m[i].S+1, ans - ak[i].size());
         }
         cout << ans << "\n";
     }

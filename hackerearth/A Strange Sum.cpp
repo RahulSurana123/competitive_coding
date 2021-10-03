@@ -7,7 +7,22 @@
     ***********************************************************
 
     
+You are given 2 integers N and M. Let g(i) denotes the number of divisors of i, that is count of positive numbers dividing i. Your task is to find the sum:
+ 
+        ∑ [i -> (1,N)] i^M g(i)
 
+
+Since the answer can be very large, you are required to print it modulo  10^9 + 7.
+
+Input format:
+
+The first line contains a single integer  denoting the number of test cases.
+For each test case:
+The first and only line contains 2 space-separated integers  and .
+
+Output format:
+
+For each test case, print the sum modulo   in a separate line.
 
 
     ***********************************************************
@@ -36,37 +51,80 @@
 
 using namespace std;
 
-ll fact[10007];
-
-ll pow(ll a,ll b){
-    ll ans = 1;
-    while(b>0){
-        if(b&1) ans = (ans%MOD *a%MOD)%MOD;
-        a = (a%MOD * a%MOD)%MOD;
-        b = b >> 1;
-    }
-    return ans;
+const int mod = 1e9 + 7;
+const int B = 1e6 + 10;
+int sum[B];
+int n, k;
+ 
+int add(int a, int b) {
+  return a+b<mod?a+b:a+b-mod;
 }
-
-void seieve_of_eratosthenese(){
-    for(int i = 1; i < 1000000000; i++){
-        for(int j = 2; j < )
-    }
+ 
+using ll = long long;
+int mul(ll a, ll b) {
+  return a*b%mod;
 }
-
-int main()
-{
-	fast_io;
-    // seieve_of_eratosthenese();
-    int t;
-    cin >> t;
-    while(t--) {
-        ll n,m;
-        cin >> n >> m;
-        ll ans = 1;
-        for(ll i = 2; i < n; i++){
-            ans += ((pow(i,m)%MOD * 1) % MOD);
-        }
-        cout << ans << "\n";
+ 
+int ex(int a, int b) {
+  int r = 1;
+  while (b > 0) {
+    if (b&1) r = mul(r, a);
+    a = mul(a, a);
+    b >>= 1;
+  }
+  return r;
+}
+ 
+int f[1010], fn[1010], ri[1010];
+void prep() {
+  for (int i = 1; i < B; ++i) {
+    sum[i] = add(sum[i-1], ex(i, k));
+  }
+  f[0] = fn[0] = 1;
+  ri[1] = 1;
+  for (int i = 1; i < k + 5; ++i) {
+    if (i > 1) ri[i] = mul(ri[mod%i], mod-mod/i);
+    f[i] = mul(f[i-1], ri[i]);
+    fn[i] = mul(fn[i-1], mod - ri[i]);
+  }
+}
+ 
+int l[1010], r[1010];
+int sum_n(int n) {
+  if (n < B) return sum[n];
+  l[0] = 1;
+  for (int i = 1; i <= k+2; ++i) {
+    l[i] = mul(l[i-1], add(n, mod - i + 1));
+  }
+  r[k+3] = 1;
+  for (int i = k+2; i >= 1; --i) {
+    r[i] = mul(r[i+1], add(n, mod - i + 1));
+  }
+  int ans = 0;
+  for (int i = 1; i <= k+2; ++i) {
+    int tmp = sum[i-1];
+    tmp = mul(tmp, l[i-1]);
+    tmp = mul(tmp, r[i+1]);
+    tmp = mul(tmp, f[i-1]);
+    tmp = mul(tmp, fn[k+2-i]);
+    ans = add(ans, tmp);
+  }
+  return ans;
+}
+ 
+int main() {
+  int t;
+  cin >> t;
+  while (t--) {
+    cin >> n >> k;
+    prep();
+    int ans = 0;
+    for (int i = 1, la; i <= n; i = la + 1) {
+      la = n / (n / i);
+      //n / x yields the same value for i <= x <= la.
+      ans = add(ans, mul(sum_n(n/i), add(sum_n(la), mod - sum_n(i-1))));
     }
+    cout << ans << endl;
+  }
+  return 0;
 }

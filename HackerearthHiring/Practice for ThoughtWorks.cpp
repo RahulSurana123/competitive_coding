@@ -1,19 +1,16 @@
 
 
-
 /* 
     Solution by Rahul Surana
     
     ***********************************************************
 
-
-
-
-
+    
+    Question Not Available
+    
 
     ***********************************************************
 */
-
 
 
 #include <bits/stdc++.h>
@@ -36,42 +33,35 @@
  
 using namespace std;
 
+vector<int> ar;
+vector<vector<int>> dp;
 
-int s[100001];
-
-vector<int> continous_blue_and_red;
-
-int solve(int i, int a,int b){
-	if(i >= continous_blue_and_red.size()) return 0;
-	if(a > b*continous_blue_and_red[i]) return solve(i+2,a,b) + b*continous_blue_and_red[i];
-	else{
-		return solve(i+2,a,b) + a;
-	}
+int update(int l,int r){
+    if(dp[l][r] != -1) return dp[l][r];
+    int count = 0;
+    for(int i = l; i <= r; i++){
+        int sum = ar[i];
+        if(sum %2==0) count++;
+        for(int j = i+1; j <= r; j++){
+            sum += ar[j];
+            if(sum%2==0) count++;
+        }
+    }
+    return dp[l][r] = count;
 }
 
 int main()
 {
-	string g;
-	cin >> g;
-	int a,b;
-	cin >> a>>b;
-	FOR(i,g.length()){
-		int c = 0;
-		if(g[i] == 'B'){
-			c = 1;
-			while(i+c < g.length() && g[i+c] == 'B') c++;
-			continous_blue_and_red.pb(c);
-			i+=c-1;
-		}
-		if(g[i] == 'R'){
-			c = 1;
-			while(i+c < g.length() && g[i+c] == 'R') c++;
-			continous_blue_and_red.pb(c);
-			i+=c-1;	
-		}
-	}
-
-	int ans =  solve(1,a,b);
-	cout << ans; 
-
+	fast_io;
+    int n,q;
+    cin >> n;
+    ar.resize(n);
+    dp.resize(n+2,vector<int>(n+2,-1));
+    for(int i = 0; i < n; i++) cin >> ar[i];
+    cin >> q;
+    while(q--){
+        int l,r;
+        cin >> l>>r;
+        cout << update(l,r) << "\n";
+    }
 }
