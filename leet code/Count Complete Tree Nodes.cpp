@@ -14,9 +14,6 @@ It can have between 1 and 2h nodes inclusive at the last level h.
 
 Design an algorithm that runs in less than O(n) time complexity.
 
- 
-
-
 
     ***********************************************************
 */
