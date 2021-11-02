@@ -33,6 +33,9 @@ f.write("### HYPERLINK To Code\n***\n")
 dic = {}
 ml = 0
 
+
+f.write("<style>td, th {border: none!important;}</style>\n")
+
 f.write("| Platform  |  Problem Count |\n")
 
 f.write("| --------  |  ------------- |\n")
@@ -47,9 +50,9 @@ for dirs in list(os.listdir(".")):
 
 		dic[dirs] = ("./"+"%20".join(list(dirs.split(" "))))
 		x = f"[ {dirs} ]({dic[dirs]})"
-		y = f"Problem Count:  {str(len(list(os.listdir(dirs))))}"
+		y = f" {str(len(list(os.listdir(dirs))))}"
 		print(len(dirs))
-		s = f"| {x}  |  {y}|\n"
+		s = f"|    {x}     |     {y}    |\n"
 		print(s)
 		f.write(s)
 		
