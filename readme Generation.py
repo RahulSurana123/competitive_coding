@@ -31,6 +31,11 @@ f.write("-  [ Whatsapp Group Link ](https://chat.whatsapp.com/FUV7H9SIBYKD3C5tgD
 f.write("### HYPERLINK To Code\n***\n")
 
 dic = {}
+ml = 0
+
+for dirs in list(os.listdir(".")):
+	if len(dirs) > ml:
+		ml = len(dirs) 
 
 for dirs in list(os.listdir(".")):
 	if "." not in dirs:
@@ -38,9 +43,8 @@ for dirs in list(os.listdir(".")):
 		dic[dirs] = ("./"+"%20".join(list(dirs.split(" "))))
 		x = f"[ {dirs} ]({dic[dirs]})"
 		y = f"Problem Count:  {str(len(list(os.listdir(dirs))))}"
-		z = 40 - len(dirs)
-		print(z,len(dirs))
-		s = f"-  {x} {''.join(['&nbsp;' for i in range(z)])} {y}\n"
+		print(len(dirs))
+		s = f"-  {x:<{ml-len(dirs)+10}}         {y}\n"
 		print(s)
 		f.write(s)
 		
