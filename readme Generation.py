@@ -35,9 +35,8 @@ dic = {}
 for dirs in list(os.listdir(".")):
 	print(dirs)
 	if "." not in dirs:
-		dic[dirs] = ("./"+dirs)
-		f.write("-  [ "+dirs+" ] ("+dic[dirs]+") \n")
-		pass
+		dic[dirs] = ("./"+"%20".join(list(dirs.split(" "))))
+		f.write("-  [ "+dirs+" ]("+dic[dirs]+") \n")
 		
 print(dic)
 c = len(dic)
