@@ -33,6 +33,11 @@ f.write("### HYPERLINK To Code\n***\n")
 dic = {}
 ml = 0
 
+f.write("Platform | Problem Count\n")
+
+f.write("-------- |--------------\n")
+
+
 for dirs in list(os.listdir(".")):
 	if len(dirs) > ml:
 		ml = len(dirs) 
@@ -44,7 +49,7 @@ for dirs in list(os.listdir(".")):
 		x = f"[ {dirs} ]({dic[dirs]})"
 		y = f"Problem Count:  {str(len(list(os.listdir(dirs))))}"
 		print(len(dirs))
-		s = f"-  {x:<{ml-len(dirs)+10}}         {y}\n"
+		s = f"-  {x} | {y}\n"
 		print(s)
 		f.write(s)
 		
