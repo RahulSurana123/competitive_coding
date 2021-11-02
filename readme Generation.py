@@ -33,16 +33,12 @@ f.write("### HYPERLINK To Code\n***\n")
 dic = {}
 
 for dirs in list(os.listdir(".")):
-	print(dirs +" " + str('.' in dirs))
-	if not '.' in dirs:
-		for files in os.listdir(dirs):	
-			if files[-3:] == ".py":
-				dic[files[:-3]] = ("./"+"%20".join(list(dirs.split(" ")))+"/"+"%20".join(list(files.split(" ")))).replace("?","%3F")
-				f.write("-  [ "+files[:-3]+" ]("+dic[files[:-3]]+") \n")
-			else:
-				dic[files[:-4]] = ("./"+"%20".join(list(dirs.split(" ")))+"/"+"%20".join(list(files.split(" ")))).replace("?","%3F") 
-				f.write("-  [ "+files[:-4]+" ]("+dic[files[:-4]]+") \n")
-
+	print(dirs)
+	if "." not in dirs:
+		dic[dirs] = ("./"+dirs)
+		f.write("-  [ "+dirs+" ]("+dic[dirs]+") \n")
+		pass
+		
 print(dic)
 c = len(dic)
 print(f"### Total Code Count : {c}") 
