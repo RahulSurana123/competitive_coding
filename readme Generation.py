@@ -36,7 +36,7 @@ for dirs in list(os.listdir(".")):
 	print(dirs)
 	if "." not in dirs:
 		dic[dirs] = ("./"+dirs)
-		f.write("-  [ "+dirs+" ]("+dic[dirs]+") \n")
+		f.write("-  [ "+dirs+" ] ("+dic[dirs]+") \n")
 		pass
 		
 print(dic)
