@@ -33,10 +33,15 @@ f.write("### HYPERLINK To Code\n***\n")
 dic = {}
 
 for dirs in list(os.listdir(".")):
-	print(dirs)
 	if "." not in dirs:
+
 		dic[dirs] = ("./"+"%20".join(list(dirs.split(" "))))
-		f.write("-  [ "+dirs+" ]("+dic[dirs]+") \n")
+		x = f"[ {dirs} ]({dic[dirs]})"
+		y = f"Problem Count:  {str(len(list(os.listdir(dirs))))}"
+		z = 75 - len(x)
+		s = f"-  {x:}   {' ':<{z}}   {y}\n"
+		print(s)
+		f.write(s)
 		
 print(dic)
 c = len(dic)
