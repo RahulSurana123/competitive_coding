@@ -39,7 +39,7 @@ for dirs in list(os.listdir(".")):
 		x = f"[ {dirs} ]({dic[dirs]})"
 		y = f"Problem Count:  {str(len(list(os.listdir(dirs))))}"
 		z = 75 - len(x)
-		s = f"-  {x:}   {' ':<{z}}   {y}\n"
+		s = f"-  {x:}   {''.join(['&nbsp;' for i in range(z)])}   {y}\n"
 		print(s)
 		f.write(s)
 		
