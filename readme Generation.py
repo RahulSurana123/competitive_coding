@@ -38,8 +38,9 @@ for dirs in list(os.listdir(".")):
 		dic[dirs] = ("./"+"%20".join(list(dirs.split(" "))))
 		x = f"[ {dirs} ]({dic[dirs]})"
 		y = f"Problem Count:  {str(len(list(os.listdir(dirs))))}"
-		z = 70 - len(x)
-		s = f"-  {x:}   {''.join(['&nbsp;' for i in range(z+2)])}   {y}\n"
+		z = 40 - len(dirs)
+		print(z,len(dirs))
+		s = f"-  {x} {''.join(['&nbsp;' for i in range(z)])} {y}\n"
 		print(s)
 		f.write(s)
 		
