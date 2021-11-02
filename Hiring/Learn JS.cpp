@@ -5,18 +5,45 @@ Solution by Rahul Surana
 
     ***********************************************************
 
-Input:
 
--> n 
--> n no of nodes
--> e 
--> e no of weighted(time) directed edges
--> Source Node
--> Destination Node
+JS newbie “A” wants to learn React from “B” and wants to know in his network who can introduce him to B in the shortest time period.
 
-Output:
+ 
 
-print shortest time to reach from source to destination
+INPUT FORMAT
+
+Total Members in UI Friend Network = N
+
+MemberId1 = N1
+
+MemberId2 = N2
+
+MemberId3 = N3
+
+MemberIdN = Nn
+
+ 
+
+Total Possible Edges = E
+
+<Follower 1> <Following 1> <Time taken to send the message> = p1,q1,t1
+
+<Follower 2> <Following 2> <Time taken to send the message> = p2,q2,t2
+
+<Follower 3> <Following 3> <Time taken to send the message> = p3,q3,t3
+
+<Follower N> <Following N> <Time taken to send the message> = pn,qn,tn 
+
+Follower (Ninja A) = A
+
+Following (JS expert B) = B 
+
+ 
+
+OUTPUT FORMAT
+
+Shortest Time A takes to reach B
+
 
 
     ***********************************************************
