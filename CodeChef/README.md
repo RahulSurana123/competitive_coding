@@ -23,6 +23,7 @@
 -  [ Dance Moves ](./Dance%20Moves.cpp) 
 -  [ Easy Fibonacci ](./Easy%20Fibonacci.cpp) 
 -  [ Even tuples ](./Even%20tuples.cpp) 
+-  [ Games of Wasseypur ](./Games%20of%20Wasseypur.cpp) 
 -  [ Golf ](./Golf.cpp) 
 -  [ Help Nishant ](./Help%20Nishant.cpp) 
 -  [ Help Utkarsh ](./Help%20Utkarsh.cpp) 
@@ -31,6 +32,7 @@
 -  [ Lazy Chef ](./Lazy%20Chef.cpp) 
 -  [ Magical Flips ](./Magical%20Flips.cpp) 
 -  [ Maximise the Subsequence Sum ](./Maximise%20the%20Subsequence%20Sum.cpp) 
+-  [ Maximum Damage ](./Maximum%20Damage.cpp) 
 -  [ Maximum Number Of Distinct Elements ](./Maximum%20Number%20Of%20Distinct%20Elements.cpp) 
 -  [ Maximum Production ](./Maximum%20Production.cpp) 
 -  [ Min Max LCM ](./Min%20Max%20LCM.cpp) 
@@ -48,6 +50,7 @@
 -  [ Relativity ](./Relativity.cpp) 
 -  [ Remove One Element ](./Remove%20One%20Element.cpp) 
 -  [ Round Robin Ranks ](./Round%20Robin%20Ranks.cpp) 
+-  [ Sardar and GCD ](./Sardar%20and%20GCD.cpp) 
 -  [ Solubility ](./Solubility.cpp) 
 -  [ Special Triplets ](./Special%20Triplets.cpp) 
 -  [ Subtraction Game 2 ](./Subtraction%20Game%202.cpp) 
@@ -62,4 +65,4 @@
 -  [ XxOoRr ](./XxOoRr.cpp) 
 -  [ Yet Another Flipping Problem 2 ](./Yet%20Another%20Flipping%20Problem%202.cpp) 
 -  [ Zack And The Handkerchieves ](./Zack%20And%20The%20Handkerchieves.cpp) 
-### Total Code Count : 57
+### Total Code Count : 60

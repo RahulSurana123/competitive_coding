@@ -44,7 +44,7 @@ for r,d,f in list(os.walk(os.getcwd())):
 			dic[files[:-4]] = ("./"+"%20".join(list(files.split(" ")))).replace("?","%3F") 
 			fs.write("-  [ "+files[:-4]+" ]("+dic[files[:-4]]+") \n")
 
-print(dic)
+# print(dic)
 c = len(dic)
 print(f"### Total Code Count : {c}") 
 fs.write(f"### Total Code Count : {c}") 

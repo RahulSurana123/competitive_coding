@@ -20,6 +20,8 @@
 -  [ Maximum value of F(x) ](./Maximum%20value%20of%20F(x).cpp) 
 -  [ Maximum value subarray ](./Maximum%20value%20subarray.cpp) 
 -  [ MEX value ](./MEX%20value.cpp) 
+-  [ Minimum addition ](./Minimum%20addition.cpp) 
+-  [ minimum Operations ](./minimum%20Operations.cpp) 
 -  [ Path MEX ](./Path%20MEX.py) 
 -  [ Platform Jumps ](./Platform%20Jumps.cpp) 
 -  [ Practice for ThoughtWorks ](./Practice%20for%20ThoughtWorks.cpp) 
@@ -28,6 +30,9 @@
 -  [ READM ](./README.md) 
 -  [ Relevel test 2 ](./Relevel%20test%202.cpp) 
 -  [ relevel test 3 ](./relevel%20test%203.cpp) 
+-  [ Relevel test 4 ](./Relevel%20test%204.cpp) 
+-  [ Relevel test 5 ](./Relevel%20test%205.cpp) 
+-  [ Relevel test 6 ](./Relevel%20test%206.cpp) 
 -  [ Relevel test ](./Relevel%20test.cpp) 
 -  [ Shruti and Sets ](./Shruti%20and%20Sets.cpp) 
 -  [ Stocks Profit and Loss ](./Stocks%20Profit%20and%20Loss.sql) 
@@ -39,4 +44,4 @@
 -  [ Vaccine distribution ](./Vaccine%20distribution.cpp) 
 -  [ Wissen Interview ](./Wissen%20Interview.cpp) 
 -  [ XOR Paths ](./XOR%20Paths.cpp) 
-### Total Code Count : 34
+### Total Code Count : 39

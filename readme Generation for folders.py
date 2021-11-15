@@ -34,10 +34,8 @@ fs.write("### HYPERLINK To Code\n***\n")
 
 dic = {}
 
-# ls = [ i if isfile(i) for i in os.listdir(".") ]
-
 for r,d,f in list(os.walk(os.getcwd())):
-	print(f)
+	# print(f)
 	for files in f:	
 		if files[-3:] == ".py":
 			dic[files[:-3]] = ("./"+"%20".join(list(files.split(" ")))).replace("?","%3F")

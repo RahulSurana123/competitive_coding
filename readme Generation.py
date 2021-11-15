@@ -34,8 +34,6 @@ dic = {}
 ml = 0
 
 
-f.write("<style>td, th {border: none!important;}</style>\n")
-
 f.write("| Platform  |  Problem Count |\n")
 
 f.write("| --------  |  ------------- |\n")
@@ -51,13 +49,13 @@ for dirs in list(os.listdir(".")):
 		dic[dirs] = ("./"+"%20".join(list(dirs.split(" "))))
 		x = f"[ {dirs} ]({dic[dirs]})"
 		y = f" {str(len(list(os.listdir(dirs))))}"
-		print(len(dirs))
+		# print(len(dirs))
 		s = f"|    {x}     |     {y}    |\n"
-		print(s)
+		ml+=int(y)
 		f.write(s)
 		
-print(dic)
-c = len(dic)
+# print(dic)
+c = ml
 print(f"### Total Code Count : {c}") 
 f.write(f"### Total Code Count : {c}") 
 f.close()
