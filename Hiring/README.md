@@ -22,6 +22,7 @@
 -  [ MEX value ](./MEX%20value.cpp) 
 -  [ Minimum addition ](./Minimum%20addition.cpp) 
 -  [ minimum Operations ](./minimum%20Operations.cpp) 
+-  [ multiplication queries. ](./multiplication%20queries.java) 
 -  [ Path MEX ](./Path%20MEX.py) 
 -  [ Platform Jumps ](./Platform%20Jumps.cpp) 
 -  [ Practice for ThoughtWorks ](./Practice%20for%20ThoughtWorks.cpp) 
@@ -44,4 +45,4 @@
 -  [ Vaccine distribution ](./Vaccine%20distribution.cpp) 
 -  [ Wissen Interview ](./Wissen%20Interview.cpp) 
 -  [ XOR Paths ](./XOR%20Paths.cpp) 
-### Total Code Count : 39
+### Total Code Count : 40

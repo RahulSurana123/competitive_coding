@@ -31,12 +31,14 @@
 -  [ Largest Laddu ](./Largest%20Laddu.cpp) 
 -  [ Lazy Chef ](./Lazy%20Chef.cpp) 
 -  [ Magical Flips ](./Magical%20Flips.cpp) 
+-  [ Make it Divisible ](./Make%20it%20Divisible.cpp) 
 -  [ Maximise the Subsequence Sum ](./Maximise%20the%20Subsequence%20Sum.cpp) 
 -  [ Maximum Damage ](./Maximum%20Damage.cpp) 
 -  [ Maximum Number Of Distinct Elements ](./Maximum%20Number%20Of%20Distinct%20Elements.cpp) 
 -  [ Maximum Production ](./Maximum%20Production.cpp) 
 -  [ Min Max LCM ](./Min%20Max%20LCM.cpp) 
 -  [ Minimise Difference ](./Minimise%20Difference.cpp) 
+-  [ Missing Sums ](./Missing%20Sums.cpp) 
 -  [ Modular Equation ](./Modular%20Equation.cpp) 
 -  [ Multiple of 3 ](./Multiple%20of%203.cpp) 
 -  [ Olympics Ranking ](./Olympics%20Ranking.cpp) 
@@ -44,6 +46,7 @@
 -  [ Plagiarism ](./Plagiarism.cpp) 
 -  [ Positive Spewing ](./Positive%20Spewing.cpp) 
 -  [ Problem Difficulties ](./Problem%20Difficulties.cpp) 
+-  [ Product Pain ](./Product%20Pain.cpp) 
 -  [ Queens Placement ](./Queens%20Placement.cpp) 
 -  [ readme Generation ](./readme%20Generation.py) 
 -  [ READM ](./README.md) 
@@ -65,4 +68,4 @@
 -  [ XxOoRr ](./XxOoRr.cpp) 
 -  [ Yet Another Flipping Problem 2 ](./Yet%20Another%20Flipping%20Problem%202.cpp) 
 -  [ Zack And The Handkerchieves ](./Zack%20And%20The%20Handkerchieves.cpp) 
-### Total Code Count : 60
+### Total Code Count : 63

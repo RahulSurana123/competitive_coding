@@ -27,6 +27,11 @@ construct and return the binary tree.
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+
+//  Not the most optimum solution
+
+
 class Solution {
 public:
     
@@ -57,3 +62,33 @@ public:
         return build(inorder,postorder, i,0 ,n-1);
     }
 };
+
+
+// Best Solution 
+
+
+
+class Solution {
+public:
+    map<int, int> m;
+    TreeNode* build(vector<int>& inorder, vector<int>& postorder,int& i, int s, int e){
+        if(s > e) return NULL;
+        int ind = m[postorder[i]];
+        TreeNode* root = new TreeNode(inorder[ind]);
+        i--;
+        root->right = build(inorder,postorder,i,ind+1,e);
+        root->left = build(inorder,postorder,i,s,ind-1);
+        return root;
+    }
+    
+    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
+        int n = inorder.size();
+        for(int j = 0; j <= n-1; j++){
+            m[inorder[j]] = j;
+        }
+        int i = n-1;
+        return build(inorder,postorder, i,0 ,n-1);
+    }
+};
+
+

@@ -40,10 +40,6 @@ f.write("| --------  |  ------------- |\n")
 
 
 for dirs in list(os.listdir(".")):
-	if len(dirs) > ml:
-		ml = len(dirs) 
-
-for dirs in list(os.listdir(".")):
 	if "." not in dirs:
 
 		dic[dirs] = ("./"+"%20".join(list(dirs.split(" "))))

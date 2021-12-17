@@ -71,14 +71,12 @@ int main()
 	fast_io;
     // ll int result = gcd(865480988334076944, 181153058753871872);
 
-    // cout << result <<" "<<(result & result -1) <<"\n";
+    // cout << yo <<"\n";
     // cout << fastexpo(18,6)<<"\n";
 
     for(int i = 0; i < 1024; i++){
-        for(int j = 1; j <18 && i - (1<<j) + 1 >= 0 ; j++){
-            cout << i << " "<< j-1 << " " << i-(1<<j-1) << " " << j-1 <<"       "; 
-        }
-        cout << "\n";
+        
+        cout << (i & -i) <<"\n";
     }
     // FOR(i,n){
     //     int a,b;
