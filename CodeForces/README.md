@@ -8,6 +8,7 @@
 -  [ Absent Remainder ](./Absent%20Remainder.cpp) 
 -  [ Array and Operations ](./Array%20and%20Operations.cpp) 
 -  [ Array Eversion ](./Array%20Eversion.cpp) 
+-  [ BA-String ](./BA-String.cpp) 
 -  [ Cheap Travel ](./Cheap%20Travel.cpp) 
 -  [ Cherry ](./Cherry.cpp) 
 -  [ Coin Rows ](./Coin%20Rows.cpp) 
@@ -17,6 +18,8 @@
 -  [ Diameter of Graph ](./Diameter%20of%20Graph.cpp) 
 -  [ Divan and a New Project ](./Divan%20and%20a%20New%20Project.cpp) 
 -  [ Divan and a Store ](./Divan%20and%20a%20Store.cpp) 
+-  [ Equal or Not Equal ](./Equal%20or%20Not%20Equal.cpp) 
+-  [ Exact Change ](./Exact%20Change.cpp) 
 -  [ Ezzat and Two Subsequences ](./Ezzat%20and%20Two%20Subsequences.cpp) 
 -  [ Forbidden Subsequence ](./Forbidden%20Subsequence.cpp) 
 -  [ Good Subarrays ](./Good%20Subarrays.cpp) 
@@ -43,7 +46,8 @@
 -  [ Simply Strange Sort ](./Simply%20Strange%20Sort.cpp) 
 -  [ Spreadsheets ](./Spreadsheets.cpp) 
 -  [ Subsequence Permutation ](./Subsequence%20Permutation.cpp) 
+-  [ Triangles on a Rectangle ](./Triangles%20on%20a%20Rectangle.cpp) 
 -  [ Vanya and Lanterns ](./Vanya%20and%20Lanterns.cpp) 
 -  [ Windblume Ode ](./Windblume%20Ode.cpp) 
 -  [ Yet Another Sorting Problem ](./Yet%20Another%20Sorting%20Problem.cpp) 
-### Total Code Count : 41
+### Total Code Count : 45
