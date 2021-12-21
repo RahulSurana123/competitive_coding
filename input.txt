@@ -1,15 +1,7 @@
-7
-bcbbbbbcca
-abc
-cccba
-acb
-dbsic
-bac
-abracadara
-abc
-dddddddddddd
-cba
-bbc
-abc
-ac
-abc
+3
+2 4 3
+a*
+4 1 3
+a**a
+6 3 20
+**a***

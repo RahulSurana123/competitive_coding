@@ -1,7 +1,3 @@
-acccbbbbbb
-abccc
-bcdis
-aaaaacbdrr
-dddddddddddd
-bbc
-ac
+abb
+abba
+babbbbbbbbb
