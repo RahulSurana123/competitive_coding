@@ -50,25 +50,7 @@ For each test case print one integer — the number of good subarrays of the arr
  
 using namespace std;
 
-vector<int> dp;
 
-int df(vector<int>& n, int x, int y, int z){
-    // if(n < 0) return INT_MAX;
-    bool f = true;
-    FOR(i,n.size()){
-        if(x>0){
-            if(n[i] % 3 == 2 && (y>0 || z > 1) ) f = false;
-            if(n[i] % 3 == 1 && z<1) f = false;
-        }
-    }
-    if(0 == n) return dp[n] = x+y+z;
-    if(dp[n] != -1) return dp[n];
-    int a = INT_MAX;
-    a = min(a,df(n-3,x+1,y,z));
-    a = min(a,df(n-2,x,y+1,z));
-    a = min(a,df(n-1,x,y,z+1));
-    return dp[n] = a;
-}
 
 
 int main()
@@ -80,11 +62,7 @@ int main()
         int n;
         cin >> n;
         vector<int> ar(n);
-        int maxx = 0;
-        FOR(i,n) { cin >> ar[i]; maxx = max(maxx,ar[i]); }
-        dp.clear();
-        dp.resize(maxx+1,-1);
-        df(ar,0,0,0);
+        FOR(i,n) { cin >> ar[i]; }
         cout << dp[0] <<"\n";
     }
 }
