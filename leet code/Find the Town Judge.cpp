@@ -26,14 +26,14 @@ class Solution {
 public:
     int findJudge(int n, vector<vector<int>>& trust) {
         vector<int> f(n,0);
-        vector<int> h(n,0);
+        // vector<int> h(n,0);
         for(auto x: trust){
             f[x[1]-1]++;
-            h[x[0]-1]++;
+            f[x[0]-1]--;
             // cout << f[x[1]-1];
         }
         for(int i = 0; i< n;i++){
-            if(f[i]==n-1 && h[i] == 0) { return i+1; }  
+            if(f[i]==n-1) { return i+1; }  
         }
         return -1;
     }
