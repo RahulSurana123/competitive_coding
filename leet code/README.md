@@ -23,6 +23,7 @@
 -  [ Convert Binary Number in a Linked List to Integer ](./Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp) 
 -  [ Convert Sorted Array to Binary Search Tree ](./Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp) 
 -  [ Count Complete Tree Nodes ](./Count%20Complete%20Tree%20Nodes.cpp) 
+-  [ Course Schedule II ](./Course%20Schedule%20II.cpp) 
 -  [ Cousins in Binary Tree ](./Cousins%20in%20Binary%20Tree.cpp) 
 -  [ Cyclically Rotating a Grid ](./Cyclically%20Rotating%20a%20Grid.cpp) 
 -  [ Daily Temperatures ](./Daily%20Temperatures.cpp) 
@@ -36,6 +37,7 @@
 -  [ Find All Duplicates in an Array ](./Find%20All%20Duplicates%20in%20an%20Array.cpp) 
 -  [ Find All Numbers Disappeared in an Array ](./Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp) 
 -  [ Find Minimum in Rotated Sorted Array II ](./Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.cpp) 
+-  [ Find the Town Judge ](./Find%20the%20Town%20Judge.cpp) 
 -  [ Flatten a Multilevel Doubly Linked List ](./Flatten%20a%20Multilevel%20Doubly%20Linked%20List.cpp) 
 -  [ Guess Number Higher or Lower II ](./Guess%20Number%20Higher%20or%20Lower%20II.cpp) 
 -  [ Guess Number Higher or Lower ](./Guess%20Number%20Higher%20or%20Lower.cpp) 
@@ -99,6 +101,7 @@
 -  [ Remove Element ](./Remove%20Element.cpp) 
 -  [ Remove Linked List Elements ](./Remove%20Linked%20List%20Elements.cpp) 
 -  [ Remove Nth Node From End of List ](./Remove%20Nth%20Node%20From%20End%20of%20List.cpp) 
+-  [ Reorder List ](./Reorder%20List.cpp) 
 -  [ Reverse String ](./Reverse%20String.cpp) 
 -  [ Rotate Array ](./Rotate%20Array.cpp) 
 -  [ Rotate Image ](./Rotate%20Image.cpp) 
@@ -128,4 +131,4 @@
 -  [ Valid Sudoku ](./Valid%20Sudoku.cpp) 
 -  [ Vertical Order Traversal of a Binary Tree ](./Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp) 
 -  [ Word Search ](./Word%20Search.cpp) 
-### Total Code Count : 123
+### Total Code Count : 126
