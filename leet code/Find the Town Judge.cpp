@@ -32,12 +32,9 @@ public:
             h[x[0]-1]++;
             // cout << f[x[1]-1];
         }
-        int ans = -1;
-        bool fl = false;
         for(int i = 0; i< n;i++){
-            if(fl && f[i]==n-1 && h[i] == 0) return -1;
-            if(f[i]==n-1 && h[i] == 0) { ans = i+1; fl = true; }  
+            if(f[i]==n-1 && h[i] == 0) { return i+1; }  
         }
-        return ans;
+        return -1;
     }
 };
