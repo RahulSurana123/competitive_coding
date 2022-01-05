@@ -88,6 +88,7 @@
 -  [ Numbers At Most N Given Digit Set ](./Numbers%20At%20Most%20N%20Given%20Digit%20Set.cpp) 
 -  [ Odd Even Linked List ](./Odd%20Even%20Linked%20List.cpp) 
 -  [ Online Stock Span ](./Online%20Stock%20Span.cpp) 
+-  [ Pairs of Songs With Total Durations Divisible by 60 ](./Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.cpp) 
 -  [ Palindrome Partitioning ](./Palindrome%20Partitioning.cpp) 
 -  [ Partition Equal Subset Sum ](./Partition%20Equal%20Subset%20Sum.cpp) 
 -  [ Partition to K Equal Sum Subsets ](./Partition%20to%20K%20Equal%20Sum%20Subsets.cpp) 
@@ -133,4 +134,4 @@
 -  [ Valid Sudoku ](./Valid%20Sudoku.cpp) 
 -  [ Vertical Order Traversal of a Binary Tree ](./Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp) 
 -  [ Word Search ](./Word%20Search.cpp) 
-### Total Code Count : 128
+### Total Code Count : 129
