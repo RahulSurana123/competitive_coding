@@ -42,20 +42,9 @@ public:
         }
     }
     
-    void df(string& s){
-        for(int i = 0; i < s.length(); i++){
-            if(checkpalin(s.substr(0,i+1))){
-                vector<string> x;
-                x.push_back(s.substr(0,i+1));
-                cout << s.substr(0,i+1) <<" -> ";
-                dff(i+1,s,x);
-            }
-            cout <<"\n";
-        }
-    }
-    
     vector<vector<string>> partition(string s) {
-        df(s);
+        vector<string> x;
+        dff(0,s,x);
         return ans;
     }
 };
