@@ -20,16 +20,15 @@ Return true if it is possible to pick up and drop off all passengers for all the
 class Solution {
 public:
     bool carPooling(vector<vector<int>>& trips, int capacity) {
-        vector<vector<int>> v;
+        vector<int> v(1001,0);
         for(auto x: trips){
-            v.push_back({x[1],1,x[0]});
-            v.push_back({x[2],0,x[0]});
+            v[x[1]]+=x[0];
+            v[x[2]]-=x[0];    
         }
-        sort(v.begin(),v.end());
+        // sort(v.begin(),v.end());
         int s = 0;
-        for(auto x: v){
-            if(x[1] == 1) s+=x[2];
-            else s-=x[2];
+        for(int i = 0; i < 1001;i++){
+            s+=v[i];
             if(s>capacity) return false;
         }
         return true;
