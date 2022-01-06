@@ -10,6 +10,7 @@
 -  [ Egg Dropping Puzzle ](./Egg%20Dropping%20Puzzle.cpp) 
 -  [ Find the number of islands ](./Find%20the%20number%20of%20islands.cpp) 
 -  [ Gold Mine Problem ](./Gold%20Mine%20Problem.cpp) 
+-  [ Longest Common Prefix in an Array ](./Longest%20Common%20Prefix%20in%20an%20Array.cpp) 
 -  [ Maximum XOR subarray ](./Maximum%20XOR%20subarray.cpp) 
 -  [ Multiply two strings ](./Multiply%20two%20strings.cpp) 
 -  [ Number of Unique Paths ](./Number%20of%20Unique%20Paths.cpp) 
@@ -17,4 +18,4 @@
 -  [ READM ](./README.md) 
 -  [ Reorder List ](./Reorder%20List.cpp) 
 -  [ transform one string into another ](./transform%20one%20string%20into%20another.cpp) 
-### Total Code Count : 12
+### Total Code Count : 13
