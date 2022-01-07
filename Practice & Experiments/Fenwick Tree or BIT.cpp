@@ -94,25 +94,6 @@ int main()
             b.add(ar[i],1);
             b.bprint();
         }
-        // for(int i = 0 ; i <= n; i++){
-        //     b.bit[i] ^= ar[i];
-        //     b.bit[(i) + ((i) & -(i))] ^= b.bit[i];
-        // }
-        // b.bprint();
-        // // b.add(2,2);
-        // // b.bprint();
-        // cout << b.sum(6)<<" ";
-        // m[(p[i+1]-i+1)]++;
-        // FOR(i,n) { cout << m[i] <<" "; }
-        // ll ans = 0;
-        // ll c = 0;
-        // FOR(i,n) { 
-        //     c += ar[i];
-        //     m[c-i-1]++;
-        //     ll x = m[c - i-1]; 
-        //     ans += ((x-1)); 
-        // }
-        // int ans = df(0,n);
         cout << ans <<"\n";
     }
 }
