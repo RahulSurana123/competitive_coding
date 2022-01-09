@@ -16,8 +16,9 @@
 -  [ Multiply two strings ](./Multiply%20two%20strings.cpp) 
 -  [ N Digit numbers with digits in increasing order ](./N%20Digit%20numbers%20with%20digits%20in%20increasing%20order.cpp) 
 -  [ Number of Unique Paths ](./Number%20of%20Unique%20Paths.cpp) 
+-  [ Positive Negative Pair ](./Positive%20Negative%20Pair.cpp) 
 -  [ readme Generation ](./readme%20Generation.py) 
 -  [ READM ](./README.md) 
 -  [ Reorder List ](./Reorder%20List.cpp) 
 -  [ transform one string into another ](./transform%20one%20string%20into%20another.cpp) 
-### Total Code Count : 15
+### Total Code Count : 16
