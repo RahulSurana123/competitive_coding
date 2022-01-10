@@ -6,6 +6,7 @@
 ### HYPERLINK To Code
 ***
 -  [ 3Sum ](./3Sum.cpp) 
+-  [ Add Binary ](./Add%20Binary.cpp) 
 -  [ Beautiful Arrangement ](./Beautiful%20Arrangement.cpp) 
 -  [ Best Time to Buy and Sell Stock II ](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp) 
 -  [ Best Time to Buy and Sell Stock III ](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp) 
@@ -138,4 +139,4 @@
 -  [ Valid Sudoku ](./Valid%20Sudoku.cpp) 
 -  [ Vertical Order Traversal of a Binary Tree ](./Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp) 
 -  [ Word Search ](./Word%20Search.cpp) 
-### Total Code Count : 133
+### Total Code Count : 134
