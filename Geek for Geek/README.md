@@ -9,6 +9,7 @@
 -  [ Add 1 to a number represented as linked list ](./Add%201%20to%20a%20number%20represented%20as%20linked%20list.cpp) 
 -  [ Binary Array Sorting  ](./Binary%20Array%20Sorting%20.cpp) 
 -  [ Boundary Traversal of binary tree ](./Boundary%20Traversal%20of%20binary%20tree.cpp) 
+-  [ Clone a stack without using extra space ](./Clone%20a%20stack%20without%20using%20extra%20space.cpp) 
 -  [ Egg Dropping Puzzle ](./Egg%20Dropping%20Puzzle.cpp) 
 -  [ Find the number of islands ](./Find%20the%20number%20of%20islands.cpp) 
 -  [ Gold Mine Problem ](./Gold%20Mine%20Problem.cpp) 
@@ -22,4 +23,4 @@
 -  [ READM ](./README.md) 
 -  [ Reorder List ](./Reorder%20List.cpp) 
 -  [ transform one string into another ](./transform%20one%20string%20into%20another.cpp) 
-### Total Code Count : 17
+### Total Code Count : 18
