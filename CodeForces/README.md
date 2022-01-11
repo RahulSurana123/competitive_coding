@@ -18,6 +18,7 @@
 -  [ Diameter of Graph ](./Diameter%20of%20Graph.cpp) 
 -  [ Divan and a New Project ](./Divan%20and%20a%20New%20Project.cpp) 
 -  [ Divan and a Store ](./Divan%20and%20a%20Store.cpp) 
+-  [ Division by Two and Permutation ](./Division%20by%20Two%20and%20Permutation.cpp) 
 -  [ Equal or Not Equal ](./Equal%20or%20Not%20Equal.cpp) 
 -  [ Exact Change ](./Exact%20Change.cpp) 
 -  [ Ezzat and Two Subsequences ](./Ezzat%20and%20Two%20Subsequences.cpp) 
@@ -30,6 +31,7 @@
 -  [ k-Tree ](./k-Tree.cpp) 
 -  [ Life of a Flower ](./Life%20of%20a%20Flower.cpp) 
 -  [ Long Comparison ](./Long%20Comparison.cpp) 
+-  [ Make AP ](./Make%20AP.cpp) 
 -  [ Maze ](./Maze.cpp) 
 -  [ Mikasa ](./Mikasa.cpp) 
 -  [ Minimize Distance ](./Minimize%20Distance.cpp) 
@@ -38,6 +40,8 @@
 -  [ Moderate Modular Mode ](./Moderate%20Modular%20Mode.cpp) 
 -  [ Omkar and Heavenly Tree ](./Omkar%20and%20Heavenly%20Tree.cpp) 
 -  [ Paint the Array ](./Paint%20the%20Array.cpp) 
+-  [ Palindromes Coloring ](./Palindromes%20Coloring.cpp) 
+-  [ Plus One on the Subset ](./Plus%20One%20on%20the%20Subset.cpp) 
 -  [ Poisoned Dagger ](./Poisoned%20Dagger.cpp) 
 -  [ Polycarp and Sums of Subsequences ](./Polycarp%20and%20Sums%20of%20Subsequences.cpp) 
 -  [ Portal ](./Portal.cpp) 
@@ -51,4 +55,4 @@
 -  [ Vanya and Lanterns ](./Vanya%20and%20Lanterns.cpp) 
 -  [ Windblume Ode ](./Windblume%20Ode.cpp) 
 -  [ Yet Another Sorting Problem ](./Yet%20Another%20Sorting%20Problem.cpp) 
-### Total Code Count : 46
+### Total Code Count : 50

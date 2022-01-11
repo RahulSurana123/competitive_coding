@@ -125,6 +125,7 @@
 -  [ Subtree of Another Tree ](./Subtree%20of%20Another%20Tree.cpp) 
 -  [ Sum of Distances in Tree ](./Sum%20of%20Distances%20in%20Tree.cpp) 
 -  [ Sum of Left Leaves ](./Sum%20of%20Left%20Leaves.cpp) 
+-  [ Sum of Root To Leaf Binary Numbers ](./Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.cpp) 
 -  [ Sum Root to Leaf Numbers ](./Sum%20Root%20to%20Leaf%20Numbers.cpp) 
 -  [ Surrounded Regions ](./Surrounded%20Regions.cpp) 
 -  [ Transform to Chessboard ](./Transform%20to%20Chessboard.cpp) 
@@ -139,4 +140,4 @@
 -  [ Valid Sudoku ](./Valid%20Sudoku.cpp) 
 -  [ Vertical Order Traversal of a Binary Tree ](./Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp) 
 -  [ Word Search ](./Word%20Search.cpp) 
-### Total Code Count : 134
+### Total Code Count : 135
