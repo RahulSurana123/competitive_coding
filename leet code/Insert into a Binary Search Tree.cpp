@@ -18,7 +18,6 @@ Notice that there may exist multiple valid ways for the insertion, as long as th
 
 
 
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -33,20 +32,19 @@ Notice that there may exist multiple valid ways for the insertion, as long as th
 class Solution {
 public:
     
-    void df(TreeNode* &root, int val){
-        if(root == NULL) { root = new TreeNode(val); return; }
-        if(root->left == NULL && root->right == NULL) { 
-            if(root->val > val) root->left = new TreeNode(val); 
-            else root->right = new TreeNode(val);
-            return;
-        }
-        int x = root->val;
-        if(val < x) { df(root->left,val); }
-        else { df(root->right,val); }
-    }
-    
+
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        df(root,val);
+        TreeNode* p = new TreeNode(val);
+        if(root == NULL) { root = p; return root; }
+        TreeNode* t = root;
+        TreeNode* r = root;
+        while(t != NULL){
+            r = t;
+            if(val < t->val) t = t->left;
+            else t = t->right;
+        }
+        if(r->val > val) r->left = p;
+        else r->right = p;
         return root;
     }
 };
