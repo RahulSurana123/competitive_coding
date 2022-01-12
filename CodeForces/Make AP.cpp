@@ -6,23 +6,26 @@
     ***********************************************************
 
 
-You are given an array a1,a2,…,an consisting of integers from 0 to 9. A subarray al,al+1,al+2,…,ar−1,ar is good if the sum of elements of this subarray is equal to the length of this subarray (∑i=lrai=r−l+1).
+Polycarp has 3 positive integers a, b and c. He can perform the following operation exactly once.
 
-For example, if a=[1,2,0], then there are 3 good subarrays: a1…1=[1],a2…3=[2,0] and a1…3=[1,2,0].
+Choose a positive integer m and multiply exactly one of the integers a, b or c by m.
+Can Polycarp make it so that after performing the operation, the sequence of three numbers a, b, c (in this order) forms an arithmetic progression? Note that you cannot change the order of a, b and c.
 
-Calculate the number of good subarrays of the array a.
+Formally, a sequence x1,x2,…,xn is called an arithmetic progression (AP) if there exists a number d (called "common difference") such that xi+1=xi+d for all i from 1 to n−1. In this problem, n=3.
+
+For example, the following sequences are AP: [5,10,15], [3,2,1], [1,1,1], and [13,10,7]. The following sequences are not AP: [1,2,4], [0,1,0] and [1,3,2].
+
+You need to answer t independent test cases.
 
 Input
-The first line contains one integer t (1≤t≤1000) — the number of test cases.
+The first line contains the number t (1≤t≤104) — the number of test cases.
 
-The first line of each test case contains one integer n (1≤n≤105) — the length of the array a.
-
-The second line of each test case contains a string consisting of n decimal digits, where the i-th digit is equal to the value of ai.
-
-It is guaranteed that the sum of n over all test cases does not exceed 105.
+Each of the following t lines contains 3 integers a, b, c (1≤a,b,c≤108).
 
 Output
-For each test case print one integer — the number of good subarrays of the array a.
+For each test case print "YES" (without quotes) if Polycarp can choose a positive integer m and multiply exactly one of the integers a, b or c by m to make [a,b,c] be an arithmetic progression. Print "NO" (without quotes) otherwise.
+
+You can print YES and NO in any (upper or lower) case (for example, the strings yEs, yes, Yes and YES will be recognized as a positive answer).
 
 
 
