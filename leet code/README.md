@@ -51,6 +51,7 @@
 -  [ Implement Stack using Queues ](./Implement%20Stack%20using%20Queues.cpp) 
 -  [ Implement Trie (Prefix Tree) ](./Implement%20Trie%20(Prefix%20Tree).cpp) 
 -  [ Insert Delete GetRandom O(1) ](./Insert%20Delete%20GetRandom%20O(1).cpp) 
+-  [ Insert into a Binary Search Tree ](./Insert%20into%20a%20Binary%20Search%20Tree.cpp) 
 -  [ Insertion Sort List ](./Insertion%20Sort%20List.cpp) 
 -  [ Intersection of Two Arrays II ](./Intersection%20of%20Two%20Arrays%20II.cpp) 
 -  [ Interval List Intersections ](./Interval%20List%20Intersections.cpp) 
@@ -140,4 +141,4 @@
 -  [ Valid Sudoku ](./Valid%20Sudoku.cpp) 
 -  [ Vertical Order Traversal of a Binary Tree ](./Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp) 
 -  [ Word Search ](./Word%20Search.cpp) 
-### Total Code Count : 135
+### Total Code Count : 136
