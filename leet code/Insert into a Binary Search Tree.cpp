@@ -18,7 +18,6 @@ Notice that there may exist multiple valid ways for the insertion, as long as th
 
 
 
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -36,9 +35,9 @@ public:
 
     TreeNode* insertIntoBST(TreeNode* root, int val) {
         TreeNode* p = new TreeNode(val);
+        if(root == NULL) { root = p; return root; }
         TreeNode* t = root;
         TreeNode* r = root;
-        if(root == NULL) { root = p; return root; }
         while(t != NULL){
             r = t;
             if(val < t->val) t = t->left;
