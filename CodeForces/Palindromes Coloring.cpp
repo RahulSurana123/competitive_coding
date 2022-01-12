@@ -6,23 +6,31 @@
     ***********************************************************
 
 
-You are given an array a1,a2,…,an consisting of integers from 0 to 9. A subarray al,al+1,al+2,…,ar−1,ar is good if the sum of elements of this subarray is equal to the length of this subarray (∑i=lrai=r−l+1).
+You have a string s consisting of lowercase Latin alphabet letters.
 
-For example, if a=[1,2,0], then there are 3 good subarrays: a1…1=[1],a2…3=[2,0] and a1…3=[1,2,0].
+You can color some letters in colors from 1 to k. It is not necessary to paint all the letters. But for each color, there must be a letter painted in that color.
 
-Calculate the number of good subarrays of the array a.
+Then you can swap any two symbols painted in the same color as many times as you want.
+
+After that, k strings will be created, i-th of them will contain all the characters colored in the color i, written in the order of their sequence in the string s.
+
+Your task is to color the characters of the string so that all the resulting k strings are palindromes, and the length of the shortest of these k strings is as large as possible.
+
+Read the note for the first test case of the example if you need a clarification.
+
+Recall that a string is a palindrome if it reads the same way both from left to right and from right to left. For example, the strings abacaba, cccc, z and dxd are palindromes, but the strings abab and aaabaa — are not.
 
 Input
-The first line contains one integer t (1≤t≤1000) — the number of test cases.
+The first line of input data contains a single integer t (1≤t≤104) — the number of input data sets in the test.
 
-The first line of each test case contains one integer n (1≤n≤105) — the length of the array a.
+The descriptions of the input data sets follow.
 
-The second line of each test case contains a string consisting of n decimal digits, where the i-th digit is equal to the value of ai.
+The first line of the description of each input data set contains two integers n and k (1≤k≤n≤2⋅105) — the length of the string and the number of colors in which its letters can be painted. The second line of the description of each input data set contains a string s of length n consisting of lowercase letters of the Latin alphabet.
 
-It is guaranteed that the sum of n over all test cases does not exceed 105.
+It is guaranteed that the sum of n over all test cases does not exceed 2⋅105.
 
 Output
-For each test case print one integer — the number of good subarrays of the array a.
+For each set of input data, output a single integer  — the maximum length of the shortest palindrome string that can be obtained.
 
 
 

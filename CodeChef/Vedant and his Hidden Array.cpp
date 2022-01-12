@@ -5,7 +5,18 @@
     
     ***********************************************************
 
+Vedant has a hidden array of N elements. Given the bitwise AND of all elements of the array, determine whether the total sum of the elements is odd, even or cannot be determined.
 
+Input Format
+
+The first line of each input contains T - the number of test cases. The test cases then follow.
+The only line of each test case contains two space-separated integers N and A - the number of elements in the hidden array and the bitwise AND of all the elements in the hidden array.
+
+Output Format
+
+For each test case, output Even if the sum of all elements in the hidden array is even, Odd if the sum of all elements in the hidden array is odd, or Impossible if the parity cannot be determined.
+
+Note: You may print each character of the string in uppercase or lowercase (for example, the strings eVen, EvEn, even and EVEN will all be treated as identical).
 
 
 

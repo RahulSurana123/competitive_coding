@@ -5,24 +5,29 @@
     
     ***********************************************************
 
+You are given an array a consisting of n positive integers. You can perform operations on it.
 
-You are given an array a1,a2,…,an consisting of integers from 0 to 9. A subarray al,al+1,al+2,…,ar−1,ar is good if the sum of elements of this subarray is equal to the length of this subarray (∑i=lrai=r−l+1).
+In one operation you can replace any element of the array ai with ⌊ai2⌋, that is, by an integer part of dividing ai by 2 (rounding down).
 
-For example, if a=[1,2,0], then there are 3 good subarrays: a1…1=[1],a2…3=[2,0] and a1…3=[1,2,0].
+See if you can apply the operation some number of times (possible 0) to make the array a become a permutation of numbers from 1 to n —that is, so that it contains all numbers from 1 to n, each exactly once.
 
-Calculate the number of good subarrays of the array a.
+For example, if a=[1,8,25,2], n=4, then the answer is yes. You could do the following:
 
+Replace 8 with ⌊82⌋=4, then a=[1,4,25,2].
+Replace 25 with ⌊252⌋=12, then a=[1,4,12,2].
+Replace 12 with ⌊122⌋=6, then a=[1,4,6,2].
+Replace 6 with ⌊62⌋=3, then a=[1,4,3,2].
 Input
-The first line contains one integer t (1≤t≤1000) — the number of test cases.
+The first line of input data contains an integer t (1≤t≤104) —the number of test cases.
 
-The first line of each test case contains one integer n (1≤n≤105) — the length of the array a.
-
-The second line of each test case contains a string consisting of n decimal digits, where the i-th digit is equal to the value of ai.
-
-It is guaranteed that the sum of n over all test cases does not exceed 105.
+Each test case contains exactly two lines. The first one contains an integer n (1≤n≤50), the second one contains integers a1,a2,…,an (1≤ai≤109).
 
 Output
-For each test case print one integer — the number of good subarrays of the array a.
+For each test case, output on a separate line:
+
+YES if you can make the array a become a permutation of numbers from 1 to n,
+NO otherwise.
+You can output YES and NO in any case (for example, strings yEs, yes, Yes and YES will be recognized as a positive response).
 
 
 
