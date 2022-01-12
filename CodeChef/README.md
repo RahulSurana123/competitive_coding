@@ -7,6 +7,7 @@
 ***
 -  [ Appy and Contest ](./Appy%20and%20Contest.cpp) 
 -  [ Array Filling ](./Array%20Filling.cpp) 
+-  [ Aujasvit and the Circle Game ](./Aujasvit%20and%20the%20Circle%20Game.cpp) 
 -  [ Billiards ](./Billiards.cpp) 
 -  [ Cheating Time ](./Cheating%20Time.cpp) 
 -  [ Chef and Adventures ](./Chef%20and%20Adventures.cpp) 
@@ -54,6 +55,7 @@
 -  [ Remove One Element ](./Remove%20One%20Element.cpp) 
 -  [ Round Robin Ranks ](./Round%20Robin%20Ranks.cpp) 
 -  [ Sardar and GCD ](./Sardar%20and%20GCD.cpp) 
+-  [ Sarthak and his Magic Grid ](./Sarthak%20and%20his%20Magic%20Grid.cpp) 
 -  [ Solubility ](./Solubility.cpp) 
 -  [ Special Triplets ](./Special%20Triplets.cpp) 
 -  [ Subtraction Game 2 ](./Subtraction%20Game%202.cpp) 
@@ -63,9 +65,10 @@
 -  [ Tic Tac Toe ](./Tic%20Tac%20Toe.cpp) 
 -  [ Tree House ](./Tree%20House.cpp) 
 -  [ Valid Path ](./Valid%20Path.cpp) 
+-  [ Vedant and his Hidden Array ](./Vedant%20and%20his%20Hidden%20Array.cpp) 
 -  [ Washing Windows ](./Washing%20Windows.cpp) 
 -  [ Xor Equality ](./Xor%20Equality.cpp) 
 -  [ XxOoRr ](./XxOoRr.cpp) 
 -  [ Yet Another Flipping Problem 2 ](./Yet%20Another%20Flipping%20Problem%202.cpp) 
 -  [ Zack And The Handkerchieves ](./Zack%20And%20The%20Handkerchieves.cpp) 
-### Total Code Count : 63
+### Total Code Count : 66
