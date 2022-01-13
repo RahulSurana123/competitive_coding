@@ -23,5 +23,6 @@
 -  [ readme Generation ](./readme%20Generation.py) 
 -  [ READM ](./README.md) 
 -  [ Reorder List ](./Reorder%20List.cpp) 
+-  [ Reverse First K elements of Queue ](./Reverse%20First%20K%20elements%20of%20Queue.cpp) 
 -  [ transform one string into another ](./transform%20one%20string%20into%20another.cpp) 
-### Total Code Count : 19
+### Total Code Count : 20
