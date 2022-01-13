@@ -81,6 +81,7 @@
 -  [ Minimum Absolute Difference ](./Minimum%20Absolute%20Difference.cpp) 
 -  [ Minimum Cost to Move Chips to The Same Position ](./Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp) 
 -  [ Minimum Height Trees ](./Minimum%20Height%20Trees.cpp) 
+-  [ Minimum Number of Arrows to Burst Balloons ](./Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp) 
 -  [ Minimum Time to Type Word Using Special Typewriter ](./Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.cpp) 
 -  [ Minimum Value to Get Positive Step by Step Sum ](./Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp) 
 -  [ Most Frequent Subtree Sum ](./Most%20Frequent%20Subtree%20Sum.cpp) 
@@ -141,4 +142,4 @@
 -  [ Valid Sudoku ](./Valid%20Sudoku.cpp) 
 -  [ Vertical Order Traversal of a Binary Tree ](./Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp) 
 -  [ Word Search ](./Word%20Search.cpp) 
-### Total Code Count : 136
+### Total Code Count : 137
