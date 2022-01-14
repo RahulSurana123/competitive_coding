@@ -124,6 +124,7 @@
 -  [ Smallest String Starting From Leaf ](./Smallest%20String%20Starting%20From%20Leaf.cpp) 
 -  [ Sort Characters By Frequency ](./Sort%20Characters%20By%20Frequency.cpp) 
 -  [ Split Linked List in Parts ](./Split%20Linked%20List%20in%20Parts.cpp) 
+-  [ String to Integer (atoi) ](./String%20to%20Integer%20(atoi).cpp) 
 -  [ Subtree of Another Tree ](./Subtree%20of%20Another%20Tree.cpp) 
 -  [ Sum of Distances in Tree ](./Sum%20of%20Distances%20in%20Tree.cpp) 
 -  [ Sum of Left Leaves ](./Sum%20of%20Left%20Leaves.cpp) 
@@ -142,4 +143,4 @@
 -  [ Valid Sudoku ](./Valid%20Sudoku.cpp) 
 -  [ Vertical Order Traversal of a Binary Tree ](./Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp) 
 -  [ Word Search ](./Word%20Search.cpp) 
-### Total Code Count : 137
+### Total Code Count : 138
