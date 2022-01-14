@@ -5,7 +5,7 @@
 -  [ Whatsapp Group Link ](https://chat.whatsapp.com/FUV7H9SIBYKD3C5tgDluI6) 
 ### HYPERLINK To Code
 ***
--  [ New Year Chaos ](./New%20Year%20Chaos.cpp) 
--  [ readme Generation ](./readme%20Generation.py) 
--  [ READM ](./README.md) 
+-  [ New Year Chaos ](.%2FNew%2520Year%2520Chaos.cpp) 
+-  [ readme Generation ](.%2Freadme%2520Generation.py) 
+-  [ READM ](.%2FREADME.md) 
 ### Total Code Count : 3

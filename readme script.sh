@@ -60,6 +60,12 @@ python "../readme Generation for folders.py"
 
 echo "Readme Generated for Rated competition Codes folder"
 
+cd "../Striver’s SDE Sheet"
+
+python "../readme Generation for folders.py"
+
+echo "Readme Generated for Striever SDE Sheet folder"
+
 cd ..
 
 echo "Done with Readme Generation"
