@@ -17,6 +17,7 @@
 -  [ Gold Mine Problem ](.%2FGold%2520Mine%2520Problem.cpp) 
 -  [ Longest Common Prefix in an Array ](.%2FLongest%2520Common%2520Prefix%2520in%2520an%2520Array.cpp) 
 -  [ Maximum XOR subarray ](.%2FMaximum%2520XOR%2520subarray.cpp) 
+-  [ Merge two binary Max heaps ](.%2FMerge%2520two%2520binary%2520Max%2520heaps.cpp) 
 -  [ Multiply two strings ](.%2FMultiply%2520two%2520strings.cpp) 
 -  [ N Digit numbers with digits in increasing order ](.%2FN%2520Digit%2520numbers%2520with%2520digits%2520in%2520increasing%2520order.cpp) 
 -  [ Number of Unique Paths ](.%2FNumber%2520of%2520Unique%2520Paths.cpp) 
@@ -26,4 +27,4 @@
 -  [ Reorder List ](.%2FReorder%2520List.cpp) 
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 21
+### Total Code Count : 22
