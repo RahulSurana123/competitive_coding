@@ -60,6 +60,7 @@
 -  [ Island Perimeter ](.%2FIsland%2520Perimeter.cpp) 
 -  [ Iterator for Combination ](.%2FIterator%2520for%2520Combination.cpp) 
 -  [ Jump Game III ](.%2FJump%2520Game%2520III.cpp) 
+-  [ Jump Game IV ](.%2FJump%2520Game%2520IV.cpp) 
 -  [ Jump Game ](.%2FJump%2520Game.cpp) 
 -  [ Kth Smallest Number in Multiplication Table ](.%2FKth%2520Smallest%2520Number%2520in%2520Multiplication%2520Table.cpp) 
 -  [ Largest Component Size by Common Factor ](.%2FLargest%2520Component%2520Size%2520by%2520Common%2520Factor.cpp) 
@@ -143,4 +144,4 @@
 -  [ Valid Sudoku ](.%2FValid%2520Sudoku.cpp) 
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 138
+### Total Code Count : 139
