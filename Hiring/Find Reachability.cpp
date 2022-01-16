@@ -73,54 +73,20 @@ If A can reach B then output is 1, else 0.
  
 using namespace std;
 
-map<int,vector<pi>> adj;
-map<int,bool> v;
-
-int minimumCostSimplePath(int s, int d)
-{
-
-    queue<pi> q;
-    q.pb({s,0});
-    int ans = INT_MAX;
-    while(!q.empty()){
-        int u = q.front().F;
-        int d = q.front().S;
-        if(u == d) { ans = min(ans,d); continue; }
-        for(auto z: adj[u]){
-            q.pb({z.F,z.S+d});
-        }
-    }
-    // if (s == d)
-    //     return 0;
-    // v[s] = 1;
- 
-    // int ans = INT_MAX-10000;
-    // for (auto z : adj[s]) {
-    //     if (!v[z.F]) {
-    //         int curr = minimumCostSimplePath(z.F,
-    //                     d);
-    //         ans = min(ans, z.S + curr);
-    //     }
-    // }
-    // v[s] = 0;
- 
-    return ans;
-}
+map<int,vector<int>> adj;
+map<int, bool> v;
 
 bool dfs(int s, int d){
+    v[s] = true;
     if(s == d) return true;
     else{
         bool f = false;
         for(auto m : adj[s]){
-            f = dfs(m.F,d);
+            if(!v[m]) f = dfs(m,d);
             if(f) break;
         }
         return f;
     }
-}
-
-bool compare(pi a, pi b){
-    return a.second < b.second;
 }
 
 int main()
@@ -128,21 +94,19 @@ int main()
     fast_io;
     int e,n;
     cin >> e;
-    FOR(i,e) { int f; cin >>f; adj[f] = vector<pi>(); v[f] = false; }
+    FOR(i,e) { int f; cin >>f; adj[f] = vector<int>(); v[f] = false; }
     cin >> n;
     FOR(i,n) {
-        int a,b,t;
-        cin >> a >> b >> t; 
-        adj[a-1].pb({b-1,t}); 
+        int a,b;
+        cin >> a >> b; 
+        adj[a-1].pb(b-1); 
     }
     
-    for(auto x: adj){
-        sort(x.S.begin(),x.S.end(),compare);
-        // for(auto m : x.S) cout << m.F <<" "<< m.S <<"->";
-        // cout <<"\n";
-    }
+    // for(auto x: adj){
+    //     sort(x.S.begin(),x.S.end(),compare);
+    // }
 
     int x,y;
     cin >> x >> y;
-    cout << minimumCostSimplePath(x-1,y-1) << "\n";
+    cout << dfs(x-1,y-1) << "\n";
 }
