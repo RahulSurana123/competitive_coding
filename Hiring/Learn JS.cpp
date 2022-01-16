@@ -68,50 +68,49 @@ Shortest Time A takes to reach B
 #define trace(x)    cerr<<#x<<" : "<<x<<endl;
 #define trace2(x,y) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<endl;
 #define trace3(x,y,z) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<" | "<<#z<<" : "<<z<<endl;
-#define fast_io 	std::ios::sync_with_stdio(false),cin.tie(NULL),cout.tie(NULL)
+#define fast_io     std::ios::sync_with_stdio(false),cin.tie(NULL),cout.tie(NULL)
  
 using namespace std;
 
 map<int,vector<pi>> adj;
-map<int,bool> v;
 
 int minimumCostSimplePath(int s, int d)
 {
-    if (s == d)
-        return 0;
-    v[s] = 1;
- 
-    int ans = INT_MAX;
-    for (auto z : adj[s]) {
-        if (!v[z.F]) {
-            int curr = minimumCostSimplePath(z.F,
-                        d);
-            ans = min(ans, z.S + curr);
-        }
+    map<int,int> dist;
+    for(auto z: adj){
+        dist[z.F] = INT_MAX;
     }
-    v[s] = 0;
- 
-    return ans;
-}
 
-bool dfs(int s, int d){
-    if(s == d) return true;
-    else{
-        bool f = false;
-        for(auto m : adj[s]){
-            f = dfs(m.F,d);
-            if(f) break;
+    priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+
+    pq.push(make_pair(0, s));
+    dist[s] = 0;
+
+    while(!pq.empty())
+    {
+        int u = pq.top().second;
+        pq.pop();
+
+        for(int i = 0; i < adj[u].size(); i++)
+        {
+            int v = adj[u][i].first;
+            int weight = adj[u][i].second;
+            if (dist[v] > dist[u] + weight)
+            {
+                dist[v] = dist[u] + weight;
+                pq.push(make_pair(dist[v], v));
+            }
         }
-        return f;
     }
+    return dist[d];
 }
 
 int main()
 {
-	fast_io;
+    fast_io;
     int e,n;
     cin >> e;
-    FOR(i,e) { int f; cin >>f; adj[f] = vector<pi>(); v[f] = false; }
+    FOR(i,e) { int f; cin >>f; adj[f] = vector<pi>(); }
     cin >> n;
     FOR(i,n) {
         int a,b,t;
