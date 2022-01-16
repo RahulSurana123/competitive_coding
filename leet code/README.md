@@ -74,6 +74,7 @@
 -  [ Lowest Common Ancestor of a Binary Tree ](.%2FLowest%2520Common%2520Ancestor%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Making A Large Island ](.%2FMaking%2520A%2520Large%2520Island.cpp) 
 -  [ Maximal Square ](.%2FMaximal%2520Square.cpp) 
+-  [ Maximize Distance to Closest Person ](.%2FMaximize%2520Distance%2520to%2520Closest%2520Person.cpp) 
 -  [ Maximum Matrix Sum ](.%2FMaximum%2520Matrix%2520Sum.cpp) 
 -  [ Maximum Product Difference Between Two Pairs ](.%2FMaximum%2520Product%2520Difference%2520Between%2520Two%2520Pairs.cpp) 
 -  [ Maximum Subarray Min-Product ](.%2FMaximum%2520Subarray%2520Min-Product.cpp) 
@@ -144,4 +145,4 @@
 -  [ Valid Sudoku ](.%2FValid%2520Sudoku.cpp) 
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 139
+### Total Code Count : 140

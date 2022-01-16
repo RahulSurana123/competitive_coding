@@ -26,5 +26,6 @@
 -  [ READM ](.%2FREADME.md) 
 -  [ Reorder List ](.%2FReorder%2520List.cpp) 
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
+-  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 22
+### Total Code Count : 23
