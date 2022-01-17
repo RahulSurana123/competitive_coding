@@ -21,6 +21,7 @@
 -  [ Multiply two strings ](.%2FMultiply%2520two%2520strings.cpp) 
 -  [ N Digit numbers with digits in increasing order ](.%2FN%2520Digit%2520numbers%2520with%2520digits%2520in%2520increasing%2520order.cpp) 
 -  [ Number of Unique Paths ](.%2FNumber%2520of%2520Unique%2520Paths.cpp) 
+-  [ Palindrome Pairs ](.%2FPalindrome%2520Pairs.cpp) 
 -  [ Positive Negative Pair ](.%2FPositive%2520Negative%2520Pair.cpp) 
 -  [ readme Generation ](.%2Freadme%2520Generation.py) 
 -  [ READM ](.%2FREADME.md) 
@@ -28,4 +29,4 @@
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
 -  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 23
+### Total Code Count : 24
