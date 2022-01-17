@@ -17,8 +17,6 @@ The initial and the target position co-ordinates of Knight have been given accor
 */
 
 
-#include <bits/stdc++.h>
-
 // { Driver Code Starts
 #include<bits/stdc++.h>
 using namespace std;
