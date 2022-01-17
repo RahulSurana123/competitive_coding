@@ -144,5 +144,6 @@
 -  [ Unique Paths ](.%2FUnique%2520Paths.cpp) 
 -  [ Valid Sudoku ](.%2FValid%2520Sudoku.cpp) 
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
+-  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 140
+### Total Code Count : 141
