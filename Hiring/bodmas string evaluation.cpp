@@ -18,52 +18,126 @@
 
 using namespace std;
 
-int main()
-{
-    fast_io;
-
-    string s;
-    cin >> s;
-    int i = 0;
-    vector<double> nums;
-    vector<char> e; 
-    while(i < s.length()){
-        string x;
-        while(i < s.length() && s[i] >= '0' && s[i] <= '9') x += s[i++];
-        double z = (double)stoi(x);
-        nums.push_back(z);
-        while(i < s.length() && !(s[i] >= '0' && s[i] <= '9')) e.push_back(s[i++]);
+ 
+// Function to find precedence of
+// operators.
+int precedence(char op){
+    if(op == '+'||op == '-')
+    return 1;
+    if(op == '*'||op == '/')
+    return 2;
+    return 0;
+}
+ 
+// Function to perform arithmetic operations.
+int applyOp(int a, int b, char op){
+    switch(op){
+        case '+': return a + b;
+        case '-': return a - b;
+        case '*': return a * b;
+        case '/': return a / b;
     }
-    stack<double> n;
-    stack<char> o;
-
-    // vector<int> eindex(expersion.size());
-    // for(int j = 0 ; j < expersion.size(); j++){
-    //     eindex[j] = j;
-    // }
-    string a = "-+*/";
-    // double ans = 0;
-    double last;
-    for(int j = 0; j < a.length(); j++){
-        for(int k = 0; k < e.size(); k++){
-            if(e[k] == a[j]) { n.push(nums[k+1]); last = nums[k]; o.push(a[j]); } 
+}
+ 
+// Function that returns value of
+// expression after evaluation.
+int evaluate(string tokens){
+    int i;
+     
+    // stack to store integer values.
+    stack <int> values;
+     
+    // stack to store operators.
+    stack <char> ops;
+     
+    for(i = 0; i < tokens.length(); i++){
+         
+        if(tokens[i] == ' ')
+            continue;
+         
+        else if(tokens[i] == '('){
+            ops.push(tokens[i]);
+        }
+         
+        else if(isdigit(tokens[i])){
+            int val = 0;
+             
+            while(i < tokens.length() &&
+                        isdigit(tokens[i]))
+            {
+                val = (val*10) + (tokens[i]-'0');
+                i++;
+            }
+            cout << val <<" pushed in values \n";
+            values.push(val);
+              i--;
+        }
+         
+        else if(tokens[i] == ')')
+        {   cout << ") encountered solving the thing";
+            while(!ops.empty() && ops.top() != '(')
+            {
+                int val2 = values.top();
+                values.pop();
+                 
+                int val1 = values.top();
+                values.pop();
+                 
+                char op = ops.top();
+                ops.pop();
+                int z;
+                values.push(z = applyOp(val1, val2, op));
+                cout << val1 << " " << op <<" "<< val2 << " " << z <<"\n";
+            }
+             
+            if(!ops.empty())
+               ops.pop();
+        }
+         
+        else
+        {
+            while(!ops.empty() && precedence(ops.top())
+                                >= precedence(tokens[i])){
+                int val2 = values.top();
+                values.pop();
+                 
+                int val1 = values.top();
+                values.pop();
+                 
+                char op = ops.top();
+                ops.pop();
+                int z; 
+                values.push(z = applyOp(val1, val2, op));
+                cout << val1 << " " << op <<" "<< val2 << " " << z <<"\n";
+            }
+             
+            ops.push(tokens[i]);
         }
     }
-    n.push(last);
-    while(n.size()>1){
-        double l = n.top();
-        n.pop();
-        double m = n.top();
-        n.pop();
-        char f = o.top();
-        o.pop();
-        // cout << l <<" "<<m <<" "<< f <<"\n";
-        if(f == '/') n.push((double)(m/l));
-        if(f == '*') n.push((double)(m*l));
-        if(f == '+') n.push((double)(m+l));
-        if(f == '-') n.push((double)(m-l));
-    }
-    double ans = n.top();
-    cout << ans;
+     
+    while(!ops.empty()){
+        int val2 = values.top();
+        values.pop();
+                 
+        int val1 = values.top();
+        values.pop();
+                 
+        char op = ops.top();
+        ops.pop();
 
+        int z;
+        values.push(z = applyOp(val1, val2, op));
+        cout << val1 << " " << op <<" "<< val2 << " " << z <<"\n";    
+    }
+     
+    // Top of 'values' contains result, return it.
+    return values.top();
+}
+ 
+int main() {
+    // cout << evaluate("10 + 2 * 6") << "\n";
+    // cout << evaluate("100 * 2 + 12") << "\n";
+    // cout << evaluate("100 * ( 2 + 12 )") << "\n";
+    cout << evaluate("100 * ( 2 + 12 ) / 14");
+    return 0;
 }
