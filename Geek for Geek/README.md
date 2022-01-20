@@ -9,6 +9,7 @@
 -  [ Add 1 to a number represented as linked list ](.%2FAdd%25201%2520to%2520a%2520number%2520represented%2520as%2520linked%2520list.cpp) 
 -  [ Add all greater values to every node in a BST  ](.%2FAdd%2520all%2520greater%2520values%2520to%2520every%2520node%2520in%2520a%2520BST%2520.cpp) 
 -  [ Binary Array Sorting  ](.%2FBinary%2520Array%2520Sorting%2520.cpp) 
+-  [ Binary number to decimal number ](.%2FBinary%2520number%2520to%2520decimal%2520number.cpp) 
 -  [ Boundary Traversal of binary tree ](.%2FBoundary%2520Traversal%2520of%2520binary%2520tree.cpp) 
 -  [ Check if subtree ](.%2FCheck%2520if%2520subtree.cpp) 
 -  [ Clone a stack without using extra space ](.%2FClone%2520a%2520stack%2520without%2520using%2520extra%2520space.cpp) 
@@ -31,4 +32,4 @@
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
 -  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 26
+### Total Code Count : 27
