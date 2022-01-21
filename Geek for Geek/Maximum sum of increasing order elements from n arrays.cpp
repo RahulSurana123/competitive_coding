@@ -10,11 +10,10 @@ Given n arrays of size m each.
 Find maximum sum obtained by selecting a number from each array such that 
 the element selected from the i-th array is more than the element selected from (i-1)-th array. 
 If maximum sum cannot be obtained then return 0.
-
  
 
 
-    ***********************************************************
+    *********************************************************** 
 
 
 */
