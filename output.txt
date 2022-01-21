@@ -1,8 +1,1 @@
-100 pushed in values 
-2 pushed in values 
-12 pushed in values 
-) encountered solving the thing2 + 12 14
-100 * 14 1400
-14 pushed in values 
-1400 / 14 100
-100
+2
