@@ -13,6 +13,7 @@
 -  [ Boundary Traversal of binary tree ](.%2FBoundary%2520Traversal%2520of%2520binary%2520tree.cpp) 
 -  [ Check if subtree ](.%2FCheck%2520if%2520subtree.cpp) 
 -  [ Clone a stack without using extra space ](.%2FClone%2520a%2520stack%2520without%2520using%2520extra%2520space.cpp) 
+-  [ Distinct palindromic substrings ](.%2FDistinct%2520palindromic%2520substrings.cpp) 
 -  [ Egg Dropping Puzzle ](.%2FEgg%2520Dropping%2520Puzzle.cpp) 
 -  [ Find the number of islands ](.%2FFind%2520the%2520number%2520of%2520islands.cpp) 
 -  [ Gold Mine Problem ](.%2FGold%2520Mine%2520Problem.cpp) 
@@ -34,4 +35,4 @@
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
 -  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 29
+### Total Code Count : 30
