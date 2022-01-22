@@ -130,6 +130,7 @@
 -  [ Smallest String Starting From Leaf ](.%2FSmallest%2520String%2520Starting%2520From%2520Leaf.cpp) 
 -  [ Sort Characters By Frequency ](.%2FSort%2520Characters%2520By%2520Frequency.cpp) 
 -  [ Split Linked List in Parts ](.%2FSplit%2520Linked%2520List%2520in%2520Parts.cpp) 
+-  [ Stone Game IV ](.%2FStone%2520Game%2520IV.cpp) 
 -  [ String to Integer (atoi) ](.%2FString%2520to%2520Integer%2520%28atoi%29.cpp) 
 -  [ Subtree of Another Tree ](.%2FSubtree%2520of%2520Another%2520Tree.cpp) 
 -  [ Sum of Distances in Tree ](.%2FSum%2520of%2520Distances%2520in%2520Tree.cpp) 
@@ -150,4 +151,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 145
+### Total Code Count : 146
