@@ -14,8 +14,8 @@
 |    [ hackerearth ](./hackerearth)     |      25    |
 |    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Hiring ](./Hiring)     |      41    |
-|    [ leet code ](./leet%20code)     |      144    |
+|    [ leet code ](./leet%20code)     |      145    |
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      3    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver’s SDE Sheet ](./Striver’s%20SDE%20Sheet)     |      13    |
-### Total Code Count : 438
+### Total Code Count : 439
