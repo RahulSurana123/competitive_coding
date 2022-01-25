@@ -24,6 +24,7 @@
 -  [ Minimum addition ](.%2FMinimum%2520addition.cpp) 
 -  [ minimum Operations ](.%2Fminimum%2520Operations.cpp) 
 -  [ multiplication queries. ](.%2Fmultiplication%2520queries.java) 
+-  [ Odd one out ](.%2FOdd%2520one%2520out.cpp) 
 -  [ Path MEX ](.%2FPath%2520MEX.py) 
 -  [ Platform Jumps ](.%2FPlatform%2520Jumps.cpp) 
 -  [ Practice for ThoughtWorks ](.%2FPractice%2520for%2520ThoughtWorks.cpp) 
@@ -46,4 +47,4 @@
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 41
+### Total Code Count : 42
