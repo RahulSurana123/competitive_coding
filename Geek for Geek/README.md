@@ -11,6 +11,7 @@
 -  [ Binary Array Sorting  ](.%2FBinary%2520Array%2520Sorting%2520.cpp) 
 -  [ Binary number to decimal number ](.%2FBinary%2520number%2520to%2520decimal%2520number.cpp) 
 -  [ Boundary Traversal of binary tree ](.%2FBoundary%2520Traversal%2520of%2520binary%2520tree.cpp) 
+-  [ Capacity To Ship Packages Within D Days ](.%2FCapacity%2520To%2520Ship%2520Packages%2520Within%2520D%2520Days.cpp) 
 -  [ Check if subtree ](.%2FCheck%2520if%2520subtree.cpp) 
 -  [ Clone a stack without using extra space ](.%2FClone%2520a%2520stack%2520without%2520using%2520extra%2520space.cpp) 
 -  [ Distinct palindromic substrings ](.%2FDistinct%2520palindromic%2520substrings.cpp) 
@@ -26,6 +27,7 @@
 -  [ Merge two binary Max heaps ](.%2FMerge%2520two%2520binary%2520Max%2520heaps.cpp) 
 -  [ Multiply two strings ](.%2FMultiply%2520two%2520strings.cpp) 
 -  [ N Digit numbers with digits in increasing order ](.%2FN%2520Digit%2520numbers%2520with%2520digits%2520in%2520increasing%2520order.cpp) 
+-  [ Next Permutation ](.%2FNext%2520Permutation.cpp) 
 -  [ Number of Unique Paths ](.%2FNumber%2520of%2520Unique%2520Paths.cpp) 
 -  [ Palindrome Pairs ](.%2FPalindrome%2520Pairs.cpp) 
 -  [ Positive Negative Pair ](.%2FPositive%2520Negative%2520Pair.cpp) 
@@ -35,4 +37,4 @@
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
 -  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 30
+### Total Code Count : 32
