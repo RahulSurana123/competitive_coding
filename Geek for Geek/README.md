@@ -17,6 +17,7 @@
 -  [ Distinct palindromic substrings ](.%2FDistinct%2520palindromic%2520substrings.cpp) 
 -  [ Egg Dropping Puzzle ](.%2FEgg%2520Dropping%2520Puzzle.cpp) 
 -  [ Find the number of islands ](.%2FFind%2520the%2520number%2520of%2520islands.cpp) 
+-  [ Gadgets of Doraland ](.%2FGadgets%2520of%2520Doraland.cpp) 
 -  [ Gold Mine Problem ](.%2FGold%2520Mine%2520Problem.cpp) 
 -  [ Height of Binary Tree ](.%2FHeight%2520of%2520Binary%2520Tree.cpp) 
 -  [ Leaves to DLL ](.%2FLeaves%2520to%2520DLL.cpp) 
@@ -37,4 +38,4 @@
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
 -  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 32
+### Total Code Count : 33

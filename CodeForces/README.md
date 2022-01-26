@@ -30,6 +30,7 @@
 -  [ Gregor and Cryptography ](.%2FGregor%2520and%2520Cryptography.cpp) 
 -  [ Gregor and the Pawn Game ](.%2FGregor%2520and%2520the%2520Pawn%2520Game.cpp) 
 -  [ Integers Have Friends ](.%2FIntegers%2520Have%2520Friends.cpp) 
+-  [ Intercepted Message ](.%2FIntercepted%2520Message.cpp) 
 -  [ k-Tree ](.%2Fk-Tree.cpp) 
 -  [ Life of a Flower ](.%2FLife%2520of%2520a%2520Flower.cpp) 
 -  [ Long Comparison ](.%2FLong%2520Comparison.cpp) 
@@ -53,6 +54,7 @@
 -  [ Serval and Parenthesis Sequence ](.%2FServal%2520and%2520Parenthesis%2520Sequence.cpp) 
 -  [ Simply Strange Sort ](.%2FSimply%2520Strange%2520Sort.cpp) 
 -  [ Skier ](.%2FSkier.cpp) 
+-  [ Splits ](.%2FSplits.cpp) 
 -  [ Spreadsheets ](.%2FSpreadsheets.cpp) 
 -  [ Subsequence Permutation ](.%2FSubsequence%2520Permutation.cpp) 
 -  [ Suffix Three ](.%2FSuffix%2520Three.cpp) 
@@ -61,4 +63,4 @@
 -  [ Vanya and Lanterns ](.%2FVanya%2520and%2520Lanterns.cpp) 
 -  [ Windblume Ode ](.%2FWindblume%2520Ode.cpp) 
 -  [ Yet Another Sorting Problem ](.%2FYet%2520Another%2520Sorting%2520Problem.cpp) 
-### Total Code Count : 56
+### Total Code Count : 58
