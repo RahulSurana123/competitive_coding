@@ -15,6 +15,8 @@
 -  [ Faulty Keyboard ](.%2FFaulty%2520Keyboard.cpp) 
 -  [ Find Reachability ](.%2FFind%2520Reachability.cpp) 
 -  [ Flower Garland ](.%2FFlower%2520Garland.cpp) 
+-  [ Good String Selection ](.%2FGood%2520String%2520Selection.cpp) 
+-  [ Largest Subset ](.%2FLargest%2520Subset.cpp) 
 -  [ Learn JS ](.%2FLearn%2520JS.cpp) 
 -  [ Locking The Tree of Space ](.%2FLocking%2520The%2520Tree%2520of%2520Space.cpp) 
 -  [ Maximum pairs ](.%2FMaximum%2520pairs.py) 
@@ -47,4 +49,4 @@
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 42
+### Total Code Count : 44
