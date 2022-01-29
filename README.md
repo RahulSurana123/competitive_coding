@@ -3,7 +3,7 @@
 ### Going To Update This Repo Time To Time As I Continue My Journey To Competitive Programming
 ### Please Do Star mark the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together
 -  [ Whatsapp Group Link ](https://chat.whatsapp.com/FUV7H9SIBYKD3C5tgDluI6) 
-### HYPERLINK To Code
+### HYPERLINK To Code. 
 ***
 | Platform  |  Problem Count |
 | --------  |  ------------- |
