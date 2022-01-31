@@ -8,6 +8,7 @@
 -  [ 3Sum ](.%2F3Sum.cpp) 
 -  [ Add Binary ](.%2FAdd%2520Binary.cpp) 
 -  [ All Elements in Two Binary Search Trees ](.%2FAll%2520Elements%2520in%2520Two%2520Binary%2520Search%2520Trees.cpp) 
+-  [ aximum XOR of Two Numbers in an Array ](.%2Faximum%2520XOR%2520of%2520Two%2520Numbers%2520in%2520an%2520Array.cpp) 
 -  [ Beautiful Arrangement ](.%2FBeautiful%2520Arrangement.cpp) 
 -  [ Best Time to Buy and Sell Stock II ](.%2FBest%2520Time%2520to%2520Buy%2520and%2520Sell%2520Stock%2520II.cpp) 
 -  [ Best Time to Buy and Sell Stock III ](.%2FBest%2520Time%2520to%2520Buy%2520and%2520Sell%2520Stock%2520III.cpp) 
@@ -122,6 +123,7 @@
 -  [ Remove Nth Node From End of List ](.%2FRemove%2520Nth%2520Node%2520From%2520End%2520of%2520List.cpp) 
 -  [ Reorder List ](.%2FReorder%2520List.cpp) 
 -  [ Reverse String ](.%2FReverse%2520String.cpp) 
+-  [ Richest Customer Wealth ](.%2FRichest%2520Customer%2520Wealth.cpp) 
 -  [ Robot Bounded In Circle ](.%2FRobot%2520Bounded%2520In%2520Circle.cpp) 
 -  [ Rotate Array ](.%2FRotate%2520Array.cpp) 
 -  [ Rotate Image ](.%2FRotate%2520Image.cpp) 
@@ -159,4 +161,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 154
+### Total Code Count : 156
