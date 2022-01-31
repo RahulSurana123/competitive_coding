@@ -56,13 +56,13 @@ using namespace std;
 int main()
 {
 	fast_io;
-    int t;
-    cin >> t;
+    int t=1;
+    // cin >> t;
     while(t--) {
         int n;
-        cin >> n;
-        vector<int> ar(n);
-        FOR(i,n) { cin >> ar[i]; }
-        cout << dp[0] <<"\n";
+        // cin >> n;
+        // vector<int> ar(n);
+        // FOR(i,n) { cin >> ar[i]; }
+        cout << (1<<1) <<"\n";
     }
 }

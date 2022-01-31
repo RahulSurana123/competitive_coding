@@ -86,7 +86,6 @@ long long countWays (int N, vector<string> A) {
    ans += nCr(m['i'].size());
    ans += nCr(m['o'].size());
    ans += nCr(m['u'].size());
-   ans -= 
    
 //    long long ans = 0;
 //    for(int i = 0; i < N; i++){

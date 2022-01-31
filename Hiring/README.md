@@ -25,6 +25,7 @@
 -  [ MEX value ](.%2FMEX%2520value.cpp) 
 -  [ Minimum addition ](.%2FMinimum%2520addition.cpp) 
 -  [ minimum Operations ](.%2Fminimum%2520Operations.cpp) 
+-  [ Mismatched Payment ](.%2FMismatched%2520Payment.cpp) 
 -  [ multiplication queries. ](.%2Fmultiplication%2520queries.java) 
 -  [ Odd one out ](.%2FOdd%2520one%2520out.cpp) 
 -  [ Path MEX ](.%2FPath%2520MEX.py) 
@@ -43,10 +44,11 @@
 -  [ Stocks Profit and Loss ](.%2FStocks%2520Profit%2520and%2520Loss.sql) 
 -  [ Strange Sum ](.%2FStrange%2520Sum.cpp) 
 -  [ The Nagging React newbie ](.%2FThe%2520Nagging%2520React%2520newbie.cpp) 
+-  [ Timestamp ](.%2FTimestamp.cpp) 
 -  [ Traffic Lights Minimum Time ](.%2FTraffic%2520Lights%2520Minimum%2520Time.cpp) 
 -  [ Traffic Lights Second Minimum Time ](.%2FTraffic%2520Lights%2520Second%2520Minimum%2520Time.cpp) 
 -  [ Traffic Lights Shortest Route ](.%2FTraffic%2520Lights%2520Shortest%2520Route.cpp) 
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 44
+### Total Code Count : 46
