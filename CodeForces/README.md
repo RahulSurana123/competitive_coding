@@ -11,7 +11,6 @@
 -  [ BA-String ](.%2FBA-String.cpp) 
 -  [ Cheap Travel ](.%2FCheap%2520Travel.cpp) 
 -  [ Cherry ](.%2FCherry.cpp) 
--  [ CodeForces${file_base_name}.exe.stack ](.%2FCodeForces%24%7Bfile_base_name%7D.exe.stackdump) 
 -  [ Coin Rows ](.%2FCoin%2520Rows.cpp) 
 -  [ CQXYM Count Permutations ](.%2FCQXYM%2520Count%2520Permutations.cpp) 
 -  [ Crazy Robot ](.%2FCrazy%2520Robot.cpp) 
@@ -63,4 +62,4 @@
 -  [ Vanya and Lanterns ](.%2FVanya%2520and%2520Lanterns.cpp) 
 -  [ Windblume Ode ](.%2FWindblume%2520Ode.cpp) 
 -  [ Yet Another Sorting Problem ](.%2FYet%2520Another%2520Sorting%2520Problem.cpp) 
-### Total Code Count : 58
+### Total Code Count : 57
