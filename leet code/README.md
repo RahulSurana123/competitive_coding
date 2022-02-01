@@ -87,6 +87,7 @@
 -  [ Maximum Product Difference Between Two Pairs ](.%2FMaximum%2520Product%2520Difference%2520Between%2520Two%2520Pairs.cpp) 
 -  [ Maximum Subarray Min-Product ](.%2FMaximum%2520Subarray%2520Min-Product.cpp) 
 -  [ Maximum Subarray ](.%2FMaximum%2520Subarray.cpp) 
+-  [ Min Cost Climbing Stairs ](.%2FMin%2520Cost%2520Climbing%2520Stairs.cpp) 
 -  [ Min Stack ](.%2FMin%2520Stack.cpp) 
 -  [ Minimum Absolute Difference ](.%2FMinimum%2520Absolute%2520Difference.cpp) 
 -  [ Minimum Cost to Move Chips to The Same Position ](.%2FMinimum%2520Cost%2520to%2520Move%2520Chips%2520to%2520The%2520Same%2520Position.cpp) 
@@ -98,6 +99,7 @@
 -  [ Most Frequent Subtree Sum ](.%2FMost%2520Frequent%2520Subtree%2520Sum.cpp) 
 -  [ Move Zeroes ](.%2FMove%2520Zeroes.cpp) 
 -  [ Multiply Strings ](.%2FMultiply%2520Strings.cpp) 
+-  [ N-th Tribonacci Number ](.%2FN-th%2520Tribonacci%2520Number.cpp) 
 -  [ Next Greater Element I ](.%2FNext%2520Greater%2520Element%2520I.cpp) 
 -  [ Nth Magical Number ](.%2FNth%2520Magical%2520Number.cpp) 
 -  [ Number of Ways to Arrive at Destination ](.%2FNumber%2520of%2520Ways%2520to%2520Arrive%2520at%2520Destination.cpp) 
@@ -161,4 +163,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 156
+### Total Code Count : 158

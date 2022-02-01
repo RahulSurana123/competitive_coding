@@ -22,6 +22,7 @@
 -  [ Gold Mine Problem ](.%2FGold%2520Mine%2520Problem.cpp) 
 -  [ Handshakes ](.%2FHandshakes.cpp) 
 -  [ Height of Binary Tree ](.%2FHeight%2520of%2520Binary%2520Tree.cpp) 
+-  [ Implementing Dijkstra Algorithm ](.%2FImplementing%2520Dijkstra%2520Algorithm.cpp) 
 -  [ Leaves to DLL ](.%2FLeaves%2520to%2520DLL.cpp) 
 -  [ Longest Common Prefix in an Array ](.%2FLongest%2520Common%2520Prefix%2520in%2520an%2520Array.cpp) 
 -  [ Maximum sum of increasing order elements from n arrays ](.%2FMaximum%2520sum%2520of%2520increasing%2520order%2520elements%2520from%2520n%2520arrays.cpp) 
@@ -40,4 +41,4 @@
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
 -  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 35
+### Total Code Count : 36
