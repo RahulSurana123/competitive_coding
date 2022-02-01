@@ -24,23 +24,17 @@ return the maximum amount of money you can rob tonight without alerting the poli
 
 
 class Solution {
+
 public:
     
-    vector<int> dp;
-    
-    int ls(vector<int>& nums, int i){
-        if(i > nums.size()-1) return 0;
-        if(dp[i] != -1) return dp[i];
-        int m = nums[i];
-        for(int j = i+2; j < nums.size(); j++){
-            m = max(m,ls(nums,j)+nums[i]);
-        }
-        cout << m <<" " << i <<"\n";
-        return dp[i]=m;
-    }
-    
     int rob(vector<int>& nums) {
-        dp.resize(nums.size(),-1);
-        return max(ls(nums,0),ls(nums,1));
+        vector<int> dp(nums.size()+1,0);
+        if(nums.size()==1) return nums[0];
+        dp[0] = nums[0];
+        dp[1] = max(nums[0],nums[1]);
+        for(int i = 2; i < nums.size(); i++){
+            dp[i] = max(dp[i-1],nums[i]+dp[i-2]);
+        }
+        return dp[nums.size()-1];
     }
 };
