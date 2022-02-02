@@ -5,9 +5,11 @@
 -  [ Whatsapp Group Link ](https://chat.whatsapp.com/FUV7H9SIBYKD3C5tgDluI6) 
 ### HYPERLINK To Code
 ***
+-  [ Anti Palindrome ](.%2FAnti%2520Palindrome.cpp) 
 -  [ Appy and Contest ](.%2FAppy%2520and%2520Contest.cpp) 
 -  [ Array Filling ](.%2FArray%2520Filling.cpp) 
 -  [ Aujasvit and the Circle Game ](.%2FAujasvit%2520and%2520the%2520Circle%2520Game.cpp) 
+-  [ Avoid Contact ](.%2FAvoid%2520Contact.cpp) 
 -  [ Billiards ](.%2FBilliards.cpp) 
 -  [ Cheating Time ](.%2FCheating%2520Time.cpp) 
 -  [ Chef and Adventures ](.%2FChef%2520and%2520Adventures.cpp) 
@@ -22,6 +24,7 @@
 -  [ Count Subarrays ](.%2FCount%2520Subarrays.cpp) 
 -  [ Cricket Ranking ](.%2FCricket%2520Ranking.cpp) 
 -  [ Dance Moves ](.%2FDance%2520Moves.cpp) 
+-  [ Divisors and Reciprocals ](.%2FDivisors%2520and%2520Reciprocals.cpp) 
 -  [ Easy Fibonacci ](.%2FEasy%2520Fibonacci.cpp) 
 -  [ Even tuples ](.%2FEven%2520tuples.cpp) 
 -  [ Games of Wasseypur ](.%2FGames%2520of%2520Wasseypur.cpp) 
@@ -69,6 +72,7 @@
 -  [ Washing Windows ](.%2FWashing%2520Windows.cpp) 
 -  [ Xor Equality ](.%2FXor%2520Equality.cpp) 
 -  [ XxOoRr ](.%2FXxOoRr.cpp) 
+-  [ Yet Another Constructive Problem ](.%2FYet%2520Another%2520Constructive%2520Problem.cpp) 
 -  [ Yet Another Flipping Problem 2 ](.%2FYet%2520Another%2520Flipping%2520Problem%25202.cpp) 
 -  [ Zack And The Handkerchieves ](.%2FZack%2520And%2520The%2520Handkerchieves.cpp) 
-### Total Code Count : 66
+### Total Code Count : 70

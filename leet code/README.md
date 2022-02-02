@@ -36,6 +36,7 @@
 -  [ Cyclically Rotating a Grid ](.%2FCyclically%2520Rotating%2520a%2520Grid.cpp) 
 -  [ Daily Temperatures ](.%2FDaily%2520Temperatures.cpp) 
 -  [ Decode String ](.%2FDecode%2520String.cpp) 
+-  [ Delete and Earn ](.%2FDelete%2520and%2520Earn.cpp) 
 -  [ Delete Node in a BST ](.%2FDelete%2520Node%2520in%2520a%2520BST.cpp) 
 -  [ Detect Capital ](.%2FDetect%2520Capital.cpp) 
 -  [ Diameter of Binary Tree ](.%2FDiameter%2520of%2520Binary%2520Tree.cpp) 
@@ -43,6 +44,7 @@
 -  [ Distribute Coins in Binary Tree ](.%2FDistribute%2520Coins%2520in%2520Binary%2520Tree.cpp) 
 -  [ Domino and Tromino Tiling ](.%2FDomino%2520and%2520Tromino%2520Tiling.cpp) 
 -  [ Edit Distance ](.%2FEdit%2520Distance.cpp) 
+-  [ Find All Anagrams in a String ](.%2FFind%2520All%2520Anagrams%2520in%2520a%2520String.cpp) 
 -  [ Find All Duplicates in an Array ](.%2FFind%2520All%2520Duplicates%2520in%2520an%2520Array.cpp) 
 -  [ Find All Numbers Disappeared in an Array ](.%2FFind%2520All%2520Numbers%2520Disappeared%2520in%2520an%2520Array.cpp) 
 -  [ Find Minimum in Rotated Sorted Array II ](.%2FFind%2520Minimum%2520in%2520Rotated%2520Sorted%2520Array%2520II.cpp) 
@@ -163,4 +165,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 158
+### Total Code Count : 160
