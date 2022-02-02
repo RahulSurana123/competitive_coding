@@ -6,23 +6,24 @@
     ***********************************************************
 
 
-You are given an array a1,a2,…,an consisting of integers from 0 to 9. A subarray al,al+1,al+2,…,ar−1,ar is good if the sum of elements of this subarray is equal to the length of this subarray (∑i=lrai=r−l+1).
+Alice is teaching Bob maths via a game called N-guesser.
 
-For example, if a=[1,2,0], then there are 3 good subarrays: a1…1=[1],a2…3=[2,0] and a1…3=[1,2,0].
+Alice has a positive integer N which Bob needs to guess. She gives him two pieces of information with which to do this:
 
-Calculate the number of good subarrays of the array a.
+A positive integer X, which denotes the sum of divisors of N.
+Two positive integers A and B, which denote that the sum of reciprocals of divisors of N is A/B.
+Bob either needs to guess N or tell that no such number exists.
 
-Input
-The first line contains one integer t (1≤t≤1000) — the number of test cases.
+It can be shown that if a valid N exists, it is unique.
 
-The first line of each test case contains one integer n (1≤n≤105) — the length of the array a.
+Input Format:
 
-The second line of each test case contains a string consisting of n decimal digits, where the i-th digit is equal to the value of ai.
+The first line of input contains a single integer T, denoting the number of test cases. The description of T test cases follows.
+Each test case consists of a single line of input, containing three space-separated integers X,A,B.
 
-It is guaranteed that the sum of n over all test cases does not exceed 105.
+Output Format:
 
-Output
-For each test case print one integer — the number of good subarrays of the array a.
+For each test case, output a new line containing the answer — Alice's number N, or −1 if no such number exists.
 
 
 

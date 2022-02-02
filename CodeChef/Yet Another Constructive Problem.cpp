@@ -6,23 +6,26 @@
     ***********************************************************
 
 
-You are given an array a1,a2,…,an consisting of integers from 0 to 9. A subarray al,al+1,al+2,…,ar−1,ar is good if the sum of elements of this subarray is equal to the length of this subarray (∑i=lrai=r−l+1).
+You are given a positive integer X which is at most 108.
 
-For example, if a=[1,2,0], then there are 3 good subarrays: a1…1=[1],a2…3=[2,0] and a1…3=[1,2,0].
+Find three distinct non-negative integers A,B,C that do not exceed 109 and satisfy the following equation:
 
-Calculate the number of good subarrays of the array a.
+(A∣B)&(B∣C)&(C∣A)=X
+Here, ∣ denotes the bitwise OR operator and & denotes the bitwise AND operator.
 
-Input
-The first line contains one integer t (1≤t≤1000) — the number of test cases.
+It can be shown that a solution always exists for inputs satisfying the given constraints. 
+If there are multiple solutions, you may print any of them.
 
-The first line of each test case contains one integer n (1≤n≤105) — the length of the array a.
+Input Format:
 
-The second line of each test case contains a string consisting of n decimal digits, where the i-th digit is equal to the value of ai.
+The first line contains an integer T, the number of test cases. The description of T test cases follows.
+Each test case consists of a single line containing one integer, X.
 
-It is guaranteed that the sum of n over all test cases does not exceed 105.
+Output Format:
 
-Output
-For each test case print one integer — the number of good subarrays of the array a.
+For each test case, print on a new line three different space-separated integers A,B,C.
+Your output will be considered correct only if A,B,C are distinct non-negative integers not exceeding 109 that satisfy the equation given in the problem statement.
+If there are multiple solutions, you may print any of them.
 
 
 
