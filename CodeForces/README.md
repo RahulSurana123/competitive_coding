@@ -11,6 +11,7 @@
 -  [ BA-String ](.%2FBA-String.cpp) 
 -  [ Cheap Travel ](.%2FCheap%2520Travel.cpp) 
 -  [ Cherry ](.%2FCherry.cpp) 
+-  [ CodeForces${file_base_name}.exe.stack ](.%2FCodeForces%24%7Bfile_base_name%7D.exe.stackdump) 
 -  [ Coin Rows ](.%2FCoin%2520Rows.cpp) 
 -  [ CQXYM Count Permutations ](.%2FCQXYM%2520Count%2520Permutations.cpp) 
 -  [ Crazy Robot ](.%2FCrazy%2520Robot.cpp) 
@@ -58,8 +59,10 @@
 -  [ Subsequence Permutation ](.%2FSubsequence%2520Permutation.cpp) 
 -  [ Suffix Three ](.%2FSuffix%2520Three.cpp) 
 -  [ Technogoblet of Fire ](.%2FTechnogoblet%2520of%2520Fire.cpp) 
+-  [ The Artful Expedient ](.%2FThe%2520Artful%2520Expedient.cpp) 
+-  [ The Eternal Immortality ](.%2FThe%2520Eternal%2520Immortality.cpp) 
 -  [ Triangles on a Rectangle ](.%2FTriangles%2520on%2520a%2520Rectangle.cpp) 
 -  [ Vanya and Lanterns ](.%2FVanya%2520and%2520Lanterns.cpp) 
 -  [ Windblume Ode ](.%2FWindblume%2520Ode.cpp) 
 -  [ Yet Another Sorting Problem ](.%2FYet%2520Another%2520Sorting%2520Problem.cpp) 
-### Total Code Count : 57
+### Total Code Count : 60
