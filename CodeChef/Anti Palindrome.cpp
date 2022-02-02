@@ -6,23 +6,25 @@
     ***********************************************************
 
 
-You are given an array a1,a2,…,an consisting of integers from 0 to 9. A subarray al,al+1,al+2,…,ar−1,ar is good if the sum of elements of this subarray is equal to the length of this subarray (∑i=lrai=r−l+1).
+A (1-indexed) string S of length N is said to be anti-palindrome if, for each 1≤i≤N, Si≠S(N+1−i).
 
-For example, if a=[1,2,0], then there are 3 good subarrays: a1…1=[1],a2…3=[2,0] and a1…3=[1,2,0].
+You are given a string S of length N (consisting of lowercase Latin letters only). 
+Rearrange the string to convert it into an anti-palindrome or determine that there is no rearrangement which is an anti-palindrome.
 
-Calculate the number of good subarrays of the array a.
+If there are multiple rearrangements of the string which are anti-palindromic, print any of them.
 
-Input
-The first line contains one integer t (1≤t≤1000) — the number of test cases.
+Input Format:
 
-The first line of each test case contains one integer n (1≤n≤105) — the length of the array a.
+The first line of input contains a single integer T — the number of test cases. The description of T test cases follows.
+The first line of each test case contains an integer N — the length of the string S.
+The second line of each test case contains the string S.
 
-The second line of each test case contains a string consisting of n decimal digits, where the i-th digit is equal to the value of ai.
+Output Format:
 
-It is guaranteed that the sum of n over all test cases does not exceed 105.
-
-Output
-For each test case print one integer — the number of good subarrays of the array a.
+For each test case, if it is possible to rearrange S to convert it into an anti-palindrome, 
+print YES in the first line and print the rearranged string in the second line. Otherwise, print NO.
+You may print each character of YES and NO in uppercase or lowercase (for e.g. yes, yEs, Yes will be considered identical).
+If there are multiple rearrangements of the string which are anti-palindromic, print any of them.
 
 
 

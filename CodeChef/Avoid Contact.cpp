@@ -6,23 +6,25 @@
     ***********************************************************
 
 
-You are given an array a1,a2,…,an consisting of integers from 0 to 9. A subarray al,al+1,al+2,…,ar−1,ar is good if the sum of elements of this subarray is equal to the length of this subarray (∑i=lrai=r−l+1).
+A hostel has N rooms in a straight line. It has to accommodate X people. 
+Unfortunately, out of these X people, Y of them are infected with chickenpox. 
+Due to safety norms, the following precaution must be taken:
 
-For example, if a=[1,2,0], then there are 3 good subarrays: a1…1=[1],a2…3=[2,0] and a1…3=[1,2,0].
+No person should occupy a room directly adjacent to a room occupied by a chickenpox-infected person. 
+In particular, two chickenpox-infected people cannot occupy adjacent rooms.
+For example, if room 4 has a chickenpox-infected person, then nobody should occupy rooms 3 and 5. 
+Similarly, if room 1 has a chickenpox-infected person then nobody should occupy room 2.
 
-Calculate the number of good subarrays of the array a.
+What's the minimum value of N for which all the people can be accommodated in the hostel, following the above condition?
 
-Input
-The first line contains one integer t (1≤t≤1000) — the number of test cases.
+Input Format:
 
-The first line of each test case contains one integer n (1≤n≤105) — the length of the array a.
+The first line of input contains a single integer T — the number of test cases. The description of T test cases follows.
+The first and only line of each test case contains two integers X and Y — the total number of people and the number of chickenpox-infected people.
 
-The second line of each test case contains a string consisting of n decimal digits, where the i-th digit is equal to the value of ai.
+Output Format:
 
-It is guaranteed that the sum of n over all test cases does not exceed 105.
-
-Output
-For each test case print one integer — the number of good subarrays of the array a.
+For each test case, output on a new line a single integer — the minimum value of N for which all the people can be accommodated in the hostel.
 
 
 
