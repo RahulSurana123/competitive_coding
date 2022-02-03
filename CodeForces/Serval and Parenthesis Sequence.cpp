@@ -90,7 +90,6 @@ int main()
                 else f = true;
             }
         }
-        if(f)
         if(ss.size()>0){
             cout <<":(";
         }
