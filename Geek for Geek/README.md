@@ -17,6 +17,7 @@
 -  [ Cousins of a given node ](.%2FCousins%2520of%2520a%2520given%2520node.cpp) 
 -  [ Distinct palindromic substrings ](.%2FDistinct%2520palindromic%2520substrings.cpp) 
 -  [ Egg Dropping Puzzle ](.%2FEgg%2520Dropping%2520Puzzle.cpp) 
+-  [ Excel Sheet Part - 1 ](.%2FExcel%2520Sheet%2520Part%2520-%25201.cpp) 
 -  [ Find position of set bit ](.%2FFind%2520position%2520of%2520set%2520bit.cpp) 
 -  [ Find the number of islands ](.%2FFind%2520the%2520number%2520of%2520islands.cpp) 
 -  [ Gadgets of Doraland ](.%2FGadgets%2520of%2520Doraland.cpp) 
@@ -40,6 +41,7 @@
 -  [ READM ](.%2FREADME.md) 
 -  [ Reorder List ](.%2FReorder%2520List.cpp) 
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
+-  [ Shortest Unique prefix for every word ](.%2FShortest%2520Unique%2520prefix%2520for%2520every%2520word.cpp) 
 -  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 37
+### Total Code Count : 39
