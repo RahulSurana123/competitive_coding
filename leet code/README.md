@@ -40,6 +40,7 @@
 -  [ Decode String ](.%2FDecode%2520String.cpp) 
 -  [ Delete and Earn ](.%2FDelete%2520and%2520Earn.cpp) 
 -  [ Delete Node in a BST ](.%2FDelete%2520Node%2520in%2520a%2520BST.cpp) 
+-  [ Design Bitset ](.%2FDesign%2520Bitset.cpp) 
 -  [ Detect Capital ](.%2FDetect%2520Capital.cpp) 
 -  [ Diameter of Binary Tree ](.%2FDiameter%2520of%2520Binary%2520Tree.cpp) 
 -  [ Distinct Subsequences ](.%2FDistinct%2520Subsequences.cpp) 
@@ -124,6 +125,7 @@
 -  [ readme Generation ](.%2Freadme%2520Generation.py) 
 -  [ READM ](.%2FREADME.md) 
 -  [ Recover a Tree From Preorder Traversal ](.%2FRecover%2520a%2520Tree%2520From%2520Preorder%2520Traversal.cpp) 
+-  [ Remove Duplicates from Sorted Array II ](.%2FRemove%2520Duplicates%2520from%2520Sorted%2520Array%2520II.cpp) 
 -  [ Remove Duplicates from Sorted Array ](.%2FRemove%2520Duplicates%2520from%2520Sorted%2520Array.cpp) 
 -  [ Remove Element ](.%2FRemove%2520Element.cpp) 
 -  [ Remove Linked List Elements ](.%2FRemove%2520Linked%2520List%2520Elements.cpp) 
@@ -142,7 +144,9 @@
 -  [ Single Number ](.%2FSingle%2520Number.cpp) 
 -  [ Slowest Key ](.%2FSlowest%2520Key.cpp) 
 -  [ Smallest String Starting From Leaf ](.%2FSmallest%2520String%2520Starting%2520From%2520Leaf.cpp) 
+-  [ Smallest Value of the Rearranged Number ](.%2FSmallest%2520Value%2520of%2520the%2520Rearranged%2520Number.cpp) 
 -  [ Sort Characters By Frequency ](.%2FSort%2520Characters%2520By%2520Frequency.cpp) 
+-  [ Sort Even and Odd Indices Independently ](.%2FSort%2520Even%2520and%2520Odd%2520Indices%2520Independently.cpp) 
 -  [ Split Linked List in Parts ](.%2FSplit%2520Linked%2520List%2520in%2520Parts.cpp) 
 -  [ Stone Game IV ](.%2FStone%2520Game%2520IV.cpp) 
 -  [ Stone Game ](.%2FStone%2520Game.cpp) 
@@ -168,4 +172,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 163
+### Total Code Count : 167
