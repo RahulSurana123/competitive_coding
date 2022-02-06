@@ -31,6 +31,7 @@
 -  [ Maximum sum of Non-adjacent nodes ](.%2FMaximum%2520sum%2520of%2520Non-adjacent%2520nodes.cpp) 
 -  [ Maximum XOR subarray ](.%2FMaximum%2520XOR%2520subarray.cpp) 
 -  [ Merge two binary Max heaps ](.%2FMerge%2520two%2520binary%2520Max%2520heaps.cpp) 
+-  [ Minimum Swaps to Sort ](.%2FMinimum%2520Swaps%2520to%2520Sort.cpp) 
 -  [ Multiply two strings ](.%2FMultiply%2520two%2520strings.cpp) 
 -  [ N Digit numbers with digits in increasing order ](.%2FN%2520Digit%2520numbers%2520with%2520digits%2520in%2520increasing%2520order.cpp) 
 -  [ Next Permutation ](.%2FNext%2520Permutation.cpp) 
@@ -45,4 +46,4 @@
 -  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 40
+### Total Code Count : 41
