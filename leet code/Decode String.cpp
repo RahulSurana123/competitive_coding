@@ -26,26 +26,29 @@ digits are only for those repeat numbers, k. For example, there won't be input l
 class Solution {
 public:
     string decodeString(const string& s, int& i) {
-        string res;
         
+        string ans = "";
+
         while (i < s.length() && s[i] != ']') {
-            if (!isdigit(s[i]))
-                res += s[i++];
+
+            if (s[i] >= '0' && s[i] <= '9')res += s[i++];
             else {
                 int n = 0;
-                while (i < s.length() && isdigit(s[i]))
-                    n = n * 10 + s[i++] - '0';
+                while (i < s.length() && s[i] >= '0' && s[i] <= '9'){
+                    n*=10;
+                    n+= s[i++] - '0';  
+                }
                     
-                i++; // '['
+                i++;
                 string t = decodeString(s, i);
-                i++; // ']'
-                
-                while (n-- > 0)
+                i++;
+                while (n > 0){
+                    n--;
                     res += t;
+                }
             }
         }
-        
-        return res;
+        return ans;
     }
 
     string decodeString(string s) {

@@ -55,9 +55,10 @@ int ans = 0;
 void df(int i, vector<int> ar, int s,int mc){
     if(i>=ar.size()) return;
     if(s>mc) return;
+    if(ans == mc) return;
     if(s<=mc) { ans = max(ans,s); if(s==mc) return; } 
     df(i+1,ar,s+ar[i],mc);
-    df(i+1,ar,s.mc);
+    df(i+1,ar,s,mc);
 }
 
 int main()
@@ -70,14 +71,7 @@ int main()
         cin >> n >> k;
         vector<int> ar(n);
         FOR(i,n) { cin >> ar[i]; }
-        // set<int> mc;
-        // for(int i = 0; i < n; i++){
-        //     int s = ar[i];
-        //     for(auto x: mc){
-
-        //     }
-
-        // }
+        df(0,ar,0,k);
         cout << ans <<" ";
     }
 }
