@@ -19,6 +19,7 @@
 -  [ Egg Dropping Puzzle ](.%2FEgg%2520Dropping%2520Puzzle.cpp) 
 -  [ Excel Sheet Part - 1 ](.%2FExcel%2520Sheet%2520Part%2520-%25201.cpp) 
 -  [ Find position of set bit ](.%2FFind%2520position%2520of%2520set%2520bit.cpp) 
+-  [ Find Prime numbers in a range ](.%2FFind%2520Prime%2520numbers%2520in%2520a%2520range.cpp) 
 -  [ Find the number of islands ](.%2FFind%2520the%2520number%2520of%2520islands.cpp) 
 -  [ Gadgets of Doraland ](.%2FGadgets%2520of%2520Doraland.cpp) 
 -  [ Gold Mine Problem ](.%2FGold%2520Mine%2520Problem.cpp) 
@@ -38,6 +39,7 @@
 -  [ Number of Unique Paths ](.%2FNumber%2520of%2520Unique%2520Paths.cpp) 
 -  [ Palindrome Pairs ](.%2FPalindrome%2520Pairs.cpp) 
 -  [ Positive Negative Pair ](.%2FPositive%2520Negative%2520Pair.cpp) 
+-  [ Postorder Traversal (Iterative) ](.%2FPostorder%2520Traversal%2520%28Iterative%29.cpp) 
 -  [ readme Generation ](.%2Freadme%2520Generation.py) 
 -  [ READM ](.%2FREADME.md) 
 -  [ Reorder List ](.%2FReorder%2520List.cpp) 
@@ -46,4 +48,4 @@
 -  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 41
+### Total Code Count : 43
