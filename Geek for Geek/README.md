@@ -49,4 +49,5 @@
 -  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
-### Total Code Count : 44
+-  [ XOR Game ](.%2FXOR%2520Game.cpp) 
+### Total Code Count : 45
