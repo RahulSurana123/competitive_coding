@@ -93,6 +93,7 @@
 -  [ Maximize Distance to Closest Person ](.%2FMaximize%2520Distance%2520to%2520Closest%2520Person.cpp) 
 -  [ Maximum Matrix Sum ](.%2FMaximum%2520Matrix%2520Sum.cpp) 
 -  [ Maximum Product Difference Between Two Pairs ](.%2FMaximum%2520Product%2520Difference%2520Between%2520Two%2520Pairs.cpp) 
+-  [ Maximum Score from Performing Multiplication Operations ](.%2FMaximum%2520Score%2520from%2520Performing%2520Multiplication%2520Operations.cpp) 
 -  [ Maximum Subarray Min-Product ](.%2FMaximum%2520Subarray%2520Min-Product.cpp) 
 -  [ Maximum Subarray ](.%2FMaximum%2520Subarray.cpp) 
 -  [ Merge k Sorted Lists ](.%2FMerge%2520k%2520Sorted%2520Lists.cpp) 
@@ -122,6 +123,7 @@
 -  [ Partition to K Equal Sum Subsets ](.%2FPartition%2520to%2520K%2520Equal%2520Sum%2520Subsets.cpp) 
 -  [ Path Sum III ](.%2FPath%2520Sum%2520III.cpp) 
 -  [ Perfect Squares ](.%2FPerfect%2520Squares.cpp) 
+-  [ Permutation in String ](.%2FPermutation%2520in%2520String.cpp) 
 -  [ Plus One ](.%2FPlus%2520One.cpp) 
 -  [ Power of Two ](.%2FPower%2520of%2520Two.cpp) 
 -  [ Range Sum of BST ](.%2FRange%2520Sum%2520of%2520BST.cpp) 
@@ -176,4 +178,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 171
+### Total Code Count : 173
