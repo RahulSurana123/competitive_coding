@@ -42,6 +42,7 @@
 -  [ Postorder Traversal (Iterative) ](.%2FPostorder%2520Traversal%2520%28Iterative%29.cpp) 
 -  [ readme Generation ](.%2Freadme%2520Generation.py) 
 -  [ READM ](.%2FREADME.md) 
+-  [ Remove leading zeros from an IP address ](.%2FRemove%2520leading%2520zeros%2520from%2520an%2520IP%2520address.cpp) 
 -  [ Reorder List ](.%2FReorder%2520List.cpp) 
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
 -  [ Shortest Unique prefix for every word ](.%2FShortest%2520Unique%2520prefix%2520for%2520every%2520word.cpp) 
@@ -50,4 +51,4 @@
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 45
+### Total Code Count : 46
