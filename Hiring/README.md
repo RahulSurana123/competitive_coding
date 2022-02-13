@@ -16,7 +16,9 @@
 -  [ Find Reachability ](.%2FFind%2520Reachability.cpp) 
 -  [ first_place ](.%2Ffirst_place.py) 
 -  [ Flower Garland ](.%2FFlower%2520Garland.cpp) 
+-  [ GCD Sum ](.%2FGCD%2520Sum.cpp) 
 -  [ Good String Selection ](.%2FGood%2520String%2520Selection.cpp) 
+-  [ Jump to N ](.%2FJump%2520to%2520N.cpp) 
 -  [ Largest Subset ](.%2FLargest%2520Subset.cpp) 
 -  [ Learn JS ](.%2FLearn%2520JS.cpp) 
 -  [ Locking The Tree of Space ](.%2FLocking%2520The%2520Tree%2520of%2520Space.cpp) 
@@ -28,6 +30,7 @@
 -  [ minimum Operations ](.%2Fminimum%2520Operations.cpp) 
 -  [ Mismatched Payment ](.%2FMismatched%2520Payment.cpp) 
 -  [ modulo_queries ](.%2Fmodulo_queries.py) 
+-  [ Multiple Count ](.%2FMultiple%2520Count.cpp) 
 -  [ multiplication queries. ](.%2Fmultiplication%2520queries.java) 
 -  [ Odd one out ](.%2FOdd%2520one%2520out.cpp) 
 -  [ Path MEX ](.%2FPath%2520MEX.py) 
@@ -53,4 +56,4 @@
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 48
+### Total Code Count : 51

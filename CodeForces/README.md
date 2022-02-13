@@ -37,6 +37,7 @@
 -  [ Maze ](.%2FMaze.cpp) 
 -  [ Mikasa ](.%2FMikasa.cpp) 
 -  [ Minimize Distance ](.%2FMinimize%2520Distance.cpp) 
+-  [ Minimum Difficulty of a Job Schedule ](.%2FMinimum%2520Difficulty%2520of%2520a%2520Job%2520Schedule.cpp) 
 -  [ Missing Bigram ](.%2FMissing%2520Bigram.cpp) 
 -  [ Moamen and k-subarrays ](.%2FMoamen%2520and%2520k-subarrays.cpp) 
 -  [ Moderate Modular Mode ](.%2FModerate%2520Modular%2520Mode.cpp) 
@@ -64,4 +65,4 @@
 -  [ Vanya and Lanterns ](.%2FVanya%2520and%2520Lanterns.cpp) 
 -  [ Windblume Ode ](.%2FWindblume%2520Ode.cpp) 
 -  [ Yet Another Sorting Problem ](.%2FYet%2520Another%2520Sorting%2520Problem.cpp) 
-### Total Code Count : 59
+### Total Code Count : 60

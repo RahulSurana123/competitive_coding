@@ -101,6 +101,7 @@
 -  [ Min Stack ](.%2FMin%2520Stack.cpp) 
 -  [ Minimum Absolute Difference ](.%2FMinimum%2520Absolute%2520Difference.cpp) 
 -  [ Minimum Cost to Move Chips to The Same Position ](.%2FMinimum%2520Cost%2520to%2520Move%2520Chips%2520to%2520The%2520Same%2520Position.cpp) 
+-  [ Minimum Difficulty of a Job Schedule ](.%2FMinimum%2520Difficulty%2520of%2520a%2520Job%2520Schedule.cpp) 
 -  [ Minimum Height Trees ](.%2FMinimum%2520Height%2520Trees.cpp) 
 -  [ Minimum Number of Arrows to Burst Balloons ](.%2FMinimum%2520Number%2520of%2520Arrows%2520to%2520Burst%2520Balloons.cpp) 
 -  [ Minimum Path Sum ](.%2FMinimum%2520Path%2520Sum.cpp) 
@@ -157,6 +158,7 @@
 -  [ Stone Game ](.%2FStone%2520Game.cpp) 
 -  [ String to Integer (atoi) ](.%2FString%2520to%2520Integer%2520%28atoi%29.cpp) 
 -  [ Subarray Sum Equals K ](.%2FSubarray%2520Sum%2520Equals%2520K.cpp) 
+-  [ Subsets ](.%2FSubsets.cpp) 
 -  [ Subtree of Another Tree ](.%2FSubtree%2520of%2520Another%2520Tree.cpp) 
 -  [ Sum of Distances in Tree ](.%2FSum%2520of%2520Distances%2520in%2520Tree.cpp) 
 -  [ Sum of Left Leaves ](.%2FSum%2520of%2520Left%2520Leaves.cpp) 
@@ -178,4 +180,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 173
+### Total Code Count : 175
