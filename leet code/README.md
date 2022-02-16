@@ -25,6 +25,7 @@
 -  [ Cheapest Flights Within K Stops ](.%2FCheapest%2520Flights%2520Within%2520K%2520Stops.cpp) 
 -  [ Cherry Pickup II ](.%2FCherry%2520Pickup%2520II.cpp) 
 -  [ Climbing Stairs ](.%2FClimbing%2520Stairs.cpp) 
+-  [ Coin Change ](.%2FCoin%2520Change.cpp) 
 -  [ Complement of Base 10 Integer ](.%2FComplement%2520of%2520Base%252010%2520Integer.cpp) 
 -  [ Consecutive Characters ](.%2FConsecutive%2520Characters.cpp) 
 -  [ Construct Binary Search Tree from Preorder Traversal ](.%2FConstruct%2520Binary%2520Search%2520Tree%2520from%2520Preorder%2520Traversal.cpp) 
@@ -91,6 +92,7 @@
 -  [ Making A Large Island ](.%2FMaking%2520A%2520Large%2520Island.cpp) 
 -  [ Maximal Square ](.%2FMaximal%2520Square.cpp) 
 -  [ Maximize Distance to Closest Person ](.%2FMaximize%2520Distance%2520to%2520Closest%2520Person.cpp) 
+-  [ Maximum Depth of Binary Tree ](.%2FMaximum%2520Depth%2520of%2520Binary%2520Tree.cpp) 
 -  [ Maximum Matrix Sum ](.%2FMaximum%2520Matrix%2520Sum.cpp) 
 -  [ Maximum Product Difference Between Two Pairs ](.%2FMaximum%2520Product%2520Difference%2520Between%2520Two%2520Pairs.cpp) 
 -  [ Maximum Score from Performing Multiplication Operations ](.%2FMaximum%2520Score%2520from%2520Performing%2520Multiplication%2520Operations.cpp) 
@@ -165,6 +167,7 @@
 -  [ Sum of Root To Leaf Binary Numbers ](.%2FSum%2520of%2520Root%2520To%2520Leaf%2520Binary%2520Numbers.cpp) 
 -  [ Sum Root to Leaf Numbers ](.%2FSum%2520Root%2520to%2520Leaf%2520Numbers.cpp) 
 -  [ Surrounded Regions ](.%2FSurrounded%2520Regions.cpp) 
+-  [ Swap Nodes in Pairs ](.%2FSwap%2520Nodes%2520in%2520Pairs.cpp) 
 -  [ Transform to Chessboard ](.%2FTransform%2520to%2520Chessboard.cpp) 
 -  [ Trapping Rain Water ](.%2FTrapping%2520Rain%2520Water.cpp) 
 -  [ Triangle ](.%2FTriangle.cpp) 
@@ -180,4 +183,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 175
+### Total Code Count : 178
