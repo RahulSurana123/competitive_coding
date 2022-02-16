@@ -8,6 +8,7 @@
 -  [ 1's Complement ](.%2F1%27s%2520Complement.cpp) 
 -  [ Add 1 to a number represented as linked list ](.%2FAdd%25201%2520to%2520a%2520number%2520represented%2520as%2520linked%2520list.cpp) 
 -  [ Add all greater values to every node in a BST  ](.%2FAdd%2520all%2520greater%2520values%2520to%2520every%2520node%2520in%2520a%2520BST%2520.cpp) 
+-  [ Anagram of String ](.%2FAnagram%2520of%2520String.cpp) 
 -  [ Binary Array Sorting  ](.%2FBinary%2520Array%2520Sorting%2520.cpp) 
 -  [ Binary number to decimal number ](.%2FBinary%2520number%2520to%2520decimal%2520number.cpp) 
 -  [ Boundary Traversal of binary tree ](.%2FBoundary%2520Traversal%2520of%2520binary%2520tree.cpp) 
@@ -18,8 +19,10 @@
 -  [ Distinct palindromic substrings ](.%2FDistinct%2520palindromic%2520substrings.cpp) 
 -  [ Egg Dropping Puzzle ](.%2FEgg%2520Dropping%2520Puzzle.cpp) 
 -  [ Excel Sheet Part - 1 ](.%2FExcel%2520Sheet%2520Part%2520-%25201.cpp) 
+-  [ Find Missing And Repeating ](.%2FFind%2520Missing%2520And%2520Repeating.cpp) 
 -  [ Find position of set bit ](.%2FFind%2520position%2520of%2520set%2520bit.cpp) 
 -  [ Find Prime numbers in a range ](.%2FFind%2520Prime%2520numbers%2520in%2520a%2520range.cpp) 
+-  [ Find rectangle with corners as 1 ](.%2FFind%2520rectangle%2520with%2520corners%2520as%25201.cpp) 
 -  [ Find the number of islands ](.%2FFind%2520the%2520number%2520of%2520islands.cpp) 
 -  [ Gadgets of Doraland ](.%2FGadgets%2520of%2520Doraland.cpp) 
 -  [ Gold Mine Problem ](.%2FGold%2520Mine%2520Problem.cpp) 
@@ -51,4 +54,4 @@
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 46
+### Total Code Count : 49
