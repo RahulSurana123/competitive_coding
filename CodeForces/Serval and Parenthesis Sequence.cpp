@@ -7,23 +7,37 @@
     ***********************************************************
 
 
-You are given an array a1,a2,…,an consisting of integers from 0 to 9. A subarray al,al+1,al+2,…,ar−1,ar is good if the sum of elements of this subarray is equal to the length of this subarray (∑i=lrai=r−l+1).
+Serval soon said goodbye to Japari kindergarten, and began his life in Japari Primary School.
 
-For example, if a=[1,2,0], then there are 3 good subarrays: a1…1=[1],a2…3=[2,0] and a1…3=[1,2,0].
+In his favorite math class, the teacher taught him the following interesting definitions.
 
-Calculate the number of good subarrays of the array a.
+A parenthesis sequence is a string, containing only characters "(" and ")".
 
-Input
-The first line contains one integer t (1≤t≤1000) — the number of test cases.
+A correct parenthesis sequence is a parenthesis sequence that can be transformed into 
+a correct arithmetic expression by inserting characters "1" and "+" between the original characters of the sequence. 
+For example, parenthesis sequences "()()", "(())" are correct (the resulting expressions are: "(1+1)+(1+1)", "((1+1)+1)"), while ")(" and ")" are not. 
+Note that the empty string is a correct parenthesis sequence by definition.
 
-The first line of each test case contains one integer n (1≤n≤105) — the length of the array a.
+We define that |s| as the length of string s. A strict prefix s[1…l] (1≤l<|s|) of a string s=s1s2…s|s| is string s1s2…sl. 
+Note that the empty string and the whole string are not strict prefixes of any string by the definition.
 
-The second line of each test case contains a string consisting of n decimal digits, where the i-th digit is equal to the value of ai.
+Having learned these definitions, he comes up with a new problem. He writes down a string s containing only characters "(", ")" and "?". 
+And what he is going to do, is to replace each of the "?" in s independently by one of "(" and ")" to make all strict 
+prefixes of the new sequence not a correct parenthesis sequence, while the new sequence should be a correct parenthesis sequence.
 
-It is guaranteed that the sum of n over all test cases does not exceed 105.
+After all, he is just a primary school student so this problem is too hard for him to solve. 
+As his best friend, can you help him to replace the question marks? If there are many solutions, any of them is acceptable.
 
-Output
-For each test case print one integer — the number of good subarrays of the array a.
+Input:
+
+The first line contains a single integer |s| (1≤|s|≤3⋅105), the length of the string.
+The second line contains a string s, containing only "(", ")" and "?".
+
+Output:
+
+A single line contains a string representing the answer.
+If there are many solutions, any of them is acceptable.
+If there is no answer, print a single line containing ":(" (without the quotes).
 
 
 
@@ -62,36 +76,30 @@ int main()
         cin >> n;
         string s;
         cin >> s;
+        int op=0,cl=0;
+        for(int i = 0; i < s.length(); i++){
+            if(s[i] == '(') op++;
+            else if(s[i] == ')') cl++;
+        }
+        if(cl > n/2 || op>n/2 || n%2 == 1) { cout << ":(";  return 0; }
+        for(int i = 0; i <  s.length(); i++){
+            if(op < n/2 && s[i] == '?') { s[i] = '('; op++;}
+            else if(s[i] == '?') s[i] = ')';
+        }
         stack<char> ss;
-        string ans;
-        bool f = false;
         for(int i = 0 ; i < n; i++){
             if(s[i] == '('){
-                if(f) break;
-                ans+=s[i];
                 ss.push(s[i]);
             }
             else if(s[i] == ')'){
-                if(f) { ans+='('; f = false;}
-                ans+=s[i];
-                ss.push(s[i]);
-            }
-            else{
-                if(ss.size()>0){
-                    if(ss.top() == '('){
-                        ans+=')';
-                        ss.pop();
-                    }
-                    else{
-                        ans+='(';
-                        ss.pop();
-                    }
-                }
-                else f = true;
+                if(ss.empty()) { cout << ":(";  return 0; }
+                ss.pop();
+                if( i != n-1 && ss.empty()) { cout << ":(";  return 0; }
             }
         }
-        if(ss.size()>0){
-            cout <<":(";
-        }
-        else cout << ans;
+        // if(ss.size()>0){
+        //     cout <<":(";
+        // }
+        // else
+        cout << s;
 }
