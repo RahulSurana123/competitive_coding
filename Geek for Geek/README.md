@@ -15,6 +15,7 @@
 -  [ Capacity To Ship Packages Within D Days ](.%2FCapacity%2520To%2520Ship%2520Packages%2520Within%2520D%2520Days.cpp) 
 -  [ Check if subtree ](.%2FCheck%2520if%2520subtree.cpp) 
 -  [ Clone a stack without using extra space ](.%2FClone%2520a%2520stack%2520without%2520using%2520extra%2520space.cpp) 
+-  [ Corona Vaccine ](.%2FCorona%2520Vaccine.cpp) 
 -  [ Cousins of a given node ](.%2FCousins%2520of%2520a%2520given%2520node.cpp) 
 -  [ Distinct palindromic substrings ](.%2FDistinct%2520palindromic%2520substrings.cpp) 
 -  [ Egg Dropping Puzzle ](.%2FEgg%2520Dropping%2520Puzzle.cpp) 
@@ -54,4 +55,4 @@
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 49
+### Total Code Count : 50
