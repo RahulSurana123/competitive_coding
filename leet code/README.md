@@ -137,6 +137,7 @@
 -  [ Remove Duplicates from Sorted Array II ](.%2FRemove%2520Duplicates%2520from%2520Sorted%2520Array%2520II.cpp) 
 -  [ Remove Duplicates from Sorted Array ](.%2FRemove%2520Duplicates%2520from%2520Sorted%2520Array.cpp) 
 -  [ Remove Element ](.%2FRemove%2520Element.cpp) 
+-  [ Remove K Digits ](.%2FRemove%2520K%2520Digits.cpp) 
 -  [ Remove Linked List Elements ](.%2FRemove%2520Linked%2520List%2520Elements.cpp) 
 -  [ Remove Nth Node From End of List ](.%2FRemove%2520Nth%2520Node%2520From%2520End%2520of%2520List.cpp) 
 -  [ Reorder List ](.%2FReorder%2520List.cpp) 
@@ -184,4 +185,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 179
+### Total Code Count : 180
