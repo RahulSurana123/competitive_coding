@@ -28,35 +28,32 @@ using namespace std;
 class Solution
 {
     public:
-    void dfs(int i, int j, int n, int m,vector<vector<char>> &grid){
-    	grid[i][j] = '0';
-    	if(i > 0 && grid[i-1][j] != '0') dfs(i-1,j,n,m,grid);
-    	if(i < n-1 && grid[i+1][j]!='0') dfs(i+1,j,n,m,grid);
-    	if(j > 0 && grid[i][j-1] != '0') dfs(i,j-1,n,m,grid);
-    	if(j < m-1 && grid[i][j+1] != '0') dfs(i,j+1,n,m,grid);
-    	if(i > 0 && j > 0 && grid[i-1][j-1]!='0') dfs(i-1,j-1,n,m,grid);
-    	if(i < n-1 && j > 0 && grid[i+1][j-1]!='0') dfs(i+1,j-1,n,m,grid);
-    	if(j < m-1 && i > 0 && grid[i-1][j+1]!='0') dfs(i-1,j+1,n,m,grid);
-    	if(j < m-1 && i < n-1 && grid[i+1][j+1]!='0') dfs(i+1,j+1,n,m,grid);
+    void dfs(int i, int j, vector<vector<char>>& grid,vector<vector<bool>>& v){
+        if(i>=grid.size() || j>=grid[0].size() || i< 0 || j <0 || grid[i][j] == '0') return;
+        if(v[i][j]) return;
+        v[i][j] = true;
+        dfs(i+1,j,grid,v);
+        dfs(i+1,j-1,grid,v);
+        dfs(i+1,j+1,grid,v);
+        dfs(i-1,j,grid,v);
+        dfs(i,j-1,grid,v);
+        dfs(i,j+1,grid,v);
+        dfs(i-1,j-1,grid,v);
+        dfs(i-1,j+1,grid,v);
     }
-    //Function to find the number of islands.
-    int numIslands(vector<vector<char>>& grid) 
-    {
-    	int c = 0;
-    	int n = grid.size();
-    	int m = grid[0].size();
-        for(int i = 0; i < n; i++){
-        	for(int j = 0; j < m; j++){
-        		if(grid[i][j] == '1') {
-        			dfs(i,j,n,m,grid);
-        			c++;
-        // 			for(int i = 0; i < n; i++){
-        // 	        for(int j = 0; j < m; j++){ cout << v[i][j] <<" ";} cout << "\n";}
-                    // cout<<""
-        		}
-        	}	
+    
+    int numIslands(vector<vector<char>>& grid) {
+        vector<vector<bool>> v(grid.size(),vector<bool>(grid[0].size(), false));
+        int ans = 0;
+        for(int i = 0; i < grid.size(); i++){
+            for(int j = 0; j < grid[0].size(); j++){
+                if(!v[i][j] && grid[i][j] == '1'){
+                    dfs(i,j,grid,v);
+                    ans++;
+                }
+            }
         }
-        return c; 
+        return ans;
     }
 };
 
