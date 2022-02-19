@@ -87,6 +87,7 @@
 -  [ Linked List Random Node ](.%2FLinked%2520List%2520Random%2520Node.cpp) 
 -  [ Longest Common Subsequence ](.%2FLongest%2520Common%2520Subsequence.cpp) 
 -  [ Longest Increasing Subsequence ](.%2FLongest%2520Increasing%2520Subsequence.cpp) 
+-  [ Longest Palindromic Substring ](.%2FLongest%2520Palindromic%2520Substring.cpp) 
 -  [ Longest Substring Without Repeating Characters ](.%2FLongest%2520Substring%2520Without%2520Repeating%2520Characters.cpp) 
 -  [ Longest Turbulent Subarray ](.%2FLongest%2520Turbulent%2520Subarray.cpp) 
 -  [ Lowest Common Ancestor of a Binary Tree ](.%2FLowest%2520Common%2520Ancestor%2520of%2520a%2520Binary%2520Tree.cpp) 
@@ -102,6 +103,7 @@
 -  [ Merge k Sorted Lists ](.%2FMerge%2520k%2520Sorted%2520Lists.cpp) 
 -  [ Min Cost Climbing Stairs ](.%2FMin%2520Cost%2520Climbing%2520Stairs.cpp) 
 -  [ Min Stack ](.%2FMin%2520Stack.cpp) 
+-  [ Minimize Deviation in Array ](.%2FMinimize%2520Deviation%2520in%2520Array.cpp) 
 -  [ Minimum Absolute Difference ](.%2FMinimum%2520Absolute%2520Difference.cpp) 
 -  [ Minimum Cost to Move Chips to The Same Position ](.%2FMinimum%2520Cost%2520to%2520Move%2520Chips%2520to%2520The%2520Same%2520Position.cpp) 
 -  [ Minimum Difficulty of a Job Schedule ](.%2FMinimum%2520Difficulty%2520of%2520a%2520Job%2520Schedule.cpp) 
@@ -185,4 +187,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 180
+### Total Code Count : 182
