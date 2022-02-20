@@ -37,6 +37,7 @@
 -  [ Platform Jumps ](.%2FPlatform%2520Jumps.cpp) 
 -  [ Practice for ThoughtWorks ](.%2FPractice%2520for%2520ThoughtWorks.cpp) 
 -  [ Query game ](.%2FQuery%2520game.py) 
+-  [ Re-sort ](.%2FRe-sort.cpp) 
 -  [ readme Generation ](.%2Freadme%2520Generation.py) 
 -  [ READM ](.%2FREADME.md) 
 -  [ Relevel test 2 ](.%2FRelevel%2520test%25202.cpp) 
@@ -49,6 +50,7 @@
 -  [ Stocks Profit and Loss ](.%2FStocks%2520Profit%2520and%2520Loss.sql) 
 -  [ Strange Sum ](.%2FStrange%2520Sum.cpp) 
 -  [ The Nagging React newbie ](.%2FThe%2520Nagging%2520React%2520newbie.cpp) 
+-  [ The playground ](.%2FThe%2520playground.cpp) 
 -  [ Timestamp ](.%2FTimestamp.cpp) 
 -  [ Traffic Lights Minimum Time ](.%2FTraffic%2520Lights%2520Minimum%2520Time.cpp) 
 -  [ Traffic Lights Second Minimum Time ](.%2FTraffic%2520Lights%2520Second%2520Minimum%2520Time.cpp) 
@@ -56,4 +58,4 @@
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 51
+### Total Code Count : 53
