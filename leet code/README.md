@@ -136,6 +136,7 @@
 -  [ readme Generation ](.%2Freadme%2520Generation.py) 
 -  [ READM ](.%2FREADME.md) 
 -  [ Recover a Tree From Preorder Traversal ](.%2FRecover%2520a%2520Tree%2520From%2520Preorder%2520Traversal.cpp) 
+-  [ Remove Covered Intervals ](.%2FRemove%2520Covered%2520Intervals.cpp) 
 -  [ Remove Duplicates from Sorted Array II ](.%2FRemove%2520Duplicates%2520from%2520Sorted%2520Array%2520II.cpp) 
 -  [ Remove Duplicates from Sorted Array ](.%2FRemove%2520Duplicates%2520from%2520Sorted%2520Array.cpp) 
 -  [ Remove Element ](.%2FRemove%2520Element.cpp) 
@@ -187,4 +188,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 182
+### Total Code Count : 183
