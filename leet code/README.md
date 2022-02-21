@@ -91,6 +91,7 @@
 -  [ Longest Substring Without Repeating Characters ](.%2FLongest%2520Substring%2520Without%2520Repeating%2520Characters.cpp) 
 -  [ Longest Turbulent Subarray ](.%2FLongest%2520Turbulent%2520Subarray.cpp) 
 -  [ Lowest Common Ancestor of a Binary Tree ](.%2FLowest%2520Common%2520Ancestor%2520of%2520a%2520Binary%2520Tree.cpp) 
+-  [ Majority Element ](.%2FMajority%2520Element.cpp) 
 -  [ Making A Large Island ](.%2FMaking%2520A%2520Large%2520Island.cpp) 
 -  [ Maximal Square ](.%2FMaximal%2520Square.cpp) 
 -  [ Maximize Distance to Closest Person ](.%2FMaximize%2520Distance%2520to%2520Closest%2520Person.cpp) 
@@ -188,4 +189,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 183
+### Total Code Count : 184

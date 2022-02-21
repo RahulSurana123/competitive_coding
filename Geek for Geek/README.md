@@ -41,6 +41,7 @@
 -  [ N Digit numbers with digits in increasing order ](.%2FN%2520Digit%2520numbers%2520with%2520digits%2520in%2520increasing%2520order.cpp) 
 -  [ Next Permutation ](.%2FNext%2520Permutation.cpp) 
 -  [ Number of Unique Paths ](.%2FNumber%2520of%2520Unique%2520Paths.cpp) 
+-  [ Optimal binary search tree ](.%2FOptimal%2520binary%2520search%2520tree.cpp) 
 -  [ Palindrome Pairs ](.%2FPalindrome%2520Pairs.cpp) 
 -  [ Positive Negative Pair ](.%2FPositive%2520Negative%2520Pair.cpp) 
 -  [ Postorder Traversal (Iterative) ](.%2FPostorder%2520Traversal%2520%28Iterative%29.cpp) 
@@ -57,4 +58,4 @@
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 52
+### Total Code Count : 53
