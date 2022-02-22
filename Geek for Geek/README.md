@@ -54,8 +54,9 @@
 -  [ Shortest Unique prefix for every word ](.%2FShortest%2520Unique%2520prefix%2520for%2520every%2520word.cpp) 
 -  [ Smallest Absolute Difference ](.%2FSmallest%2520Absolute%2520Difference.cpp) 
 -  [ Sort by Set Bit Count ](.%2FSort%2520by%2520Set%2520Bit%2520Count.cpp) 
+-  [ Spidey Sense ](.%2FSpidey%2520Sense.cpp) 
 -  [ Steps by Knight ](.%2FSteps%2520by%2520Knight.cpp) 
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 53
+### Total Code Count : 54

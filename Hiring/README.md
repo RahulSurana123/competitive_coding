@@ -33,6 +33,8 @@
 -  [ Multiple Count ](.%2FMultiple%2520Count.cpp) 
 -  [ multiplication queries. ](.%2Fmultiplication%2520queries.java) 
 -  [ Odd one out ](.%2FOdd%2520one%2520out.cpp) 
+-  [ One Code ](.%2FOne%2520Code.cpp) 
+-  [ One Code2 ](.%2FOne%2520Code2.cpp) 
 -  [ Path MEX ](.%2FPath%2520MEX.py) 
 -  [ Platform Jumps ](.%2FPlatform%2520Jumps.cpp) 
 -  [ Practice for ThoughtWorks ](.%2FPractice%2520for%2520ThoughtWorks.cpp) 
@@ -58,4 +60,4 @@
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 53
+### Total Code Count : 55
