@@ -9,6 +9,8 @@
 -  [ Best houses ](.%2FBest%2520houses.cpp) 
 -  [ bodmas string evaluation ](.%2Fbodmas%2520string%2520evaluation.cpp) 
 -  [ Clear the stage ](.%2FClear%2520the%2520stage.cpp) 
+-  [ Clippd 1 ](.%2FClippd%25201.py) 
+-  [ Clippd 2 ](.%2FClippd%25202.py) 
 -  [ Count buildings ](.%2FCount%2520buildings.cpp) 
 -  [ Count subsequences ](.%2FCount%2520subsequences.cpp) 
 -  [ Cross sequence ](.%2FCross%2520sequence.py) 
@@ -16,6 +18,8 @@
 -  [ Find Reachability ](.%2FFind%2520Reachability.cpp) 
 -  [ first_place ](.%2Ffirst_place.py) 
 -  [ Flower Garland ](.%2FFlower%2520Garland.cpp) 
+-  [ Flyo 1 ](.%2FFlyo%25201.py) 
+-  [ Flyo 2 ](.%2FFlyo%25202.py) 
 -  [ GCD Sum ](.%2FGCD%2520Sum.cpp) 
 -  [ Good String Selection ](.%2FGood%2520String%2520Selection.cpp) 
 -  [ Jump to N ](.%2FJump%2520to%2520N.cpp) 
@@ -60,4 +64,4 @@
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 55
+### Total Code Count : 59
