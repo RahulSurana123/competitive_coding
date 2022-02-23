@@ -30,6 +30,7 @@
 -  [ Handshakes ](.%2FHandshakes.cpp) 
 -  [ Height of Binary Tree ](.%2FHeight%2520of%2520Binary%2520Tree.cpp) 
 -  [ Implementing Dijkstra Algorithm ](.%2FImplementing%2520Dijkstra%2520Algorithm.cpp) 
+-  [ Insertion Sort for Singly Linked List ](.%2FInsertion%2520Sort%2520for%2520Singly%2520Linked%2520List.CPP) 
 -  [ Leaves to DLL ](.%2FLeaves%2520to%2520DLL.cpp) 
 -  [ Longest Common Prefix in an Array ](.%2FLongest%2520Common%2520Prefix%2520in%2520an%2520Array.cpp) 
 -  [ Maximum sum of increasing order elements from n arrays ](.%2FMaximum%2520sum%2520of%2520increasing%2520order%2520elements%2520from%2520n%2520arrays.cpp) 
@@ -59,4 +60,4 @@
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 54
+### Total Code Count : 55
