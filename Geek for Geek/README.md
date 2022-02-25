@@ -51,7 +51,9 @@
 -  [ Rearrange Geek and his Classmates ](.%2FRearrange%2520Geek%2520and%2520his%2520Classmates.cpp) 
 -  [ Remove leading zeros from an IP address ](.%2FRemove%2520leading%2520zeros%2520from%2520an%2520IP%2520address.cpp) 
 -  [ Reorder List ](.%2FReorder%2520List.cpp) 
+-  [ Return two prime numbers ](.%2FReturn%2520two%2520prime%2520numbers.cpp) 
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
+-  [ Robots ](.%2FRobots.cpp) 
 -  [ Shortest Unique prefix for every word ](.%2FShortest%2520Unique%2520prefix%2520for%2520every%2520word.cpp) 
 -  [ Smallest Absolute Difference ](.%2FSmallest%2520Absolute%2520Difference.cpp) 
 -  [ Sort by Set Bit Count ](.%2FSort%2520by%2520Set%2520Bit%2520Count.cpp) 
@@ -60,4 +62,4 @@
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 55
+### Total Code Count : 57
