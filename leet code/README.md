@@ -104,6 +104,7 @@
 -  [ Maximum Score from Performing Multiplication Operations ](.%2FMaximum%2520Score%2520from%2520Performing%2520Multiplication%2520Operations.cpp) 
 -  [ Maximum Subarray Min-Product ](.%2FMaximum%2520Subarray%2520Min-Product.cpp) 
 -  [ Maximum Subarray ](.%2FMaximum%2520Subarray.cpp) 
+-  [ Maximum Width of Binary Tree ](.%2FMaximum%2520Width%2520of%2520Binary%2520Tree.cpp) 
 -  [ Merge k Sorted Lists ](.%2FMerge%2520k%2520Sorted%2520Lists.cpp) 
 -  [ Min Cost Climbing Stairs ](.%2FMin%2520Cost%2520Climbing%2520Stairs.cpp) 
 -  [ Min Stack ](.%2FMin%2520Stack.cpp) 
@@ -194,4 +195,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 189
+### Total Code Count : 190
