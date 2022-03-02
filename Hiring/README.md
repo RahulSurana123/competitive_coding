@@ -23,6 +23,7 @@
 -  [ GCD Sum ](.%2FGCD%2520Sum.cpp) 
 -  [ Good String Selection ](.%2FGood%2520String%2520Selection.cpp) 
 -  [ Jump to N ](.%2FJump%2520to%2520N.cpp) 
+-  [ juspay interview question ](.%2Fjuspay%2520interview%2520question.cpp) 
 -  [ Largest Subset ](.%2FLargest%2520Subset.cpp) 
 -  [ Learn JS ](.%2FLearn%2520JS.cpp) 
 -  [ Locking The Tree of Space with Thread safety (PART B) ](.%2FLocking%2520The%2520Tree%2520of%2520Space%2520with%2520Thread%2520safety%2520%28PART%2520B%29.cpp) 
@@ -65,4 +66,4 @@
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 60
+### Total Code Count : 61
