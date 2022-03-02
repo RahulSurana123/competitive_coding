@@ -38,6 +38,7 @@
 -  [ Convert Binary Number in a Linked List to Integer ](.%2FConvert%2520Binary%2520Number%2520in%2520a%2520Linked%2520List%2520to%2520Integer.cpp) 
 -  [ Convert Sorted Array to Binary Search Tree ](.%2FConvert%2520Sorted%2520Array%2520to%2520Binary%2520Search%2520Tree.cpp) 
 -  [ Count Complete Tree Nodes ](.%2FCount%2520Complete%2520Tree%2520Nodes.cpp) 
+-  [ Counting Bits ](.%2FCounting%2520Bits.cpp) 
 -  [ Course Schedule II ](.%2FCourse%2520Schedule%2520II.cpp) 
 -  [ Cousins in Binary Tree ](.%2FCousins%2520in%2520Binary%2520Tree.cpp) 
 -  [ Cyclically Rotating a Grid ](.%2FCyclically%2520Rotating%2520a%2520Grid.cpp) 
@@ -178,6 +179,7 @@
 -  [ Sum of Left Leaves ](.%2FSum%2520of%2520Left%2520Leaves.cpp) 
 -  [ Sum of Root To Leaf Binary Numbers ](.%2FSum%2520of%2520Root%2520To%2520Leaf%2520Binary%2520Numbers.cpp) 
 -  [ Sum Root to Leaf Numbers ](.%2FSum%2520Root%2520to%2520Leaf%2520Numbers.cpp) 
+-  [ Summary Ranges ](.%2FSummary%2520Ranges.cpp) 
 -  [ Surrounded Regions ](.%2FSurrounded%2520Regions.cpp) 
 -  [ Swap Nodes in Pairs ](.%2FSwap%2520Nodes%2520in%2520Pairs.cpp) 
 -  [ Transform to Chessboard ](.%2FTransform%2520to%2520Chessboard.cpp) 
@@ -195,4 +197,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 190
+### Total Code Count : 192
