@@ -10,6 +10,7 @@
 -  [ Add Binary ](.%2FAdd%2520Binary.cpp) 
 -  [ Add Digits ](.%2FAdd%2520Digits.cpp) 
 -  [ All Elements in Two Binary Search Trees ](.%2FAll%2520Elements%2520in%2520Two%2520Binary%2520Search%2520Trees.cpp) 
+-  [ Arithmetic Slices ](.%2FArithmetic%2520Slices.cpp) 
 -  [ aximum XOR of Two Numbers in an Array ](.%2Faximum%2520XOR%2520of%2520Two%2520Numbers%2520in%2520an%2520Array.cpp) 
 -  [ Beautiful Arrangement ](.%2FBeautiful%2520Arrangement.cpp) 
 -  [ Best Time to Buy and Sell Stock II ](.%2FBest%2520Time%2520to%2520Buy%2520and%2520Sell%2520Stock%2520II.cpp) 
@@ -198,4 +199,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 193
+### Total Code Count : 194

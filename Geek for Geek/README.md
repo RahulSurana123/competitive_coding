@@ -33,6 +33,7 @@
 -  [ Insertion Sort for Singly Linked List ](.%2FInsertion%2520Sort%2520for%2520Singly%2520Linked%2520List.CPP) 
 -  [ Leaves to DLL ](.%2FLeaves%2520to%2520DLL.cpp) 
 -  [ Longest Common Prefix in an Array ](.%2FLongest%2520Common%2520Prefix%2520in%2520an%2520Array.cpp) 
+-  [ Matrix Operations  ](.%2FMatrix%2520Operations%2520.cpp) 
 -  [ Maximum sum of increasing order elements from n arrays ](.%2FMaximum%2520sum%2520of%2520increasing%2520order%2520elements%2520from%2520n%2520arrays.cpp) 
 -  [ Maximum sum of Non-adjacent nodes ](.%2FMaximum%2520sum%2520of%2520Non-adjacent%2520nodes.cpp) 
 -  [ Maximum XOR subarray ](.%2FMaximum%2520XOR%2520subarray.cpp) 
@@ -63,4 +64,4 @@
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 58
+### Total Code Count : 59
