@@ -12,6 +12,7 @@
 -  [ Binary Array Sorting  ](.%2FBinary%2520Array%2520Sorting%2520.cpp) 
 -  [ Binary number to decimal number ](.%2FBinary%2520number%2520to%2520decimal%2520number.cpp) 
 -  [ Boundary Traversal of binary tree ](.%2FBoundary%2520Traversal%2520of%2520binary%2520tree.cpp) 
+-  [ Can Make Triangle ](.%2FCan%2520Make%2520Triangle.cpp) 
 -  [ Capacity To Ship Packages Within D Days ](.%2FCapacity%2520To%2520Ship%2520Packages%2520Within%2520D%2520Days.cpp) 
 -  [ Check if subtree ](.%2FCheck%2520if%2520subtree.cpp) 
 -  [ Clone a stack without using extra space ](.%2FClone%2520a%2520stack%2520without%2520using%2520extra%2520space.cpp) 
@@ -36,6 +37,7 @@
 -  [ Matrix Operations  ](.%2FMatrix%2520Operations%2520.cpp) 
 -  [ Maximum sum of increasing order elements from n arrays ](.%2FMaximum%2520sum%2520of%2520increasing%2520order%2520elements%2520from%2520n%2520arrays.cpp) 
 -  [ Maximum sum of Non-adjacent nodes ](.%2FMaximum%2520sum%2520of%2520Non-adjacent%2520nodes.cpp) 
+-  [ Maximum Winning score ](.%2FMaximum%2520Winning%2520score.cpp) 
 -  [ Maximum XOR subarray ](.%2FMaximum%2520XOR%2520subarray.cpp) 
 -  [ Merge two binary Max heaps ](.%2FMerge%2520two%2520binary%2520Max%2520heaps.cpp) 
 -  [ Minimum Swaps to Sort ](.%2FMinimum%2520Swaps%2520to%2520Sort.cpp) 
@@ -64,4 +66,4 @@
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 59
+### Total Code Count : 61

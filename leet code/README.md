@@ -23,6 +23,7 @@
 -  [ Can I Win ](.%2FCan%2520I%2520Win.cpp) 
 -  [ Can Place Flowers ](.%2FCan%2520Place%2520Flowers.cpp) 
 -  [ Car Pooling ](.%2FCar%2520Pooling.cpp) 
+-  [ Champagne Tower ](.%2FChampagne%2520Tower.cpp) 
 -  [ Cheapest Flights Within K Stops ](.%2FCheapest%2520Flights%2520Within%2520K%2520Stops.cpp) 
 -  [ Cherry Pickup II ](.%2FCherry%2520Pickup%2520II.cpp) 
 -  [ Climbing Stairs ](.%2FClimbing%2520Stairs.cpp) 
@@ -199,4 +200,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 194
+### Total Code Count : 195
