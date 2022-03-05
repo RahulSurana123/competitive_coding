@@ -32,6 +32,7 @@
 -  [ Maximum value of F(x) ](.%2FMaximum%2520value%2520of%2520F%28x%29.cpp) 
 -  [ Maximum value subarray ](.%2FMaximum%2520value%2520subarray.cpp) 
 -  [ MEX value ](.%2FMEX%2520value.cpp) 
+-  [ Milly and her love for power naps. ](.%2FMilly%2520and%2520her%2520love%2520for%2520power%2520naps.java) 
 -  [ Minimum addition ](.%2FMinimum%2520addition.cpp) 
 -  [ minimum Operations ](.%2Fminimum%2520Operations.cpp) 
 -  [ Mismatched Payment ](.%2FMismatched%2520Payment.cpp) 
@@ -42,6 +43,7 @@
 -  [ One Code ](.%2FOne%2520Code.cpp) 
 -  [ One Code2 ](.%2FOne%2520Code2.cpp) 
 -  [ Path MEX ](.%2FPath%2520MEX.py) 
+-  [ Pencil Boxing. ](.%2FPencil%2520Boxing.java) 
 -  [ Platform Jumps ](.%2FPlatform%2520Jumps.cpp) 
 -  [ Practice for ThoughtWorks ](.%2FPractice%2520for%2520ThoughtWorks.cpp) 
 -  [ Query game ](.%2FQuery%2520game.py) 
@@ -66,4 +68,4 @@
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 61
+### Total Code Count : 63
