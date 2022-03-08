@@ -40,6 +40,7 @@
 -  [ Maximum sum of Non-adjacent nodes ](.%2FMaximum%2520sum%2520of%2520Non-adjacent%2520nodes.cpp) 
 -  [ Maximum Winning score ](.%2FMaximum%2520Winning%2520score.cpp) 
 -  [ Maximum XOR subarray ](.%2FMaximum%2520XOR%2520subarray.cpp) 
+-  [ Merge K sorted linked lists ](.%2FMerge%2520K%2520sorted%2520linked%2520lists.cpp) 
 -  [ Merge two binary Max heaps ](.%2FMerge%2520two%2520binary%2520Max%2520heaps.cpp) 
 -  [ Minimum Swaps to Sort ](.%2FMinimum%2520Swaps%2520to%2520Sort.cpp) 
 -  [ Multiply two strings ](.%2FMultiply%2520two%2520strings.cpp) 
@@ -56,6 +57,7 @@
 -  [ Remove leading zeros from an IP address ](.%2FRemove%2520leading%2520zeros%2520from%2520an%2520IP%2520address.cpp) 
 -  [ Reorder List ](.%2FReorder%2520List.cpp) 
 -  [ Return two prime numbers ](.%2FReturn%2520two%2520prime%2520numbers.cpp) 
+-  [ Reverse a string using Stack  ](.%2FReverse%2520a%2520string%2520using%2520Stack%2520.cpp) 
 -  [ Reverse First K elements of Queue ](.%2FReverse%2520First%2520K%2520elements%2520of%2520Queue.cpp) 
 -  [ Robots ](.%2FRobots.cpp) 
 -  [ Shortest Unique prefix for every word ](.%2FShortest%2520Unique%2520prefix%2520for%2520every%2520word.cpp) 
@@ -67,4 +69,4 @@
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 62
+### Total Code Count : 64
