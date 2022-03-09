@@ -51,6 +51,7 @@
 -  [ Palindrome Pairs ](.%2FPalindrome%2520Pairs.cpp) 
 -  [ Positive Negative Pair ](.%2FPositive%2520Negative%2520Pair.cpp) 
 -  [ Postorder Traversal (Iterative) ](.%2FPostorder%2520Traversal%2520%28Iterative%29.cpp) 
+-  [ Queue using two Stacks ](.%2FQueue%2520using%2520two%2520Stacks.cpp) 
 -  [ readme Generation ](.%2Freadme%2520Generation.py) 
 -  [ READM ](.%2FREADME.md) 
 -  [ Rearrange Geek and his Classmates ](.%2FRearrange%2520Geek%2520and%2520his%2520Classmates.cpp) 
@@ -69,4 +70,4 @@
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 64
+### Total Code Count : 65
