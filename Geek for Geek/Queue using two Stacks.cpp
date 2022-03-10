@@ -18,8 +18,6 @@ A Query Q is of 2 Types
 */
 
 
-#include <bits/stdc++.h>
-
 // { Driver Code Starts
 #include<bits/stdc++.h>
 
