@@ -91,6 +91,7 @@
 -  [ Largest Component Size by Common Factor ](.%2FLargest%2520Component%2520Size%2520by%2520Common%2520Factor.cpp) 
 -  [ Largest Divisible Subset ](.%2FLargest%2520Divisible%2520Subset.cpp) 
 -  [ Largest Merge Of Two Strings ](.%2FLargest%2520Merge%2520Of%2520Two%2520Strings.cpp) 
+-  [ Largest Plus Sign ](.%2FLargest%2520Plus%2520Sign.cpp) 
 -  [ Linked List Cycle II ](.%2FLinked%2520List%2520Cycle%2520II.cpp) 
 -  [ Linked List Cycle ](.%2FLinked%2520List%2520Cycle.cpp) 
 -  [ Linked List Random Node ](.%2FLinked%2520List%2520Random%2520Node.cpp) 
@@ -162,6 +163,7 @@
 -  [ Robot Bounded In Circle ](.%2FRobot%2520Bounded%2520In%2520Circle.cpp) 
 -  [ Rotate Array ](.%2FRotate%2520Array.cpp) 
 -  [ Rotate Image ](.%2FRotate%2520Image.cpp) 
+-  [ Rotate List ](.%2FRotate%2520List.cpp) 
 -  [ Rotting Oranges ](.%2FRotting%2520Oranges.cpp) 
 -  [ Search Insert Position ](.%2FSearch%2520Insert%2520Position.cpp) 
 -  [ Sequential Digits ](.%2FSequential%2520Digits.cpp) 
@@ -204,4 +206,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 199
+### Total Code Count : 201

@@ -6,6 +6,7 @@
 ### HYPERLINK To Code
 ***
 -  [ 1's Complement ](.%2F1%27s%2520Complement.cpp) 
+-  [ 7 Segment Display ](.%2F7%2520Segment%2520Display.cpp) 
 -  [ Add 1 to a number represented as linked list ](.%2FAdd%25201%2520to%2520a%2520number%2520represented%2520as%2520linked%2520list.cpp) 
 -  [ Add all greater values to every node in a BST  ](.%2FAdd%2520all%2520greater%2520values%2520to%2520every%2520node%2520in%2520a%2520BST%2520.cpp) 
 -  [ Anagram of String ](.%2FAnagram%2520of%2520String.cpp) 
@@ -31,6 +32,7 @@
 -  [ Gold Mine Problem ](.%2FGold%2520Mine%2520Problem.cpp) 
 -  [ Handshakes ](.%2FHandshakes.cpp) 
 -  [ Height of Binary Tree ](.%2FHeight%2520of%2520Binary%2520Tree.cpp) 
+-  [ Height Using Parent Array ](.%2FHeight%2520Using%2520Parent%2520Array.cpp) 
 -  [ Implementing Dijkstra Algorithm ](.%2FImplementing%2520Dijkstra%2520Algorithm.cpp) 
 -  [ Insertion Sort for Singly Linked List ](.%2FInsertion%2520Sort%2520for%2520Singly%2520Linked%2520List.CPP) 
 -  [ Leaves to DLL ](.%2FLeaves%2520to%2520DLL.cpp) 
@@ -70,4 +72,4 @@
 -  [ Transfiguration ](.%2FTransfiguration.cpp) 
 -  [ transform one string into another ](.%2Ftransform%2520one%2520string%2520into%2520another.cpp) 
 -  [ XOR Game ](.%2FXOR%2520Game.cpp) 
-### Total Code Count : 65
+### Total Code Count : 67

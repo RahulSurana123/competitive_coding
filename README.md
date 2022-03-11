@@ -10,12 +10,12 @@
 |    [ code monk ](./code%20monk)     |      26    |
 |    [ CodeChef ](./CodeChef)     |      70    |
 |    [ CodeForces ](./CodeForces)     |      60    |
-|    [ Geek for Geek ](./Geek%20for%20Geek)     |      65    |
+|    [ Geek for Geek ](./Geek%20for%20Geek)     |      67    |
 |    [ hackerearth ](./hackerearth)     |      25    |
 |    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Hiring ](./Hiring)     |      63    |
-|    [ leet code ](./leet%20code)     |      199    |
+|    [ leet code ](./leet%20code)     |      201    |
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      5    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver’s SDE Sheet ](./Striver’s%20SDE%20Sheet)     |      13    |
-### Total Code Count : 561
+### Total Code Count : 565
