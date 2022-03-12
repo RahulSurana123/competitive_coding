@@ -21,15 +21,13 @@ import urllib.parse
 
 fs = open("README.md", "w")
 
-fs.write("# *Welcome To Coding Club*\n")
+fs.write("# *Welcome To My Repository*\n")
 
 fs.write("### <div style='text-align:right'><sub> - Rahul Surana</sub></div>\n")
 
 fs.write("### Going To Update This Repo Time To Time As I Continue My Journey To Competitive Programming\n")
 
 fs.write("### Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together\n")
-
-fs.write("-  [ Whatsapp Group Link ](https://chat.whatsapp.com/FUV7H9SIBYKD3C5tgDluI6) \n")
 
 fs.write("### HYPERLINK To Code\n***\n")
 
