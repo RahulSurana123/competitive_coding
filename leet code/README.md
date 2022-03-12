@@ -1,8 +1,7 @@
-# *Welcome To Coding Club*
+# *Welcome To My Repository*
 ### <div style='text-align:right'><sub> - Rahul Surana</sub></div>
 ### Going To Update This Repo Time To Time As I Continue My Journey To Competitive Programming
 ### Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together
--  [ Whatsapp Group Link ](https://chat.whatsapp.com/FUV7H9SIBYKD3C5tgDluI6) 
 ### HYPERLINK To Code
 ***
 -  [ 3Sum ](.%2F3Sum.cpp) 
@@ -39,6 +38,7 @@
 -  [ Contiguous Array ](.%2FContiguous%2520Array.cpp) 
 -  [ Convert Binary Number in a Linked List to Integer ](.%2FConvert%2520Binary%2520Number%2520in%2520a%2520Linked%2520List%2520to%2520Integer.cpp) 
 -  [ Convert Sorted Array to Binary Search Tree ](.%2FConvert%2520Sorted%2520Array%2520to%2520Binary%2520Search%2520Tree.cpp) 
+-  [ Copy List with Random Pointer ](.%2FCopy%2520List%2520with%2520Random%2520Pointer.cpp) 
 -  [ Count All Valid Pickup and Delivery Options ](.%2FCount%2520All%2520Valid%2520Pickup%2520and%2520Delivery%2520Options.cpp) 
 -  [ Count Complete Tree Nodes ](.%2FCount%2520Complete%2520Tree%2520Nodes.cpp) 
 -  [ Counting Bits ](.%2FCounting%2520Bits.cpp) 
@@ -206,4 +206,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 201
+### Total Code Count : 202
