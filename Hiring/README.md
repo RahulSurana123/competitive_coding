@@ -27,6 +27,7 @@
 -  [ Learn JS ](.%2FLearn%2520JS.cpp) 
 -  [ Locking The Tree of Space with Thread safety (PART B) ](.%2FLocking%2520The%2520Tree%2520of%2520Space%2520with%2520Thread%2520safety%2520%28PART%2520B%29.cpp) 
 -  [ Locking The Tree of Space ](.%2FLocking%2520The%2520Tree%2520of%2520Space.cpp) 
+-  [ Maximum cost ](.%2FMaximum%2520cost.cpp) 
 -  [ Maximum pairs ](.%2FMaximum%2520pairs.py) 
 -  [ Maximum value of F(x) ](.%2FMaximum%2520value%2520of%2520F%28x%29.cpp) 
 -  [ Maximum value subarray ](.%2FMaximum%2520value%2520subarray.cpp) 
@@ -67,4 +68,4 @@
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 63
+### Total Code Count : 64
