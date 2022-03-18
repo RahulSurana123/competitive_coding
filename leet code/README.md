@@ -132,6 +132,7 @@
 -  [ N-th Tribonacci Number ](.%2FN-th%2520Tribonacci%2520Number.cpp) 
 -  [ Next Greater Element I ](.%2FNext%2520Greater%2520Element%2520I.cpp) 
 -  [ Nth Magical Number ](.%2FNth%2520Magical%2520Number.cpp) 
+-  [ Number of Digit One ](.%2FNumber%2520of%2520Digit%2520One.cpp) 
 -  [ Number of Ways to Arrive at Destination ](.%2FNumber%2520of%2520Ways%2520to%2520Arrive%2520at%2520Destination.cpp) 
 -  [ Number of Wonderful Substrings ](.%2FNumber%2520of%2520Wonderful%2520Substrings.cpp) 
 -  [ Numbers At Most N Given Digit Set ](.%2FNumbers%2520At%2520Most%2520N%2520Given%2520Digit%2520Set.cpp) 
@@ -151,6 +152,7 @@
 -  [ READM ](.%2FREADME.md) 
 -  [ Recover a Tree From Preorder Traversal ](.%2FRecover%2520a%2520Tree%2520From%2520Preorder%2520Traversal.cpp) 
 -  [ Remove Covered Intervals ](.%2FRemove%2520Covered%2520Intervals.cpp) 
+-  [ Remove Duplicate Letters ](.%2FRemove%2520Duplicate%2520Letters.cpp) 
 -  [ Remove Duplicates from Sorted Array II ](.%2FRemove%2520Duplicates%2520from%2520Sorted%2520Array%2520II.cpp) 
 -  [ Remove Duplicates from Sorted Array ](.%2FRemove%2520Duplicates%2520from%2520Sorted%2520Array.cpp) 
 -  [ Remove Duplicates from Sorted List II ](.%2FRemove%2520Duplicates%2520from%2520Sorted%2520List%2520II.cpp) 
@@ -167,6 +169,7 @@
 -  [ Rotate List ](.%2FRotate%2520List.cpp) 
 -  [ Rotting Oranges ](.%2FRotting%2520Oranges.cpp) 
 -  [ Russian Doll Envelopes ](.%2FRussian%2520Doll%2520Envelopes.cpp) 
+-  [ Score of Parentheses ](.%2FScore%2520of%2520Parentheses.cpp) 
 -  [ Search Insert Position ](.%2FSearch%2520Insert%2520Position.cpp) 
 -  [ Sequential Digits ](.%2FSequential%2520Digits.cpp) 
 -  [ Simplify Path ](.%2FSimplify%2520Path.cpp) 
@@ -211,4 +214,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 207
+### Total Code Count : 210
