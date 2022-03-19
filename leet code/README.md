@@ -106,6 +106,7 @@
 -  [ Maximal Square ](.%2FMaximal%2520Square.cpp) 
 -  [ Maximize Distance to Closest Person ](.%2FMaximize%2520Distance%2520to%2520Closest%2520Person.cpp) 
 -  [ Maximum Depth of Binary Tree ](.%2FMaximum%2520Depth%2520of%2520Binary%2520Tree.cpp) 
+-  [ Maximum Frequency Stack ](.%2FMaximum%2520Frequency%2520Stack.cpp) 
 -  [ Maximum Matrix Sum ](.%2FMaximum%2520Matrix%2520Sum.cpp) 
 -  [ Maximum Product Difference Between Two Pairs ](.%2FMaximum%2520Product%2520Difference%2520Between%2520Two%2520Pairs.cpp) 
 -  [ Maximum Score from Performing Multiplication Operations ](.%2FMaximum%2520Score%2520from%2520Performing%2520Multiplication%2520Operations.cpp) 
@@ -214,4 +215,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 210
+### Total Code Count : 211
