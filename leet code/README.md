@@ -121,6 +121,7 @@
 -  [ Minimum Absolute Difference ](.%2FMinimum%2520Absolute%2520Difference.cpp) 
 -  [ Minimum Cost to Move Chips to The Same Position ](.%2FMinimum%2520Cost%2520to%2520Move%2520Chips%2520to%2520The%2520Same%2520Position.cpp) 
 -  [ Minimum Difficulty of a Job Schedule ](.%2FMinimum%2520Difficulty%2520of%2520a%2520Job%2520Schedule.cpp) 
+-  [ Minimum Domino Rotations For Equal Row ](.%2FMinimum%2520Domino%2520Rotations%2520For%2520Equal%2520Row.cpp) 
 -  [ Minimum Height Trees ](.%2FMinimum%2520Height%2520Trees.cpp) 
 -  [ Minimum Number of Arrows to Burst Balloons ](.%2FMinimum%2520Number%2520of%2520Arrows%2520to%2520Burst%2520Balloons.cpp) 
 -  [ Minimum Path Sum ](.%2FMinimum%2520Path%2520Sum.cpp) 
@@ -215,4 +216,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 211
+### Total Code Count : 212
