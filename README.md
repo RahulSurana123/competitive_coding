@@ -10,7 +10,7 @@
 |    [ CodeChef ](./CodeChef)     |      70    |
 |    [ CodeForces ](./CodeForces)     |      60    |
 |    [ Geek for Geek ](./Geek%20for%20Geek)     |      72    |
-|    [ Google kickstart Problems ](./Google%20kickstart%20Problems)     |      2    |
+|    [ Google kickstart Problems ](./Google%20kickstart%20Problems)     |      3    |
 |    [ hackerearth ](./hackerearth)     |      25    |
 |    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Hiring ](./Hiring)     |      66    |
@@ -18,4 +18,4 @@
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      5    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver’s SDE Sheet ](./Striver’s%20SDE%20Sheet)     |      13    |
-### Total Code Count : 586
+### Total Code Count : 587
