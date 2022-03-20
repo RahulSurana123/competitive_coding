@@ -66,6 +66,12 @@ python "../readme Generation for folders.py"
 
 echo "Readme Generated for Striever SDE Sheet folder"
 
+cd "../Google kickstart Problems"
+
+python "../readme Generation for folders.py"
+
+echo "Readme Generated for Google kickstart folder"
+
 cd ..
 
 echo "Done with Readme Generation"
