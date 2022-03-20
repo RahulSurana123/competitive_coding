@@ -10,6 +10,7 @@
 -  [ Clear the stage ](.%2FClear%2520the%2520stage.cpp) 
 -  [ Clippd 1 ](.%2FClippd%25201.py) 
 -  [ Clippd 2 ](.%2FClippd%25202.py) 
+-  [ Consecutive elements ](.%2FConsecutive%2520elements.cpp) 
 -  [ Count buildings ](.%2FCount%2520buildings.cpp) 
 -  [ Count subsequences ](.%2FCount%2520subsequences.cpp) 
 -  [ Cross sequence ](.%2FCross%2520sequence.py) 
@@ -50,6 +51,7 @@
 -  [ Re-sort ](.%2FRe-sort.cpp) 
 -  [ readme Generation ](.%2Freadme%2520Generation.py) 
 -  [ READM ](.%2FREADME.md) 
+-  [ Recursive powers ](.%2FRecursive%2520powers.cpp) 
 -  [ Relevel test 2 ](.%2FRelevel%2520test%25202.cpp) 
 -  [ relevel test 3 ](.%2Frelevel%2520test%25203.cpp) 
 -  [ Relevel test 4 ](.%2FRelevel%2520test%25204.cpp) 
@@ -68,4 +70,4 @@
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 64
+### Total Code Count : 66
