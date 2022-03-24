@@ -80,22 +80,20 @@ bool df(string &s, int i, int n){
         s[i] = '0';
         if(pal(s,i-4,i)) f = false;
         else if(pal(s,i-5,i)) f = false;
-        if(df(s,i+1,n)) return true;
-        s[i] = '?';
-    }
-    if(s[i] == '?'){
+        if(f && df(s,i+1,n)) return true;
         s[i] = '1';
+        f = true;
         if(pal(s,i-4,i)) f = false;
         else if(pal(s,i-5,i)) f = false;
-        if(df(s,i+1,n)) return true;
+        if(f && df(s,i+1,n)) return true;
         s[i] = '?';
     }
-    if(s[i] != '?'){
+    else{
         if(pal(s,i-4,i)) f = false;
         else if(pal(s,i-5,i)) f = false;
-        if(df(s,i+1,n)) return true;
+        if(f && df(s,i+1,n)) return true;
     }
-    return f;
+    return false;
 }
 
 int main()

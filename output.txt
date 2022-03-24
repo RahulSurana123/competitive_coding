@@ -1,2 +1,2 @@
-Case #1: POSSIBLE
-Case #2: POSSIBLE
+1 0 3 2 4 5 6 
+-1
