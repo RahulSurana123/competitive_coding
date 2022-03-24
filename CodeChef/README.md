@@ -4,6 +4,7 @@
 ### Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together
 ### HYPERLINK To Code
 ***
+-  [ Alternating String ](.%2FAlternating%2520String.cpp) 
 -  [ Anti Palindrome ](.%2FAnti%2520Palindrome.cpp) 
 -  [ Appy and Contest ](.%2FAppy%2520and%2520Contest.cpp) 
 -  [ Array Filling ](.%2FArray%2520Filling.cpp) 
@@ -39,6 +40,7 @@
 -  [ Maximum Damage ](.%2FMaximum%2520Damage.cpp) 
 -  [ Maximum Number Of Distinct Elements ](.%2FMaximum%2520Number%2520Of%2520Distinct%2520Elements.cpp) 
 -  [ Maximum Production ](.%2FMaximum%2520Production.cpp) 
+-  [ Mexy Array ](.%2FMexy%2520Array.cpp) 
 -  [ Min Max LCM ](.%2FMin%2520Max%2520LCM.cpp) 
 -  [ Minimise Difference ](.%2FMinimise%2520Difference.cpp) 
 -  [ Missing Sums ](.%2FMissing%2520Sums.cpp) 
@@ -58,20 +60,23 @@
 -  [ Round Robin Ranks ](.%2FRound%2520Robin%2520Ranks.cpp) 
 -  [ Sardar and GCD ](.%2FSardar%2520and%2520GCD.cpp) 
 -  [ Sarthak and his Magic Grid ](.%2FSarthak%2520and%2520his%2520Magic%2520Grid.cpp) 
+-  [ Sign Moves ](.%2FSign%2520Moves.cpp) 
 -  [ Solubility ](.%2FSolubility.cpp) 
 -  [ Special Triplets ](.%2FSpecial%2520Triplets.cpp) 
 -  [ Subtraction Game 2 ](.%2FSubtraction%2520Game%25202.cpp) 
 -  [ Super Hashing ](.%2FSuper%2520Hashing.cpp) 
 -  [ Testing Codes ](.%2FTesting%2520Codes.cpp) 
+-  [ The Unchanging OR  ](.%2FThe%2520Unchanging%2520OR%2520.cpp) 
 -  [ Three Dices ](.%2FThree%2520Dices.cpp) 
 -  [ Tic Tac Toe ](.%2FTic%2520Tac%2520Toe.cpp) 
 -  [ Tree House ](.%2FTree%2520House.cpp) 
 -  [ Valid Path ](.%2FValid%2520Path.cpp) 
 -  [ Vedant and his Hidden Array ](.%2FVedant%2520and%2520his%2520Hidden%2520Array.cpp) 
 -  [ Washing Windows ](.%2FWashing%2520Windows.cpp) 
+-  [ XOR and AND ](.%2FXOR%2520and%2520AND.cpp) 
 -  [ Xor Equality ](.%2FXor%2520Equality.cpp) 
 -  [ XxOoRr ](.%2FXxOoRr.cpp) 
 -  [ Yet Another Constructive Problem ](.%2FYet%2520Another%2520Constructive%2520Problem.cpp) 
 -  [ Yet Another Flipping Problem 2 ](.%2FYet%2520Another%2520Flipping%2520Problem%25202.cpp) 
 -  [ Zack And The Handkerchieves ](.%2FZack%2520And%2520The%2520Handkerchieves.cpp) 
-### Total Code Count : 70
+### Total Code Count : 75

@@ -19,6 +19,7 @@
 -  [ Binary Tree Cameras ](.%2FBinary%2520Tree%2520Cameras.cpp) 
 -  [ Binary Tree Maximum Path Sum ](.%2FBinary%2520Tree%2520Maximum%2520Path%2520Sum.cpp) 
 -  [ Bitwise AND of Numbers Range ](.%2FBitwise%2520AND%2520of%2520Numbers%2520Range.cpp) 
+-  [ Broken Calculator ](.%2FBroken%2520Calculator.cpp) 
 -  [ Can I Win ](.%2FCan%2520I%2520Win.cpp) 
 -  [ Can Place Flowers ](.%2FCan%2520Place%2520Flowers.cpp) 
 -  [ Car Pooling ](.%2FCar%2520Pooling.cpp) 
@@ -143,6 +144,7 @@
 -  [ Pairs of Songs With Total Durations Divisible by 60 ](.%2FPairs%2520of%2520Songs%2520With%2520Total%2520Durations%2520Divisible%2520by%252060.cpp) 
 -  [ Palindrome Partitioning ](.%2FPalindrome%2520Partitioning.cpp) 
 -  [ Partition Equal Subset Sum ](.%2FPartition%2520Equal%2520Subset%2520Sum.cpp) 
+-  [ Partition Labels ](.%2FPartition%2520Labels.cpp) 
 -  [ Partition to K Equal Sum Subsets ](.%2FPartition%2520to%2520K%2520Equal%2520Sum%2520Subsets.cpp) 
 -  [ Path Sum III ](.%2FPath%2520Sum%2520III.cpp) 
 -  [ Perfect Squares ](.%2FPerfect%2520Squares.cpp) 
@@ -180,6 +182,7 @@
 -  [ Single Number ](.%2FSingle%2520Number.cpp) 
 -  [ Slowest Key ](.%2FSlowest%2520Key.cpp) 
 -  [ Smallest String Starting From Leaf ](.%2FSmallest%2520String%2520Starting%2520From%2520Leaf.cpp) 
+-  [ Smallest String With A Given Numeric Value ](.%2FSmallest%2520String%2520With%2520A%2520Given%2520Numeric%2520Value.cpp) 
 -  [ Smallest Value of the Rearranged Number ](.%2FSmallest%2520Value%2520of%2520the%2520Rearranged%2520Number.cpp) 
 -  [ Sort Characters By Frequency ](.%2FSort%2520Characters%2520By%2520Frequency.cpp) 
 -  [ Sort Colors ](.%2FSort%2520Colors.cpp) 
@@ -216,4 +219,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 212
+### Total Code Count : 215
