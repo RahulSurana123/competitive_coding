@@ -5,6 +5,7 @@
 ### HYPERLINK To Code
 ***
 -  [ Challenge Nine ](.%2FChallenge%2520Nine.cpp) 
+-  [ Palindrome Free Strings ](.%2FPalindrome%2520Free%2520Strings.cpp) 
 -  [ READM ](.%2FREADME.md) 
 -  [ Speed Typing ](.%2FSpeed%2520Typing.cpp) 
-### Total Code Count : 3
+### Total Code Count : 4
