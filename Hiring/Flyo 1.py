@@ -21,4 +21,4 @@ def binarySearch(target,A,s,e):
 		return -1
 	return s
 
-print(binarySearch(target,A,0,len(A)-1))
+print( binarySearch(target,A,0,len(A)-1))
