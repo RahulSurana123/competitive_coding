@@ -177,6 +177,8 @@
 -  [ Rotting Oranges ](.%2FRotting%2520Oranges.cpp) 
 -  [ Russian Doll Envelopes ](.%2FRussian%2520Doll%2520Envelopes.cpp) 
 -  [ Score of Parentheses ](.%2FScore%2520of%2520Parentheses.cpp) 
+-  [ Search a 2D Matrix ](.%2FSearch%2520a%25202D%2520Matrix.cpp) 
+-  [ Search in Rotated Sorted Array II ](.%2FSearch%2520in%2520Rotated%2520Sorted%2520Array%2520II.cpp) 
 -  [ Search Insert Position ](.%2FSearch%2520Insert%2520Position.cpp) 
 -  [ Sequential Digits ](.%2FSequential%2520Digits.cpp) 
 -  [ Simplify Path ](.%2FSimplify%2520Path.cpp) 
@@ -224,4 +226,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 220
+### Total Code Count : 222
