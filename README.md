@@ -11,12 +11,12 @@
 |    [ CodeForces ](./CodeForces)     |      60    |
 |    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      2    |
 |    [ Geek for Geek ](./Geek%20for%20Geek)     |      72    |
-|    [ Google kickstart Problems ](./Google%20kickstart%20Problems)     |      5    |
+|    [ Google Contest Problems ](./Google%20Contest%20Problems)     |      8    |
 |    [ hackerearth ](./hackerearth)     |      25    |
 |    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Hiring ](./Hiring)     |      66    |
-|    [ leet code ](./leet%20code)     |      223    |
+|    [ leet code ](./leet%20code)     |      225    |
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      5    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver’s SDE Sheet ](./Striver’s%20SDE%20Sheet)     |      13    |
-### Total Code Count : 607
+### Total Code Count : 612

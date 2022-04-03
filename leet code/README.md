@@ -112,6 +112,7 @@
 -  [ Maximum Frequency Stack ](.%2FMaximum%2520Frequency%2520Stack.cpp) 
 -  [ Maximum Matrix Sum ](.%2FMaximum%2520Matrix%2520Sum.cpp) 
 -  [ Maximum Product Difference Between Two Pairs ](.%2FMaximum%2520Product%2520Difference%2520Between%2520Two%2520Pairs.cpp) 
+-  [ Maximum Product Subarray ](.%2FMaximum%2520Product%2520Subarray.cpp) 
 -  [ Maximum Score from Performing Multiplication Operations ](.%2FMaximum%2520Score%2520from%2520Performing%2520Multiplication%2520Operations.cpp) 
 -  [ Maximum Subarray Min-Product ](.%2FMaximum%2520Subarray%2520Min-Product.cpp) 
 -  [ Maximum Subarray ](.%2FMaximum%2520Subarray.cpp) 
@@ -221,10 +222,11 @@
 -  [ Unique Paths III ](.%2FUnique%2520Paths%2520III.cpp) 
 -  [ Unique Paths ](.%2FUnique%2520Paths.cpp) 
 -  [ Valid Mountain Array ](.%2FValid%2520Mountain%2520Array.cpp) 
+-  [ Valid Palindrome II ](.%2FValid%2520Palindrome%2520II.cpp) 
 -  [ Valid Parentheses ](.%2FValid%2520Parentheses.cpp) 
 -  [ Valid Sudoku ](.%2FValid%2520Sudoku.cpp) 
 -  [ Validate Stack Sequences ](.%2FValidate%2520Stack%2520Sequences.cpp) 
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 223
+### Total Code Count : 225

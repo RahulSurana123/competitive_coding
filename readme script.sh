@@ -66,7 +66,7 @@ python "../readme Generation for folders.py"
 
 echo "Readme Generated for Striever SDE Sheet folder"
 
-cd "../Google kickstart Problems"
+cd "../Google Contest Problems"
 
 python "../readme Generation for folders.py"
 
