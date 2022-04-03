@@ -1,9 +1,13 @@
-4
-4
-6 10 12 8
-6
-5 4 5 4 4 4
-10
-10 10 7 6 7 4 4 5 7 4
-1
-10
+7
+2
+3
+World
+Asia
+Africa
+China
+India
+SouthAfrica
+Egypt
+1 China 9
+2 India 9
+3 Asia 9
