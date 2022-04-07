@@ -50,19 +50,47 @@ For each test case print one integer — the number of good subarrays of the arr
  
 using namespace std;
 
+vector<int> ar;
 
+bool p(int v, int i, int j, int k){
+    FOR(s,i+1){
+        FOR(t,j+1){
+            if(s+2*t > v) continue;
+            if((v-s-2*t)%3 != 0) continue;
+            if((v-s-2*t)/3 <= k) return true;
+        }
+    }
+    return false;
+}
 
+bool pp(int i, int j, int k){
+    for(auto v: ar){
+        if(!p(v,i,j,k)) return false;
+    }
+    return true;
+}
 
 int main()
 {
 	fast_io;
     int t=1;
-    // cin >> t;
+    cin >> t;
     while(t--) {
         int n;
-        // cin >> n;
-        // vector<int> ar(n);
-        // FOR(i,n) { cin >> ar[i]; }
-        cout << (1<<1) <<"\n";
+        cin >> n;
+        int m = 0;
+        int ans = 1e9;
+        ar.resize(n);
+        FOR(i,n) { cin >> ar[i]; m = max(ar[i],m); }
+        for(int i = 0; i < 3; i++){
+            for(int j = 0; j < 3; j++){
+                int k = max(0,(int)ceil((m-i-2*j)/3));
+                if(pp(i,j,k)){
+                    ans = min(ans,i+k+j);
+                }
+            }   
+        }
+
+        cout << ans <<"\n";
     }
 }
