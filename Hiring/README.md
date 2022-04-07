@@ -25,6 +25,7 @@
 -  [ Jump to N ](.%2FJump%2520to%2520N.cpp) 
 -  [ juspay interview question ](.%2Fjuspay%2520interview%2520question.cpp) 
 -  [ Largest Subset ](.%2FLargest%2520Subset.cpp) 
+-  [ largestSubgrid ](.%2FlargestSubgrid.cpp) 
 -  [ Learn JS ](.%2FLearn%2520JS.cpp) 
 -  [ Locking The Tree of Space with Thread safety (PART B) ](.%2FLocking%2520The%2520Tree%2520of%2520Space%2520with%2520Thread%2520safety%2520%28PART%2520B%29.cpp) 
 -  [ Locking The Tree of Space ](.%2FLocking%2520The%2520Tree%2520of%2520Space.cpp) 
@@ -34,6 +35,7 @@
 -  [ Maximum value subarray ](.%2FMaximum%2520value%2520subarray.cpp) 
 -  [ MEX value ](.%2FMEX%2520value.cpp) 
 -  [ Milly and her love for power naps. ](.%2FMilly%2520and%2520her%2520love%2520for%2520power%2520naps.java) 
+-  [ minCost ](.%2FminCost.cpp) 
 -  [ Minimum addition ](.%2FMinimum%2520addition.cpp) 
 -  [ minimum Operations ](.%2Fminimum%2520Operations.cpp) 
 -  [ Mismatched Payment ](.%2FMismatched%2520Payment.cpp) 
@@ -70,4 +72,4 @@
 -  [ Vaccine distribution ](.%2FVaccine%2520distribution.cpp) 
 -  [ Wissen Interview ](.%2FWissen%2520Interview.cpp) 
 -  [ XOR Paths ](.%2FXOR%2520Paths.cpp) 
-### Total Code Count : 66
+### Total Code Count : 68
