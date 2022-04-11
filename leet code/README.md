@@ -12,6 +12,7 @@
 -  [ All Possible Full Binary Trees ](.%2FAll%2520Possible%2520Full%2520Binary%2520Trees.cpp) 
 -  [ Arithmetic Slices ](.%2FArithmetic%2520Slices.cpp) 
 -  [ aximum XOR of Two Numbers in an Array ](.%2Faximum%2520XOR%2520of%2520Two%2520Numbers%2520in%2520an%2520Array.cpp) 
+-  [ Baseball Game ](.%2FBaseball%2520Game.cpp) 
 -  [ Beautiful Arrangement ](.%2FBeautiful%2520Arrangement.cpp) 
 -  [ Best Time to Buy and Sell Stock II ](.%2FBest%2520Time%2520to%2520Buy%2520and%2520Sell%2520Stock%2520II.cpp) 
 -  [ Best Time to Buy and Sell Stock III ](.%2FBest%2520Time%2520to%2520Buy%2520and%2520Sell%2520Stock%2520III.cpp) 
@@ -185,6 +186,7 @@
 -  [ Search in Rotated Sorted Array II ](.%2FSearch%2520in%2520Rotated%2520Sorted%2520Array%2520II.cpp) 
 -  [ Search Insert Position ](.%2FSearch%2520Insert%2520Position.cpp) 
 -  [ Sequential Digits ](.%2FSequential%2520Digits.cpp) 
+-  [ Shift 2D Grid ](.%2FShift%25202D%2520Grid.cpp) 
 -  [ Simplify Path ](.%2FSimplify%2520Path.cpp) 
 -  [ Single Element in a Sorted Array ](.%2FSingle%2520Element%2520in%2520a%2520Sorted%2520Array.cpp) 
 -  [ Single Number III ](.%2FSingle%2520Number%2520III.cpp) 
@@ -234,4 +236,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 230
+### Total Code Count : 232
