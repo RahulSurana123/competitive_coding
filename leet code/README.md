@@ -42,6 +42,7 @@
 -  [ Container With Most Water ](.%2FContainer%2520With%2520Most%2520Water.cpp) 
 -  [ Contiguous Array ](.%2FContiguous%2520Array.cpp) 
 -  [ Convert Binary Number in a Linked List to Integer ](.%2FConvert%2520Binary%2520Number%2520in%2520a%2520Linked%2520List%2520to%2520Integer.cpp) 
+-  [ Convert BST to Greater Tree ](.%2FConvert%2520BST%2520to%2520Greater%2520Tree.cpp) 
 -  [ Convert Sorted Array to Binary Search Tree ](.%2FConvert%2520Sorted%2520Array%2520to%2520Binary%2520Search%2520Tree.cpp) 
 -  [ Copy List with Random Pointer ](.%2FCopy%2520List%2520with%2520Random%2520Pointer.cpp) 
 -  [ Count All Valid Pickup and Delivery Options ](.%2FCount%2520All%2520Valid%2520Pickup%2520and%2520Delivery%2520Options.cpp) 
@@ -79,6 +80,7 @@
 -  [ House Robber ](.%2FHouse%2520Robber.cpp) 
 -  [ Implement Stack using Queues ](.%2FImplement%2520Stack%2520using%2520Queues.cpp) 
 -  [ Implement Trie (Prefix Tree) ](.%2FImplement%2520Trie%2520%28Prefix%2520Tree%29.cpp) 
+-  [ Increasing Order Search Tree ](.%2FIncreasing%2520Order%2520Search%2520Tree.cpp) 
 -  [ Insert Delete GetRandom O(1) ](.%2FInsert%2520Delete%2520GetRandom%2520O%281%29.cpp) 
 -  [ Insert into a Binary Search Tree ](.%2FInsert%2520into%2520a%2520Binary%2520Search%2520Tree.cpp) 
 -  [ Insertion Sort List ](.%2FInsertion%2520Sort%2520List.cpp) 
@@ -223,6 +225,7 @@
 -  [ Transform to Chessboard ](.%2FTransform%2520to%2520Chessboard.cpp) 
 -  [ Trapping Rain Water ](.%2FTrapping%2520Rain%2520Water.cpp) 
 -  [ Triangle ](.%2FTriangle.cpp) 
+-  [ Trim a Binary Search Tree ](.%2FTrim%2520a%2520Binary%2520Search%2520Tree.cpp) 
 -  [ Truncate Sentence ](.%2FTruncate%2520Sentence.cpp) 
 -  [ Two City Scheduling ](.%2FTwo%2520City%2520Scheduling.cpp) 
 -  [ Two Sum ](.%2FTwo%2520Sum.cpp) 
@@ -239,4 +242,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 235
+### Total Code Count : 238
