@@ -207,6 +207,7 @@
 -  [ Slowest Key ](.%2FSlowest%2520Key.cpp) 
 -  [ Smallest String Starting From Leaf ](.%2FSmallest%2520String%2520Starting%2520From%2520Leaf.cpp) 
 -  [ Smallest String With A Given Numeric Value ](.%2FSmallest%2520String%2520With%2520A%2520Given%2520Numeric%2520Value.cpp) 
+-  [ Smallest String With Swaps ](.%2FSmallest%2520String%2520With%2520Swaps.cpp) 
 -  [ Smallest Value of the Rearranged Number ](.%2FSmallest%2520Value%2520of%2520the%2520Rearranged%2520Number.cpp) 
 -  [ Sort Characters By Frequency ](.%2FSort%2520Characters%2520By%2520Frequency.cpp) 
 -  [ Sort Colors ](.%2FSort%2520Colors.cpp) 
@@ -251,4 +252,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 247
+### Total Code Count : 248
