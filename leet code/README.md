@@ -68,6 +68,7 @@
 -  [ Domino and Tromino Tiling ](.%2FDomino%2520and%2520Tromino%2520Tiling.cpp) 
 -  [ Edit Distance ](.%2FEdit%2520Distance.cpp) 
 -  [ Encode and Decode TinyURL ](.%2FEncode%2520and%2520Decode%2520TinyURL.cpp) 
+-  [ Evaluate Division ](.%2FEvaluate%2520Division.cpp) 
 -  [ Excel Sheet Column Number ](.%2FExcel%2520Sheet%2520Column%2520Number.cpp) 
 -  [ Find All Anagrams in a String ](.%2FFind%2520All%2520Anagrams%2520in%2520a%2520String.cpp) 
 -  [ Find All Duplicates in an Array ](.%2FFind%2520All%2520Duplicates%2520in%2520an%2520Array.cpp) 
@@ -93,6 +94,7 @@
 -  [ Interval List Intersections ](.%2FInterval%2520List%2520Intersections.cpp) 
 -  [ Invert Binary Tree ](.%2FInvert%2520Binary%2520Tree.cpp) 
 -  [ IPO ](.%2FIPO.cpp) 
+-  [ Is Graph Bipartite  ](.%2FIs%2520Graph%2520Bipartite%2520.cpp) 
 -  [ Is Subsequence ](.%2FIs%2520Subsequence.cpp) 
 -  [ Island Perimeter ](.%2FIsland%2520Perimeter.cpp) 
 -  [ Iterator for Combination ](.%2FIterator%2520for%2520Combination.cpp) 
@@ -165,6 +167,7 @@
 -  [ Partition to K Equal Sum Subsets ](.%2FPartition%2520to%2520K%2520Equal%2520Sum%2520Subsets.cpp) 
 -  [ Pascal's Triangle II ](.%2FPascal%27s%2520Triangle%2520II.cpp) 
 -  [ Path Sum III ](.%2FPath%2520Sum%2520III.cpp) 
+-  [ Path With Minimum Effort ](.%2FPath%2520With%2520Minimum%2520Effort.cpp) 
 -  [ Peeking Iterator ](.%2FPeeking%2520Iterator.cpp) 
 -  [ Perfect Squares ](.%2FPerfect%2520Squares.cpp) 
 -  [ Permutation in String ](.%2FPermutation%2520in%2520String.cpp) 
@@ -252,4 +255,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 248
+### Total Code Count : 251
