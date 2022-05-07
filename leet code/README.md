@@ -4,6 +4,7 @@
 ### Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together
 ### HYPERLINK To Code
 ***
+-  [ 132 Pattern ](.%2F132%2520Pattern.cpp) 
 -  [ 3Sum ](.%2F3Sum.cpp) 
 -  [ 4Sum II ](.%2F4Sum%2520II.cpp) 
 -  [ Add Binary ](.%2FAdd%2520Binary.cpp) 
@@ -181,6 +182,7 @@
 -  [ READM ](.%2FREADME.md) 
 -  [ Recover a Tree From Preorder Traversal ](.%2FRecover%2520a%2520Tree%2520From%2520Preorder%2520Traversal.cpp) 
 -  [ Recover Binary Search Tree ](.%2FRecover%2520Binary%2520Search%2520Tree.cpp) 
+-  [ Remove All Adjacent Duplicates in String II ](.%2FRemove%2520All%2520Adjacent%2520Duplicates%2520in%2520String%2520II.cpp) 
 -  [ Remove Covered Intervals ](.%2FRemove%2520Covered%2520Intervals.cpp) 
 -  [ Remove Digit From Number to Maximize Result ](.%2FRemove%2520Digit%2520From%2520Number%2520to%2520Maximize%2520Result.cpp) 
 -  [ Remove Duplicate Letters ](.%2FRemove%2520Duplicate%2520Letters.cpp) 
@@ -261,4 +263,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 257
+### Total Code Count : 259
