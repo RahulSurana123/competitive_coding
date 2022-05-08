@@ -79,6 +79,7 @@
 -  [ Find the Difference ](.%2FFind%2520the%2520Difference.cpp) 
 -  [ Find the Town Judge ](.%2FFind%2520the%2520Town%2520Judge.cpp) 
 -  [ Flatten a Multilevel Doubly Linked List ](.%2FFlatten%2520a%2520Multilevel%2520Doubly%2520Linked%2520List.cpp) 
+-  [ Flatten Nested List Iterator ](.%2FFlatten%2520Nested%2520List%2520Iterator.cpp) 
 -  [ Game of Life ](.%2FGame%2520of%2520Life.cpp) 
 -  [ Gas Station ](.%2FGas%2520Station.cpp) 
 -  [ Guess Number Higher or Lower II ](.%2FGuess%2520Number%2520Higher%2520or%2520Lower%2520II.cpp) 
@@ -263,4 +264,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 259
+### Total Code Count : 260
