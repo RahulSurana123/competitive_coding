@@ -179,7 +179,9 @@
 -  [ Peeking Iterator ](.%2FPeeking%2520Iterator.cpp) 
 -  [ Perfect Squares ](.%2FPerfect%2520Squares.cpp) 
 -  [ Permutation in String ](.%2FPermutation%2520in%2520String.cpp) 
+-  [ Permutations II ](.%2FPermutations%2520II.cpp) 
 -  [ Plus One ](.%2FPlus%2520One.cpp) 
+-  [ Populating Next Right Pointers in Each Node II ](.%2FPopulating%2520Next%2520Right%2520Pointers%2520in%2520Each%2520Node%2520II.cpp) 
 -  [ Power of Two ](.%2FPower%2520of%2520Two.cpp) 
 -  [ Range Sum of BST ](.%2FRange%2520Sum%2520of%2520BST.cpp) 
 -  [ readme Generation ](.%2Freadme%2520Generation.py) 
@@ -267,4 +269,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 263
+### Total Code Count : 265

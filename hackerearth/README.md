@@ -6,6 +6,7 @@
 ***
 -  [ A Strange Sum ](.%2FA%2520Strange%2520Sum.cpp) 
 -  [ Alice and Strings ](.%2FAlice%2520and%2520Strings.cpp) 
+-  [ Anurag and his Endoscope ](.%2FAnurag%2520and%2520his%2520Endoscope.cpp) 
 -  [ Binary Search ](.%2FBinary%2520Search.cpp) 
 -  [ Binary Tree Diameter ](.%2FBinary%2520Tree%2520Diameter.cpp) 
 -  [ Bishu and Soldiers ](.%2FBishu%2520and%2520Soldiers.cpp) 
@@ -29,4 +30,4 @@
 -  [ Rest in peace - 21-1! ](.%2FRest%2520in%2520peace%2520-%252021-1%21.cpp) 
 -  [ Special Shop ](.%2FSpecial%2520Shop.cpp) 
 -  [ Ways ](.%2FWays.cpp) 
-### Total Code Count : 25
+### Total Code Count : 26
