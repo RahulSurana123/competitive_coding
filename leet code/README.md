@@ -217,6 +217,7 @@
 -  [ Search Insert Position ](.%2FSearch%2520Insert%2520Position.cpp) 
 -  [ Sequential Digits ](.%2FSequential%2520Digits.cpp) 
 -  [ Shift 2D Grid ](.%2FShift%25202D%2520Grid.cpp) 
+-  [ Shortest Path in Binary Matrix ](.%2FShortest%2520Path%2520in%2520Binary%2520Matrix.cpp) 
 -  [ Shortest Unsorted Continuous Subarray ](.%2FShortest%2520Unsorted%2520Continuous%2520Subarray.cpp) 
 -  [ Simplify Path ](.%2FSimplify%2520Path.cpp) 
 -  [ Single Element in a Sorted Array ](.%2FSingle%2520Element%2520in%2520a%2520Sorted%2520Array.cpp) 
@@ -271,4 +272,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 267
+### Total Code Count : 268
