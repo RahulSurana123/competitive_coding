@@ -55,6 +55,7 @@
 -  [ Counting Bits ](.%2FCounting%2520Bits.cpp) 
 -  [ Course Schedule II ](.%2FCourse%2520Schedule%2520II.cpp) 
 -  [ Cousins in Binary Tree ](.%2FCousins%2520in%2520Binary%2520Tree.cpp) 
+-  [ Critical Connections in a Network ](.%2FCritical%2520Connections%2520in%2520a%2520Network.cpp) 
 -  [ Cyclically Rotating a Grid ](.%2FCyclically%2520Rotating%2520a%2520Grid.cpp) 
 -  [ Daily Temperatures ](.%2FDaily%2520Temperatures.cpp) 
 -  [ Decode String ](.%2FDecode%2520String.cpp) 
@@ -122,6 +123,7 @@
 -  [ Linked List Cycle ](.%2FLinked%2520List%2520Cycle.cpp) 
 -  [ Linked List Random Node ](.%2FLinked%2520List%2520Random%2520Node.cpp) 
 -  [ Longest Common Subsequence ](.%2FLongest%2520Common%2520Subsequence.cpp) 
+-  [ Longest Increasing Path in a Matrix ](.%2FLongest%2520Increasing%2520Path%2520in%2520a%2520Matrix.cpp) 
 -  [ Longest Increasing Subsequence ](.%2FLongest%2520Increasing%2520Subsequence.cpp) 
 -  [ Longest Palindromic Substring ](.%2FLongest%2520Palindromic%2520Substring.cpp) 
 -  [ Longest Substring Without Repeating Characters ](.%2FLongest%2520Substring%2520Without%2520Repeating%2520Characters.cpp) 
@@ -273,4 +275,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 269
+### Total Code Count : 271
