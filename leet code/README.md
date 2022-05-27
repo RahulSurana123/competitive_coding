@@ -170,6 +170,7 @@
 -  [ Next Greater Element I ](.%2FNext%2520Greater%2520Element%2520I.cpp) 
 -  [ Nth Magical Number ](.%2FNth%2520Magical%2520Number.cpp) 
 -  [ Number of Digit One ](.%2FNumber%2520of%2520Digit%2520One.cpp) 
+-  [ Number of Steps to Reduce a Number to Zero ](.%2FNumber%2520of%2520Steps%2520to%2520Reduce%2520a%2520Number%2520to%2520Zero.cpp) 
 -  [ Number of Ways to Arrive at Destination ](.%2FNumber%2520of%2520Ways%2520to%2520Arrive%2520at%2520Destination.cpp) 
 -  [ Number of Wonderful Substrings ](.%2FNumber%2520of%2520Wonderful%2520Substrings.cpp) 
 -  [ Numbers At Most N Given Digit Set ](.%2FNumbers%2520At%2520Most%2520N%2520Given%2520Digit%2520Set.cpp) 
@@ -280,4 +281,4 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 276
+### Total Code Count : 277
