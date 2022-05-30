@@ -98,6 +98,7 @@
 -  [ Insert Delete GetRandom O(1) ](.%2FInsert%2520Delete%2520GetRandom%2520O%281%29.cpp) 
 -  [ Insert into a Binary Search Tree ](.%2FInsert%2520into%2520a%2520Binary%2520Search%2520Tree.cpp) 
 -  [ Insertion Sort List ](.%2FInsertion%2520Sort%2520List.cpp) 
+-  [ Integer to Roman ](.%2FInteger%2520to%2520Roman.cpp) 
 -  [ Intersection of Two Arrays II ](.%2FIntersection%2520of%2520Two%2520Arrays%2520II.cpp) 
 -  [ Interval List Intersections ](.%2FInterval%2520List%2520Intersections.cpp) 
 -  [ Invert Binary Tree ](.%2FInvert%2520Binary%2520Tree.cpp) 
@@ -180,6 +181,7 @@
 -  [ Ones and Zeroes ](.%2FOnes%2520and%2520Zeroes.cpp) 
 -  [ Online Stock Span ](.%2FOnline%2520Stock%2520Span.cpp) 
 -  [ Pairs of Songs With Total Durations Divisible by 60 ](.%2FPairs%2520of%2520Songs%2520With%2520Total%2520Durations%2520Divisible%2520by%252060.cpp) 
+-  [ Palindrome Number ](.%2FPalindrome%2520Number.cpp) 
 -  [ Palindrome Partitioning ](.%2FPalindrome%2520Partitioning.cpp) 
 -  [ Palindromic Substrings ](.%2FPalindromic%2520Substrings.cpp) 
 -  [ Partition Equal Subset Sum ](.%2FPartition%2520Equal%2520Subset%2520Sum.cpp) 
@@ -212,6 +214,7 @@
 -  [ Remove Linked List Elements ](.%2FRemove%2520Linked%2520List%2520Elements.cpp) 
 -  [ Remove Nth Node From End of List ](.%2FRemove%2520Nth%2520Node%2520From%2520End%2520of%2520List.cpp) 
 -  [ Reorder List ](.%2FReorder%2520List.cpp) 
+-  [ Reverse Integer ](.%2FReverse%2520Integer.cpp) 
 -  [ Reverse String ](.%2FReverse%2520String.cpp) 
 -  [ Richest Customer Wealth ](.%2FRichest%2520Customer%2520Wealth.cpp) 
 -  [ Robot Bounded In Circle ](.%2FRobot%2520Bounded%2520In%2520Circle.cpp) 
@@ -283,4 +286,5 @@
 -  [ Vertical Order Traversal of a Binary Tree ](.%2FVertical%2520Order%2520Traversal%2520of%2520a%2520Binary%2520Tree.cpp) 
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
-### Total Code Count : 279
+-  [ Zigzag Conversion ](.%2FZigzag%2520Conversion.cpp) 
+### Total Code Count : 283
