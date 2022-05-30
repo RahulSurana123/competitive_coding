@@ -294,4 +294,8 @@
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
 -  [ Zigzag Conversion ](.%2FZigzag%2520Conversion.cpp) 
+<<<<<<< HEAD
 ### Total Code Count : 290
+=======
+### Total Code Count : 284
+>>>>>>> 0d28168 (updating readme files)
