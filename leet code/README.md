@@ -218,6 +218,7 @@
 -  [ Reverse String ](.%2FReverse%2520String.cpp) 
 -  [ Richest Customer Wealth ](.%2FRichest%2520Customer%2520Wealth.cpp) 
 -  [ Robot Bounded In Circle ](.%2FRobot%2520Bounded%2520In%2520Circle.cpp) 
+-  [ Roman to Integer ](.%2FRoman%2520to%2520Integer.cpp) 
 -  [ Rotate Array ](.%2FRotate%2520Array.cpp) 
 -  [ Rotate Image ](.%2FRotate%2520Image.cpp) 
 -  [ Rotate List ](.%2FRotate%2520List.cpp) 
@@ -287,4 +288,4 @@
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
 -  [ Zigzag Conversion ](.%2FZigzag%2520Conversion.cpp) 
-### Total Code Count : 283
+### Total Code Count : 284
