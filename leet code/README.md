@@ -164,10 +164,12 @@
 -  [ Minimum Remove to Make Valid Parentheses ](.%2FMinimum%2520Remove%2520to%2520Make%2520Valid%2520Parentheses.cpp) 
 -  [ Minimum Time to Type Word Using Special Typewriter ](.%2FMinimum%2520Time%2520to%2520Type%2520Word%2520Using%2520Special%2520Typewriter.cpp) 
 -  [ Minimum Value to Get Positive Step by Step Sum ](.%2FMinimum%2520Value%2520to%2520Get%2520Positive%2520Step%2520by%2520Step%2520Sum.cpp) 
+-  [ Mirror Reflection ](.%2FMirror%2520Reflection.cpp) 
 -  [ Missing Number ](.%2FMissing%2520Number.cpp) 
 -  [ Most Frequent Subtree Sum ](.%2FMost%2520Frequent%2520Subtree%2520Sum.cpp) 
 -  [ Move Zeroes ](.%2FMove%2520Zeroes.cpp) 
 -  [ Multiply Strings ](.%2FMultiply%2520Strings.cpp) 
+-  [ My Calendar I ](.%2FMy%2520Calendar%2520I.cpp) 
 -  [ N-th Tribonacci Number ](.%2FN-th%2520Tribonacci%2520Number.cpp) 
 -  [ Network Delay Time ](.%2FNetwork%2520Delay%2520Time.cpp) 
 -  [ Next Greater Element I ](.%2FNext%2520Greater%2520Element%2520I.cpp) 
@@ -196,6 +198,8 @@
 -  [ Permutations II ](.%2FPermutations%2520II.cpp) 
 -  [ Plus One ](.%2FPlus%2520One.cpp) 
 -  [ Populating Next Right Pointers in Each Node II ](.%2FPopulating%2520Next%2520Right%2520Pointers%2520in%2520Each%2520Node%2520II.cpp) 
+-  [ Power of Four ](.%2FPower%2520of%2520Four.cpp) 
+-  [ Power of Three ](.%2FPower%2520of%2520Three.cpp) 
 -  [ Power of Two ](.%2FPower%2520of%2520Two.cpp) 
 -  [ Range Sum of BST ](.%2FRange%2520Sum%2520of%2520BST.cpp) 
 -  [ readme Generation ](.%2Freadme%2520Generation.py) 
@@ -288,4 +292,4 @@
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
 -  [ Zigzag Conversion ](.%2FZigzag%2520Conversion.cpp) 
-### Total Code Count : 284
+### Total Code Count : 288
