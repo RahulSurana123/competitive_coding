@@ -10,6 +10,7 @@
 -  [ Array Filling ](.%2FArray%2520Filling.cpp) 
 -  [ Aujasvit and the Circle Game ](.%2FAujasvit%2520and%2520the%2520Circle%2520Game.cpp) 
 -  [ Avoid Contact ](.%2FAvoid%2520Contact.cpp) 
+-  [ Balls and Boxes ](.%2FBalls%2520and%2520Boxes.cpp) 
 -  [ Billiards ](.%2FBilliards.cpp) 
 -  [ Cheating Time ](.%2FCheating%2520Time.cpp) 
 -  [ Chef and Adventures ](.%2FChef%2520and%2520Adventures.cpp) 
@@ -79,4 +80,4 @@
 -  [ Yet Another Constructive Problem ](.%2FYet%2520Another%2520Constructive%2520Problem.cpp) 
 -  [ Yet Another Flipping Problem 2 ](.%2FYet%2520Another%2520Flipping%2520Problem%25202.cpp) 
 -  [ Zack And The Handkerchieves ](.%2FZack%2520And%2520The%2520Handkerchieves.cpp) 
-### Total Code Count : 75
+### Total Code Count : 76

@@ -202,6 +202,7 @@
 -  [ Power of Three ](.%2FPower%2520of%2520Three.cpp) 
 -  [ Power of Two ](.%2FPower%2520of%2520Two.cpp) 
 -  [ Range Sum of BST ](.%2FRange%2520Sum%2520of%2520BST.cpp) 
+-  [ Ransom Note ](.%2FRansom%2520Note.cpp) 
 -  [ readme Generation ](.%2Freadme%2520Generation.py) 
 -  [ READM ](.%2FREADME.md) 
 -  [ Recover a Tree From Preorder Traversal ](.%2FRecover%2520a%2520Tree%2520From%2520Preorder%2520Traversal.cpp) 
@@ -292,4 +293,4 @@
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
 -  [ Zigzag Conversion ](.%2FZigzag%2520Conversion.cpp) 
-### Total Code Count : 288
+### Total Code Count : 289

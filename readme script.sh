@@ -4,8 +4,6 @@ echo "Started the ReadMe Generation"
 
 python3 "readme Generation.py"
 
-ls -a
-
 echo "Readme Generated for main folder"
 
 cd "./code monk"
