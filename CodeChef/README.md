@@ -41,6 +41,7 @@
 -  [ Maximum Damage ](.%2FMaximum%2520Damage.cpp) 
 -  [ Maximum Number Of Distinct Elements ](.%2FMaximum%2520Number%2520Of%2520Distinct%2520Elements.cpp) 
 -  [ Maximum Production ](.%2FMaximum%2520Production.cpp) 
+-  [ Mean and Median ](.%2FMean%2520and%2520Median.cpp) 
 -  [ Mexy Array ](.%2FMexy%2520Array.cpp) 
 -  [ Min Max LCM ](.%2FMin%2520Max%2520LCM.cpp) 
 -  [ Minimise Difference ](.%2FMinimise%2520Difference.cpp) 
@@ -80,4 +81,4 @@
 -  [ Yet Another Constructive Problem ](.%2FYet%2520Another%2520Constructive%2520Problem.cpp) 
 -  [ Yet Another Flipping Problem 2 ](.%2FYet%2520Another%2520Flipping%2520Problem%25202.cpp) 
 -  [ Zack And The Handkerchieves ](.%2FZack%2520And%2520The%2520Handkerchieves.cpp) 
-### Total Code Count : 76
+### Total Code Count : 77

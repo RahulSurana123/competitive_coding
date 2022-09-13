@@ -60,7 +60,7 @@ python3 "../readme Generation for folders.py"
 
 echo "Readme Generated for Rated competition Codes folder"
 
-cd "../Striver’s SDE Sheet"
+cd "../Striver SDE Sheet"
 
 python3 "../readme Generation for folders.py"
 
@@ -75,5 +75,3 @@ echo "Readme Generated for Google kickstart folder"
 cd ..
 
 echo "Done with Readme Generation"
-
-pause
