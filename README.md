@@ -7,7 +7,7 @@
 | Platform  |  Problem Count |
 | --------  |  ------------- |
 |    [ code monk ](./code%20monk)     |      26    |
-|    [ CodeChef ](./CodeChef)     |      76    |
+|    [ CodeChef ](./CodeChef)     |      77    |
 |    [ CodeForces ](./CodeForces)     |      60    |
 |    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      3    |
 |    [ Geek for Geek ](./Geek%20for%20Geek)     |      72    |
@@ -15,8 +15,8 @@
 |    [ hackerearth ](./hackerearth)     |      26    |
 |    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Hiring ](./Hiring)     |      68    |
-|    [ leet code ](./leet%20code)     |      289    |
+|    [ leet code ](./leet%20code)     |      290    |
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      5    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
-|    [ Striver’s SDE Sheet ](./Striver’s%20SDE%20Sheet)     |      13    |
-### Total Code Count : 681
+|    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
+### Total Code Count : 683
