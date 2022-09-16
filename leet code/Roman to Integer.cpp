@@ -53,7 +53,6 @@ public:
             else{
                 ans += cv[s[i]];
             }
-            // cout << i << " " << ans <<" "<< cv[s[i]]<<"\n";
         }
         return ans;
     }
