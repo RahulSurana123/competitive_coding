@@ -82,6 +82,7 @@
 -  [ Find All Duplicates in an Array ](.%2FFind%2520All%2520Duplicates%2520in%2520an%2520Array.cpp) 
 -  [ Find All Numbers Disappeared in an Array ](.%2FFind%2520All%2520Numbers%2520Disappeared%2520in%2520an%2520Array.cpp) 
 -  [ Find Minimum in Rotated Sorted Array II ](.%2FFind%2520Minimum%2520in%2520Rotated%2520Sorted%2520Array%2520II.cpp) 
+-  [ Find Original Array From Doubled Array ](.%2FFind%2520Original%2520Array%2520From%2520Doubled%2520Array.cpp) 
 -  [ Find the Difference ](.%2FFind%2520the%2520Difference.cpp) 
 -  [ Find the Town Judge ](.%2FFind%2520the%2520Town%2520Judge.cpp) 
 -  [ Flatten a Multilevel Doubly Linked List ](.%2FFlatten%2520a%2520Multilevel%2520Doubly%2520Linked%2520List.cpp) 
@@ -285,6 +286,7 @@
 -  [ Unique Paths II ](.%2FUnique%2520Paths%2520II.cpp) 
 -  [ Unique Paths III ](.%2FUnique%2520Paths%2520III.cpp) 
 -  [ Unique Paths ](.%2FUnique%2520Paths.cpp) 
+-  [ UTF-8 Validation ](.%2FUTF-8%2520Validation.cpp) 
 -  [ Valid Mountain Array ](.%2FValid%2520Mountain%2520Array.cpp) 
 -  [ Valid Palindrome II ](.%2FValid%2520Palindrome%2520II.cpp) 
 -  [ Valid Parentheses ](.%2FValid%2520Parentheses.cpp) 
@@ -294,4 +296,5 @@
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
 -  [ Zigzag Conversion ](.%2FZigzag%2520Conversion.cpp) 
-### Total Code Count : 290
+### Total Code Count : 292
+
