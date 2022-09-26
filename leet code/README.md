@@ -232,6 +232,7 @@
 -  [ Rotate List ](.%2FRotate%2520List.cpp) 
 -  [ Rotting Oranges ](.%2FRotting%2520Oranges.cpp) 
 -  [ Russian Doll Envelopes ](.%2FRussian%2520Doll%2520Envelopes.cpp) 
+-  [ Satisfiability of Equality Equations ](.%2FSatisfiability%2520of%2520Equality%2520Equations.cpp) 
 -  [ Score of Parentheses ](.%2FScore%2520of%2520Parentheses.cpp) 
 -  [ Search a 2D Matrix ](.%2FSearch%2520a%25202D%2520Matrix.cpp) 
 -  [ Search in a Binary Search Tree ](.%2FSearch%2520in%2520a%2520Binary%2520Search%2520Tree.cpp) 
@@ -298,4 +299,4 @@
 -  [ Word Pattern ](.%2FWord%2520Pattern.cpp) 
 -  [ Word Search ](.%2FWord%2520Search.cpp) 
 -  [ Zigzag Conversion ](.%2FZigzag%2520Conversion.cpp) 
-### Total Code Count : 294
+### Total Code Count : 295
