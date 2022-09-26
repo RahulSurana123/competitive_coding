@@ -38,10 +38,10 @@ for r,d,f in list(os.walk(os.getcwd())):
 	for files in f:	
 		if files[-3:] == ".py":
 			dic[files[:-3]] = (("./"+"%20".join(list(files.split(" ")))).replace("?","%3F"))
-			fs.write("-  [ "+files[:-3]+" ]("+dic[files[:-3]]+") \n")
+			fs.write("-  [ "+files[:-3]+" ]("+dic[files[:-3]]+")\n")
 		else:
-			dic[files[:-4]] = (("./"+"%20".join(list(files.split(" ")))).replace("?","%3F")) 
-			fs.write("-  [ "+files[:-4]+" ]("+dic[files[:-4]]+") \n")
+			dic[files[:-4]] = (("./"+"%20".join(list(files.split(" ")))).replace("?","%3F"))
+			fs.write("-  [ "+files[:-4]+" ]("+dic[files[:-4]]+")\n")
 
 # print(dic)
 c = len(dic)
