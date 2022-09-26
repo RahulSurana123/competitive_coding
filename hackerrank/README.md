@@ -4,7 +4,7 @@
 ### Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together
 ### HYPERLINK To Code
 ***
--  [ New Year Chaos ](.%2FNew%2520Year%2520Chaos.cpp) 
--  [ readme Generation ](.%2Freadme%2520Generation.py) 
--  [ READM ](.%2FREADME.md) 
+-  [ New Year Chaos ](./New%20Year%20Chaos.cpp) 
+-  [ readme Generation ](./readme%20Generation.py) 
+-  [ READM ](./README.md) 
 ### Total Code Count : 3
