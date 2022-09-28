@@ -25,22 +25,25 @@ Given the head of a linked list, remove the nth node from the end of the list an
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        int i = 1;
-        ListNode* cur = head;
-        ListNode* prev = new ListNode(-1);
-        prev->next = head;
-        while(cur){
-            if(i>n) prev = prev->next;
-            cur = cur->next;
-            i++;
+        ListNode* temp = head;
+        ListNode* rem = head;
+        int i = 0;
+        while(temp != NULL){
+           
+            temp = temp->next;
+            if(i > n) rem = rem->next;
+             i++;
         }
-        if(prev->val == -1) return head->next;
-        if(prev->next)
-        prev->next = prev->next->next;
-        
+        if(rem == head && i <n+1){
+            return head->next;
+        }
+        else{
+            rem->next = rem->next->next; 
+        }
         return head;
     }
 };
