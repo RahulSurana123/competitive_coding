@@ -30,4 +30,5 @@
 -  [ Rest in peace - 21-1! ](./Rest%20in%20peace%20-%2021-1!.cpp)
 -  [ Special Shop ](./Special%20Shop.cpp)
 -  [ Ways ](./Ways.cpp)
+
 ### Total Code Count : 26

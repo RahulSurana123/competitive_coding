@@ -46,5 +46,5 @@ for r,d,f in list(os.walk(os.getcwd())):
 # print(dic)
 c = len(dic)
 print(f"### Total Code Count : {c}") 
-fs.write(f"### Total Code Count : {c}") 
+fs.write(f"\n### Total Code Count : {c}") 
 fs.close()

@@ -23,6 +23,7 @@
 -  [ Binary Search Tree Iterator ](./Binary%20Search%20Tree%20Iterator.cpp)
 -  [ Binary Search ](./Binary%20Search.cpp)
 -  [ Binary Tree Cameras ](./Binary%20Tree%20Cameras.cpp)
+-  [ Binary Tree Inorder Traversal ](./Binary%20Tree%20Inorder%20Traversal.cpp)
 -  [ Binary Tree Maximum Path Sum ](./Binary%20Tree%20Maximum%20Path%20Sum.cpp)
 -  [ Bitwise AND of Numbers Range ](./Bitwise%20AND%20of%20Numbers%20Range.cpp)
 -  [ Boats to Save People ](./Boats%20to%20Save%20People.cpp)
@@ -192,6 +193,7 @@
 -  [ Partition Labels ](./Partition%20Labels.cpp)
 -  [ Partition to K Equal Sum Subsets ](./Partition%20to%20K%20Equal%20Sum%20Subsets.cpp)
 -  [ Pascal's Triangle II ](./Pascal's%20Triangle%20II.cpp)
+-  [ Path Sum II ](./Path%20Sum%20II.cpp)
 -  [ Path Sum III ](./Path%20Sum%20III.cpp)
 -  [ Path With Minimum Effort ](./Path%20With%20Minimum%20Effort.cpp)
 -  [ Peeking Iterator ](./Peeking%20Iterator.cpp)
@@ -300,4 +302,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 295
+### Total Code Count : 297
