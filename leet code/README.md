@@ -197,6 +197,7 @@
 -  [ Pascal's Triangle II ](./Pascal's%20Triangle%20II.cpp)
 -  [ Path Sum II ](./Path%20Sum%20II.cpp)
 -  [ Path Sum III ](./Path%20Sum%20III.cpp)
+-  [ Path Sum ](./Path%20Sum.cpp)
 -  [ Path With Minimum Effort ](./Path%20With%20Minimum%20Effort.cpp)
 -  [ Peeking Iterator ](./Peeking%20Iterator.cpp)
 -  [ Perfect Squares ](./Perfect%20Squares.cpp)
@@ -304,4 +305,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 299
+### Total Code Count : 300
