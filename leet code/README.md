@@ -99,6 +99,7 @@
 -  [ Implement Stack using Queues ](./Implement%20Stack%20using%20Queues.cpp)
 -  [ Implement Trie (Prefix Tree) ](./Implement%20Trie%20(Prefix%20Tree).cpp)
 -  [ Increasing Order Search Tree ](./Increasing%20Order%20Search%20Tree.cpp)
+-  [ Increasing Triplet Subsequence ](./Increasing%20Triplet%20Subsequence.cpp)
 -  [ Insert Delete GetRandom O(1) ](./Insert%20Delete%20GetRandom%20O(1).cpp)
 -  [ Insert into a Binary Search Tree ](./Insert%20into%20a%20Binary%20Search%20Tree.cpp)
 -  [ Insertion Sort List ](./Insertion%20Sort%20List.cpp)
@@ -305,4 +306,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 300
+### Total Code Count : 301
