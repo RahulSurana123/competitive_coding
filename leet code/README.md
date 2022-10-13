@@ -64,6 +64,7 @@
 -  [ Deepest Leaves Sum ](./Deepest%20Leaves%20Sum.cpp)
 -  [ Delete and Earn ](./Delete%20and%20Earn.cpp)
 -  [ Delete Node in a BST ](./Delete%20Node%20in%20a%20BST.cpp)
+-  [ Delete Node in a Linked List ](./Delete%20Node%20in%20a%20Linked%20List.cpp)
 -  [ Design Bitset ](./Design%20Bitset.cpp)
 -  [ Design HashMap ](./Design%20HashMap.cpp)
 -  [ Design HashSet ](./Design%20HashSet.cpp)
@@ -122,6 +123,7 @@
 -  [ Largest Component Size by Common Factor ](./Largest%20Component%20Size%20by%20Common%20Factor.cpp)
 -  [ Largest Divisible Subset ](./Largest%20Divisible%20Subset.cpp)
 -  [ Largest Merge Of Two Strings ](./Largest%20Merge%20Of%20Two%20Strings.cpp)
+-  [ Largest Perimeter Triangle ](./Largest%20Perimeter%20Triangle.cpp)
 -  [ Largest Plus Sign ](./Largest%20Plus%20Sign.cpp)
 -  [ Last Stone Weight ](./Last%20Stone%20Weight.cpp)
 -  [ Letter Combinations of a Phone Number ](./Letter%20Combinations%20of%20a%20Phone%20Number.cpp)
@@ -306,5 +308,5 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 301
 
+### Total Code Count : 303
