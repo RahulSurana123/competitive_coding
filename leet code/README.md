@@ -312,4 +312,8 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
+<<<<<<< HEAD
 ### Total Code Count : 307
+=======
+### Total Code Count : 303
+>>>>>>> 1fd6973 (updating README files)
