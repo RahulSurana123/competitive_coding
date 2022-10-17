@@ -15,17 +15,9 @@
 |    [ hackerearth ](./hackerearth)     |      26    |
 |    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Hiring ](./Hiring)     |      68    |
-<<<<<<< HEAD
 |    [ leet code ](./leet%20code)     |      307    |
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      5    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
 
 ### Total Code Count : 700
-=======
-|    [ leet code ](./leet%20code)     |      303    |
-|    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      5    |
-|    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
-|    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
-### Total Code Count : 696
->>>>>>> 1fd6973 (updating README files)
