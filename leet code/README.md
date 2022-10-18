@@ -53,6 +53,7 @@
 -  [ Convert Sorted Array to Binary Search Tree ](./Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp)
 -  [ Copy List with Random Pointer ](./Copy%20List%20with%20Random%20Pointer.cpp)
 -  [ Count All Valid Pickup and Delivery Options ](./Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp)
+-  [ Count and Say ](./Count%20and%20Say.cpp)
 -  [ Count Complete Tree Nodes ](./Count%20Complete%20Tree%20Nodes.cpp)
 -  [ Count Sorted Vowel Strings ](./Count%20Sorted%20Vowel%20Strings.cpp)
 -  [ Counting Bits ](./Counting%20Bits.cpp)
@@ -309,4 +310,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 304
+### Total Code Count : 305
