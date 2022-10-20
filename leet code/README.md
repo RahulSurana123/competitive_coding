@@ -53,6 +53,7 @@
 -  [ Convert Sorted Array to Binary Search Tree ](./Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp)
 -  [ Copy List with Random Pointer ](./Copy%20List%20with%20Random%20Pointer.cpp)
 -  [ Count All Valid Pickup and Delivery Options ](./Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp)
+-  [ Count and Say ](./Count%20and%20Say.cpp)
 -  [ Count Complete Tree Nodes ](./Count%20Complete%20Tree%20Nodes.cpp)
 -  [ Count Sorted Vowel Strings ](./Count%20Sorted%20Vowel%20Strings.cpp)
 -  [ Counting Bits ](./Counting%20Bits.cpp)
@@ -285,6 +286,7 @@
 -  [ Swapping Nodes in a Linked List ](./Swapping%20Nodes%20in%20a%20Linked%20List.cpp)
 -  [ The K Weakest Rows in a Matrix ](./The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)
 -  [ Top K Frequent Elements ](./Top%20K%20Frequent%20Elements.cpp)
+-  [ Top K Frequent Words ](./Top%20K%20Frequent%20Words.cpp)
 -  [ Transform to Chessboard ](./Transform%20to%20Chessboard.cpp)
 -  [ Trapping Rain Water ](./Trapping%20Rain%20Water.cpp)
 -  [ Triangle ](./Triangle.cpp)
@@ -309,4 +311,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 304
+### Total Code Count : 306
