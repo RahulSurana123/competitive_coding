@@ -51,5 +51,5 @@ for dirs in list(os.listdir(".")):
 # print(dic)
 c = ml
 print(f"### Total Code Count : {c}") 
-f.write(f"### Total Code Count : {c}") 
+f.write(f"\n### Total Code Count : {c}") 
 f.close()

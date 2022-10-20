@@ -132,6 +132,7 @@
 -  [ Linked List Cycle II ](./Linked%20List%20Cycle%20II.cpp)
 -  [ Linked List Cycle ](./Linked%20List%20Cycle.cpp)
 -  [ Linked List Random Node ](./Linked%20List%20Random%20Node.cpp)
+-  [ Longest Common Prefix ](./Longest%20Common%20Prefix.cpp)
 -  [ Longest Common Subsequence ](./Longest%20Common%20Subsequence.cpp)
 -  [ Longest Increasing Path in a Matrix ](./Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)
 -  [ Longest Increasing Subsequence ](./Longest%20Increasing%20Subsequence.cpp)
@@ -311,5 +312,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 306
-
+### Total Code Count : 307
