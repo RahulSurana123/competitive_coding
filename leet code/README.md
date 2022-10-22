@@ -47,6 +47,7 @@
 -  [ Construct Binary Tree from Inorder and Postorder Traversal ](./Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.cpp)
 -  [ Construct Binary Tree from Preorder and Inorder Traversal ](./Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp)
 -  [ Container With Most Water ](./Container%20With%20Most%20Water.cpp)
+-  [ Contains Duplicate II ](./Contains%20Duplicate%20II.cpp)
 -  [ Contiguous Array ](./Contiguous%20Array.cpp)
 -  [ Convert Binary Number in a Linked List to Integer ](./Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)
 -  [ Convert BST to Greater Tree ](./Convert%20BST%20to%20Greater%20Tree.cpp)
@@ -175,6 +176,7 @@
 -  [ Minimum Time to Make Rope Colorful ](./Minimum%20Time%20to%20Make%20Rope%20Colorful.cpp)
 -  [ Minimum Time to Type Word Using Special Typewriter ](./Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.cpp)
 -  [ Minimum Value to Get Positive Step by Step Sum ](./Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)
+-  [ Minimum Window Substring ](./Minimum%20Window%20Substring.cpp)
 -  [ Mirror Reflection ](./Mirror%20Reflection.cpp)
 -  [ Missing Number ](./Missing%20Number.cpp)
 -  [ Most Frequent Subtree Sum ](./Most%20Frequent%20Subtree%20Sum.cpp)
@@ -312,5 +314,5 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
+### Total Code Count : 309
 
-### Total Code Count : 307
