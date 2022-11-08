@@ -143,6 +143,7 @@
 -  [ Longest Valid Parentheses ](./Longest%20Valid%20Parentheses.cpp)
 -  [ Lowest Common Ancestor of a Binary Tree ](./Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp)
 -  [ Majority Element ](./Majority%20Element.cpp)
+-  [ Make The String Great ](./Make%20The%20String%20Great.cpp)
 -  [ Making A Large Island ](./Making%20A%20Large%20Island.cpp)
 -  [ Max Number of K-Sum Pairs ](./Max%20Number%20of%20K-Sum%20Pairs.cpp)
 -  [ Maximal Square ](./Maximal%20Square.cpp)
@@ -314,5 +315,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 309
-
+### Total Code Count : 310
