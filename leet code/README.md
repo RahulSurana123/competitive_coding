@@ -148,6 +148,7 @@
 -  [ Max Number of K-Sum Pairs ](./Max%20Number%20of%20K-Sum%20Pairs.cpp)
 -  [ Maximal Square ](./Maximal%20Square.cpp)
 -  [ Maximize Distance to Closest Person ](./Maximize%20Distance%20to%20Closest%20Person.cpp)
+-  [ Maximum 69 Number ](./Maximum%2069%20Number.cpp)
 -  [ Maximum Depth of Binary Tree ](./Maximum%20Depth%20of%20Binary%20Tree.cpp)
 -  [ Maximum Frequency Stack ](./Maximum%20Frequency%20Stack.cpp)
 -  [ Maximum Matrix Sum ](./Maximum%20Matrix%20Sum.cpp)
@@ -196,6 +197,7 @@
 -  [ Odd Even Linked List ](./Odd%20Even%20Linked%20List.cpp)
 -  [ Ones and Zeroes ](./Ones%20and%20Zeroes.cpp)
 -  [ Online Stock Span ](./Online%20Stock%20Span.cpp)
+-  [ Orderly Queue ](./Orderly%20Queue.cpp)
 -  [ Pairs of Songs With Total Durations Divisible by 60 ](./Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.cpp)
 -  [ Palindrome Number ](./Palindrome%20Number.cpp)
 -  [ Palindrome Partitioning ](./Palindrome%20Partitioning.cpp)
@@ -315,4 +317,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 310
+### Total Code Count : 312
