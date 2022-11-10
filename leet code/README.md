@@ -226,6 +226,7 @@
 -  [ Recover a Tree From Preorder Traversal ](./Recover%20a%20Tree%20From%20Preorder%20Traversal.cpp)
 -  [ Recover Binary Search Tree ](./Recover%20Binary%20Search%20Tree.cpp)
 -  [ Remove All Adjacent Duplicates in String II ](./Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)
+-  [ Remove All Adjacent Duplicates In String ](./Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)
 -  [ Remove Covered Intervals ](./Remove%20Covered%20Intervals.cpp)
 -  [ Remove Digit From Number to Maximize Result ](./Remove%20Digit%20From%20Number%20to%20Maximize%20Result.cpp)
 -  [ Remove Duplicate Letters ](./Remove%20Duplicate%20Letters.cpp)
@@ -317,4 +318,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 312
+### Total Code Count : 313
