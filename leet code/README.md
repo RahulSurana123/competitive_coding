@@ -57,6 +57,7 @@
 -  [ Count and Say ](./Count%20and%20Say.cpp)
 -  [ Count Complete Tree Nodes ](./Count%20Complete%20Tree%20Nodes.cpp)
 -  [ Count Sorted Vowel Strings ](./Count%20Sorted%20Vowel%20Strings.cpp)
+-  [ Count Ways To Build Good Strings ](./Count%20Ways%20To%20Build%20Good%20Strings.cpp)
 -  [ Counting Bits ](./Counting%20Bits.cpp)
 -  [ Course Schedule II ](./Course%20Schedule%20II.cpp)
 -  [ Cousins in Binary Tree ](./Cousins%20in%20Binary%20Tree.cpp)
@@ -217,6 +218,7 @@
 -  [ Permutations II ](./Permutations%20II.cpp)
 -  [ Plus One ](./Plus%20One.cpp)
 -  [ Populating Next Right Pointers in Each Node II ](./Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.cpp)
+-  [ Pow(x, n) ](./Pow(x,%20n).cpp)
 -  [ Power of Four ](./Power%20of%20Four.cpp)
 -  [ Power of Three ](./Power%20of%20Three.cpp)
 -  [ Power of Two ](./Power%20of%20Two.cpp)
@@ -226,6 +228,7 @@
 -  [ READM ](./README.md)
 -  [ Recover a Tree From Preorder Traversal ](./Recover%20a%20Tree%20From%20Preorder%20Traversal.cpp)
 -  [ Recover Binary Search Tree ](./Recover%20Binary%20Search%20Tree.cpp)
+-  [ Rectangle Area ](./Rectangle%20Area.cpp)
 -  [ Remove All Adjacent Duplicates in String II ](./Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)
 -  [ Remove All Adjacent Duplicates In String ](./Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)
 -  [ Remove Covered Intervals ](./Remove%20Covered%20Intervals.cpp)
@@ -320,4 +323,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 315
+### Total Code Count : 318
