@@ -16,16 +16,24 @@
 |    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Hiring ](./Hiring)     |      68    |
 <<<<<<< HEAD
+<<<<<<< HEAD
 |    [ leet code ](./leet%20code)     |      340    |
 =======
 |    [ leet code ](./leet%20code)     |      315    |
 >>>>>>> ad7f2bb (updating readme)
+=======
+|    [ leet code ](./leet%20code)     |      318    |
+>>>>>>> 0104559 (updating readme)
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      5    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Total Code Count : 733
 =======
 ### Total Code Count : 708
 >>>>>>> ad7f2bb (updating readme)
+=======
+### Total Code Count : 711
+>>>>>>> 0104559 (updating readme)
