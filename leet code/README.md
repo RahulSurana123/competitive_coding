@@ -188,6 +188,7 @@
 -  [ Multiply Strings ](./Multiply%20Strings.cpp)
 -  [ My Calendar I ](./My%20Calendar%20I.cpp)
 -  [ N-th Tribonacci Number ](./N-th%20Tribonacci%20Number.cpp)
+-  [ Nearest Exit from Entrance in Maze ](./Nearest%20Exit%20from%20Entrance%20in%20Maze.cpp)
 -  [ Network Delay Time ](./Network%20Delay%20Time.cpp)
 -  [ Next Greater Element I ](./Next%20Greater%20Element%20I.cpp)
 -  [ Nth Magical Number ](./Nth%20Magical%20Number.cpp)
@@ -306,6 +307,7 @@
 -  [ Truncate Sentence ](./Truncate%20Sentence.cpp)
 -  [ Two City Scheduling ](./Two%20City%20Scheduling.cpp)
 -  [ Two Sum ](./Two%20Sum.cpp)
+-  [ Ugly Number ](./Ugly%20Number.cpp)
 -  [ Unique Binary Search Trees II ](./Unique%20Binary%20Search%20Trees%20II.cpp)
 -  [ Unique Binary Search Trees ](./Unique%20Binary%20Search%20Trees.cpp)
 -  [ Unique Email Addresses ](./Unique%20Email%20Addresses.cpp)
@@ -323,4 +325,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 318
+### Total Code Count : 320
