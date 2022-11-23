@@ -99,6 +99,7 @@
 -  [ Guess Number Higher or Lower II ](./Guess%20Number%20Higher%20or%20Lower%20II.cpp)
 -  [ Guess Number Higher or Lower ](./Guess%20Number%20Higher%20or%20Lower.cpp)
 -  [ Hamming Distance ](./Hamming%20Distance.cpp)
+-  [ House Robber II ](./House%20Robber%20II.cpp)
 -  [ House Robber III ](./House%20Robber%20III.cpp)
 -  [ House Robber ](./House%20Robber.cpp)
 -  [ Implement Stack using Queues ](./Implement%20Stack%20using%20Queues.cpp)
@@ -326,4 +327,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 321
+### Total Code Count : 322
