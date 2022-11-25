@@ -294,6 +294,7 @@
 -  [ Sum of Even Numbers After Queries ](./Sum%20of%20Even%20Numbers%20After%20Queries.cpp)
 -  [ Sum of Left Leaves ](./Sum%20of%20Left%20Leaves.cpp)
 -  [ Sum of Root To Leaf Binary Numbers ](./Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.cpp)
+-  [ Sum of Subarray Minimums ](./Sum%20of%20Subarray%20Minimums.cpp)
 -  [ Sum Root to Leaf Numbers ](./Sum%20Root%20to%20Leaf%20Numbers.cpp)
 -  [ Summary Ranges ](./Summary%20Ranges.cpp)
 -  [ Surrounded Regions ](./Surrounded%20Regions.cpp)
@@ -327,4 +328,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 322
+### Total Code Count : 323
