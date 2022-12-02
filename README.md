@@ -15,73 +15,9 @@
 |    [ hackerearth ](./hackerearth)     |      26    |
 |    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Hiring ](./Hiring)     |      68    |
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 |    [ leet code ](./leet%20code)     |      340    |
-=======
-|    [ leet code ](./leet%20code)     |      315    |
->>>>>>> ad7f2bb (updating readme)
-=======
-|    [ leet code ](./leet%20code)     |      318    |
->>>>>>> 0104559 (updating readme)
-=======
-|    [ leet code ](./leet%20code)     |      320    |
->>>>>>> 78a9e3a (updating readme)
-=======
-|    [ leet code ](./leet%20code)     |      321    |
->>>>>>> 8010691 (updating readme)
-=======
-|    [ leet code ](./leet%20code)     |      322    |
->>>>>>> be5edf2 (updating readme)
-=======
-|    [ leet code ](./leet%20code)     |      323    |
->>>>>>> 6f90f67 (updating readme)
-=======
-|    [ leet code ](./leet%20code)     |      324    |
->>>>>>> d2b0207 (updating readme)
-=======
-|    [ leet code ](./leet%20code)     |      325    |
->>>>>>> a912d31 (updating readme)
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      5    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### Total Code Count : 733
-=======
-### Total Code Count : 708
->>>>>>> ad7f2bb (updating readme)
-=======
-### Total Code Count : 711
->>>>>>> 0104559 (updating readme)
-=======
-### Total Code Count : 713
->>>>>>> 78a9e3a (updating readme)
-=======
-### Total Code Count : 714
->>>>>>> 8010691 (updating readme)
-=======
-### Total Code Count : 715
->>>>>>> be5edf2 (updating readme)
-=======
-### Total Code Count : 716
->>>>>>> 6f90f67 (updating readme)
-=======
-### Total Code Count : 717
->>>>>>> d2b0207 (updating readme)
-=======
-### Total Code Count : 718
->>>>>>> a912d31 (updating readme)
