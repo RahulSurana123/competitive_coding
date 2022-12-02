@@ -74,6 +74,8 @@
 -  [ Design HashSet ](./Design%20HashSet.cpp)
 -  [ Design Underground System ](./Design%20Underground%20System.cpp)
 -  [ Detect Capital ](./Detect%20Capital.cpp)
+-  [ Determine if String Halves Are Alike ](./Determine%20if%20String%20Halves%20Are%20Alike.cpp)
+-  [ Determine if Two Strings Are Close ](./Determine%20if%20Two%20Strings%20Are%20Close.cpp)
 -  [ Diameter of Binary Tree ](./Diameter%20of%20Binary%20Tree.cpp)
 -  [ Distinct Subsequences ](./Distinct%20Subsequences.cpp)
 -  [ Distribute Coins in Binary Tree ](./Distribute%20Coins%20in%20Binary%20Tree.cpp)
@@ -285,6 +287,7 @@
 -  [ Spiral Matrix II ](./Spiral%20Matrix%20II.cpp)
 -  [ Split Array Largest Sum ](./Split%20Array%20Largest%20Sum.cpp)
 -  [ Split Linked List in Parts ](./Split%20Linked%20List%20in%20Parts.cpp)
+-  [ Sqrt(x) ](./Sqrt(x).cpp)
 -  [ Stone Game IV ](./Stone%20Game%20IV.cpp)
 -  [ Stone Game ](./Stone%20Game.cpp)
 -  [ String to Integer (atoi) ](./String%20to%20Integer%20(atoi).cpp)
@@ -330,4 +333,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 325
+### Total Code Count : 328
