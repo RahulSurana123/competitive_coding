@@ -40,6 +40,7 @@
 -  [ Coin Change ](./Coin%20Change.cpp)
 -  [ Combination Sum III ](./Combination%20Sum%20III.cpp)
 -  [ Combination Sum ](./Combination%20Sum.cpp)
+-  [ Combinations ](./Combinations.cpp)
 -  [ Compare Version Numbers ](./Compare%20Version%20Numbers.cpp)
 -  [ Complement of Base 10 Integer ](./Complement%20of%20Base%2010%20Integer.cpp)
 -  [ Consecutive Characters ](./Consecutive%20Characters.cpp)
@@ -135,6 +136,7 @@
 -  [ Largest Perimeter Triangle ](./Largest%20Perimeter%20Triangle.cpp)
 -  [ Largest Plus Sign ](./Largest%20Plus%20Sign.cpp)
 -  [ Last Stone Weight ](./Last%20Stone%20Weight.cpp)
+-  [ Leaf-Similar Trees ](./Leaf-Similar%20Trees.cpp)
 -  [ Letter Combinations of a Phone Number ](./Letter%20Combinations%20of%20a%20Phone%20Number.cpp)
 -  [ Linked List Cycle II ](./Linked%20List%20Cycle%20II.cpp)
 -  [ Linked List Cycle ](./Linked%20List%20Cycle.cpp)
@@ -333,4 +335,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 328
+### Total Code Count : 330
