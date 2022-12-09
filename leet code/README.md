@@ -158,6 +158,7 @@
 -  [ Maximize Distance to Closest Person ](./Maximize%20Distance%20to%20Closest%20Person.cpp)
 -  [ Maximum 69 Number ](./Maximum%2069%20Number.cpp)
 -  [ Maximum Depth of Binary Tree ](./Maximum%20Depth%20of%20Binary%20Tree.cpp)
+-  [ Maximum Difference Between Node and Ancestor ](./Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)
 -  [ Maximum Frequency Stack ](./Maximum%20Frequency%20Stack.cpp)
 -  [ Maximum Matrix Sum ](./Maximum%20Matrix%20Sum.cpp)
 -  [ Maximum Product Difference Between Two Pairs ](./Maximum%20Product%20Difference%20Between%20Two%20Pairs.cpp)
@@ -335,4 +336,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 330
+### Total Code Count : 331
