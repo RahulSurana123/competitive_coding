@@ -345,4 +345,8 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
+<<<<<<< HEAD
 ### Total Code Count : 340
+=======
+### Total Code Count : 331
+>>>>>>> e3ebe05 (updating readme)
