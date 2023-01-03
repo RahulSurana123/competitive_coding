@@ -17,6 +17,7 @@
 |    [ Hiring ](./Hiring)     |      68    |
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 |    [ leet code ](./leet%20code)     |      340    |
 =======
 |    [ leet code ](./leet%20code)     |      331    |
@@ -24,10 +25,14 @@
 =======
 |    [ leet code ](./leet%20code)     |      333    |
 >>>>>>> 3f26aea (updating readme)
+=======
+|    [ leet code ](./leet%20code)     |      334    |
+>>>>>>> c64dbd1 (updating readme)
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      5    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ### Total Code Count : 733
@@ -37,3 +42,6 @@
 =======
 ### Total Code Count : 726
 >>>>>>> 3f26aea (updating readme)
+=======
+### Total Code Count : 727
+>>>>>>> c64dbd1 (updating readme)
