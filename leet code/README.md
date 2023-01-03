@@ -68,6 +68,7 @@
 -  [ Decode String ](./Decode%20String.cpp)
 -  [ Deepest Leaves Sum ](./Deepest%20Leaves%20Sum.cpp)
 -  [ Delete and Earn ](./Delete%20and%20Earn.cpp)
+-  [ Delete Columns to Make Sorted ](./Delete%20Columns%20to%20Make%20Sorted.cpp)
 -  [ Delete Node in a BST ](./Delete%20Node%20in%20a%20BST.cpp)
 -  [ Delete Node in a Linked List ](./Delete%20Node%20in%20a%20Linked%20List.cpp)
 -  [ Design Bitset ](./Design%20Bitset.cpp)
@@ -338,4 +339,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 333
+### Total Code Count : 334
