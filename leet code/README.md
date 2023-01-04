@@ -187,6 +187,7 @@
 -  [ Minimum Number of Arrows to Burst Balloons ](./Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)
 -  [ Minimum Path Sum ](./Minimum%20Path%20Sum.cpp)
 -  [ Minimum Remove to Make Valid Parentheses ](./Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)
+-  [ Minimum Rounds to Complete All Tasks ](./Minimum%20Rounds%20to%20Complete%20All%20Tasks.cpp)
 -  [ Minimum Time to Make Rope Colorful ](./Minimum%20Time%20to%20Make%20Rope%20Colorful.cpp)
 -  [ Minimum Time to Type Word Using Special Typewriter ](./Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.cpp)
 -  [ Minimum Value to Get Positive Step by Step Sum ](./Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)
@@ -339,4 +340,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 334
+### Total Code Count : 335
