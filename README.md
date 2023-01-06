@@ -19,6 +19,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 |    [ leet code ](./leet%20code)     |      340    |
 =======
 |    [ leet code ](./leet%20code)     |      331    |
@@ -32,10 +33,14 @@
 =======
 |    [ leet code ](./leet%20code)     |      335    |
 >>>>>>> 30610ed (updating readme)
+=======
+|    [ leet code ](./leet%20code)     |      336    |
+>>>>>>> cc5f943 (updating readme)
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      5    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -53,3 +58,6 @@
 =======
 ### Total Code Count : 728
 >>>>>>> 30610ed (updating readme)
+=======
+### Total Code Count : 729
+>>>>>>> cc5f943 (updating readme)
