@@ -25,6 +25,7 @@
 -  [ Binary Tree Cameras ](./Binary%20Tree%20Cameras.cpp)
 -  [ Binary Tree Inorder Traversal ](./Binary%20Tree%20Inorder%20Traversal.cpp)
 -  [ Binary Tree Maximum Path Sum ](./Binary%20Tree%20Maximum%20Path%20Sum.cpp)
+-  [ Binary Tree Preorder Traversal ](./Binary%20Tree%20Preorder%20Traversal.cpp)
 -  [ Bitwise AND of Numbers Range ](./Bitwise%20AND%20of%20Numbers%20Range.cpp)
 -  [ Boats to Save People ](./Boats%20to%20Save%20People.cpp)
 -  [ Broken Calculator ](./Broken%20Calculator.cpp)
@@ -341,4 +342,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 336
+### Total Code Count : 337
