@@ -39,8 +39,12 @@ public:
                 hasApple[x] = true;
             }
         }
+<<<<<<< HEAD
         if(hasApplegit add .
             [x] && x!=0) ans+=2;
+=======
+        if(hasApple[x] && x!=0) ans+=2;
+>>>>>>> 542a1ba (updating readme)
         return hasApple[x];
     }
 

@@ -190,10 +190,7 @@
 -  [ Minimum Path Sum ](./Minimum%20Path%20Sum.cpp)
 -  [ Minimum Remove to Make Valid Parentheses ](./Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)
 -  [ Minimum Rounds to Complete All Tasks ](./Minimum%20Rounds%20to%20Complete%20All%20Tasks.cpp)
-<<<<<<< HEAD
 -  [ Minimum Time to Collect All Apples in a Tree ](./Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.cpp)
-=======
->>>>>>> 30610ed (updating readme)
 -  [ Minimum Time to Make Rope Colorful ](./Minimum%20Time%20to%20Make%20Rope%20Colorful.cpp)
 -  [ Minimum Time to Type Word Using Special Typewriter ](./Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.cpp)
 -  [ Minimum Value to Get Positive Step by Step Sum ](./Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)
@@ -348,28 +345,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### Total Code Count : 340
-=======
-### Total Code Count : 331
->>>>>>> e3ebe05 (updating readme)
-=======
-### Total Code Count : 333
->>>>>>> 3f26aea (updating readme)
-=======
-### Total Code Count : 334
->>>>>>> c64dbd1 (updating readme)
-=======
-### Total Code Count : 335
->>>>>>> 30610ed (updating readme)
-=======
-### Total Code Count : 336
->>>>>>> cc5f943 (updating readme)
-=======
-### Total Code Count : 337
->>>>>>> 05f824d (updating readme)
