@@ -150,6 +150,7 @@
 -  [ Longest Increasing Path in a Matrix ](./Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)
 -  [ Longest Increasing Subsequence ](./Longest%20Increasing%20Subsequence.cpp)
 -  [ Longest Palindromic Substring ](./Longest%20Palindromic%20Substring.cpp)
+-  [ Longest Path With Different Adjacent Characters ](./Longest%20Path%20With%20Different%20Adjacent%20Characters.cpp)
 -  [ Longest Substring Without Repeating Characters ](./Longest%20Substring%20Without%20Repeating%20Characters.cpp)
 -  [ Longest Turbulent Subarray ](./Longest%20Turbulent%20Subarray.cpp)
 -  [ Longest Valid Parentheses ](./Longest%20Valid%20Parentheses.cpp)
@@ -345,5 +346,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 340
-
+### Total Code Count : 341
