@@ -38,6 +38,7 @@
 -  [ minCost ](./minCost.cpp)
 -  [ Minimum addition ](./Minimum%20addition.cpp)
 -  [ minimum Operations ](./minimum%20Operations.cpp)
+-  [ Minsum. ](./Minsum.java)
 -  [ Mismatched Payment ](./Mismatched%20Payment.cpp)
 -  [ modulo_queries ](./modulo_queries.py)
 -  [ Multiple Count ](./Multiple%20Count.cpp)
@@ -60,6 +61,7 @@
 -  [ Relevel test 5 ](./Relevel%20test%205.cpp)
 -  [ Relevel test 6 ](./Relevel%20test%206.cpp)
 -  [ Relevel test ](./Relevel%20test.cpp)
+-  [ Remove by OR. ](./Remove%20by%20OR.java)
 -  [ Shruti and Sets ](./Shruti%20and%20Sets.cpp)
 -  [ Stocks Profit and Loss ](./Stocks%20Profit%20and%20Loss.sql)
 -  [ Strange Sum ](./Strange%20Sum.cpp)
@@ -73,4 +75,4 @@
 -  [ Wissen Interview ](./Wissen%20Interview.cpp)
 -  [ XOR Paths ](./XOR%20Paths.cpp)
 
-### Total Code Count : 68
+### Total Code Count : 70
