@@ -296,6 +296,7 @@
 -  [ Smallest String With A Given Numeric Value ](./Smallest%20String%20With%20A%20Given%20Numeric%20Value.cpp)
 -  [ Smallest String With Swaps ](./Smallest%20String%20With%20Swaps.cpp)
 -  [ Smallest Value of the Rearranged Number ](./Smallest%20Value%20of%20the%20Rearranged%20Number.cpp)
+-  [ Snakes and Ladders ](./Snakes%20and%20Ladders.cpp)
 -  [ Sort Array By Parity ](./Sort%20Array%20By%20Parity.cpp)
 -  [ Sort Characters By Frequency ](./Sort%20Characters%20By%20Frequency.cpp)
 -  [ Sort Colors ](./Sort%20Colors.cpp)
@@ -351,4 +352,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 346
+### Total Code Count : 347
