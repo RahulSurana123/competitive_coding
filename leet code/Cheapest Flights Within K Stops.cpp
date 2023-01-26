@@ -23,16 +23,30 @@ return the cheapest price from src to dst with at most k stops. If there is no s
 
 class Solution {
 public:
-    int findCheapestPrice(int n, vector<vector<int>>& f, int src, int dst, int k) {
+    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
         
-        vector<int> v(n,1e9);
-        v[src] = 0;
-        for(int i = 0; i <= k; i++){
-            vector<int> V(v);
-            for(auto x: f){
-                v[x[1]] = min(v[x[1]], x[2]+V[x[0]]);
-            }
+        vector<vector<vector<int>>> adj(n,vector<vector<int>>());
+        for(auto x: flights){
+            adj[x[0]].push_back({x[1],x[2]});
         }
-        return (v[dst]==1e9)?-1:v[dst];
+        queue<vector<int>> q;
+        vector<int> dist(n,1e9);
+        q.push({src,0}); 
+        while( k>=0 && !q.empty()){
+            int s = q.size();
+            while(s--){
+                auto x = q.front();
+                q.pop();
+                for(auto z: adj[x[0]]){
+                    if(dist[z[0]] < x[1]+z[1]) continue;
+                    {
+                        dist[z[0]] = x[1]+z[1];
+                        q.push({z[0],x[1]+z[1]});
+                    }
+                }
+            }
+            k--;
+        }
+        return dist[dst] == 1e9? -1:dist[dst];
     }
 };
