@@ -17,6 +17,7 @@
 -  [ Bag of Tokens ](./Bag%20of%20Tokens.cpp)
 -  [ Baseball Game ](./Baseball%20Game.cpp)
 -  [ Beautiful Arrangement ](./Beautiful%20Arrangement.cpp)
+-  [ Best Team With No Conflicts ](./Best%20Team%20With%20No%20Conflicts.cpp)
 -  [ Best Time to Buy and Sell Stock II ](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)
 -  [ Best Time to Buy and Sell Stock III ](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp)
 -  [ Best Time to Buy and Sell Stock ](./Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
@@ -354,4 +355,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 349
+### Total Code Count : 350
