@@ -28,32 +28,23 @@ string convert(string s, int numRows);
 #include <bits/stdc++.h>
 
 class Solution {
+
 public:
     string convert(string s, int numRows) {
         string ans = "";
-        if(numRows == 1) return s;
+        if(numRows == 1 || s.length()==1) return s;
+        int t = numRows + numRows-2;
         for(int i = 0; i < numRows; i++){
-            if(i < s.length()) ans += s[i];
-            if(i == 0 || i == numRows-1){
-                int j = i + numRows + numRows-2;
-                while(j<s.length()) { 
-                    ans += s[j]; 
-                    j += numRows + numRows-2;
-                    cout << ans <<" ";
-                }   
-            } else {
-                int k = 2*(numRows-i-1);
-                int j = numRows + numRows-2 - k;
-                while(k+i<s.length()) { 
-                    
-                    ans += s[i+k];
-                    if(i+k+j < s.length()) ans +=s[i+k+j]; 
-                    
-                    k += numRows + numRows-2;
-                    cout << ans <<" ";
-                }
+            for(int j = 0;j+i<s.length(); j += t){
+                 ans += s[i+j]; 
+                // cout << i << " "<< s[j]<< " this was called\n";    
+                if(i != 0 && i != numRows-1 && t-i+j < s.length()) ans +=s[t-i+j]; 
+                
+                // k += t;
             }
+            // cout << ans<<"\n";
         }
         return ans;
     }
+
 };
