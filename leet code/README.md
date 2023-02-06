@@ -291,6 +291,7 @@
 -  [ Shift 2D Grid ](./Shift%202D%20Grid.cpp)
 -  [ Shortest Path in Binary Matrix ](./Shortest%20Path%20in%20Binary%20Matrix.cpp)
 -  [ Shortest Unsorted Continuous Subarray ](./Shortest%20Unsorted%20Continuous%20Subarray.cpp)
+-  [ Shuffle the Array ](./Shuffle%20the%20Array.cpp)
 -  [ Simplify Path ](./Simplify%20Path.cpp)
 -  [ Single Element in a Sorted Array ](./Single%20Element%20in%20a%20Sorted%20Array.cpp)
 -  [ Single Number III ](./Single%20Number%20III.cpp)
@@ -357,4 +358,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 352
+### Total Code Count : 353
