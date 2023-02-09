@@ -212,6 +212,7 @@
 -  [ Multiply Strings ](./Multiply%20Strings.cpp)
 -  [ My Calendar I ](./My%20Calendar%20I.cpp)
 -  [ N-th Tribonacci Number ](./N-th%20Tribonacci%20Number.cpp)
+-  [ Naming a Company ](./Naming%20a%20Company.cpp)
 -  [ Nearest Exit from Entrance in Maze ](./Nearest%20Exit%20from%20Entrance%20in%20Maze.cpp)
 -  [ Network Delay Time ](./Network%20Delay%20Time.cpp)
 -  [ Next Greater Element I ](./Next%20Greater%20Element%20I.cpp)
@@ -359,4 +360,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 354
+### Total Code Count : 355
