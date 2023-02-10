@@ -26,43 +26,35 @@ public:
 
     vector<vector<int>> dp;
 
-    int bfs1(vector<vector<int>>& grid){
-        vector<vector<bool>> v(grid.size(),vector<bool>(grid.size(),false));
-        queue<vector<int>> q;
-        for(int i = 0; i < grid.size(); i++){
-            for(int j = 0; j < grid.size(); j++){
-                if(grid[i][j])
-                q.push({i,j});
+    int maxDistance(vector<vector<int>>& grid) {
+        const int n= grid.size();
+        dp.resize(n,vector<int>(n,0));
+        int ans = 0;
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n; j++){
+                if(grid[i][j] ==1) continue;
+                dp[i][j] = 1e3;
+                if(i-1>=0){
+                    dp[i][j] = min(dp[i][j] , 1+ dp[i-1][j]);
+                }
+                if(j-1>=0){
+                    dp[i][j] = min(dp[i][j] , 1+ dp[i][j-1]);
+                }
             }   
         }
-        int step = 0;
-        // cout << i <<" "<<j<<" ->\n";
-        if(q.size()==grid.size()*grid.size() || q.size()==0) return 0;
-        while(!q.empty()){
-            int s = q.size();
-            step++;
-            while(s--){
-                auto z = q.front();
-                q.pop();
-                if(z[0] < 0 || z[1] < 0 || z[0] >= grid.size() || z[1] >= grid[0].size() || v[z[0]][z[1]]) continue;
-                v[z[0]][z[1]] = true;
-               
-                dp[z[0]][z[1]] = step;
-           
-                // cout << z[0]<<" "<<z[1]<<"\n";
-    
-                q.push({z[0]+1,z[1]});
-                q.push({z[0],z[1]-1});
-                q.push({z[0],z[1]+1});
-                q.push({z[0]-1,z[1]}); 
-            }
+        for(int i = n-1; i >=0; i--){
+            for(int j = n-1; j >=0; j--){
+                if(grid[i][j] ==1) continue;
+                if(i+1<n){
+                    dp[i][j] = min(dp[i][j] , 1+ dp[i+1][j]);
+                }
+                if(j+1<n){
+                    dp[i][j] = min(dp[i][j] , 1+ dp[i][j+1]);
+                }
+                ans = max(ans,dp[i][j]);
+            }   
         }
-        return step-1;
-    }
-
-    int maxDistance(vector<vector<int>>& grid) {
-        dp.resize(grid.size(),vector<int>(grid.size(),-1));
-        int ans = bfs1(grid);
-        return ans == 0? -1:ans-1;
+        // int ans = bfs1(grid);
+        return ans == 0 || ans == 1e3? -1:ans;
     }
 };
