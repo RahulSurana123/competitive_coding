@@ -36,6 +36,7 @@
 -  [ Broken Calculator ](./Broken%20Calculator.cpp)
 -  [ Can I Win ](./Can%20I%20Win.cpp)
 -  [ Can Place Flowers ](./Can%20Place%20Flowers.cpp)
+-  [ Capacity To Ship Packages Within D Days ](./Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)
 -  [ Car Pooling ](./Car%20Pooling.cpp)
 -  [ Champagne Tower ](./Champagne%20Tower.cpp)
 -  [ Cheapest Flights Within K Stops ](./Cheapest%20Flights%20Within%20K%20Stops.cpp)
@@ -366,4 +367,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 361
+### Total Code Count : 362
