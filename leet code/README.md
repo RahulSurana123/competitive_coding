@@ -101,6 +101,7 @@
 -  [ Find All Duplicates in an Array ](./Find%20All%20Duplicates%20in%20an%20Array.cpp)
 -  [ Find All Numbers Disappeared in an Array ](./Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)
 -  [ Find Closest Node to Given Two Nodes ](./Find%20Closest%20Node%20to%20Given%20Two%20Nodes.cpp)
+-  [ Find Duplicate Subtrees ](./Find%20Duplicate%20Subtrees.cpp)
 -  [ Find if Path Exists in Graph ](./Find%20if%20Path%20Exists%20in%20Graph.cpp)
 -  [ Find K Closest Elements ](./Find%20K%20Closest%20Elements.cpp)
 -  [ Find Minimum in Rotated Sorted Array II ](./Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.cpp)
@@ -312,6 +313,7 @@
 -  [ Smallest String With Swaps ](./Smallest%20String%20With%20Swaps.cpp)
 -  [ Smallest Value of the Rearranged Number ](./Smallest%20Value%20of%20the%20Rearranged%20Number.cpp)
 -  [ Snakes and Ladders ](./Snakes%20and%20Ladders.cpp)
+-  [ Sort an Array ](./Sort%20an%20Array.cpp)
 -  [ Sort Array By Parity ](./Sort%20Array%20By%20Parity.cpp)
 -  [ Sort Characters By Frequency ](./Sort%20Characters%20By%20Frequency.cpp)
 -  [ Sort Colors ](./Sort%20Colors.cpp)
@@ -368,4 +370,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 363
+### Total Code Count : 365
