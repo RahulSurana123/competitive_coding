@@ -67,6 +67,7 @@
 -  [ Count Complete Tree Nodes ](./Count%20Complete%20Tree%20Nodes.cpp)
 -  [ Count Odd Numbers in an Interval Range ](./Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)
 -  [ Count Sorted Vowel Strings ](./Count%20Sorted%20Vowel%20Strings.cpp)
+-  [ Count Subarrays With Fixed Bounds ](./Count%20Subarrays%20With%20Fixed%20Bounds.cpp)
 -  [ Count Ways To Build Good Strings ](./Count%20Ways%20To%20Build%20Good%20Strings.cpp)
 -  [ Counting Bits ](./Counting%20Bits.cpp)
 -  [ Course Schedule II ](./Course%20Schedule%20II.cpp)
@@ -372,4 +373,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 367
+### Total Code Count : 368
