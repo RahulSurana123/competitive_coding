@@ -108,6 +108,7 @@
 -  [ Find Original Array From Doubled Array ](./Find%20Original%20Array%20From%20Doubled%20Array.cpp)
 -  [ Find Players With Zero or One Losses ](./Find%20Players%20With%20Zero%20or%20One%20Losses.cpp)
 -  [ Find the Difference ](./Find%20the%20Difference.cpp)
+-  [ Find the Index of the First Occurrence in a String ](./Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp)
 -  [ Find the Town Judge ](./Find%20the%20Town%20Judge.cpp)
 -  [ Flatten a Multilevel Doubly Linked List ](./Flatten%20a%20Multilevel%20Doubly%20Linked%20List.cpp)
 -  [ Flatten Nested List Iterator ](./Flatten%20Nested%20List%20Iterator.cpp)
@@ -371,4 +372,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 366
+### Total Code Count : 367
