@@ -148,6 +148,7 @@
 -  [ K-diff Pairs in an Array ](./K-diff%20Pairs%20in%20an%20Array.cpp)
 -  [ Keys and Rooms ](./Keys%20and%20Rooms.cpp)
 -  [ Koko Eating Bananas ](./Koko%20Eating%20Bananas.cpp)
+-  [ Kth Missing Positive Number ](./Kth%20Missing%20Positive%20Number.cpp)
 -  [ Kth Smallest Element in a BST ](./Kth%20Smallest%20Element%20in%20a%20BST.cpp)
 -  [ Kth Smallest Number in Multiplication Table ](./Kth%20Smallest%20Number%20in%20Multiplication%20Table.cpp)
 -  [ Largest Component Size by Common Factor ](./Largest%20Component%20Size%20by%20Common%20Factor.cpp)
@@ -373,4 +374,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 368
+### Total Code Count : 369
