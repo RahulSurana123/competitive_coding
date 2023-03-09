@@ -34,13 +34,19 @@ Do not modify the linked list.
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        set<ListNode*> s;
-        ListNode* temp = head;
-        while(temp != NULL){
-            if(s.count(temp)) return temp;
-            s.insert(temp);
-            temp = temp->next;
+        ListNode* s = head;
+        ListNode* f = head;
+        while( f && f->next){
+            s = s->next;
+            f = f->next->next;
+            if(s==f) break;
         }
-        return NULL;
+        if(!f || !f->next) { return NULL; }
+        f = head;
+        while(f!=s){
+            s = s->next;
+            f = f->next;
+        }
+        return s;
     }
 };
