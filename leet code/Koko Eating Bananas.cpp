@@ -39,7 +39,6 @@ public:
             int z = 0;
             for(int k = 0; k < piles.size(); k++){
                 z+= (piles[k]/a) + (piles[k]%a != 0);
-                // cout<< (piles[k]/a) + (piles[k]%a != 0) << " " <<floor(piles[k]/a)<<"\n";
             }
             return z;
         };
