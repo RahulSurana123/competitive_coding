@@ -61,6 +61,7 @@
 -  [ Convert Binary Number in a Linked List to Integer ](./Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)
 -  [ Convert BST to Greater Tree ](./Convert%20BST%20to%20Greater%20Tree.cpp)
 -  [ Convert Sorted Array to Binary Search Tree ](./Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp)
+-  [ Convert Sorted List to Binary Search Tree ](./Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.cpp)
 -  [ Copy List with Random Pointer ](./Copy%20List%20with%20Random%20Pointer.cpp)
 -  [ Count All Valid Pickup and Delivery Options ](./Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp)
 -  [ Count and Say ](./Count%20and%20Say.cpp)
@@ -375,4 +376,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 370
+### Total Code Count : 371
