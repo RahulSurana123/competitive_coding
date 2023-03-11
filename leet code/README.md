@@ -250,6 +250,7 @@
 -  [ Partition Labels ](./Partition%20Labels.cpp)
 -  [ Partition to K Equal Sum Subsets ](./Partition%20to%20K%20Equal%20Sum%20Subsets.cpp)
 -  [ Pascal's Triangle II ](./Pascal's%20Triangle%20II.cpp)
+-  [ Pass the Pillow ](./Pass%20the%20Pillow.cpp)
 -  [ Path Sum II ](./Path%20Sum%20II.cpp)
 -  [ Path Sum III ](./Path%20Sum%20III.cpp)
 -  [ Path Sum ](./Path%20Sum.cpp)
@@ -376,4 +377,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 371
+### Total Code Count : 372
