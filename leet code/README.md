@@ -347,6 +347,7 @@
 -  [ Surrounded Regions ](./Surrounded%20Regions.cpp)
 -  [ Swap Nodes in Pairs ](./Swap%20Nodes%20in%20Pairs.cpp)
 -  [ Swapping Nodes in a Linked List ](./Swapping%20Nodes%20in%20a%20Linked%20List.cpp)
+-  [ Symmetric Tree ](./Symmetric%20Tree.cpp)
 -  [ The K Weakest Rows in a Matrix ](./The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)
 -  [ Top K Frequent Elements ](./Top%20K%20Frequent%20Elements.cpp)
 -  [ Top K Frequent Words ](./Top%20K%20Frequent%20Words.cpp)
@@ -377,4 +378,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 372
+### Total Code Count : 373
