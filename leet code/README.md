@@ -39,6 +39,7 @@
 -  [ Car Pooling ](./Car%20Pooling.cpp)
 -  [ Champagne Tower ](./Champagne%20Tower.cpp)
 -  [ Cheapest Flights Within K Stops ](./Cheapest%20Flights%20Within%20K%20Stops.cpp)
+-  [ Check Completeness of a Binary Tree ](./Check%20Completeness%20of%20a%20Binary%20Tree.cpp)
 -  [ Check if the Sentence Is Pangram ](./Check%20if%20the%20Sentence%20Is%20Pangram.cpp)
 -  [ Cherry Pickup II ](./Cherry%20Pickup%20II.cpp)
 -  [ Climbing Stairs ](./Climbing%20Stairs.cpp)
@@ -378,4 +379,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 373
+### Total Code Count : 374

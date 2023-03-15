@@ -40,7 +40,7 @@ A leaf node is a node with no children.
 class Solution {
 public:
     
-    int out(TreeNode* root, int val){
+    int out(TreeNode* &root, int val){
         if(root == NULL) return 0;
         if(root->left == NULL && root->right == NULL) return val;
         int ans = 0;
