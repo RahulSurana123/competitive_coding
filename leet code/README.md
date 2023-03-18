@@ -84,6 +84,7 @@
 -  [ Delete Node in a BST ](./Delete%20Node%20in%20a%20BST.cpp)
 -  [ Delete Node in a Linked List ](./Delete%20Node%20in%20a%20Linked%20List.cpp)
 -  [ Design Bitset ](./Design%20Bitset.cpp)
+-  [ Design Browser History ](./Design%20Browser%20History.cpp)
 -  [ Design HashMap ](./Design%20HashMap.cpp)
 -  [ Design HashSet ](./Design%20HashSet.cpp)
 -  [ Design Underground System ](./Design%20Underground%20System.cpp)
@@ -379,4 +380,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 374
+### Total Code Count : 375
