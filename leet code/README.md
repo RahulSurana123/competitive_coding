@@ -237,6 +237,7 @@
 -  [ Nth Magical Number ](./Nth%20Magical%20Number.cpp)
 -  [ Number of Digit One ](./Number%20of%20Digit%20One.cpp)
 -  [ Number of Nodes in the Sub-Tree With the Same Label ](./Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.cpp)
+-  [ Number of Operations to Make Network Connected ](./Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp)
 -  [ Number of Steps to Reduce a Number to Zero ](./Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)
 -  [ Number of Ways to Arrive at Destination ](./Number%20of%20Ways%20to%20Arrive%20at%20Destination.cpp)
 -  [ Number of Wonderful Substrings ](./Number%20of%20Wonderful%20Substrings.cpp)
@@ -382,4 +383,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 377
+### Total Code Count : 378
