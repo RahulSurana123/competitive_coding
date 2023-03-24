@@ -290,6 +290,7 @@
 -  [ Remove Linked List Elements ](./Remove%20Linked%20List%20Elements.cpp)
 -  [ Remove Nth Node From End of List ](./Remove%20Nth%20Node%20From%20End%20of%20List.cpp)
 -  [ Reorder List ](./Reorder%20List.cpp)
+-  [ Reorder Routes to Make All Paths Lead to the City Zero ](./Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.cpp)
 -  [ Reverse Integer ](./Reverse%20Integer.cpp)
 -  [ Reverse String ](./Reverse%20String.cpp)
 -  [ Reverse Words in a String III ](./Reverse%20Words%20in%20a%20String%20III.cpp)
@@ -383,4 +384,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 378
+### Total Code Count : 379
