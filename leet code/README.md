@@ -70,6 +70,7 @@
 -  [ Count Odd Numbers in an Interval Range ](./Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)
 -  [ Count Sorted Vowel Strings ](./Count%20Sorted%20Vowel%20Strings.cpp)
 -  [ Count Subarrays With Fixed Bounds ](./Count%20Subarrays%20With%20Fixed%20Bounds.cpp)
+-  [ Count Unreachable Pairs of Nodes in an Undirected Graph ](./Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.cpp)
 -  [ Count Ways To Build Good Strings ](./Count%20Ways%20To%20Build%20Good%20Strings.cpp)
 -  [ Counting Bits ](./Counting%20Bits.cpp)
 -  [ Course Schedule II ](./Course%20Schedule%20II.cpp)
@@ -168,6 +169,7 @@
 -  [ Linked List Random Node ](./Linked%20List%20Random%20Node.cpp)
 -  [ Longest Common Prefix ](./Longest%20Common%20Prefix.cpp)
 -  [ Longest Common Subsequence ](./Longest%20Common%20Subsequence.cpp)
+-  [ Longest Cycle in a Graph ](./Longest%20Cycle%20in%20a%20Graph.cpp)
 -  [ Longest Increasing Path in a Matrix ](./Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)
 -  [ Longest Increasing Subsequence ](./Longest%20Increasing%20Subsequence.cpp)
 -  [ Longest Palindromic Substring ](./Longest%20Palindromic%20Substring.cpp)
@@ -384,4 +386,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 379
+### Total Code Count : 381
