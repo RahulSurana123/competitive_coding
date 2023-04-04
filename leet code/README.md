@@ -249,6 +249,7 @@
 -  [ Odd Even Linked List ](./Odd%20Even%20Linked%20List.cpp)
 -  [ Ones and Zeroes ](./Ones%20and%20Zeroes.cpp)
 -  [ Online Stock Span ](./Online%20Stock%20Span.cpp)
+-  [ Optimal Partition of String ](./Optimal%20Partition%20of%20String.cpp)
 -  [ Orderly Queue ](./Orderly%20Queue.cpp)
 -  [ Pairs of Songs With Total Durations Divisible by 60 ](./Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.cpp)
 -  [ Palindrome Number ](./Palindrome%20Number.cpp)
@@ -280,6 +281,7 @@
 -  [ Recover a Tree From Preorder Traversal ](./Recover%20a%20Tree%20From%20Preorder%20Traversal.cpp)
 -  [ Recover Binary Search Tree ](./Recover%20Binary%20Search%20Tree.cpp)
 -  [ Rectangle Area ](./Rectangle%20Area.cpp)
+-  [ Reducing Dishes ](./Reducing%20Dishes.cpp)
 -  [ Remove All Adjacent Duplicates in String II ](./Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)
 -  [ Remove All Adjacent Duplicates In String ](./Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)
 -  [ Remove Covered Intervals ](./Remove%20Covered%20Intervals.cpp)
@@ -387,4 +389,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 382
+### Total Code Count : 384
