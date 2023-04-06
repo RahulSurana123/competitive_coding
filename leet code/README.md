@@ -238,6 +238,7 @@
 -  [ Next Greater Element I ](./Next%20Greater%20Element%20I.cpp)
 -  [ Non-decreasing Subsequences ](./Non-decreasing%20Subsequences.cpp)
 -  [ Nth Magical Number ](./Nth%20Magical%20Number.cpp)
+-  [ Number of Closed Islands ](./Number%20of%20Closed%20Islands.cpp)
 -  [ Number of Digit One ](./Number%20of%20Digit%20One.cpp)
 -  [ Number of Nodes in the Sub-Tree With the Same Label ](./Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.cpp)
 -  [ Number of Operations to Make Network Connected ](./Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp)
@@ -389,4 +390,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 384
+### Total Code Count : 385
