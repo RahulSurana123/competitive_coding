@@ -296,6 +296,7 @@
 -  [ Remove K Digits ](./Remove%20K%20Digits.cpp)
 -  [ Remove Linked List Elements ](./Remove%20Linked%20List%20Elements.cpp)
 -  [ Remove Nth Node From End of List ](./Remove%20Nth%20Node%20From%20End%20of%20List.cpp)
+-  [ Removing Stars From a String ](./Removing%20Stars%20From%20a%20String.cpp)
 -  [ Reorder List ](./Reorder%20List.cpp)
 -  [ Reorder Routes to Make All Paths Lead to the City Zero ](./Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.cpp)
 -  [ Reverse Integer ](./Reverse%20Integer.cpp)
@@ -391,4 +392,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 386
+### Total Code Count : 387
