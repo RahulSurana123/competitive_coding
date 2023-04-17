@@ -152,6 +152,7 @@
 -  [ Jump Game ](./Jump%20Game.cpp)
 -  [ K-diff Pairs in an Array ](./K-diff%20Pairs%20in%20an%20Array.cpp)
 -  [ Keys and Rooms ](./Keys%20and%20Rooms.cpp)
+-  [ Kids With the Greatest Number of Candies ](./Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)
 -  [ Koko Eating Bananas ](./Koko%20Eating%20Bananas.cpp)
 -  [ Kth Missing Positive Number ](./Kth%20Missing%20Positive%20Number.cpp)
 -  [ Kth Smallest Element in a BST ](./Kth%20Smallest%20Element%20in%20a%20BST.cpp)
@@ -172,6 +173,7 @@
 -  [ Longest Cycle in a Graph ](./Longest%20Cycle%20in%20a%20Graph.cpp)
 -  [ Longest Increasing Path in a Matrix ](./Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)
 -  [ Longest Increasing Subsequence ](./Longest%20Increasing%20Subsequence.cpp)
+-  [ Longest Palindromic Subsequence ](./Longest%20Palindromic%20Subsequence.cpp)
 -  [ Longest Palindromic Substring ](./Longest%20Palindromic%20Substring.cpp)
 -  [ Longest Path With Different Adjacent Characters ](./Longest%20Path%20With%20Different%20Adjacent%20Characters.cpp)
 -  [ Longest Substring Without Repeating Characters ](./Longest%20Substring%20Without%20Repeating%20Characters.cpp)
@@ -392,4 +394,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 387
+### Total Code Count : 389
