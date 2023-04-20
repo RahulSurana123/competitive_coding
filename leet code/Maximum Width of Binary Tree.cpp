@@ -25,7 +25,6 @@ It is guaranteed that the answer will in the range of 32-bit signed integer.
 
 
 #include<bits/stdc++.h>
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -39,27 +38,22 @@ It is guaranteed that the answer will in the range of 32-bit signed integer.
  */
 class Solution {
 public:
-    
+   
     int widthOfBinaryTree(TreeNode* root) {
-        int ans = 0;
-        queue<pair<TreeNode*,long long>> q;
-        q.push({root,1LL});
+        unsigned long long ans = 0;
+        queue<pair<TreeNode*,unsigned long long>> q;
+        q.push({root,1ULL});
         while(!q.empty()){
             int s = q.size();
-            int x = q.front().second;
-            int z = q.back().second;
-            ans = max(ans,z-x+1);
-            cout << z <<" "<< x<<" ";
+            ans = max(ans,q.back().second - q.front().second+1);
             while(s--){
-                TreeNode* temp = q.front().first;
-                long long i = q.front().second - x;
+                auto [x,y] = q.front();
                 q.pop();
-                if(temp->left){
-                    q.push({temp->left, (long long)(2*i)+1});
-                }
-                if(temp->right){
-                    q.push({temp->right, (long long)(2*i) + 2});
-                }
+                if(!x) {  continue; }
+                if(x->left)
+                q.push({x->left,y*2+1});
+                if(x->right)
+                q.push({x->right,y*2+2});
             }
         }
         return ans;
