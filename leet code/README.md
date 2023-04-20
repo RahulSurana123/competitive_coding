@@ -182,6 +182,7 @@
 -  [ Longest Substring Without Repeating Characters ](./Longest%20Substring%20Without%20Repeating%20Characters.cpp)
 -  [ Longest Turbulent Subarray ](./Longest%20Turbulent%20Subarray.cpp)
 -  [ Longest Valid Parentheses ](./Longest%20Valid%20Parentheses.cpp)
+-  [ Longest ZigZag Path in a Binary Tree ](./Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.cpp)
 -  [ Lowest Common Ancestor of a Binary Tree ](./Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp)
 -  [ Majority Element ](./Majority%20Element.cpp)
 -  [ Make The String Great ](./Make%20The%20String%20Great.cpp)
@@ -399,4 +400,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 394
+### Total Code Count : 395
