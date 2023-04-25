@@ -337,6 +337,7 @@
 -  [ Single Number III ](./Single%20Number%20III.cpp)
 -  [ Single Number ](./Single%20Number.cpp)
 -  [ Slowest Key ](./Slowest%20Key.cpp)
+-  [ Smallest Number in Infinite Set ](./Smallest%20Number%20in%20Infinite%20Set.cpp)
 -  [ Smallest String Starting From Leaf ](./Smallest%20String%20Starting%20From%20Leaf.cpp)
 -  [ Smallest String With A Given Numeric Value ](./Smallest%20String%20With%20A%20Given%20Numeric%20Value.cpp)
 -  [ Smallest String With Swaps ](./Smallest%20String%20With%20Swaps.cpp)
@@ -401,4 +402,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 396
+### Total Code Count : 397
