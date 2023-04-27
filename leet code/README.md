@@ -35,6 +35,7 @@
 -  [ Bitwise AND of Numbers Range ](./Bitwise%20AND%20of%20Numbers%20Range.cpp)
 -  [ Boats to Save People ](./Boats%20to%20Save%20People.cpp)
 -  [ Broken Calculator ](./Broken%20Calculator.cpp)
+-  [ Bulb Switcher ](./Bulb%20Switcher.cpp)
 -  [ Can I Win ](./Can%20I%20Win.cpp)
 -  [ Can Place Flowers ](./Can%20Place%20Flowers.cpp)
 -  [ Capacity To Ship Packages Within D Days ](./Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)
@@ -402,4 +403,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 397
+### Total Code Count : 398
