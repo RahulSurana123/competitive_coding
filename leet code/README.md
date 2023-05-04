@@ -101,6 +101,7 @@
 -  [ Distribute Coins in Binary Tree ](./Distribute%20Coins%20in%20Binary%20Tree.cpp)
 -  [ Divide Two Integers ](./Divide%20Two%20Integers.cpp)
 -  [ Domino and Tromino Tiling ](./Domino%20and%20Tromino%20Tiling.cpp)
+-  [ Dota2 Senate ](./Dota2%20Senate.cpp)
 -  [ Edit Distance ](./Edit%20Distance.cpp)
 -  [ Encode and Decode TinyURL ](./Encode%20and%20Decode%20TinyURL.cpp)
 -  [ Evaluate Division ](./Evaluate%20Division.cpp)
@@ -328,6 +329,7 @@
 -  [ Search a 2D Matrix ](./Search%20a%202D%20Matrix.cpp)
 -  [ Search in a Binary Search Tree ](./Search%20in%20a%20Binary%20Search%20Tree.cpp)
 -  [ Search in Rotated Sorted Array II ](./Search%20in%20Rotated%20Sorted%20Array%20II.cpp)
+-  [ Search in Rotated Sorted Array ](./Search%20in%20Rotated%20Sorted%20Array.cpp)
 -  [ Search Insert Position ](./Search%20Insert%20Position.cpp)
 -  [ Sequential Digits ](./Sequential%20Digits.cpp)
 -  [ Shift 2D Grid ](./Shift%202D%20Grid.cpp)
@@ -406,4 +408,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 401
+### Total Code Count : 403
