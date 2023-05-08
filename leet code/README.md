@@ -191,6 +191,7 @@
 -  [ Majority Element ](./Majority%20Element.cpp)
 -  [ Make The String Great ](./Make%20The%20String%20Great.cpp)
 -  [ Making A Large Island ](./Making%20A%20Large%20Island.cpp)
+-  [ Matrix Diagonal Sum ](./Matrix%20Diagonal%20Sum.cpp)
 -  [ Max Number of K-Sum Pairs ](./Max%20Number%20of%20K-Sum%20Pairs.cpp)
 -  [ Maximal Square ](./Maximal%20Square.cpp)
 -  [ Maximize Distance to Closest Person ](./Maximize%20Distance%20to%20Closest%20Person.cpp)
@@ -410,4 +411,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 405
+### Total Code Count : 406
