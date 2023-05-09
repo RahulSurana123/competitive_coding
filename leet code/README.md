@@ -257,6 +257,7 @@
 -  [ Number of Nodes in the Sub-Tree With the Same Label ](./Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.cpp)
 -  [ Number of Operations to Make Network Connected ](./Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp)
 -  [ Number of Steps to Reduce a Number to Zero ](./Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)
+-  [ Number of Subsequences That Satisfy the Given Sum Condition ](./Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.cpp)
 -  [ Number of Ways to Arrive at Destination ](./Number%20of%20Ways%20to%20Arrive%20at%20Destination.cpp)
 -  [ Number of Wonderful Substrings ](./Number%20of%20Wonderful%20Substrings.cpp)
 -  [ Number of Zero-Filled Subarrays ](./Number%20of%20Zero-Filled%20Subarrays.cpp)
@@ -359,6 +360,7 @@
 -  [ Sort Even and Odd Indices Independently ](./Sort%20Even%20and%20Odd%20Indices%20Independently.cpp)
 -  [ Sort List ](./Sort%20List.cpp)
 -  [ Spiral Matrix II ](./Spiral%20Matrix%20II.cpp)
+-  [ Spiral Matrix ](./Spiral%20Matrix.cpp)
 -  [ Split Array Largest Sum ](./Split%20Array%20Largest%20Sum.cpp)
 -  [ Split Linked List in Parts ](./Split%20Linked%20List%20in%20Parts.cpp)
 -  [ Sqrt(x) ](./Sqrt(x).cpp)
@@ -411,4 +413,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 406
+### Total Code Count : 408
