@@ -34,7 +34,7 @@ public:
             {
                 for(int i = c2-1; i>c1; --i)
                     v[r2][i] = ++val;
-                    for(int i = r2; i>r1; --i) 
+                for(int i = r2; i > r1; --i) 
                     v[i][c1] = ++val;
             }
             ++r1;
