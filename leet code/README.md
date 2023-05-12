@@ -353,6 +353,7 @@
 -  [ Smallest String With Swaps ](./Smallest%20String%20With%20Swaps.cpp)
 -  [ Smallest Value of the Rearranged Number ](./Smallest%20Value%20of%20the%20Rearranged%20Number.cpp)
 -  [ Snakes and Ladders ](./Snakes%20and%20Ladders.cpp)
+-  [ Solving Questions With Brainpower ](./Solving%20Questions%20With%20Brainpower.cpp)
 -  [ Sort an Array ](./Sort%20an%20Array.cpp)
 -  [ Sort Array By Parity ](./Sort%20Array%20By%20Parity.cpp)
 -  [ Sort Characters By Frequency ](./Sort%20Characters%20By%20Frequency.cpp)
@@ -414,4 +415,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 409
+### Total Code Count : 410
