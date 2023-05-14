@@ -195,6 +195,7 @@
 -  [ Max Number of K-Sum Pairs ](./Max%20Number%20of%20K-Sum%20Pairs.cpp)
 -  [ Maximal Square ](./Maximal%20Square.cpp)
 -  [ Maximize Distance to Closest Person ](./Maximize%20Distance%20to%20Closest%20Person.cpp)
+-  [ Maximize Score After N Operations ](./Maximize%20Score%20After%20N%20Operations.cpp)
 -  [ Maximum 69 Number ](./Maximum%2069%20Number.cpp)
 -  [ Maximum Depth of Binary Tree ](./Maximum%20Depth%20of%20Binary%20Tree.cpp)
 -  [ Maximum Difference Between Node and Ancestor ](./Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)
@@ -415,4 +416,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 410
+### Total Code Count : 411
