@@ -31,17 +31,24 @@ You must solve the problem without modifying the values in the list's nodes (i.e
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-        if(head == NULL) return NULL;
-        ListNode* t = head;
-        ListNode* n = head->next;;
-        while(t && n){
-            int temp = t->val;
-            t->val = n->val;
-            n->val = temp;
-            t = n->next;
-            if(n->next)
-            n = n->next->next;
+        if(!head) return head;
+        ListNode* t = new ListNode(-1);
+        t->next = head;
+        ListNode* r = t;
+        ListNode* f = head;
+        ListNode* s = head->next;
+        while(s){
+            ListNode* temp = t->next;
+            t->next = f->next;
+            f->next = s->next;
+            s->next = temp;
+            t = s->next;
+            if(t)
+            f = t->next;
+            if(f)
+            s = f->next;
+            else break;
         }
-        return head;
+        return r->next;
     }
 };
