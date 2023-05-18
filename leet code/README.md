@@ -129,6 +129,7 @@
 -  [ Fruit Into Baskets ](./Fruit%20Into%20Baskets.cpp)
 -  [ Game of Life ](./Game%20of%20Life.cpp)
 -  [ Gas Station ](./Gas%20Station.cpp)
+-  [ Gray Code ](./Gray%20Code.cpp)
 -  [ Greatest Common Divisor of Strings ](./Greatest%20Common%20Divisor%20of%20Strings.cpp)
 -  [ Guess Number Higher or Lower II ](./Guess%20Number%20Higher%20or%20Lower%20II.cpp)
 -  [ Guess Number Higher or Lower ](./Guess%20Number%20Higher%20or%20Lower.cpp)
@@ -420,4 +421,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 415
+### Total Code Count : 416
