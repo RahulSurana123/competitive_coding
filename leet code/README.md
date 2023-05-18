@@ -230,6 +230,7 @@
 -  [ Minimum Domino Rotations For Equal Row ](./Minimum%20Domino%20Rotations%20For%20Equal%20Row.cpp)
 -  [ Minimum Height Trees ](./Minimum%20Height%20Trees.cpp)
 -  [ Minimum Number of Arrows to Burst Balloons ](./Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)
+-  [ Minimum Number of Vertices to Reach All Nodes ](./Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.cpp)
 -  [ Minimum Path Sum ](./Minimum%20Path%20Sum.cpp)
 -  [ Minimum Remove to Make Valid Parentheses ](./Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)
 -  [ Minimum Rounds to Complete All Tasks ](./Minimum%20Rounds%20to%20Complete%20All%20Tasks.cpp)
@@ -418,4 +419,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 413
+### Total Code Count : 414
