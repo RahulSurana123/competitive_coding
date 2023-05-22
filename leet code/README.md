@@ -199,6 +199,7 @@
 -  [ Maximize Distance to Closest Person ](./Maximize%20Distance%20to%20Closest%20Person.cpp)
 -  [ Maximize Score After N Operations ](./Maximize%20Score%20After%20N%20Operations.cpp)
 -  [ Maximum 69 Number ](./Maximum%2069%20Number.cpp)
+-  [ Maximum Compatibility Score Sum ](./Maximum%20Compatibility%20Score%20Sum.cpp)
 -  [ Maximum Depth of Binary Tree ](./Maximum%20Depth%20of%20Binary%20Tree.cpp)
 -  [ Maximum Difference Between Node and Ancestor ](./Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)
 -  [ Maximum Frequency Stack ](./Maximum%20Frequency%20Stack.cpp)
@@ -422,4 +423,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 417
+### Total Code Count : 418
