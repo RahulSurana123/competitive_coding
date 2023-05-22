@@ -295,6 +295,7 @@
 -  [ Power of Four ](./Power%20of%20Four.cpp)
 -  [ Power of Three ](./Power%20of%20Three.cpp)
 -  [ Power of Two ](./Power%20of%20Two.cpp)
+-  [ Print FooBar Alternately ](./Print%20FooBar%20Alternately.cpp)
 -  [ Profitable Schemes ](./Profitable%20Schemes.cpp)
 -  [ Range Sum of BST ](./Range%20Sum%20of%20BST.cpp)
 -  [ Ransom Note ](./Ransom%20Note.cpp)
@@ -421,4 +422,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 416
+### Total Code Count : 417

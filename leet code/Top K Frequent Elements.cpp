@@ -20,13 +20,24 @@ You may return the answer in any order.
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        map<int,int> m;
-        vector<int> v;
-        for(auto n : nums){
-            m[n]++;
-            if(m[n] == 1) v.push_back(n);
+        vector<int> ans;
+        map<int, int> f;
+        vector<pair<int, int>> fv;
+        ans.reserve(k);
+        auto i = 0;
+        while(i < nums.size()){
+            f[nums[i++]]++;
         }
-        sort(v.begin(),v.end(),[&](auto a,auto b){ return m[a]>m[b]; });
-        return vector<int>(v.begin(),v.begin()+k);
+        
+        for(auto [x,y]: f){
+            fv.push_back({x,y});
+        }
+        sort(fv.begin(),fv.end(),[&](auto a, auto b){ return a.second > b.second; });
+        for(auto x: fv){
+            ans.push_back(x.first);
+            k--;
+            if(k<=0) break;
+        }
+        return ans;
     }
 };
