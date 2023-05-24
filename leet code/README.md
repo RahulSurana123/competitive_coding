@@ -212,6 +212,7 @@
 -  [ Maximum Score from Performing Multiplication Operations ](./Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp)
 -  [ Maximum Subarray Min-Product ](./Maximum%20Subarray%20Min-Product.cpp)
 -  [ Maximum Subarray ](./Maximum%20Subarray.cpp)
+-  [ Maximum Subsequence Score ](./Maximum%20Subsequence%20Score.cpp)
 -  [ Maximum Sum Circular Subarray ](./Maximum%20Sum%20Circular%20Subarray.cpp)
 -  [ Maximum Twin Sum of a Linked List ](./Maximum%20Twin%20Sum%20of%20a%20Linked%20List.cpp)
 -  [ Maximum Value of K Coins From Piles ](./Maximum%20Value%20of%20K%20Coins%20From%20Piles.cpp)
@@ -423,4 +424,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 418
+### Total Code Count : 419
