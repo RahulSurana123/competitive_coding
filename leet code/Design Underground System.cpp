@@ -37,31 +37,29 @@ If a customer checks in at time t1 then checks out at time t2, then t1 < t2. All
 
 class UndergroundSystem {
 public:
-void checkIn(int id, string stationName, int t) {
-    ID_to_time[id] = make_pair(make_pair(t, -1), make_pair(stationName, NULL));
-}
 
-void checkOut(int id, string stationName, int t) {
-    pair<int, int> &info_time = ID_to_time[id].first;
-    pair<string, string> &info_name = ID_to_time[id].second;
-    info_time.second = t;
-    info_name.second = stationName;
-    int interval = info_time.second - info_time.first;
-    station_to_time[make_pair(info_name.first, info_name.second)].push_back(interval);
-}
+    // map<int, string> ci;
+    map<string, vector<int>> av;
+    map<int,pair<string,int>> it;
 
-double getAverageTime(string startStation, string endStation) {
-    int count = 0;
-    double sum = 0;
-    for (auto a : station_to_time[make_pair(startStation, endStation)]) {
-        sum += (double) a;
-        count++;
+    UndergroundSystem() {
+        
     }
-    return sum / count;
-}
-
-map<int, pair<pair<int, int>, pair<string, string>>> ID_to_time;
-map<pair<string, string>, vector<int>> station_to_time;
+    
+    void checkIn(int id, string stationName, int t) {
+        it[id] = {stationName,t};
+        // ci[id] = stationName;
+    }
+    
+    void checkOut(int id, string stationName, int t) {
+        if(av.find(it[id].first+"->"+stationName) == av.end()) av[it[id].first+"->"+stationName]= {0,0};
+        av[it[id].first+"->"+stationName][0]++;
+        av[it[id].first+"->"+stationName][1] += t - it[id].second;
+    }
+    
+    double getAverageTime(string startStation, string endStation) {
+        return (double)av[startStation+"->"+endStation][1]/av[startStation+"->"+endStation][0];
+    }
 };
 
 /**
