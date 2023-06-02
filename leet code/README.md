@@ -98,6 +98,7 @@
 -  [ Detect Capital ](./Detect%20Capital.cpp)
 -  [ Determine if String Halves Are Alike ](./Determine%20if%20String%20Halves%20Are%20Alike.cpp)
 -  [ Determine if Two Strings Are Close ](./Determine%20if%20Two%20Strings%20Are%20Close.cpp)
+-  [ Detonate the Maximum Bombs ](./Detonate%20the%20Maximum%20Bombs.cpp)
 -  [ Diameter of Binary Tree ](./Diameter%20of%20Binary%20Tree.cpp)
 -  [ Distinct Subsequences ](./Distinct%20Subsequences.cpp)
 -  [ Distribute Coins in Binary Tree ](./Distribute%20Coins%20in%20Binary%20Tree.cpp)
@@ -425,4 +426,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 420
+### Total Code Count : 421
