@@ -236,6 +236,7 @@
 -  [ Minimum Difficulty of a Job Schedule ](./Minimum%20Difficulty%20of%20a%20Job%20Schedule.cpp)
 -  [ Minimum Distance Between BST Nodes ](./Minimum%20Distance%20Between%20BST%20Nodes.cpp)
 -  [ Minimum Domino Rotations For Equal Row ](./Minimum%20Domino%20Rotations%20For%20Equal%20Row.cpp)
+-  [ Minimum Flips to Make a OR b Equal to c ](./Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.cpp)
 -  [ Minimum Height Trees ](./Minimum%20Height%20Trees.cpp)
 -  [ Minimum Number of Arrows to Burst Balloons ](./Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)
 -  [ Minimum Number of Vertices to Reach All Nodes ](./Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.cpp)
@@ -430,4 +431,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 425
+### Total Code Count : 426
