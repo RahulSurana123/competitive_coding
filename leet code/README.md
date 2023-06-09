@@ -123,6 +123,7 @@
 -  [ Find Minimum in Rotated Sorted Array II ](./Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.cpp)
 -  [ Find Original Array From Doubled Array ](./Find%20Original%20Array%20From%20Doubled%20Array.cpp)
 -  [ Find Players With Zero or One Losses ](./Find%20Players%20With%20Zero%20or%20One%20Losses.cpp)
+-  [ Find Smallest Letter Greater Than Target ](./Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
 -  [ Find the Difference of Two Arrays ](./Find%20the%20Difference%20of%20Two%20Arrays.cpp)
 -  [ Find the Difference ](./Find%20the%20Difference.cpp)
 -  [ Find the Index of the First Occurrence in a String ](./Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp)
@@ -432,4 +433,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 427
+### Total Code Count : 428
