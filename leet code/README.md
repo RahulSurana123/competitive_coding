@@ -110,6 +110,7 @@
 -  [ Dota2 Senate ](./Dota2%20Senate.cpp)
 -  [ Edit Distance ](./Edit%20Distance.cpp)
 -  [ Encode and Decode TinyURL ](./Encode%20and%20Decode%20TinyURL.cpp)
+-  [ Equal Row and Column Pairs ](./Equal%20Row%20and%20Column%20Pairs.cpp)
 -  [ Evaluate Division ](./Evaluate%20Division.cpp)
 -  [ Excel Sheet Column Number ](./Excel%20Sheet%20Column%20Number.cpp)
 -  [ Find a Corresponding Node of a Binary Tree in a Clone of That Tree ](./Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.cpp)
@@ -433,4 +434,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 428
+### Total Code Count : 429
