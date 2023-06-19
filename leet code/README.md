@@ -127,6 +127,7 @@
 -  [ Find Smallest Letter Greater Than Target ](./Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
 -  [ Find the Difference of Two Arrays ](./Find%20the%20Difference%20of%20Two%20Arrays.cpp)
 -  [ Find the Difference ](./Find%20the%20Difference.cpp)
+-  [ Find the Highest Altitude ](./Find%20the%20Highest%20Altitude.cpp)
 -  [ Find the Index of the First Occurrence in a String ](./Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp)
 -  [ Find the Longest Valid Obstacle Course at Each Position ](./Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position.cpp)
 -  [ Find the Town Judge ](./Find%20the%20Town%20Judge.cpp)
@@ -435,4 +436,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 430
+### Total Code Count : 431
