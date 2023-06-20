@@ -166,6 +166,7 @@
 -  [ Jump Game III ](./Jump%20Game%20III.cpp)
 -  [ Jump Game IV ](./Jump%20Game%20IV.cpp)
 -  [ Jump Game ](./Jump%20Game.cpp)
+-  [ K Radius Subarray Averages ](./K%20Radius%20Subarray%20Averages.cpp)
 -  [ K-diff Pairs in an Array ](./K-diff%20Pairs%20in%20an%20Array.cpp)
 -  [ Keys and Rooms ](./Keys%20and%20Rooms.cpp)
 -  [ Kids With the Greatest Number of Candies ](./Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)
@@ -436,4 +437,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 431
+### Total Code Count : 432
