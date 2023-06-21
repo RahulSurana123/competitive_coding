@@ -238,6 +238,7 @@
 -  [ Minimum Absolute Difference ](./Minimum%20Absolute%20Difference.cpp)
 -  [ Minimum Consecutive Cards to Pick Up ](./Minimum%20Consecutive%20Cards%20to%20Pick%20Up.cpp)
 -  [ Minimum Cost For Tickets ](./Minimum%20Cost%20For%20Tickets.cpp)
+-  [ Minimum Cost to Make Array Equal ](./Minimum%20Cost%20to%20Make%20Array%20Equal.cpp)
 -  [ Minimum Cost to Move Chips to The Same Position ](./Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)
 -  [ Minimum Difficulty of a Job Schedule ](./Minimum%20Difficulty%20of%20a%20Job%20Schedule.cpp)
 -  [ Minimum Distance Between BST Nodes ](./Minimum%20Distance%20Between%20BST%20Nodes.cpp)
@@ -437,4 +438,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 432
+### Total Code Count : 433
