@@ -411,6 +411,7 @@
 -  [ Time Needed to Inform All Employees ](./Time%20Needed%20to%20Inform%20All%20Employees.cpp)
 -  [ Top K Frequent Elements ](./Top%20K%20Frequent%20Elements.cpp)
 -  [ Top K Frequent Words ](./Top%20K%20Frequent%20Words.cpp)
+-  [ Total Cost to Hire K Workers ](./Total%20Cost%20to%20Hire%20K%20Workers.cpp)
 -  [ Transform to Chessboard ](./Transform%20to%20Chessboard.cpp)
 -  [ Trapping Rain Water ](./Trapping%20Rain%20Water.cpp)
 -  [ Triangle ](./Triangle.cpp)
@@ -439,4 +440,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 434
+### Total Code Count : 435
