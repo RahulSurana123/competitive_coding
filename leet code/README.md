@@ -122,6 +122,7 @@
 -  [ Find Duplicate Subtrees ](./Find%20Duplicate%20Subtrees.cpp)
 -  [ Find if Path Exists in Graph ](./Find%20if%20Path%20Exists%20in%20Graph.cpp)
 -  [ Find K Closest Elements ](./Find%20K%20Closest%20Elements.cpp)
+-  [ Find K Pairs with Smallest Sums ](./Find%20K%20Pairs%20with%20Smallest%20Sums.cpp)
 -  [ Find Minimum in Rotated Sorted Array II ](./Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.cpp)
 -  [ Find Original Array From Doubled Array ](./Find%20Original%20Array%20From%20Doubled%20Array.cpp)
 -  [ Find Players With Zero or One Losses ](./Find%20Players%20With%20Zero%20or%20One%20Losses.cpp)
@@ -440,4 +441,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 435
+### Total Code Count : 436
