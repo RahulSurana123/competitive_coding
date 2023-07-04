@@ -36,6 +36,7 @@
 -  [ Bitwise AND of Numbers Range ](./Bitwise%20AND%20of%20Numbers%20Range.cpp)
 -  [ Boats to Save People ](./Boats%20to%20Save%20People.cpp)
 -  [ Broken Calculator ](./Broken%20Calculator.cpp)
+-  [ Buddy Strings ](./Buddy%20Strings.cpp)
 -  [ Bulb Switcher ](./Bulb%20Switcher.cpp)
 -  [ Can I Win ](./Can%20I%20Win.cpp)
 -  [ Can Make Arithmetic Progression From Sequence ](./Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)
@@ -442,4 +443,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 437
+### Total Code Count : 438
