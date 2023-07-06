@@ -254,6 +254,7 @@
 -  [ Minimum Path Sum ](./Minimum%20Path%20Sum.cpp)
 -  [ Minimum Remove to Make Valid Parentheses ](./Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)
 -  [ Minimum Rounds to Complete All Tasks ](./Minimum%20Rounds%20to%20Complete%20All%20Tasks.cpp)
+-  [ Minimum Size Subarray Sum ](./Minimum%20Size%20Subarray%20Sum.cpp)
 -  [ Minimum Time to Collect All Apples in a Tree ](./Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.cpp)
 -  [ Minimum Time to Complete Trips ](./Minimum%20Time%20to%20Complete%20Trips.cpp)
 -  [ Minimum Time to Make Rope Colorful ](./Minimum%20Time%20to%20Make%20Rope%20Colorful.cpp)
@@ -444,4 +445,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 439
+### Total Code Count : 440
