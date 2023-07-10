@@ -244,6 +244,7 @@
 -  [ Minimum Cost For Tickets ](./Minimum%20Cost%20For%20Tickets.cpp)
 -  [ Minimum Cost to Make Array Equal ](./Minimum%20Cost%20to%20Make%20Array%20Equal.cpp)
 -  [ Minimum Cost to Move Chips to The Same Position ](./Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)
+-  [ Minimum Depth of Binary Tree ](./Minimum%20Depth%20of%20Binary%20Tree.cpp)
 -  [ Minimum Difficulty of a Job Schedule ](./Minimum%20Difficulty%20of%20a%20Job%20Schedule.cpp)
 -  [ Minimum Distance Between BST Nodes ](./Minimum%20Distance%20Between%20BST%20Nodes.cpp)
 -  [ Minimum Domino Rotations For Equal Row ](./Minimum%20Domino%20Rotations%20For%20Equal%20Row.cpp)
@@ -341,6 +342,7 @@
 -  [ Removing Stars From a String ](./Removing%20Stars%20From%20a%20String.cpp)
 -  [ Reorder List ](./Reorder%20List.cpp)
 -  [ Reorder Routes to Make All Paths Lead to the City Zero ](./Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.cpp)
+-  [ Reverse Bits ](./Reverse%20Bits.cpp)
 -  [ Reverse Integer ](./Reverse%20Integer.cpp)
 -  [ Reverse Nodes in k-Group ](./Reverse%20Nodes%20in%20k-Group.cpp)
 -  [ Reverse String ](./Reverse%20String.cpp)
@@ -445,4 +447,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 440
+### Total Code Count : 442
