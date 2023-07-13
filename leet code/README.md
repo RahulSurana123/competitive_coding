@@ -84,6 +84,7 @@
 -  [ Count Ways To Build Good Strings ](./Count%20Ways%20To%20Build%20Good%20Strings.cpp)
 -  [ Counting Bits ](./Counting%20Bits.cpp)
 -  [ Course Schedule II ](./Course%20Schedule%20II.cpp)
+-  [ Course Schedule ](./Course%20Schedule.cpp)
 -  [ Cousins in Binary Tree ](./Cousins%20in%20Binary%20Tree.cpp)
 -  [ Critical Connections in a Network ](./Critical%20Connections%20in%20a%20Network.cpp)
 -  [ Cyclically Rotating a Grid ](./Cyclically%20Rotating%20a%20Grid.cpp)
@@ -448,4 +449,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 443
+### Total Code Count : 444
