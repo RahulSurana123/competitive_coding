@@ -399,6 +399,7 @@
 -  [ Sort Colors ](./Sort%20Colors.cpp)
 -  [ Sort Even and Odd Indices Independently ](./Sort%20Even%20and%20Odd%20Indices%20Independently.cpp)
 -  [ Sort List ](./Sort%20List.cpp)
+-  [ Soup Servings ](./Soup%20Servings.cpp)
 -  [ Spiral Matrix II ](./Spiral%20Matrix%20II.cpp)
 -  [ Spiral Matrix ](./Spiral%20Matrix.cpp)
 -  [ Split Array Largest Sum ](./Split%20Array%20Largest%20Sum.cpp)
@@ -456,4 +457,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 451
+### Total Code Count : 452
