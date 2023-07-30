@@ -407,6 +407,7 @@
 -  [ Sqrt(x) ](./Sqrt(x).cpp)
 -  [ Stone Game IV ](./Stone%20Game%20IV.cpp)
 -  [ Stone Game ](./Stone%20Game.cpp)
+-  [ Strange Printer ](./Strange%20Printer.cpp)
 -  [ String Compression ](./String%20Compression.cpp)
 -  [ String to Integer (atoi) ](./String%20to%20Integer%20(atoi).cpp)
 -  [ Subarray Sum Equals K ](./Subarray%20Sum%20Equals%20K.cpp)
@@ -457,4 +458,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 452
+### Total Code Count : 453
