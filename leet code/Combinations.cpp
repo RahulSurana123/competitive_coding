@@ -15,35 +15,23 @@ You may return the answer in any order.
     ***********************************************************
 */
 
-
-#include <bits/stdc++.h>
-
 class Solution {
 public:
-    
-    vector<vector<int>> ans;
-    
-    void df(vector<int> &temp, int i,int n, int k){
-        if(i > n) {
-            if(temp.size() != k) return;
-            ans.push_back(temp);
-            return;
-        }
 
-        temp.push_back(i);
-        df(temp,i+1,n,k);
-        temp.pop_back();
-        df(temp,i+1,n,k);
+    vector<vector<int>> ans;
+
+    void df(int i,int n, int k, vector<int> &p){
+        if(k==0) {ans.push_back(p); return;}
+        if(i>n) return;
+        p.push_back(i);
+        df(i+1,n,k-1,p);
+        p.pop_back();
+        df(i+1,n,k,p);
     }
-    
+
     vector<vector<int>> combine(int n, int k) {
-        
-        for(int i = 1; i <= n; i++){
-            vector<int> temp;
-            temp.push_back(i);
-            df(temp,i+1,n,k);
-        }
-       
+        vector<int> a;
+        df(1,n,k,a);
         return ans;
     }
 };

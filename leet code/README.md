@@ -319,6 +319,7 @@
 -  [ Perfect Squares ](./Perfect%20Squares.cpp)
 -  [ Permutation in String ](./Permutation%20in%20String.cpp)
 -  [ Permutations II ](./Permutations%20II.cpp)
+-  [ Permutations ](./Permutations.cpp)
 -  [ Plus One ](./Plus%20One.cpp)
 -  [ Populating Next Right Pointers in Each Node II ](./Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.cpp)
 -  [ Pow(x, n) ](./Pow(x,%20n).cpp)
@@ -459,4 +460,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 454
+### Total Code Count : 455
