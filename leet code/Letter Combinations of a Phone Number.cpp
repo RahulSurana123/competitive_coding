@@ -17,38 +17,23 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 
 
 
-#include <bits/stdc++.h>
-
 class Solution {
 public:
-    
-    map<char,vector<char>> m;
-    
+
     vector<string> letterCombinations(string digits) {
-        if(digits.size() == 0) return vector<string>();
         vector<string> ans;
-        m.insert({'2',{'a','b','c'}});
-        m.insert({'3',{'d','e','f'}});
-        m.insert({'4',{'g','h','i'}});
-        m.insert({'5',{'j','k','l'}});
-        m.insert({'6',{'m','n','o'}});
-        m.insert({'7',{'p','q','r','s'}});
-        m.insert({'8',{'t','u','v'}});
-        m.insert({'9',{'w','x','y','z'}});
-        
-        for(auto k: m[digits[0]]){
-            cout << k <<" ";
-            ans.push_back(string(1,k));
-        }
-        
+        if(digits.size() == 0) return vector<string>();
+        vector<string> d = {"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+        for(int i = 0; i < d[digits[0]-'2'].size(); i++) ans.push_back( string(1,d[digits[0]-'2'][i]) );
         for(int i = 1; i < digits.size(); i++){
+            string x = d[digits[i]-'2'];
             vector<string> temp;
-            for(auto k: m[digits[i]]){
-                for(auto d: ans){
-                    temp.push_back(d+k);
+            for(int j = 0; j < ans.size(); j++){
+                for(int k = 0; k < x.length(); k++){
+                    temp.push_back(ans[j] + x[k]);
                 }
-            }
-            swap(temp,ans);
+            }         
+            ans = temp;
         }
         return ans;
     }
