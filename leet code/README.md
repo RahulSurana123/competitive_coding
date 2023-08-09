@@ -243,6 +243,7 @@
 -  [ Min Cost to Connect All Points ](./Min%20Cost%20to%20Connect%20All%20Points.cpp)
 -  [ Min Stack ](./Min%20Stack.cpp)
 -  [ Minimize Deviation in Array ](./Minimize%20Deviation%20in%20Array.cpp)
+-  [ Minimize the Maximum Difference of Pairs ](./Minimize%20the%20Maximum%20Difference%20of%20Pairs.cpp)
 -  [ Minimum Absolute Difference in BST ](./Minimum%20Absolute%20Difference%20in%20BST.cpp)
 -  [ Minimum Absolute Difference ](./Minimum%20Absolute%20Difference.cpp)
 -  [ Minimum ASCII Delete Sum for Two Strings ](./Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.cpp)
@@ -461,4 +462,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 456
+### Total Code Count : 457
