@@ -49,6 +49,7 @@
 -  [ Check Completeness of a Binary Tree ](./Check%20Completeness%20of%20a%20Binary%20Tree.cpp)
 -  [ Check If It Is a Straight Line ](./Check%20If%20It%20Is%20a%20Straight%20Line.cpp)
 -  [ Check if the Sentence Is Pangram ](./Check%20if%20the%20Sentence%20Is%20Pangram.cpp)
+-  [ Check if There is a Valid Partition For The Array ](./Check%20if%20There%20is%20a%20Valid%20Partition%20For%20The%20Array.cpp)
 -  [ Cherry Pickup II ](./Cherry%20Pickup%20II.cpp)
 -  [ Climbing Stairs ](./Climbing%20Stairs.cpp)
 -  [ Clone Graph ](./Clone%20Graph.cpp)
@@ -463,4 +464,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 458
+### Total Code Count : 459
