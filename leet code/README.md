@@ -311,6 +311,7 @@
 -  [ Palindromic Substrings ](./Palindromic%20Substrings.cpp)
 -  [ Partition Equal Subset Sum ](./Partition%20Equal%20Subset%20Sum.cpp)
 -  [ Partition Labels ](./Partition%20Labels.cpp)
+-  [ Partition List ](./Partition%20List.cpp)
 -  [ Partition to K Equal Sum Subsets ](./Partition%20to%20K%20Equal%20Sum%20Subsets.cpp)
 -  [ Pascal's Triangle II ](./Pascal's%20Triangle%20II.cpp)
 -  [ Pass the Pillow ](./Pass%20the%20Pillow.cpp)
@@ -465,4 +466,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 460
+### Total Code Count : 461
