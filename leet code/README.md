@@ -392,6 +392,7 @@
 -  [ Single Number II ](./Single%20Number%20II.cpp)
 -  [ Single Number III ](./Single%20Number%20III.cpp)
 -  [ Single Number ](./Single%20Number.cpp)
+-  [ Sliding Window Maximum ](./Sliding%20Window%20Maximum.cpp)
 -  [ Slowest Key ](./Slowest%20Key.cpp)
 -  [ Smallest Number in Infinite Set ](./Smallest%20Number%20in%20Infinite%20Set.cpp)
 -  [ Smallest String Starting From Leaf ](./Smallest%20String%20Starting%20From%20Leaf.cpp)
@@ -466,4 +467,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 461
+### Total Code Count : 462
