@@ -216,6 +216,7 @@
 -  [ Making A Large Island ](./Making%20A%20Large%20Island.cpp)
 -  [ Matrix Diagonal Sum ](./Matrix%20Diagonal%20Sum.cpp)
 -  [ Max Number of K-Sum Pairs ](./Max%20Number%20of%20K-Sum%20Pairs.cpp)
+-  [ Maximal Network Rank ](./Maximal%20Network%20Rank.cpp)
 -  [ Maximal Square ](./Maximal%20Square.cpp)
 -  [ Maximize Distance to Closest Person ](./Maximize%20Distance%20to%20Closest%20Person.cpp)
 -  [ Maximize Score After N Operations ](./Maximize%20Score%20After%20N%20Operations.cpp)
@@ -468,4 +469,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 463
+### Total Code Count : 464
