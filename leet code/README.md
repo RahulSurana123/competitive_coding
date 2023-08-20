@@ -125,6 +125,7 @@
 -  [ Find All Duplicates in an Array ](./Find%20All%20Duplicates%20in%20an%20Array.cpp)
 -  [ Find All Numbers Disappeared in an Array ](./Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)
 -  [ Find Closest Node to Given Two Nodes ](./Find%20Closest%20Node%20to%20Given%20Two%20Nodes.cpp)
+-  [ Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree ](./Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree.cpp)
 -  [ Find Duplicate Subtrees ](./Find%20Duplicate%20Subtrees.cpp)
 -  [ Find if Path Exists in Graph ](./Find%20if%20Path%20Exists%20in%20Graph.cpp)
 -  [ Find K Closest Elements ](./Find%20K%20Closest%20Elements.cpp)
@@ -408,6 +409,7 @@
 -  [ Sort Characters By Frequency ](./Sort%20Characters%20By%20Frequency.cpp)
 -  [ Sort Colors ](./Sort%20Colors.cpp)
 -  [ Sort Even and Odd Indices Independently ](./Sort%20Even%20and%20Odd%20Indices%20Independently.cpp)
+-  [ Sort Items by Groups Respecting Dependencies ](./Sort%20Items%20by%20Groups%20Respecting%20Dependencies.cpp)
 -  [ Sort List ](./Sort%20List.cpp)
 -  [ Soup Servings ](./Soup%20Servings.cpp)
 -  [ Spiral Matrix II ](./Spiral%20Matrix%20II.cpp)
@@ -469,4 +471,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 464
+### Total Code Count : 466
