@@ -40,56 +40,31 @@ Print one integer: the minimum number of coins. If it is not possible to produce
 #define F           first
 #define S           second
 #define FOR(i,a)     for(int i = 0; i < a; i++)
-#define trace(x)    cerr<<#x<<" : "<<x<<endl;
-#define trace2(x,y) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<endl;
-#define trace3(x,y,z) cerr<<#x<<" : "<<x<<" | "<<#y<<" : "<<y<<" | "<<#z<<" : "<<z<<endl;
 #define fast_io 	std::ios::sync_with_stdio(false),cin.tie(NULL),cout.tie(NULL)
  
 using namespace std;
 
 int MOD=1e9+7;
 
-vector<vector<ll>> dp;
-ll ans = 0;
-
-void df(int i, vector<int> &ar, int x){
-    if(i>x) return;
-    if(i==x) { ans++; return; }
-    for(auto z: ar){
-        df(i+z,ar,x);
-    }
-}
-
 int main() {
 	fast_io;
-    int t=1,w = 1;
-    // cin >> t;
-    while(t >= (w)){
-        int n,x;
-        cin >> n >> x;
-        vector<int> ar(n);
-        FOR(i,n) cin >> ar[i];
-        // dp.resize(n+1,vector<ll>(x+1,0));
-        // for(int i = 0; i < n; i++){
-        //     dp[1][ar[i]] = 1;
-        // }
-        // bool f = true;
-        // while(f){
-        //     bool k = false;
-        //     for(int j = 1; j <= x; j++){
-        //         for(int i = 0; i < n; i++){
-        //             if(j - ar[i] > 0){
-        //                 dp[i][j] = 1 + dp[i-1][j-ar[i]];
-        //                 k = true;
-        //             }
-        //         }
-        //     }
-        //     if(!k) f = false;
-        // }
-        // ll ans  = 0;
-        // for(int i = 0; i < n; i++){ ans += dp[i][x]; }
-        df(0,ar,x);
-        cout << ans <<"\n";
-        w++;
+
+    int n,x;
+    cin >> n >> x;
+    vector<int> ar(n);
+    for(auto& v:ar) { 
+        cin >> v;
     }
+    vector<int> dp(x+1,0);
+    dp[0] = 1;
+    // sort(ar.begin(),ar.end(),greater<ll>());
+    for(int i = 1; i < x+1; i++){
+        for(int j = 0; j < ar.size(); j++){
+            if( i >= ar[j]){
+                dp[i] += dp[i-ar[j]];
+                if(dp[i] >= MOD) dp[i] -= MOD;
+            }
+        }
+    }
+    cout << dp[x] <<"\n";
 }
