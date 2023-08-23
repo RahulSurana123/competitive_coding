@@ -23,8 +23,9 @@ f.write("# *Welcome To My Repository*\n")
 f.write("### <div style='text-align:right'><sub> - Rahul Surana</sub></div>\n")
 
 f.write("### Going To Update This Repo Time To Time As I Continue My Journey To Competitive Programming\n")
-f.write('</a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- Leetcode --><a href="https://leetcode.com/rasuru04/" target="_blank"> <img src="https://miro.medium.com/max/1838/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="leetcode" width="100" height="45"/>  </a>')
-f.write('&nbsp;&nbsp;&nbsp;&nbsp;<!-- CodeChef --><a href="https://www.codechef.com/users/suru_4851" target="_blank"> <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="codechef" width="100" height="45"/>  </a>')
+f.write("### Here are links to some of my profile \n")
+f.write('</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- Leetcode --><a href="https://leetcode.com/rasuru04/" target="_blank"> <img src="https://miro.medium.com/max/1838/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="leetcode" width="100" height="45"/>  </a>')
+f.write('&nbsp;&nbsp;&nbsp;&nbsp;<!-- CodeChef --><a href="https://www.codechef.com/users/suru_4851" target="_blank"> <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="codechef" width="100" height="45"/>  </a>\n')
 
 f.write("### Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together\n")
 
