@@ -23,7 +23,7 @@ f.write("# *Welcome To My Repository*\n")
 f.write("### <div style='text-align:right'><sub> - Rahul Surana</sub></div>\n")
 
 f.write("### Going To Update This Repo Time To Time As I Continue My Journey To Competitive Programming\n")
-f.write("### This Repository also contents my journey to corporate life along with the interview questions from lots of companys like Amazon , Juspay , oneCode , Relevel , Wissen , ThoughtWorks , Flyo , Clippd and many more ... ")
+f.write("#### This Repository also contents my journey to corporate life along with the interview questions from lots of companys like Amazon , Juspay , oneCode , Relevel , Wissen , ThoughtWorks , Flyo , Clippd and many more ... \n")
 
 f.write("#### Here are links to some of my profile \n")
 f.write('</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- Leetcode --><a href="https://leetcode.com/rasuru04/" target="_blank"> <img src="https://miro.medium.com/max/1838/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="leetcode" width="100" height="45"/>  </a>')
