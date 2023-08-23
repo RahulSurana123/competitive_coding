@@ -17,8 +17,6 @@ Return the maximum score you can receive after performing n operations.
 
 The function gcd(x, y) is the greatest common divisor of x and y.
 
- 
-
 
     ***********************************************************
 */
