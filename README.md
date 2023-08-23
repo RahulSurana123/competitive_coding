@@ -1,7 +1,7 @@
 # *Welcome To My Repository*
 ### <div style='text-align:right'><sub> - Rahul Surana</sub></div>
 ### Going To Update This Repo Time To Time As I Continue My Journey To Competitive Programming
-### Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together
+</a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- Leetcode --><a href="https://leetcode.com/rasuru04/" target="_blank"> <img src="https://miro.medium.com/max/1838/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="leetcode" width="100" height="45"/>  </a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- CodeChef --><a href="https://www.codechef.com/users/suru_4851" target="_blank"> <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="codechef" width="100" height="45"/>  </a>### Please Do Star the Repo if it ever helps you. Also Would Like to Form a Community So we all can grow Together
 ### HYPERLINK To Code
 ***
 | Platform  |  Problem Count |
