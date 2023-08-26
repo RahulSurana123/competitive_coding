@@ -229,6 +229,7 @@
 -  [ Maximum Difference Between Node and Ancestor ](./Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)
 -  [ Maximum Frequency Stack ](./Maximum%20Frequency%20Stack.cpp)
 -  [ Maximum Ice Cream Bars ](./Maximum%20Ice%20Cream%20Bars.cpp)
+-  [ Maximum Length of Pair Chain ](./Maximum%20Length%20of%20Pair%20Chain.cpp)
 -  [ Maximum Matrix Sum ](./Maximum%20Matrix%20Sum.cpp)
 -  [ Maximum Number of Vowels in a Substring of Given Length ](./Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.cpp)
 -  [ Maximum Product Difference Between Two Pairs ](./Maximum%20Product%20Difference%20Between%20Two%20Pairs.cpp)
@@ -476,4 +477,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 471
+### Total Code Count : 472
