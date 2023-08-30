@@ -272,6 +272,7 @@
 -  [ Minimum Path Sum ](./Minimum%20Path%20Sum.cpp)
 -  [ Minimum Penalty for a Shop ](./Minimum%20Penalty%20for%20a%20Shop.cpp)
 -  [ Minimum Remove to Make Valid Parentheses ](./Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)
+-  [ Minimum Replacements to Sort the Array ](./Minimum%20Replacements%20to%20Sort%20the%20Array.cpp)
 -  [ Minimum Rounds to Complete All Tasks ](./Minimum%20Rounds%20to%20Complete%20All%20Tasks.cpp)
 -  [ Minimum Size Subarray Sum ](./Minimum%20Size%20Subarray%20Sum.cpp)
 -  [ Minimum Speed to Arrive on Time ](./Minimum%20Speed%20to%20Arrive%20on%20Time.cpp)
@@ -479,4 +480,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 474
+### Total Code Count : 475
