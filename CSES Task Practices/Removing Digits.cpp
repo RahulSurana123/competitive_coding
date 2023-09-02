@@ -5,21 +5,17 @@
 
     ***********************************************************
 
-Consider a money system consisting of n coins. Each coin has a positive integer value. 
-Your task is to produce a sum of money x using the available coins in such a way that the number of coins is minimal.
+You are given an integer n. On each step, you may subtract one of the digits from the number.
 
-For example, if the coins are {1,5,7} and the desired sum is 11, an optimal solution is 5+5+1 which requires 3 coins.
+How many steps are required to make the number equal to 0?
 
 Input
 
-The first input line has two integers n and x: the number of coins and the desired sum of money.
-
-The second line has n distinct integers c1,c2,…,cn: the value of each coin.
+The only input line has an integer n.
 
 Output
 
-Print one integer: the minimum number of coins. If it is not possible to produce the desired sum, print −1.
-
+Print one integer: the minimum number of steps.
 
 
     ***********************************************************
