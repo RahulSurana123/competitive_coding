@@ -147,6 +147,7 @@
 -  [ Flip String to Monotone Increasing ](./Flip%20String%20to%20Monotone%20Increasing.cpp)
 -  [ Frog Jump ](./Frog%20Jump.cpp)
 -  [ Fruit Into Baskets ](./Fruit%20Into%20Baskets.cpp)
+-  [ Furthest Point From Origin ](./Furthest%20Point%20From%20Origin.cpp)
 -  [ Game of Life ](./Game%20of%20Life.cpp)
 -  [ Gas Station ](./Gas%20Station.cpp)
 -  [ Gray Code ](./Gray%20Code.cpp)
@@ -481,4 +482,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 476
+### Total Code Count : 477
