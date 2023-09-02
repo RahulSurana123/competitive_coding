@@ -12,15 +12,15 @@
 |    [ code monk ](./code%20monk)     |      26    |
 |    [ CodeChef ](./CodeChef)     |      77    |
 |    [ CodeForces ](./CodeForces)     |      60    |
-|    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      5    |
+|    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      7    |
 |    [ Geek for Geek ](./Geek%20for%20Geek)     |      72    |
 |    [ Google Contest Problems ](./Google%20Contest%20Problems)     |      8    |
 |    [ hackerearth ](./hackerearth)     |      26    |
 |    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Hiring ](./Hiring)     |      70    |
-|    [ leet code ](./leet%20code)     |      475    |
+|    [ leet code ](./leet%20code)     |      476    |
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      6    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
 
-### Total Code Count : 873
+### Total Code Count : 876
