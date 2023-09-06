@@ -31,46 +31,32 @@ Return an array of the k parts.
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
-
 class Solution {
 public:
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
-        int count = 0;
-        ListNode* it = head;
-        while(it != nullptr){
-            count++;
-            it = it->next;
-        }
-        int size = floor(((double)count/(double)k));
-        int extra  = count - (size *k);
-        cout << size <<" "<<extra << "\n";
-        vector<ListNode*> ans(k,nullptr);
-        ListNode* iter = head;
-        int i = 0;
         int n = 0;
-        while(iter != nullptr){
-            ListNode* tempHead = new ListNode(iter->val,nullptr);
-            iter = iter->next;
-            ans[n++] = tempHead;
-            i=1;
-            while(i < size){
-                ListNode* temp = new ListNode(iter->val,nullptr);
-                tempHead-> next = temp;
-                tempHead = tempHead-> next;
-                iter = iter->next;
-              
-                // cout << tempHead->val <<" " <<i << "\n";
-                i++;
+        ListNode* x = head;
+        while(x!= NULL) {
+            x = x->next; 
+            n++;
+        }
+        int per = n/k;
+        int rem = n %k;
+        
+        vector<ListNode*> ans(k,NULL);
+        x = head;
+        int c = 0, i = 0;
+        while(x!= NULL){
+            ans[i] = (x);
+            while(x && c < (per+(rem>0))-1) { x = x->next; c++; }
+            if(x){
+                ListNode* z = x->next;    
+                x->next = NULL;
+                x = z;
             }
-            if(extra > 0 && i == size){
-                ListNode* temp = new ListNode(iter->val,nullptr);
-                tempHead-> next = temp;
-                tempHead = tempHead-> next;
-                iter = iter->next;
-                // cout << tempHead->val <<" " <<extra << "\n";
-                extra--;
-            }
+            rem--;
+            c = 0;
+            i++;
         }
         return ans;
     }

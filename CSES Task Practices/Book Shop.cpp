@@ -62,19 +62,9 @@ int main() {
     vector<int> p(n),pp(n);
     FOR(i,n){
         cin >> p[i];
-        // cout << p[i]<<" ";
-        // amount += p[i].first;
     }
-    // cout <<"\n"s;
     FOR(i,n){
         cin >> pp[i];
-        // tp += p[i].second;
-    }
-    // if(x >= amount) cout << tp <<"\n";
-    // else{
-    //     sort(p.begin(),p.end());  
-    //     cout << df(0,x,p) <<"\n";
-    // }
     for(int i = 1; i <=n; i++){
         FOR(j,x+1){
             dp[i][j] = dp[i-1][j];
