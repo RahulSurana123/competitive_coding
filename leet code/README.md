@@ -152,6 +152,7 @@
 -  [ Gas Station ](./Gas%20Station.cpp)
 -  [ Gray Code ](./Gray%20Code.cpp)
 -  [ Greatest Common Divisor of Strings ](./Greatest%20Common%20Divisor%20of%20Strings.cpp)
+-  [ Group the People Given the Group Size They Belong To ](./Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.cpp)
 -  [ Guess Number Higher or Lower II ](./Guess%20Number%20Higher%20or%20Lower%20II.cpp)
 -  [ Guess Number Higher or Lower ](./Guess%20Number%20Higher%20or%20Lower.cpp)
 -  [ Hamming Distance ](./Hamming%20Distance.cpp)
@@ -325,6 +326,7 @@
 -  [ Partition List ](./Partition%20List.cpp)
 -  [ Partition to K Equal Sum Subsets ](./Partition%20to%20K%20Equal%20Sum%20Subsets.cpp)
 -  [ Pascal's Triangle II ](./Pascal's%20Triangle%20II.cpp)
+-  [ Pascal's Triangle ](./Pascal's%20Triangle.cpp)
 -  [ Pass the Pillow ](./Pass%20the%20Pillow.cpp)
 -  [ Path Sum II ](./Path%20Sum%20II.cpp)
 -  [ Path Sum III ](./Path%20Sum%20III.cpp)
@@ -483,4 +485,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 478
+### Total Code Count : 480
