@@ -43,6 +43,7 @@
 -  [ Can I Win ](./Can%20I%20Win.cpp)
 -  [ Can Make Arithmetic Progression From Sequence ](./Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)
 -  [ Can Place Flowers ](./Can%20Place%20Flowers.cpp)
+-  [ Candy ](./Candy.cpp)
 -  [ Capacity To Ship Packages Within D Days ](./Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)
 -  [ Car Pooling ](./Car%20Pooling.cpp)
 -  [ Champagne Tower ](./Champagne%20Tower.cpp)
@@ -486,4 +487,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 481
+### Total Code Count : 482
