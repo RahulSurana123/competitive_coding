@@ -24,46 +24,25 @@ You may assume all tickets form at least one valid itinerary. You must use all t
 class Solution {
 public:
 
-    map<string,vector<string>> m;
-    // vector<string> ans;
-    vector<string> df(string cur){
-        // if(cur )
-        // cout << cur <<" --> ";
-        vector<vector<string>> a;
-        while(m[cur].size() != 0) {
-            vector<string> temp; 
-            string nc = m[cur][0];
-            temp.push_back(nc); 
-            m[cur].erase(m[cur].begin());  
-            //  cout << cur <<" " << nc<<"\n";
-            auto z = df(nc); 
-            temp.insert(temp.end(),z.begin(),z.end());
-            a.push_back(temp);
+    unordered_map<string,priority_queue<string,vector<string>,greater<string>>> m;
+    vector<string> ans;
+    void df(string cur){
+        auto &z = m[cur];
+        while(!z.empty()) { 
+            auto x = z.top();
+            z.pop();  
+            df(x); 
         }
-        int i;
-        for(i = 0 ; i < a.size(); i++) if(a[i].back() != cur) break;
-        vector<string> tt;
-        if(i<a.size()){
-        tt = a[i];
-        a.erase(a.begin()+i);
-        sort(a.begin(),a.end());}
-        vector<string> ans;
-        for(auto s:a) ans.insert(ans.end(),s.begin(),s.end());
-        if(tt.size()>0)
-        ans.insert(ans.end(),tt.begin(),tt.end());
-        return ans;
+        
+        ans.push_back(cur);
     }
 
     vector<string> findItinerary(vector<vector<string>>& tickets) {
-        for(auto x: tickets){
-            m[x[0]].push_back(x[1]);
-            // cout << x[0] <<" "<<x[1] <<" -> ";
+        for(auto &x: tickets){
+            m[x[0]].push(x[1]);
         }
-        for(auto x: m){
-            sort(m[x.first].begin(),m[x.first].end());
-        }
-        auto ans = df("JFK");
-        ans.insert(ans.begin(),"JFK");
+        df("JFK");
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
