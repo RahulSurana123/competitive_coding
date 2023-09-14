@@ -353,6 +353,7 @@
 -  [ Ransom Note ](./Ransom%20Note.cpp)
 -  [ readme Generation ](./readme%20Generation.py)
 -  [ READM ](./README.md)
+-  [ Reconstruct Itinerary ](./Reconstruct%20Itinerary.cpp)
 -  [ Recover a Tree From Preorder Traversal ](./Recover%20a%20Tree%20From%20Preorder%20Traversal.cpp)
 -  [ Recover Binary Search Tree ](./Recover%20Binary%20Search%20Tree.cpp)
 -  [ Rectangle Area ](./Rectangle%20Area.cpp)
@@ -487,4 +488,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 482
+### Total Code Count : 483
