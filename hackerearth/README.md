@@ -14,6 +14,7 @@
 -  [ Counting Frog Paths ](./Counting%20Frog%20Paths.cpp)
 -  [ Easy Sum Set Problem ](./Easy%20Sum%20Set%20Problem.cpp)
 -  [ Edge Existence ](./Edge%20Existence.cpp)
+-  [ Erasing an array ](./Erasing%20an%20array.cpp)
 -  [ Golden rectangles ](./Golden%20rectangles.cpp)
 -  [ Hexadecimal numbers ](./Hexadecimal%20numbers.cpp)
 -  [ Manna's First Name ](./Manna's%20First%20Name.cpp)
@@ -31,4 +32,4 @@
 -  [ Special Shop ](./Special%20Shop.cpp)
 -  [ Ways ](./Ways.cpp)
 
-### Total Code Count : 26
+### Total Code Count : 27

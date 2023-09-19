@@ -15,7 +15,7 @@
 |    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      7    |
 |    [ Geek for Geek ](./Geek%20for%20Geek)     |      72    |
 |    [ Google Contest Problems ](./Google%20Contest%20Problems)     |      8    |
-|    [ hackerearth ](./hackerearth)     |      26    |
+|    [ hackerearth ](./hackerearth)     |      27    |
 |    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Hiring ](./Hiring)     |      70    |
 |    [ leet code ](./leet%20code)     |      484    |
@@ -23,4 +23,4 @@
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
 
-### Total Code Count : 884
+### Total Code Count : 885
