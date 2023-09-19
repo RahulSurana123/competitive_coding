@@ -39,8 +39,7 @@ public:
                 hasApple[x] = true;
             }
         }
-        if(hasApplegit add .
-            [x] && x!=0) ans+=2;
+        if(hasApple[x] && x!=0) ans+=2;
         return hasApple[x];
     }
 
