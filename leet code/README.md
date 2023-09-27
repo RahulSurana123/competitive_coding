@@ -94,6 +94,7 @@
 -  [ Cyclically Rotating a Grid ](./Cyclically%20Rotating%20a%20Grid.cpp)
 -  [ Daily Temperatures ](./Daily%20Temperatures.cpp)
 -  [ Decode String ](./Decode%20String.cpp)
+-  [ Decoded String at Index ](./Decoded%20String%20at%20Index.cpp)
 -  [ Deepest Leaves Sum ](./Deepest%20Leaves%20Sum.cpp)
 -  [ Delete and Earn ](./Delete%20and%20Earn.cpp)
 -  [ Delete Columns to Make Sorted ](./Delete%20Columns%20to%20Make%20Sorted.cpp)
@@ -491,4 +492,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 486
+### Total Code Count : 487
