@@ -293,6 +293,7 @@
 -  [ Minimum Window Substring ](./Minimum%20Window%20Substring.cpp)
 -  [ Mirror Reflection ](./Mirror%20Reflection.cpp)
 -  [ Missing Number ](./Missing%20Number.cpp)
+-  [ Monotonic Array ](./Monotonic%20Array.cpp)
 -  [ Most Frequent Subtree Sum ](./Most%20Frequent%20Subtree%20Sum.cpp)
 -  [ Most Stones Removed with Same Row or Column ](./Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.cpp)
 -  [ Move Zeroes ](./Move%20Zeroes.cpp)
@@ -492,4 +493,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 487
+### Total Code Count : 488
