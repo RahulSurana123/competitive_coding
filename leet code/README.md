@@ -365,6 +365,7 @@
 -  [ Reducing Dishes ](./Reducing%20Dishes.cpp)
 -  [ Remove All Adjacent Duplicates in String II ](./Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)
 -  [ Remove All Adjacent Duplicates In String ](./Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)
+-  [ Remove Colored Pieces if Both Neighbors are the Same Color ](./Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color.cpp)
 -  [ Remove Covered Intervals ](./Remove%20Covered%20Intervals.cpp)
 -  [ Remove Digit From Number to Maximize Result ](./Remove%20Digit%20From%20Number%20to%20Maximize%20Result.cpp)
 -  [ Remove Duplicate Letters ](./Remove%20Duplicate%20Letters.cpp)
@@ -493,4 +494,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 488
+### Total Code Count : 489
