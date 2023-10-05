@@ -221,6 +221,7 @@
 -  [ Longest ZigZag Path in a Binary Tree ](./Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.cpp)
 -  [ Lowest Common Ancestor of a Binary Tree ](./Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp)
 -  [ LRU Cache ](./LRU%20Cache.cpp)
+-  [ Majority Element II ](./Majority%20Element%20II.cpp)
 -  [ Majority Element ](./Majority%20Element.cpp)
 -  [ Make The String Great ](./Make%20The%20String%20Great.cpp)
 -  [ Making A Large Island ](./Making%20A%20Large%20Island.cpp)
@@ -495,4 +496,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 490
+### Total Code Count : 491
