@@ -410,6 +410,7 @@
 -  [ Sequential Digits ](./Sequential%20Digits.cpp)
 -  [ Shift 2D Grid ](./Shift%202D%20Grid.cpp)
 -  [ Shortest Path in Binary Matrix ](./Shortest%20Path%20in%20Binary%20Matrix.cpp)
+-  [ Shortest Path with Alternating Colors ](./Shortest%20Path%20with%20Alternating%20Colors.cpp)
 -  [ Shortest Unsorted Continuous Subarray ](./Shortest%20Unsorted%20Continuous%20Subarray.cpp)
 -  [ Shuffle the Array ](./Shuffle%20the%20Array.cpp)
 -  [ Sign of the Product of an Array ](./Sign%20of%20the%20Product%20of%20an%20Array.cpp)
@@ -496,4 +497,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 491
+### Total Code Count : 492
