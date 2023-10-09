@@ -39,6 +39,7 @@
 -  [ Boats to Save People ](./Boats%20to%20Save%20People.cpp)
 -  [ Broken Calculator ](./Broken%20Calculator.cpp)
 -  [ Buddy Strings ](./Buddy%20Strings.cpp)
+-  [ Build Array Where You Can Find The Maximum Exactly K Comparisons ](./Build%20Array%20Where%20You%20Can%20Find%20The%20Maximum%20Exactly%20K%20Comparisons.cpp)
 -  [ Bulb Switcher ](./Bulb%20Switcher.cpp)
 -  [ Can I Win ](./Can%20I%20Win.cpp)
 -  [ Can Make Arithmetic Progression From Sequence ](./Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)
@@ -131,6 +132,7 @@
 -  [ Find Closest Node to Given Two Nodes ](./Find%20Closest%20Node%20to%20Given%20Two%20Nodes.cpp)
 -  [ Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree ](./Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree.cpp)
 -  [ Find Duplicate Subtrees ](./Find%20Duplicate%20Subtrees.cpp)
+-  [ Find First and Last Position of Element in Sorted Array ](./Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)
 -  [ Find if Path Exists in Graph ](./Find%20if%20Path%20Exists%20in%20Graph.cpp)
 -  [ Find K Closest Elements ](./Find%20K%20Closest%20Elements.cpp)
 -  [ Find K Pairs with Smallest Sums ](./Find%20K%20Pairs%20with%20Smallest%20Sums.cpp)
@@ -498,4 +500,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 493
+### Total Code Count : 495
