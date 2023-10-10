@@ -280,6 +280,7 @@
 -  [ Minimum Flips to Make a OR b Equal to c ](./Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.cpp)
 -  [ Minimum Height Trees ](./Minimum%20Height%20Trees.cpp)
 -  [ Minimum Number of Arrows to Burst Balloons ](./Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)
+-  [ Minimum Number of Operations to Make Array Continuous ](./Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous.cpp)
 -  [ Minimum Number of Vertices to Reach All Nodes ](./Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.cpp)
 -  [ Minimum Operations to Reduce X to Zero ](./Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.cpp)
 -  [ Minimum Path Sum ](./Minimum%20Path%20Sum.cpp)
@@ -500,4 +501,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 495
+### Total Code Count : 496
