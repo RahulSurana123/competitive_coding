@@ -27,16 +27,12 @@ In Pascal's triangle, each number is the sum of the two numbers directly above i
 class Solution {
 public:
     vector<int> getRow(int rowIndex) {
-        vector<int> ans(rowIndex+1,1);
+        vector<int> pt(rowIndex+1,1);
+        long n = rowIndex;
         for(int i = 1; i < rowIndex; i++){
-            vector<int> temp(rowIndex+1,1); 
-            // for(auto x: ans) cout << x <<" ";
-            // cout <<"\n";
-            for(int j = 1; j < i+1; j++){
-                temp[j] = ans[j-1] + ans[j];
-            }
-            ans = temp;
+            pt[i] = ((pt[i-1]*n)/i);
+            n--;
         }
-        return ans;
+        return pt;
     }
 };
