@@ -495,6 +495,7 @@
 -  [ Valid Palindrome II ](./Valid%20Palindrome%20II.cpp)
 -  [ Valid Parentheses ](./Valid%20Parentheses.cpp)
 -  [ Valid Sudoku ](./Valid%20Sudoku.cpp)
+-  [ Validate Binary Tree Nodes ](./Validate%20Binary%20Tree%20Nodes.cpp)
 -  [ Validate Stack Sequences ](./Validate%20Stack%20Sequences.cpp)
 -  [ Verifying an Alien Dictionary ](./Verifying%20an%20Alien%20Dictionary.cpp)
 -  [ Vertical Order Traversal of a Binary Tree ](./Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)
@@ -503,4 +504,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 498
+### Total Code Count : 499
