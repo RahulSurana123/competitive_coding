@@ -336,6 +336,7 @@
 -  [ Palindrome Number ](./Palindrome%20Number.cpp)
 -  [ Palindrome Partitioning ](./Palindrome%20Partitioning.cpp)
 -  [ Palindromic Substrings ](./Palindromic%20Substrings.cpp)
+-  [ Parallel Courses III ](./Parallel%20Courses%20III.cpp)
 -  [ Partition Equal Subset Sum ](./Partition%20Equal%20Subset%20Sum.cpp)
 -  [ Partition Labels ](./Partition%20Labels.cpp)
 -  [ Partition List ](./Partition%20List.cpp)
@@ -504,4 +505,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 499
+### Total Code Count : 500
