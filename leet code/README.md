@@ -66,6 +66,7 @@
 -  [ Complement of Base 10 Integer ](./Complement%20of%20Base%2010%20Integer.cpp)
 -  [ Concatenated Words ](./Concatenated%20Words.cpp)
 -  [ Consecutive Characters ](./Consecutive%20Characters.cpp)
+-  [ Constrained Subsequence Sum ](./Constrained%20Subsequence%20Sum.cpp)
 -  [ Construct Binary Search Tree from Preorder Traversal ](./Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.cpp)
 -  [ Construct Binary Tree from Inorder and Postorder Traversal ](./Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.cpp)
 -  [ Construct Binary Tree from Preorder and Inorder Traversal ](./Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp)
@@ -249,6 +250,7 @@
 -  [ Maximum Product Subarray ](./Maximum%20Product%20Subarray.cpp)
 -  [ Maximum Running Time of N Computers ](./Maximum%20Running%20Time%20of%20N%20Computers.cpp)
 -  [ Maximum Score from Performing Multiplication Operations ](./Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp)
+-  [ Maximum Score of a Good Subarray ](./Maximum%20Score%20of%20a%20Good%20Subarray.cpp)
 -  [ Maximum Subarray Min-Product ](./Maximum%20Subarray%20Min-Product.cpp)
 -  [ Maximum Subarray ](./Maximum%20Subarray.cpp)
 -  [ Maximum Subsequence Score ](./Maximum%20Subsequence%20Score.cpp)
@@ -505,4 +507,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 500
+### Total Code Count : 502
