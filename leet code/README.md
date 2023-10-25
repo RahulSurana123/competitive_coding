@@ -138,6 +138,7 @@
 -  [ Find in Mountain Array ](./Find%20in%20Mountain%20Array.cpp)
 -  [ Find K Closest Elements ](./Find%20K%20Closest%20Elements.cpp)
 -  [ Find K Pairs with Smallest Sums ](./Find%20K%20Pairs%20with%20Smallest%20Sums.cpp)
+-  [ Find Largest Value in Each Tree Row ](./Find%20Largest%20Value%20in%20Each%20Tree%20Row.cpp)
 -  [ Find Minimum in Rotated Sorted Array II ](./Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.cpp)
 -  [ Find Original Array From Doubled Array ](./Find%20Original%20Array%20From%20Doubled%20Array.cpp)
 -  [ Find Players With Zero or One Losses ](./Find%20Players%20With%20Zero%20or%20One%20Losses.cpp)
@@ -191,6 +192,7 @@
 -  [ Jump Game ](./Jump%20Game.cpp)
 -  [ K Radius Subarray Averages ](./K%20Radius%20Subarray%20Averages.cpp)
 -  [ K-diff Pairs in an Array ](./K-diff%20Pairs%20in%20an%20Array.cpp)
+-  [ K-th Symbol in Grammar ](./K-th%20Symbol%20in%20Grammar.cpp)
 -  [ Keys and Rooms ](./Keys%20and%20Rooms.cpp)
 -  [ Kids With the Greatest Number of Candies ](./Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)
 -  [ Koko Eating Bananas ](./Koko%20Eating%20Bananas.cpp)
@@ -507,4 +509,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 502
+### Total Code Count : 504
