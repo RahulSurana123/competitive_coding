@@ -35,6 +35,7 @@
 -  [ Binary Tree Maximum Path Sum ](./Binary%20Tree%20Maximum%20Path%20Sum.cpp)
 -  [ Binary Tree Preorder Traversal ](./Binary%20Tree%20Preorder%20Traversal.cpp)
 -  [ Binary Tree Zigzag Level Order Traversal ](./Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp)
+-  [ Binary Trees With Factors ](./Binary%20Trees%20With%20Factors.cpp)
 -  [ Bitwise AND of Numbers Range ](./Bitwise%20AND%20of%20Numbers%20Range.cpp)
 -  [ Boats to Save People ](./Boats%20to%20Save%20People.cpp)
 -  [ Broken Calculator ](./Broken%20Calculator.cpp)
@@ -509,4 +510,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 504
+### Total Code Count : 505
