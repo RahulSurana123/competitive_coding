@@ -84,6 +84,7 @@
 -  [ Count and Say ](./Count%20and%20Say.cpp)
 -  [ Count Complete Tree Nodes ](./Count%20Complete%20Tree%20Nodes.cpp)
 -  [ Count Negative Numbers in a Sorted Matrix ](./Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)
+-  [ Count Nodes Equal to Average of Subtree ](./Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.cpp)
 -  [ Count Odd Numbers in an Interval Range ](./Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)
 -  [ Count Sorted Vowel Strings ](./Count%20Sorted%20Vowel%20Strings.cpp)
 -  [ Count Subarrays With Fixed Bounds ](./Count%20Subarrays%20With%20Fixed%20Bounds.cpp)
@@ -141,6 +142,7 @@
 -  [ Find K Pairs with Smallest Sums ](./Find%20K%20Pairs%20with%20Smallest%20Sums.cpp)
 -  [ Find Largest Value in Each Tree Row ](./Find%20Largest%20Value%20in%20Each%20Tree%20Row.cpp)
 -  [ Find Minimum in Rotated Sorted Array II ](./Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.cpp)
+-  [ Find Mode in Binary Search Tree ](./Find%20Mode%20in%20Binary%20Search%20Tree.cpp)
 -  [ Find Original Array From Doubled Array ](./Find%20Original%20Array%20From%20Doubled%20Array.cpp)
 -  [ Find Players With Zero or One Losses ](./Find%20Players%20With%20Zero%20or%20One%20Losses.cpp)
 -  [ Find Smallest Letter Greater Than Target ](./Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
@@ -511,4 +513,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 506
+### Total Code Count : 508
