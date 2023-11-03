@@ -40,6 +40,7 @@
 -  [ Boats to Save People ](./Boats%20to%20Save%20People.cpp)
 -  [ Broken Calculator ](./Broken%20Calculator.cpp)
 -  [ Buddy Strings ](./Buddy%20Strings.cpp)
+-  [ Build an Array With Stack Operations ](./Build%20an%20Array%20With%20Stack%20Operations.cpp)
 -  [ Build Array Where You Can Find The Maximum Exactly K Comparisons ](./Build%20Array%20Where%20You%20Can%20Find%20The%20Maximum%20Exactly%20K%20Comparisons.cpp)
 -  [ Bulb Switcher ](./Bulb%20Switcher.cpp)
 -  [ Can I Win ](./Can%20I%20Win.cpp)
@@ -513,4 +514,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 508
+### Total Code Count : 509
