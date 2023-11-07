@@ -123,6 +123,7 @@
 -  [ Domino and Tromino Tiling ](./Domino%20and%20Tromino%20Tiling.cpp)
 -  [ Dota2 Senate ](./Dota2%20Senate.cpp)
 -  [ Edit Distance ](./Edit%20Distance.cpp)
+-  [ Eliminate Maximum Number of Monsters ](./Eliminate%20Maximum%20Number%20of%20Monsters.cpp)
 -  [ Encode and Decode TinyURL ](./Encode%20and%20Decode%20TinyURL.cpp)
 -  [ Equal Row and Column Pairs ](./Equal%20Row%20and%20Column%20Pairs.cpp)
 -  [ Evaluate Division ](./Evaluate%20Division.cpp)
@@ -424,6 +425,7 @@
 -  [ Search in Rotated Sorted Array II ](./Search%20in%20Rotated%20Sorted%20Array%20II.cpp)
 -  [ Search in Rotated Sorted Array ](./Search%20in%20Rotated%20Sorted%20Array.cpp)
 -  [ Search Insert Position ](./Search%20Insert%20Position.cpp)
+-  [ Seat Reservation Manager ](./Seat%20Reservation%20Manager.cpp)
 -  [ Sequential Digits ](./Sequential%20Digits.cpp)
 -  [ Shift 2D Grid ](./Shift%202D%20Grid.cpp)
 -  [ Shortest Path in Binary Matrix ](./Shortest%20Path%20in%20Binary%20Matrix.cpp)
@@ -515,4 +517,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 510
+### Total Code Count : 512
