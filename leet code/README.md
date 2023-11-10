@@ -404,6 +404,7 @@
 -  [ Reorder Routes to Make All Paths Lead to the City Zero ](./Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.cpp)
 -  [ Reorganize String ](./Reorganize%20String.cpp)
 -  [ Repeated Substring Pattern ](./Repeated%20Substring%20Pattern.cpp)
+-  [ Restore the Array From Adjacent Pairs ](./Restore%20the%20Array%20From%20Adjacent%20Pairs.cpp)
 -  [ Reverse Bits ](./Reverse%20Bits.cpp)
 -  [ Reverse Integer ](./Reverse%20Integer.cpp)
 -  [ Reverse Linked List II ](./Reverse%20Linked%20List%20II.cpp)
@@ -519,4 +520,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 514
+### Total Code Count : 515
