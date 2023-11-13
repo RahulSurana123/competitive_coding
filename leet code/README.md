@@ -458,6 +458,7 @@
 -  [ Sort Even and Odd Indices Independently ](./Sort%20Even%20and%20Odd%20Indices%20Independently.cpp)
 -  [ Sort Items by Groups Respecting Dependencies ](./Sort%20Items%20by%20Groups%20Respecting%20Dependencies.cpp)
 -  [ Sort List ](./Sort%20List.cpp)
+-  [ Sort Vowels in a String ](./Sort%20Vowels%20in%20a%20String.cpp)
 -  [ Soup Servings ](./Soup%20Servings.cpp)
 -  [ Spiral Matrix II ](./Spiral%20Matrix%20II.cpp)
 -  [ Spiral Matrix ](./Spiral%20Matrix.cpp)
@@ -520,4 +521,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 515
+### Total Code Count : 516
