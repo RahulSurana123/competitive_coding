@@ -251,6 +251,7 @@
 -  [ Maximum Compatibility Score Sum ](./Maximum%20Compatibility%20Score%20Sum.cpp)
 -  [ Maximum Depth of Binary Tree ](./Maximum%20Depth%20of%20Binary%20Tree.cpp)
 -  [ Maximum Difference Between Node and Ancestor ](./Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)
+-  [ Maximum Element After Decreasing and Rearranging ](./Maximum%20Element%20After%20Decreasing%20and%20Rearranging.cpp)
 -  [ Maximum Frequency Stack ](./Maximum%20Frequency%20Stack.cpp)
 -  [ Maximum Ice Cream Bars ](./Maximum%20Ice%20Cream%20Bars.cpp)
 -  [ Maximum Length of Pair Chain ](./Maximum%20Length%20of%20Pair%20Chain.cpp)
@@ -522,4 +523,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 517
+### Total Code Count : 518
