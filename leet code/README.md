@@ -159,6 +159,7 @@
 -  [ Find The Original Array of Prefix Xor ](./Find%20The%20Original%20Array%20of%20Prefix%20Xor.cpp)
 -  [ Find the Town Judge ](./Find%20the%20Town%20Judge.cpp)
 -  [ Find the Winner of an Array Game ](./Find%20the%20Winner%20of%20an%20Array%20Game.cpp)
+-  [ Find Unique Binary String ](./Find%20Unique%20Binary%20String.cpp)
 -  [ Flatten a Multilevel Doubly Linked List ](./Flatten%20a%20Multilevel%20Doubly%20Linked%20List.cpp)
 -  [ Flatten Nested List Iterator ](./Flatten%20Nested%20List%20Iterator.cpp)
 -  [ Flip String to Monotone Increasing ](./Flip%20String%20to%20Monotone%20Increasing.cpp)
@@ -279,6 +280,7 @@
 -  [ Min Cost to Connect All Points ](./Min%20Cost%20to%20Connect%20All%20Points.cpp)
 -  [ Min Stack ](./Min%20Stack.cpp)
 -  [ Minimize Deviation in Array ](./Minimize%20Deviation%20in%20Array.cpp)
+-  [ Minimize Maximum Pair Sum in Array ](./Minimize%20Maximum%20Pair%20Sum%20in%20Array.cpp)
 -  [ Minimize the Maximum Difference of Pairs ](./Minimize%20the%20Maximum%20Difference%20of%20Pairs.cpp)
 -  [ Minimum Absolute Difference in BST ](./Minimum%20Absolute%20Difference%20in%20BST.cpp)
 -  [ Minimum Absolute Difference ](./Minimum%20Absolute%20Difference.cpp)
@@ -523,4 +525,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 518
+### Total Code Count : 520
