@@ -163,6 +163,7 @@
 -  [ Flatten a Multilevel Doubly Linked List ](./Flatten%20a%20Multilevel%20Doubly%20Linked%20List.cpp)
 -  [ Flatten Nested List Iterator ](./Flatten%20Nested%20List%20Iterator.cpp)
 -  [ Flip String to Monotone Increasing ](./Flip%20String%20to%20Monotone%20Increasing.cpp)
+-  [ Frequency of the Most Frequent Element ](./Frequency%20of%20the%20Most%20Frequent%20Element.cpp)
 -  [ Frog Jump ](./Frog%20Jump.cpp)
 -  [ Fruit Into Baskets ](./Fruit%20Into%20Baskets.cpp)
 -  [ Furthest Point From Origin ](./Furthest%20Point%20From%20Origin.cpp)
@@ -525,4 +526,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 520
+### Total Code Count : 521
