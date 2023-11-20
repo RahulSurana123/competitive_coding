@@ -109,6 +109,7 @@
 -  [ Design Add and Search Words Data Structure ](./Design%20Add%20and%20Search%20Words%20Data%20Structure.cpp)
 -  [ Design Bitset ](./Design%20Bitset.cpp)
 -  [ Design Browser History ](./Design%20Browser%20History.cpp)
+-  [ Design Graph With Shortest Path Calculator ](./Design%20Graph%20With%20Shortest%20Path%20Calculator.cpp)
 -  [ Design HashMap ](./Design%20HashMap.cpp)
 -  [ Design HashSet ](./Design%20HashSet.cpp)
 -  [ Design Parking System ](./Design%20Parking%20System.cpp)
@@ -528,4 +529,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 523
+### Total Code Count : 524
