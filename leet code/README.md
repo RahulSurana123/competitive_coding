@@ -285,6 +285,7 @@
 -  [ Minimize the Maximum Difference of Pairs ](./Minimize%20the%20Maximum%20Difference%20of%20Pairs.cpp)
 -  [ Minimum Absolute Difference in BST ](./Minimum%20Absolute%20Difference%20in%20BST.cpp)
 -  [ Minimum Absolute Difference ](./Minimum%20Absolute%20Difference.cpp)
+-  [ Minimum Amount of Time to Collect Garbage ](./Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.cpp)
 -  [ Minimum ASCII Delete Sum for Two Strings ](./Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.cpp)
 -  [ Minimum Consecutive Cards to Pick Up ](./Minimum%20Consecutive%20Cards%20to%20Pick%20Up.cpp)
 -  [ Minimum Cost For Tickets ](./Minimum%20Cost%20For%20Tickets.cpp)
@@ -527,4 +528,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 522
+### Total Code Count : 523
