@@ -120,6 +120,7 @@
 -  [ Determine if String Halves Are Alike ](./Determine%20if%20String%20Halves%20Are%20Alike.cpp)
 -  [ Determine if Two Strings Are Close ](./Determine%20if%20Two%20Strings%20Are%20Close.cpp)
 -  [ Detonate the Maximum Bombs ](./Detonate%20the%20Maximum%20Bombs.cpp)
+-  [ Diagonal Traverse II ](./Diagonal%20Traverse%20II.cpp)
 -  [ Diameter of Binary Tree ](./Diameter%20of%20Binary%20Tree.cpp)
 -  [ Distinct Subsequences ](./Distinct%20Subsequences.cpp)
 -  [ Distribute Coins in Binary Tree ](./Distribute%20Coins%20in%20Binary%20Tree.cpp)
@@ -530,4 +531,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 525
+### Total Code Count : 526
