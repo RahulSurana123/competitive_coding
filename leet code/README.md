@@ -16,6 +16,7 @@
 -  [ All Nodes Distance K in Binary Tree ](./All%20Nodes%20Distance%20K%20in%20Binary%20Tree.cpp)
 -  [ All Possible Full Binary Trees ](./All%20Possible%20Full%20Binary%20Trees.cpp)
 -  [ Arithmetic Slices ](./Arithmetic%20Slices.cpp)
+-  [ Arithmetic Subarrays ](./Arithmetic%20Subarrays.cpp)
 -  [ As Far from Land as Possible ](./As%20Far%20from%20Land%20as%20Possible.cpp)
 -  [ Backspace String Compare ](./Backspace%20String%20Compare.cpp)
 -  [ Bag of Tokens ](./Bag%20of%20Tokens.cpp)
@@ -531,4 +532,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 526
+### Total Code Count : 527
