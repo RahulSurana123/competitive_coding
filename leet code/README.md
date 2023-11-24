@@ -262,6 +262,7 @@
 -  [ Maximum Ice Cream Bars ](./Maximum%20Ice%20Cream%20Bars.cpp)
 -  [ Maximum Length of Pair Chain ](./Maximum%20Length%20of%20Pair%20Chain.cpp)
 -  [ Maximum Matrix Sum ](./Maximum%20Matrix%20Sum.cpp)
+-  [ Maximum Number of Coins You Can Get ](./Maximum%20Number%20of%20Coins%20You%20Can%20Get.cpp)
 -  [ Maximum Number of Vowels in a Substring of Given Length ](./Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.cpp)
 -  [ Maximum Product Difference Between Two Pairs ](./Maximum%20Product%20Difference%20Between%20Two%20Pairs.cpp)
 -  [ Maximum Product of Word Lengths ](./Maximum%20Product%20of%20Word%20Lengths.cpp)
@@ -532,4 +533,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 527
+### Total Code Count : 528
