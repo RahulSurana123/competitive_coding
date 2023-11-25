@@ -485,6 +485,7 @@
 -  [ Subarray Sums Divisible by K ](./Subarray%20Sums%20Divisible%20by%20K.cpp)
 -  [ Subsets ](./Subsets.cpp)
 -  [ Subtree of Another Tree ](./Subtree%20of%20Another%20Tree.cpp)
+-  [ Sum of Absolute Differences in a Sorted Array ](./Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.cpp)
 -  [ Sum of Distances in Tree ](./Sum%20of%20Distances%20in%20Tree.cpp)
 -  [ Sum of Even Numbers After Queries ](./Sum%20of%20Even%20Numbers%20After%20Queries.cpp)
 -  [ Sum of Left Leaves ](./Sum%20of%20Left%20Leaves.cpp)
@@ -533,4 +534,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 528
+### Total Code Count : 529
