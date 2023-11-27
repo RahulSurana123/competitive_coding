@@ -210,6 +210,7 @@
 -  [ K-th Symbol in Grammar ](./K-th%20Symbol%20in%20Grammar.cpp)
 -  [ Keys and Rooms ](./Keys%20and%20Rooms.cpp)
 -  [ Kids With the Greatest Number of Candies ](./Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)
+-  [ Knight Dialer ](./Knight%20Dialer.cpp)
 -  [ Koko Eating Bananas ](./Koko%20Eating%20Bananas.cpp)
 -  [ Kth Largest Element in an Array ](./Kth%20Largest%20Element%20in%20an%20Array.cpp)
 -  [ Kth Missing Positive Number ](./Kth%20Missing%20Positive%20Number.cpp)
@@ -534,4 +535,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 529
+### Total Code Count : 530
