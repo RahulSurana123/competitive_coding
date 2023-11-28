@@ -348,6 +348,7 @@
 -  [ Number of Steps to Reduce a Number to Zero ](./Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)
 -  [ Number of Subsequences That Satisfy the Given Sum Condition ](./Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.cpp)
 -  [ Number of Ways to Arrive at Destination ](./Number%20of%20Ways%20to%20Arrive%20at%20Destination.cpp)
+-  [ Number of Ways to Divide a Long Corridor ](./Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor.cpp)
 -  [ Number of Wonderful Substrings ](./Number%20of%20Wonderful%20Substrings.cpp)
 -  [ Number of Zero-Filled Subarrays ](./Number%20of%20Zero-Filled%20Subarrays.cpp)
 -  [ Numbers At Most N Given Digit Set ](./Numbers%20At%20Most%20N%20Given%20Digit%20Set.cpp)
@@ -535,4 +536,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 530
+### Total Code Count : 531
