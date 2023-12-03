@@ -322,6 +322,7 @@
 -  [ Minimum Time to Complete Trips ](./Minimum%20Time%20to%20Complete%20Trips.cpp)
 -  [ Minimum Time to Make Rope Colorful ](./Minimum%20Time%20to%20Make%20Rope%20Colorful.cpp)
 -  [ Minimum Time to Type Word Using Special Typewriter ](./Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.cpp)
+-  [ Minimum Time Visiting All Points ](./Minimum%20Time%20Visiting%20All%20Points.cpp)
 -  [ Minimum Value to Get Positive Step by Step Sum ](./Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)
 -  [ Minimum Window Substring ](./Minimum%20Window%20Substring.cpp)
 -  [ Mirror Reflection ](./Mirror%20Reflection.cpp)
@@ -539,4 +540,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 534
+### Total Code Count : 535
