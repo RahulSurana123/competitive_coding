@@ -218,6 +218,7 @@
 -  [ Kth Missing Positive Number ](./Kth%20Missing%20Positive%20Number.cpp)
 -  [ Kth Smallest Element in a BST ](./Kth%20Smallest%20Element%20in%20a%20BST.cpp)
 -  [ Kth Smallest Number in Multiplication Table ](./Kth%20Smallest%20Number%20in%20Multiplication%20Table.cpp)
+-  [ Largest 3-Same-Digit Number in String ](./Largest%203-Same-Digit%20Number%20in%20String.cpp)
 -  [ Largest Component Size by Common Factor ](./Largest%20Component%20Size%20by%20Common%20Factor.cpp)
 -  [ Largest Divisible Subset ](./Largest%20Divisible%20Subset.cpp)
 -  [ Largest Merge Of Two Strings ](./Largest%20Merge%20Of%20Two%20Strings.cpp)
@@ -540,4 +541,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 535
+### Total Code Count : 536
