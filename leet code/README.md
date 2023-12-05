@@ -91,6 +91,7 @@
 -  [ Count Nodes Equal to Average of Subtree ](./Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.cpp)
 -  [ Count Number of Homogenous Substrings ](./Count%20Number%20of%20Homogenous%20Substrings.cpp)
 -  [ Count Odd Numbers in an Interval Range ](./Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)
+-  [ Count of Matches in Tournament ](./Count%20of%20Matches%20in%20Tournament.cpp)
 -  [ Count Sorted Vowel Strings ](./Count%20Sorted%20Vowel%20Strings.cpp)
 -  [ Count Subarrays With Fixed Bounds ](./Count%20Subarrays%20With%20Fixed%20Bounds.cpp)
 -  [ Count Unreachable Pairs of Nodes in an Undirected Graph ](./Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.cpp)
@@ -541,4 +542,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 536
+### Total Code Count : 537
