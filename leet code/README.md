@@ -75,6 +75,7 @@
 -  [ Construct Binary Tree from Inorder and Postorder Traversal ](./Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.cpp)
 -  [ Construct Binary Tree from Preorder and Inorder Traversal ](./Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp)
 -  [ Construct Quad Tree ](./Construct%20Quad%20Tree.cpp)
+-  [ Construct String from Binary Tree ](./Construct%20String%20from%20Binary%20Tree.cpp)
 -  [ Container With Most Water ](./Container%20With%20Most%20Water.cpp)
 -  [ Contains Duplicate II ](./Contains%20Duplicate%20II.cpp)
 -  [ Contiguous Array ](./Contiguous%20Array.cpp)
@@ -542,4 +543,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 537
+### Total Code Count : 538
