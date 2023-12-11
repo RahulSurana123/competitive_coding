@@ -133,6 +133,7 @@
 -  [ Domino and Tromino Tiling ](./Domino%20and%20Tromino%20Tiling.cpp)
 -  [ Dota2 Senate ](./Dota2%20Senate.cpp)
 -  [ Edit Distance ](./Edit%20Distance.cpp)
+-  [ Element Appearing More Than 25% In Sorted Array ](./Element%20Appearing%20More%20Than%2025%%20In%20Sorted%20Array.cpp)
 -  [ Eliminate Maximum Number of Monsters ](./Eliminate%20Maximum%20Number%20of%20Monsters.cpp)
 -  [ Encode and Decode TinyURL ](./Encode%20and%20Decode%20TinyURL.cpp)
 -  [ Equal Row and Column Pairs ](./Equal%20Row%20and%20Column%20Pairs.cpp)
@@ -514,6 +515,7 @@
 -  [ Top K Frequent Words ](./Top%20K%20Frequent%20Words.cpp)
 -  [ Total Cost to Hire K Workers ](./Total%20Cost%20to%20Hire%20K%20Workers.cpp)
 -  [ Transform to Chessboard ](./Transform%20to%20Chessboard.cpp)
+-  [ Transpose Matrix ](./Transpose%20Matrix.cpp)
 -  [ Trapping Rain Water ](./Trapping%20Rain%20Water.cpp)
 -  [ Triangle ](./Triangle.cpp)
 -  [ Trim a Binary Search Tree ](./Trim%20a%20Binary%20Search%20Tree.cpp)
@@ -544,4 +546,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 539
+### Total Code Count : 541
