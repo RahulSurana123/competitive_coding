@@ -483,6 +483,7 @@
 -  [ Sort List ](./Sort%20List.cpp)
 -  [ Sort Vowels in a String ](./Sort%20Vowels%20in%20a%20String.cpp)
 -  [ Soup Servings ](./Soup%20Servings.cpp)
+-  [ Special Positions in a Binary Matrix ](./Special%20Positions%20in%20a%20Binary%20Matrix.cpp)
 -  [ Spiral Matrix II ](./Spiral%20Matrix%20II.cpp)
 -  [ Spiral Matrix ](./Spiral%20Matrix.cpp)
 -  [ Split Array Largest Sum ](./Split%20Array%20Largest%20Sum.cpp)
@@ -547,4 +548,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 542
+### Total Code Count : 543
