@@ -408,6 +408,7 @@
 -  [ Rectangle Area ](./Rectangle%20Area.cpp)
 -  [ Reducing Dishes ](./Reducing%20Dishes.cpp)
 -  [ Reduction Operations to Make the Array Elements Equal ](./Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal.cpp)
+-  [ Regular Expression Matching ](./Regular%20Expression%20Matching.cpp)
 -  [ Remove All Adjacent Duplicates in String II ](./Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)
 -  [ Remove All Adjacent Duplicates In String ](./Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)
 -  [ Remove Colored Pieces if Both Neighbors are the Same Color ](./Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color.cpp)
@@ -548,4 +549,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 543
+### Total Code Count : 544
