@@ -190,6 +190,7 @@
 -  [ House Robber II ](./House%20Robber%20II.cpp)
 -  [ House Robber III ](./House%20Robber%20III.cpp)
 -  [ House Robber ](./House%20Robber.cpp)
+-  [ Image Smoother ](./Image%20Smoother.cpp)
 -  [ Implement Stack using Queues ](./Implement%20Stack%20using%20Queues.cpp)
 -  [ Implement Trie (Prefix Tree) ](./Implement%20Trie%20(Prefix%20Tree).cpp)
 -  [ Increasing Order Search Tree ](./Increasing%20Order%20Search%20Tree.cpp)
@@ -551,4 +552,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 546
+### Total Code Count : 547
