@@ -44,6 +44,7 @@
 -  [ Build an Array With Stack Operations ](./Build%20an%20Array%20With%20Stack%20Operations.cpp)
 -  [ Build Array Where You Can Find The Maximum Exactly K Comparisons ](./Build%20Array%20Where%20You%20Can%20Find%20The%20Maximum%20Exactly%20K%20Comparisons.cpp)
 -  [ Bulb Switcher ](./Bulb%20Switcher.cpp)
+-  [ Buy Two Chocolates ](./Buy%20Two%20Chocolates.cpp)
 -  [ Calculate Money in Leetcode Bank ](./Calculate%20Money%20in%20Leetcode%20Bank.cpp)
 -  [ Can I Win ](./Can%20I%20Win.cpp)
 -  [ Can Make Arithmetic Progression From Sequence ](./Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)
@@ -552,4 +553,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 547
+### Total Code Count : 548

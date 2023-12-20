@@ -22,7 +22,7 @@ return the image after applying the smoother on each cell of it.
 
 class Solution {
 public:
-d
+
     vector<vector<int>> imageSmoother(vector<vector<int>>& img) {
         int n = img.size(), m = img[0].size();
         vector<vector<int>> t(n,vector<int>(m,0));
