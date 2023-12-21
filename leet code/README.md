@@ -548,9 +548,10 @@
 -  [ Validate Stack Sequences ](./Validate%20Stack%20Sequences.cpp)
 -  [ Verifying an Alien Dictionary ](./Verifying%20an%20Alien%20Dictionary.cpp)
 -  [ Vertical Order Traversal of a Binary Tree ](./Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)
+-  [ Widest Vertical Area Between Two Points Containing No Points ](./Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.cpp)
 -  [ Word Break ](./Word%20Break.cpp)
 -  [ Word Pattern ](./Word%20Pattern.cpp)
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 548
+### Total Code Count : 549
