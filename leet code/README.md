@@ -354,6 +354,7 @@
 -  [ Non-overlapping Intervals ](./Non-overlapping%20Intervals.cpp)
 -  [ Nth Magical Number ](./Nth%20Magical%20Number.cpp)
 -  [ Number of Closed Islands ](./Number%20of%20Closed%20Islands.cpp)
+-  [ Number of Dice Rolls With Target Sum ](./Number%20of%20Dice%20Rolls%20With%20Target%20Sum.cpp)
 -  [ Number of Digit One ](./Number%20of%20Digit%20One.cpp)
 -  [ Number of Enclaves ](./Number%20of%20Enclaves.cpp)
 -  [ Number of Flowers in Full Bloom ](./Number%20of%20Flowers%20in%20Full%20Bloom.cpp)
@@ -557,4 +558,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 552
+### Total Code Count : 553
