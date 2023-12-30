@@ -414,6 +414,7 @@
 -  [ Recover a Tree From Preorder Traversal ](./Recover%20a%20Tree%20From%20Preorder%20Traversal.cpp)
 -  [ Recover Binary Search Tree ](./Recover%20Binary%20Search%20Tree.cpp)
 -  [ Rectangle Area ](./Rectangle%20Area.cpp)
+-  [ Redistribute Characters to Make All Strings Equal ](./Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.cpp)
 -  [ Reducing Dishes ](./Reducing%20Dishes.cpp)
 -  [ Reduction Operations to Make the Array Elements Equal ](./Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal.cpp)
 -  [ Regular Expression Matching ](./Regular%20Expression%20Matching.cpp)
@@ -559,4 +560,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 554
+### Total Code Count : 555
