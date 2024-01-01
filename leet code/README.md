@@ -18,6 +18,7 @@
 -  [ Arithmetic Slices ](./Arithmetic%20Slices.cpp)
 -  [ Arithmetic Subarrays ](./Arithmetic%20Subarrays.cpp)
 -  [ As Far from Land as Possible ](./As%20Far%20from%20Land%20as%20Possible.cpp)
+-  [ Assign Cookies ](./Assign%20Cookies.cpp)
 -  [ Backspace String Compare ](./Backspace%20String%20Compare.cpp)
 -  [ Bag of Tokens ](./Bag%20of%20Tokens.cpp)
 -  [ Balanced Binary Tree ](./Balanced%20Binary%20Tree.cpp)
@@ -560,4 +561,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 555
+### Total Code Count : 556
