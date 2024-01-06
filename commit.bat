@@ -1,6 +1,6 @@
 git add .
 echo " Enter the message : "
-set -p msg
+set -p msg="Enter the message : " 
 
 setlocal
 for /f %%I in ('wmic os get localdatetime /format:list ^| find "="') do set "%%I"
@@ -14,4 +14,4 @@ echo %DD%-%month%-%YYYY%
 git commit -m " updating daily code %DD%-%month% %msg% "
 git push origin main
 echo "Done with the script \n exiting"
-set -p u
+set -p u="wait"
