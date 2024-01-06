@@ -283,6 +283,7 @@
 -  [ Maximum Product of Two Elements in an Array ](./Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.cpp)
 -  [ Maximum Product of Word Lengths ](./Maximum%20Product%20of%20Word%20Lengths.cpp)
 -  [ Maximum Product Subarray ](./Maximum%20Product%20Subarray.cpp)
+-  [ Maximum Profit in Job Scheduling ](./Maximum%20Profit%20in%20Job%20Scheduling.cpp)
 -  [ Maximum Running Time of N Computers ](./Maximum%20Running%20Time%20of%20N%20Computers.cpp)
 -  [ Maximum Score After Splitting a String ](./Maximum%20Score%20After%20Splitting%20a%20String.cpp)
 -  [ Maximum Score from Performing Multiplication Operations ](./Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp)
@@ -513,6 +514,7 @@
 -  [ Subarray Sums Divisible by K ](./Subarray%20Sums%20Divisible%20by%20K.cpp)
 -  [ Subsets ](./Subsets.cpp)
 -  [ Subtree of Another Tree ](./Subtree%20of%20Another%20Tree.cpp)
+-  [ Sudoku Solver ](./Sudoku%20Solver.cpp)
 -  [ Sum of Absolute Differences in a Sorted Array ](./Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.cpp)
 -  [ Sum of Distances in Tree ](./Sum%20of%20Distances%20in%20Tree.cpp)
 -  [ Sum of Even Numbers After Queries ](./Sum%20of%20Even%20Numbers%20After%20Queries.cpp)
@@ -564,4 +566,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 559
+### Total Code Count : 561
