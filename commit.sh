@@ -1,3 +1,4 @@
+#!/bin/sh
 git add .
 read -p "enter the extra message : " msg
 git commit -m " updating daily code `date +\"%d %b\"` $msg "
