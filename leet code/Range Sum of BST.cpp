@@ -29,21 +29,10 @@ return the sum of values of all nodes with a value in the inclusive range [low, 
  */
 class Solution {
 public:
-    
-    int df(TreeNode* root, int low, int high){
-        if(root == NULL) return 0;
-        int ans = (root->val >= low && root->val <= high ? root->val : 0);
-        if(root-> left){
-            ans += df(root->left, low, high);
-        }
-        if(root-> right){
-            ans += df(root->right, low, high);
-        }
-        // cout << root->val << " "<< ans <<"\n";
-        return ans;
-    }
-    
-    int rangeSumBST(TreeNode* root, int low, int high) {
-        return df(root,low,high);
+    int rangeSumBST(TreeNode* &root, int &low, int &high) {
+        if(!root) return 0;
+        return ((root->val > low) ? rangeSumBST(root->left, low, high) : 0) + 
+        ((root->val < high) ? rangeSumBST(root->right, low, high) : 0) + 
+        ((root->val >= low && root->val <= high)? root->val : 0);
     }
 };
