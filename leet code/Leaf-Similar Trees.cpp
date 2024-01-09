@@ -49,7 +49,7 @@ public:
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
         string a = df(root1);
         string b = df(root2);
-        cout << a <<" "<< b<<"\n";
+        // cout << a <<" "<< b<<"\n";
         return a==b;
     }
 };
