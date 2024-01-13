@@ -326,6 +326,7 @@
 -  [ Minimum Number of Arrows to Burst Balloons ](./Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)
 -  [ Minimum Number of Operations to Make Array Continuous ](./Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous.cpp)
 -  [ Minimum Number of Operations to Make Array Empty ](./Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.cpp)
+-  [ Minimum Number of Steps to Make Two Strings Anagram ](./Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.cpp)
 -  [ Minimum Number of Vertices to Reach All Nodes ](./Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.cpp)
 -  [ Minimum One Bit Operations to Make Integers Zero ](./Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.cpp)
 -  [ Minimum Operations to Reduce X to Zero ](./Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.cpp)
@@ -568,4 +569,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 563
+### Total Code Count : 564
