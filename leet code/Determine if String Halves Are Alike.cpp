@@ -25,18 +25,14 @@ using namespace std;
 
 class Solution {
 public:
-    
-    set<char> st;
-    
+
+    bool isV(char x){
+        return (x == 'a' || x=='e' || x=='i' || x=='o' || x=='u' ||x == 'A' || x=='E' || x=='I' || x=='O' || x=='U');
+    }
+
     bool halvesAreAlike(string s) {
-        
-        int a = 0, b = 0;
-        st.insert('a');st.insert('e');st.insert('i');st.insert('o');st.insert('u');
-        st.insert('A');st.insert('E');st.insert('I');st.insert('O');st.insert('U');
-        for(int i = 0; i < s.length()/2; i++){
-            a += st.count(s[i]);
-            b += st.count(s[s.length()-1-i]);
-        }
-        return a==b;
+        int i = 0, j = s.length()-1, ans = 0;
+        while(i<j) ans += (isV(s[i++]) - isV(s[j--]));
+        return ans == 0;
     }
 };
