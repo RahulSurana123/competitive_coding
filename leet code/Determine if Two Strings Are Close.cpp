@@ -27,23 +27,15 @@ Given two strings, word1 and word2, return true if word1 and word2 are close, an
 
 class Solution {
 public:
-    
-    
-    
     bool closeStrings(string word1, string word2) {
-        int f[26],q[26];
-        memset(f,0,sizeof(f));
-        memset(q,0,sizeof(q));
-        set<char> st;
-        for(auto x: word1) { f[x-'a']++; st.insert(x); }
-        for(auto x: word2) { q[x-'a']++; if(!st.count(x)) return false; }
-        sort(f,f+26,[&](auto a,auto b){return a>b;});
-        sort(q,q+26,[&](auto a,auto b){return a>b;});
-        for(int i = 0; i < 26; i++){
-             // cout << f[i] <<" "<< q[i]<<"\n";
-            if(f[i] != q[i]) { return false; }
-           
-        }
+        if(word1.length() != word2.length()) return false;
+        int f[26] = { 0 }, g[26] = {0};
+        for(auto x: word1) f[x-'a']++;
+        for(auto x: word2) g[x-'a']++;
+        for(int i = 0; i < 26; i++) if(f[i] > 0 && g[i] == 0) return false;
+        sort(f,f+26);
+        sort(g,g+26);
+        for(int i = 0; i < 26; i++) if(f[i] != g[i]) return false;
         return true;
     }
 };
