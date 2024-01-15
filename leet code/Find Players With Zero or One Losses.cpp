@@ -30,20 +30,13 @@ The testcases will be generated such that no two matches will have the same outc
 
 class Solution {
 public:
-    
-    map<int,int> p;
-    map<int,int> l;
-    
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
-        for(auto x: matches){
-            p[x[1]]++;
-            p[x[0]]++;
-            l[x[1]]++;
-        }
-        vector<vector<int>> ans(2,vector<int>());
-        for(auto m:p){
-            if(l[m.first]==1) ans[1].push_back(m.first);
-            else if(l[m.first]==0) ans[0].push_back(m.first);
+        map<int,int> l;
+        for(auto &x : matches){ if(!l.count(x[0])) l[x[0]] = 0; l[x[1]]++;  }
+        vector<vector<int>> ans(2);
+        for(auto &x: l){
+            // cout << x.first <<" "<<x.second<<"\n";
+            if(x.second < 2) ans[x.second].push_back(x.first);
         }
         return ans;
     }
