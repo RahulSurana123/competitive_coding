@@ -472,6 +472,7 @@
 -  [ Search Insert Position ](./Search%20Insert%20Position.cpp)
 -  [ Seat Reservation Manager ](./Seat%20Reservation%20Manager.cpp)
 -  [ Sequential Digits ](./Sequential%20Digits.cpp)
+-  [ Set Mismatch ](./Set%20Mismatch.cpp)
 -  [ Shift 2D Grid ](./Shift%202D%20Grid.cpp)
 -  [ Shortest Path in Binary Matrix ](./Shortest%20Path%20in%20Binary%20Matrix.cpp)
 -  [ Shortest Path with Alternating Colors ](./Shortest%20Path%20with%20Alternating%20Colors.cpp)
@@ -570,4 +571,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 565
+### Total Code Count : 566
