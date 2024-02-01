@@ -137,6 +137,7 @@
 -  [ Difference Between Ones and Zeros in Row and Column ](./Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column.cpp)
 -  [ Distinct Subsequences ](./Distinct%20Subsequences.cpp)
 -  [ Distribute Coins in Binary Tree ](./Distribute%20Coins%20in%20Binary%20Tree.cpp)
+-  [ Divide Array Into Arrays With Max Difference ](./Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.cpp)
 -  [ Divide Two Integers ](./Divide%20Two%20Integers.cpp)
 -  [ Domino and Tromino Tiling ](./Domino%20and%20Tromino%20Tiling.cpp)
 -  [ Dota2 Senate ](./Dota2%20Senate.cpp)
@@ -572,4 +573,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 567
+### Total Code Count : 568
