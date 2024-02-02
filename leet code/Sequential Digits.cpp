@@ -15,7 +15,27 @@ Return a sorted list of all the integers in the range [low, high] inclusive that
     ***********************************************************
 */
 
+/* 
 
+Easy Solution
+
+class Solution {
+public:
+    vector<int> sequentialDigits(int low, int high) {
+        vector<int> ans;
+        string s = "123456789";
+        int st = log10(low), en = log10(high)+1;
+        for(int i = st; i < en; i++){
+            for(int j = 0; j < 9-i; j++){
+                int z = stoi(s.substr(j,i+1));
+                if(z >= low && z <= high) ans.push_back(z);
+            }
+        }
+        return ans;
+    }
+};
+
+*/
 
 #include <bits/stdc++.h>
 
