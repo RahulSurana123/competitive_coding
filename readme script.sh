@@ -74,4 +74,10 @@ echo "Readme Generated for Google kickstart folder"
 
 cd ..
 
+python "../Meta Puzzles"
+
+echo "Readme Generated for Meta Puzzle folder"
+
+cd ..
+
 echo "Done with Readme Generation"
