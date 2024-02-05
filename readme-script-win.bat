@@ -72,9 +72,9 @@ python "../readme Generation for folders.py"
 
 echo "Readme Generated for Google kickstart folder"
 
-cd ..
+cd "../Meta Puzzles"
 
-python "../Meta Puzzles"
+python "../readme Generation for folders.py"
 
 echo "Readme Generated for Meta Puzzle folder"
 
