@@ -41,40 +41,53 @@ Each test case's parameters will be formulated such that the correct answer for 
 #include <bits/stdc++.h>
 using namespace std;
 
-long long getSecondsElapsed(long long C, int N, vector<long long> A, vector<long long> B, long long K) {
-  vector<int> idx(N,0);
-  
-  std::iota(idx.begin(),idx.end(), 0);
-  sort(idx.begin(),idx.end(), [&](auto a, auto b){ return A[a] < A[b]; });
-  
-  long long s = 0, ans = 0;
-  for(int i = 0; i < N; i++) s+= (B[i] - A[i]);
-  
-  if(K%s == 0) {
-    ans = C * ((K/s)-1); 
-    K = s ;
-  }
-  else {
-    ans = C * ((K/s)); 
-    K -= (s * (K/s));
-  }
-  
-  if(s >= K){\
-      for(int i = 0; i < N; i++) { 
-        if((K-B[idx[i]]+A[idx[i]]) > 0) K -= (B[idx[i]]-A[idx[i]]); 
-        else return ans + A[idx[i]] + K; 
+double df(int i, int j,int &N, vector<int> &H, vector<int> &D, double cm){
+  double cd = 0;
+  int cj = 0;
+  for(int k = 0; k < N; k++){
+      if(k == i || k == j) continue;
+      double h1 = H[i], d1 = D[i], h2 = H[j], d2 = D[j], h3 = H[k], d3 = D[k];
+      double d = max(h1*d1 + h1*d3 + d3*h3, h1*d1 + h3*d1 + d3*h3);
+      double dd = max(h2*d2 + h2*d3 + d3*h3, h2*d2 + h3*d2 + d3*h3);
+      if( cm < d ){
+          return df(i,k,N,H,D,d);
+      }
+      else if(cm < dd){
+        return df(k,j,N,H,D,dd);
       }
   }
+  return cm; 
+}
+
+
+double getMaxDamageDealt(int N, vector<int> H, vector<int> D, int B) {
+  /*vector<int> idx(N,0);
+  std::iota(idx.begin(),idx.end(), 0);
+  sort(idx.begin(),idx.end(), [&](auto a, auto b){ return H[a] < H[b]; });
   
-  return ans; 
+  // sort(id.begin(),id.end(), [&](auto a, auto b){ return D[a] < D[b]; });
+  
+  double ans = 0.0;
+  for(int i = N-1; i > max(N-3,0); i--){
+    double t = H[idx[i]] / (double)B;
+    double a = t*D[idx[i]];
+    for(int j = 0; j < N; j++){
+      if(i!=j){
+        ans = max(ans, a + ((t+(H[idx[j]]/(double)B))* D[idx[j]]));
+        // cout << i <<" "<< j <<" "<<a<<" "<<ans <<"\n";
+      }
+    }
+  }*/
+  
+  return df(0,1,N,H,D,0)/B;
 }
 
 int main()
 {
     // fast_io;
     long long N, C, K;
-    cin >> C >> N >> K;  // ll int result = gcd(865480988334076944, 181153058753871872);
-    vector<long long> A(N),B(N);
+    cin >> N >> K;  // ll int result = gcd(865480988334076944, 181153058753871872);
+    vector<int> A(N),B(N);
       // cout << yo <<"\n";
       // cout << fastexpo(18,6)<<"\n";
 
@@ -88,5 +101,5 @@ int main()
       //     adj[b].pb(a);
       // }
       // dfs(0,-1);
-      cout << getSecondsElapsed(C,N,A,B,K)<<"\n";
+      cout << getMaxDamageDealt(N,A,B,K)<<"\n";
 }
