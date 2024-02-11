@@ -62,3 +62,36 @@ public:
         return ans;
     }
 };
+
+/*
+class Solution {
+public:
+
+    vector<vector<vector<int>>> dp;
+
+    int df(int i, int r1, int r2,vector<vector<int>>& grid){
+        if(i >= grid.size()) return 0;
+        if(r1 < 0 || r2 > grid[0].size()-1) return -1;
+        if(r2 <= r1) return -1e9;
+        if(dp[i][r1][r2] != -1) return dp[i][r1][r2];
+        int ans = 0;
+        ans = max(ans, df(i+1,r1-1,r2-1,grid));
+        ans = max(ans, df(i+1,r1-1,r2,grid));
+        ans = max(ans, df(i+1,r1-1,r2+1,grid));
+        ans = max(ans, df(i+1,r1,r2-1,grid));
+        ans = max(ans, df(i+1,r1,r2,grid));
+        ans = max(ans, df(i+1,r1,r2+1,grid));
+        ans = max(ans, df(i+1,r1+1,r2-1,grid));
+        ans = max(ans, df(i+1,r1+1,r2,grid));
+        ans = max(ans, df(i+1,r1+1,r2+1,grid));
+        return dp[i][r1][r2] = ans + grid[i][r1] + grid[i][r2];
+    }
+
+    int cherryPickup(vector<vector<int>>& grid) {
+        int n = grid.size(), m = grid[0].size();
+        dp.resize(n,vector<vector<int>>(m,vector<int>(m,-1)));
+        return df(0,0,m-1,grid);
+
+    }
+};
+*/
