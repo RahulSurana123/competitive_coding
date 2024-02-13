@@ -159,6 +159,7 @@
 -  [ Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree ](./Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree.cpp)
 -  [ Find Duplicate Subtrees ](./Find%20Duplicate%20Subtrees.cpp)
 -  [ Find First and Last Position of Element in Sorted Array ](./Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)
+-  [ Find First Palindromic String in the Array ](./Find%20First%20Palindromic%20String%20in%20the%20Array.cpp)
 -  [ Find if Path Exists in Graph ](./Find%20if%20Path%20Exists%20in%20Graph.cpp)
 -  [ Find in Mountain Array ](./Find%20in%20Mountain%20Array.cpp)
 -  [ Find K Closest Elements ](./Find%20K%20Closest%20Elements.cpp)
@@ -575,4 +576,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 570
+### Total Code Count : 571
