@@ -245,11 +245,13 @@
 -  [ Largest Plus Sign ](./Largest%20Plus%20Sign.cpp)
 -  [ Last Stone Weight ](./Last%20Stone%20Weight.cpp)
 -  [ Leaf-Similar Trees ](./Leaf-Similar%20Trees.cpp)
+-  [ Least Number of Unique Integers after K Removals. ](./Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.java)
 -  [ Length of Last Word ](./Length%20of%20Last%20Word.cpp)
 -  [ Letter Combinations of a Phone Number ](./Letter%20Combinations%20of%20a%20Phone%20Number.cpp)
 -  [ Linked List Cycle II ](./Linked%20List%20Cycle%20II.cpp)
 -  [ Linked List Cycle ](./Linked%20List%20Cycle.cpp)
 -  [ Linked List Random Node ](./Linked%20List%20Random%20Node.cpp)
+-  [ Logical OR of Two Binary Grids Represented as Quad-Trees. ](./Logical%20OR%20of%20Two%20Binary%20Grids%20Represented%20as%20Quad-Trees.java)
 -  [ Longest Arithmetic Subsequence of Given Difference ](./Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.cpp)
 -  [ Longest Common Prefix ](./Longest%20Common%20Prefix.cpp)
 -  [ Longest Common Subsequence ](./Longest%20Common%20Subsequence.cpp)
@@ -578,4 +580,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 573
+### Total Code Count : 575
