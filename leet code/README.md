@@ -467,6 +467,7 @@
 -  [ Robot Bounded In Circle ](./Robot%20Bounded%20In%20Circle.cpp)
 -  [ Roman to Integer ](./Roman%20to%20Integer.cpp)
 -  [ Rotate Array ](./Rotate%20Array.cpp)
+-  [ Rotate Function. ](./Rotate%20Function.java)
 -  [ Rotate Image ](./Rotate%20Image.cpp)
 -  [ Rotate List ](./Rotate%20List.cpp)
 -  [ Rotting Oranges ](./Rotting%20Oranges.cpp)
@@ -580,4 +581,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 575
+### Total Code Count : 576
