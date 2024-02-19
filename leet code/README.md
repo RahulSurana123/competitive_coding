@@ -436,6 +436,7 @@
 -  [ Redistribute Characters to Make All Strings Equal ](./Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.cpp)
 -  [ Reducing Dishes ](./Reducing%20Dishes.cpp)
 -  [ Reduction Operations to Make the Array Elements Equal ](./Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal.cpp)
+-  [ Redundant Connection. ](./Redundant%20Connection.java)
 -  [ Regular Expression Matching ](./Regular%20Expression%20Matching.cpp)
 -  [ Remove All Adjacent Duplicates in String II ](./Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)
 -  [ Remove All Adjacent Duplicates In String ](./Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)
@@ -582,4 +583,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 577
+### Total Code Count : 578
