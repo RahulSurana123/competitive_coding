@@ -339,6 +339,7 @@
 -  [ Minimum Number of Operations to Make Array Empty ](./Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.cpp)
 -  [ Minimum Number of Steps to Make Two Strings Anagram ](./Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.cpp)
 -  [ Minimum Number of Vertices to Reach All Nodes ](./Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.cpp)
+-  [ Minimum Obstacle Removal to Reach Corner. ](./Minimum%20Obstacle%20Removal%20to%20Reach%20Corner.java)
 -  [ Minimum One Bit Operations to Make Integers Zero ](./Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.cpp)
 -  [ Minimum Operations to Reduce X to Zero ](./Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.cpp)
 -  [ Minimum Path Sum ](./Minimum%20Path%20Sum.cpp)
@@ -585,4 +586,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 580
+### Total Code Count : 581
