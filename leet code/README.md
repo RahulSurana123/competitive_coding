@@ -300,6 +300,7 @@
 -  [ Maximum Score After Splitting a String ](./Maximum%20Score%20After%20Splitting%20a%20String.cpp)
 -  [ Maximum Score from Performing Multiplication Operations ](./Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp)
 -  [ Maximum Score of a Good Subarray ](./Maximum%20Score%20of%20a%20Good%20Subarray.cpp)
+-  [ Maximum Star Sum of a Graph ](./Maximum%20Star%20Sum%20of%20a%20Graph.cpp)
 -  [ Maximum Subarray Min-Product ](./Maximum%20Subarray%20Min-Product.cpp)
 -  [ Maximum Subarray ](./Maximum%20Subarray.cpp)
 -  [ Maximum Subsequence Score ](./Maximum%20Subsequence%20Score.cpp)
@@ -587,4 +588,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 582
+### Total Code Count : 583
