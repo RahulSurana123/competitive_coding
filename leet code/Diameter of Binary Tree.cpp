@@ -34,13 +34,12 @@ The length of a path between two nodes is represented by the number of edges bet
  */
 class Solution {
 public:
-    // int ans = 0;
+    
     int len(TreeNode* root, int &ans){
         if(root == NULL) return 0;
         // if(root->left == NULL && root->right == NULL) return 1;
         int l = len(root->left,ans);
-        int r = len(root->right,ans);
-        // cout << root->val << " "<< l <<" "<< r <<"\n";
+        int r = len(root->right,ans);        
         ans = max(ans,l+r);
         return max(l+1,r+1);
     }
