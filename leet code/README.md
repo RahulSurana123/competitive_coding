@@ -293,6 +293,7 @@
 -  [ Maximum Matrix Sum ](./Maximum%20Matrix%20Sum.cpp)
 -  [ Maximum Number of Coins You Can Get ](./Maximum%20Number%20of%20Coins%20You%20Can%20Get.cpp)
 -  [ Maximum Number of Vowels in a Substring of Given Length ](./Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.cpp)
+-  [ Maximum Odd Binary Number. ](./Maximum%20Odd%20Binary%20Number.java)
 -  [ Maximum Product Difference Between Two Pairs ](./Maximum%20Product%20Difference%20Between%20Two%20Pairs.cpp)
 -  [ Maximum Product of Two Elements in an Array ](./Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.cpp)
 -  [ Maximum Product of Word Lengths ](./Maximum%20Product%20of%20Word%20Lengths.cpp)
@@ -590,4 +591,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 585
+### Total Code Count : 586
