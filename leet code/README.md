@@ -24,6 +24,7 @@
 -  [ Assign Cookies ](./Assign%20Cookies.cpp)
 -  [ Backspace String Compare ](./Backspace%20String%20Compare.cpp)
 -  [ Bag of Tokens ](./Bag%20of%20Tokens.cpp)
+-  [ Bag of Tokens. ](./Bag%20of%20Tokens.java)
 -  [ Balanced Binary Tree ](./Balanced%20Binary%20Tree.cpp)
 -  [ Baseball Game ](./Baseball%20Game.cpp)
 -  [ Beautiful Arrangement ](./Beautiful%20Arrangement.cpp)
@@ -317,6 +318,7 @@
 -  [ Merge k Sorted Lists ](./Merge%20k%20Sorted%20Lists.cpp)
 -  [ Merge Strings Alternately ](./Merge%20Strings%20Alternately.cpp)
 -  [ Merge Two Sorted Lists ](./Merge%20Two%20Sorted%20Lists.cpp)
+-  [ Middle of the Linked List ](./Middle%20of%20the%20Linked%20List.cpp)
 -  [ Min Cost Climbing Stairs ](./Min%20Cost%20Climbing%20Stairs.cpp)
 -  [ Min Cost to Connect All Points ](./Min%20Cost%20to%20Connect%20All%20Points.cpp)
 -  [ Min Stack ](./Min%20Stack.cpp)
@@ -591,4 +593,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 586
+### Total Code Count : 588
