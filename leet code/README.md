@@ -95,6 +95,7 @@
 -  [ Count All Valid Pickup and Delivery Options ](./Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp)
 -  [ Count and Say ](./Count%20and%20Say.cpp)
 -  [ Count Complete Tree Nodes ](./Count%20Complete%20Tree%20Nodes.cpp)
+-  [ Count Elements With Maximum Frequency ](./Count%20Elements%20With%20Maximum%20Frequency.cpp)
 -  [ Count Negative Numbers in a Sorted Matrix ](./Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)
 -  [ Count Nice Pairs in an Array ](./Count%20Nice%20Pairs%20in%20an%20Array.cpp)
 -  [ Count Nodes Equal to Average of Subtree ](./Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.cpp)
@@ -593,4 +594,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 588
+### Total Code Count : 589
