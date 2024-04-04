@@ -293,6 +293,7 @@
 -  [ Maximum Ice Cream Bars ](./Maximum%20Ice%20Cream%20Bars.cpp)
 -  [ Maximum Length of Pair Chain ](./Maximum%20Length%20of%20Pair%20Chain.cpp)
 -  [ Maximum Matrix Sum ](./Maximum%20Matrix%20Sum.cpp)
+-  [ Maximum Nesting Depth of the Parentheses ](./Maximum%20Nesting%20Depth%20of%20the%20Parentheses.cpp)
 -  [ Maximum Number of Coins You Can Get ](./Maximum%20Number%20of%20Coins%20You%20Can%20Get.cpp)
 -  [ Maximum Number of Vowels in a Substring of Given Length ](./Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.cpp)
 -  [ Maximum Odd Binary Number. ](./Maximum%20Odd%20Binary%20Number.java)
@@ -594,4 +595,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 589
+### Total Code Count : 590
