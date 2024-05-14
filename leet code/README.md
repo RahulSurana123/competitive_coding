@@ -423,6 +423,7 @@
 -  [ Path Sum II ](./Path%20Sum%20II.cpp)
 -  [ Path Sum III ](./Path%20Sum%20III.cpp)
 -  [ Path Sum ](./Path%20Sum.cpp)
+-  [ Path with Maximum Gold ](./Path%20with%20Maximum%20Gold.cpp)
 -  [ Path With Minimum Effort ](./Path%20With%20Minimum%20Effort.cpp)
 -  [ Peak Index in a Mountain Array ](./Peak%20Index%20in%20a%20Mountain%20Array.cpp)
 -  [ Peeking Iterator ](./Peeking%20Iterator.cpp)
@@ -599,4 +600,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 594
+### Total Code Count : 595
