@@ -184,6 +184,7 @@
 -  [ Find the Index of the First Occurrence in a String ](./Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp)
 -  [ Find the Longest Valid Obstacle Course at Each Position ](./Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position.cpp)
 -  [ Find The Original Array of Prefix Xor ](./Find%20The%20Original%20Array%20of%20Prefix%20Xor.cpp)
+-  [ Find the Safest Path in a Grid ](./Find%20the%20Safest%20Path%20in%20a%20Grid.cpp)
 -  [ Find the Town Judge ](./Find%20the%20Town%20Judge.cpp)
 -  [ Find the Town Judge. ](./Find%20the%20Town%20Judge.java)
 -  [ Find the Winner of an Array Game ](./Find%20the%20Winner%20of%20an%20Array%20Game.cpp)
@@ -600,4 +601,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 595
+### Total Code Count : 596
