@@ -150,6 +150,7 @@
 -  [ Eliminate Maximum Number of Monsters ](./Eliminate%20Maximum%20Number%20of%20Monsters.cpp)
 -  [ Encode and Decode TinyURL ](./Encode%20and%20Decode%20TinyURL.cpp)
 -  [ Equal Row and Column Pairs ](./Equal%20Row%20and%20Column%20Pairs.cpp)
+-  [ Evaluate Boolean Binary Tree ](./Evaluate%20Boolean%20Binary%20Tree.cpp)
 -  [ Evaluate Division ](./Evaluate%20Division.cpp)
 -  [ Evaluate Reverse Polish Notation ](./Evaluate%20Reverse%20Polish%20Notation.cpp)
 -  [ Even Odd Tree. ](./Even%20Odd%20Tree.java)
@@ -601,4 +602,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 596
+### Total Code Count : 597
