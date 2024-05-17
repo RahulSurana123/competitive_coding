@@ -238,6 +238,7 @@
 -  [ Jump Game ](./Jump%20Game.cpp)
 -  [ K Radius Subarray Averages ](./K%20Radius%20Subarray%20Averages.cpp)
 -  [ K-diff Pairs in an Array ](./K-diff%20Pairs%20in%20an%20Array.cpp)
+-  [ K-th Smallest Prime Fraction ](./K-th%20Smallest%20Prime%20Fraction.cpp)
 -  [ K-th Symbol in Grammar ](./K-th%20Symbol%20in%20Grammar.cpp)
 -  [ Keys and Rooms ](./Keys%20and%20Rooms.cpp)
 -  [ Kids With the Greatest Number of Candies ](./Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)
@@ -602,4 +603,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 597
+### Total Code Count : 598
