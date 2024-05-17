@@ -120,6 +120,7 @@
 -  [ Deepest Leaves Sum ](./Deepest%20Leaves%20Sum.cpp)
 -  [ Delete and Earn ](./Delete%20and%20Earn.cpp)
 -  [ Delete Columns to Make Sorted ](./Delete%20Columns%20to%20Make%20Sorted.cpp)
+-  [ Delete Leaves With a Given Value ](./Delete%20Leaves%20With%20a%20Given%20Value.cpp)
 -  [ Delete Node in a BST ](./Delete%20Node%20in%20a%20BST.cpp)
 -  [ Delete Node in a Linked List ](./Delete%20Node%20in%20a%20Linked%20List.cpp)
 -  [ Design Add and Search Words Data Structure ](./Design%20Add%20and%20Search%20Words%20Data%20Structure.cpp)
@@ -603,4 +604,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 598
+### Total Code Count : 599
