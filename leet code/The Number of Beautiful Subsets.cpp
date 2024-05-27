@@ -16,7 +16,7 @@ A subset of nums is an array that can be obtained by deleting some (possibly non
 Two subsets are different if and only if the chosen indices to delete are different.
 
 
-    **********************The Number of Beautiful Subsets*************************************
+    ***********************************************************
 */
 
 
