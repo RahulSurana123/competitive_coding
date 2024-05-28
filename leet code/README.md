@@ -202,6 +202,7 @@
 -  [ Furthest Point From Origin ](./Furthest%20Point%20From%20Origin.cpp)
 -  [ Game of Life ](./Game%20of%20Life.cpp)
 -  [ Gas Station ](./Gas%20Station.cpp)
+-  [ Get Equal Substrings Within Budget ](./Get%20Equal%20Substrings%20Within%20Budget.cpp)
 -  [ Gray Code ](./Gray%20Code.cpp)
 -  [ Greatest Common Divisor of Strings ](./Greatest%20Common%20Divisor%20of%20Strings.cpp)
 -  [ Group Anagrams ](./Group%20Anagrams.cpp)
@@ -607,4 +608,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 602
+### Total Code Count : 603
