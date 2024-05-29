@@ -400,6 +400,7 @@
 -  [ Number of Nodes in the Sub-Tree With the Same Label ](./Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.cpp)
 -  [ Number of Operations to Make Network Connected ](./Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp)
 -  [ Number of Provinces ](./Number%20of%20Provinces.cpp)
+-  [ Number of Steps to Reduce a Number in Binary Representation to One ](./Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One.cpp)
 -  [ Number of Steps to Reduce a Number to Zero ](./Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)
 -  [ Number of Subsequences That Satisfy the Given Sum Condition ](./Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.cpp)
 -  [ Number of Ways to Arrive at Destination ](./Number%20of%20Ways%20to%20Arrive%20at%20Destination.cpp)
@@ -608,4 +609,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 603
+### Total Code Count : 604
