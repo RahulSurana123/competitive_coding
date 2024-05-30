@@ -104,6 +104,7 @@
 -  [ Count of Matches in Tournament ](./Count%20of%20Matches%20in%20Tournament.cpp)
 -  [ Count Sorted Vowel Strings ](./Count%20Sorted%20Vowel%20Strings.cpp)
 -  [ Count Subarrays With Fixed Bounds ](./Count%20Subarrays%20With%20Fixed%20Bounds.cpp)
+-  [ Count Triplets That Can Form Two Arrays of Equal XOR ](./Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR.cpp)
 -  [ Count Unreachable Pairs of Nodes in an Undirected Graph ](./Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.cpp)
 -  [ Count Ways To Build Good Strings ](./Count%20Ways%20To%20Build%20Good%20Strings.cpp)
 -  [ Counting Bits ](./Counting%20Bits.cpp)
@@ -609,4 +610,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 604
+### Total Code Count : 605
