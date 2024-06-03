@@ -17,6 +17,7 @@
 -  [ All Paths From Source to Target. ](./All%20Paths%20From%20Source%20to%20Target.java)
 -  [ All Possible Full Binary Trees ](./All%20Possible%20Full%20Binary%20Trees.cpp)
 -  [ Amount of Time for Binary Tree to Be Infected ](./Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.cpp)
+-  [ Append Characters to String to Make Subsequence ](./Append%20Characters%20to%20String%20to%20Make%20Subsequence.cpp)
 -  [ Arithmetic Slices II - Subsequence ](./Arithmetic%20Slices%20II%20-%20Subsequence.cpp)
 -  [ Arithmetic Slices ](./Arithmetic%20Slices.cpp)
 -  [ Arithmetic Subarrays ](./Arithmetic%20Subarrays.cpp)
@@ -610,4 +611,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 605
+### Total Code Count : 606
