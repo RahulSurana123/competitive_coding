@@ -212,6 +212,7 @@
 -  [ Guess Number Higher or Lower II ](./Guess%20Number%20Higher%20or%20Lower%20II.cpp)
 -  [ Guess Number Higher or Lower ](./Guess%20Number%20Higher%20or%20Lower.cpp)
 -  [ Hamming Distance ](./Hamming%20Distance.cpp)
+-  [ Height Checker ](./Height%20Checker.cpp)
 -  [ House Robber II ](./House%20Robber%20II.cpp)
 -  [ House Robber III ](./House%20Robber%20III.cpp)
 -  [ House Robber ](./House%20Robber.cpp)
@@ -611,4 +612,4 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Zigzag Conversion ](./Zigzag%20Conversion.cpp)
 
-### Total Code Count : 606
+### Total Code Count : 607
