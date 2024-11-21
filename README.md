@@ -9,19 +9,19 @@
 ***
 | Platform  |  Problem Count |
 | --------  |  ------------- |
-|    [ code monk ](./code%20monk)     |      26    |
 |    [ CodeChef ](./CodeChef)     |      77    |
-|    [ CodeForces ](./CodeForces)     |      60    |
-|    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      8    |
-|    [ Geek for Geek ](./Geek%20for%20Geek)     |      72    |
-|    [ Google Contest Problems ](./Google%20Contest%20Problems)     |      8    |
-|    [ hackerearth ](./hackerearth)     |      27    |
-|    [ hackerrank ](./hackerrank)     |      3    |
-|    [ Hiring ](./Hiring)     |      70    |
-|    [ leet code ](./leet%20code)     |      607    |
-|    [ Meta Puzzles ](./Meta%20Puzzles)     |      4    |
-|    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      7    |
-|    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
+|    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
+|    [ hackerearth ](./hackerearth)     |      27    |
+|    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      8    |
+|    [ hackerrank ](./hackerrank)     |      3    |
+|    [ Google Contest Problems ](./Google%20Contest%20Problems)     |      8    |
+|    [ leet code ](./leet%20code)     |      609    |
+|    [ code monk ](./code%20monk)     |      26    |
+|    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      7    |
+|    [ Hiring ](./Hiring)     |      70    |
+|    [ Meta Puzzles ](./Meta%20Puzzles)     |      4    |
+|    [ Geek for Geek ](./Geek%20for%20Geek)     |      72    |
+|    [ CodeForces ](./CodeForces)     |      60    |
 
-### Total Code Count : 1014
+### Total Code Count : 1016
