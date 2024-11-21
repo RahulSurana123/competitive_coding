@@ -10,7 +10,7 @@ set "DD=%localdatetime:~6,2%"
 for /f "tokens=%MM%" %%I in ("JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC") do set "month=%%I"
 
 echo %DD%-%month%-%YYYY%
-
+sh readme-script-win.bat
 git commit -m " updating daily code %DD%-%month% %msg% "
 git push origin main
 echo "Done with the script \n exiting"
