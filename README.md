@@ -9,19 +9,19 @@
 ***
 | Platform  |  Problem Count |
 | --------  |  ------------- |
-|    [ CodeChef ](./CodeChef)     |      77    |
-|    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
+|    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      7    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ hackerearth ](./hackerearth)     |      27    |
-|    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      8    |
-|    [ hackerrank ](./hackerrank)     |      3    |
-|    [ Google Contest Problems ](./Google%20Contest%20Problems)     |      8    |
-|    [ leet code ](./leet%20code)     |      609    |
-|    [ code monk ](./code%20monk)     |      26    |
-|    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      7    |
+|    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
 |    [ Hiring ](./Hiring)     |      70    |
+|    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Meta Puzzles ](./Meta%20Puzzles)     |      4    |
-|    [ Geek for Geek ](./Geek%20for%20Geek)     |      72    |
+|    [ code monk ](./code%20monk)     |      26    |
+|    [ Google Contest Problems ](./Google%20Contest%20Problems)     |      8    |
 |    [ CodeForces ](./CodeForces)     |      60    |
+|    [ leet code ](./leet%20code)     |      616    |
+|    [ CodeChef ](./CodeChef)     |      77    |
+|    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      8    |
+|    [ Geek for Geek ](./Geek%20for%20Geek)     |      72    |
 
-### Total Code Count : 1016
+### Total Code Count : 1023
