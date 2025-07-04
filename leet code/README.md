@@ -545,6 +545,7 @@
 -  [ Minimum Distance Between BST Nodes ](./Minimum%20Distance%20Between%20BST%20Nodes.cpp)
 -  [ Transform to Chessboard ](./Transform%20to%20Chessboard.cpp)
 -  [ Search Insert Position ](./Search%20Insert%20Position.cpp)
+-  [ Total Characters in String After Transformations  ](./Total%20Characters%20in%20String%20After%20Transformations%20I.rs)
 -  [ Time Needed to Inform All Employees ](./Time%20Needed%20to%20Inform%20All%20Employees.cpp)
 -  [ Largest Local Values in a Matrix ](./Largest%20Local%20Values%20in%20a%20Matrix.cpp)
 -  [ Simplify Path ](./Simplify%20Path.cpp)
@@ -625,4 +626,4 @@
 -  [ String to Integer (atoi) ](./String%20to%20Integer%20(atoi).cpp)
 -  [ Leaf-Similar Trees ](./Leaf-Similar%20Trees.cpp)
 
-### Total Code Count : 620
+### Total Code Count : 621
