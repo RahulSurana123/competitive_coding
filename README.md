@@ -11,7 +11,7 @@
 | --------  |  ------------- |
 |    [ hackerearth ](./hackerearth)     |      27    |
 |    [ CodeForces ](./CodeForces)     |      60    |
-|    [ leet code ](./leet%20code)     |      621    |
+|    [ leet code ](./leet%20code)     |      622    |
 |    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      8    |
 |    [ CodeChef ](./CodeChef)     |      77    |
 |    [ Meta Puzzles ](./Meta%20Puzzles)     |      4    |
@@ -24,4 +24,4 @@
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ code monk ](./code%20monk)     |      26    |
 
-### Total Code Count : 1028
+### Total Code Count : 1029

@@ -338,6 +338,7 @@
 -  [ Bag of Tokens ](./Bag%20of%20Tokens.cpp)
 -  [ Slowest Key ](./Slowest%20Key.cpp)
 -  [ Maximum Star Sum of a Graph ](./Maximum%20Star%20Sum%20of%20a%20Graph.cpp)
+-  [ Find the K-th Character in String Game II ](./Find%20the%20K-th%20Character%20in%20String%20Game%20II.cpp)
 -  [ Numbers At Most N Given Digit Set ](./Numbers%20At%20Most%20N%20Given%20Digit%20Set.cpp)
 -  [ Count Subarrays With Fixed Bounds ](./Count%20Subarrays%20With%20Fixed%20Bounds.cpp)
 -  [ 4Sum II ](./4Sum%20II.cpp)
@@ -626,4 +627,4 @@
 -  [ String to Integer (atoi) ](./String%20to%20Integer%20(atoi).cpp)
 -  [ Leaf-Similar Trees ](./Leaf-Similar%20Trees.cpp)
 
-### Total Code Count : 621
+### Total Code Count : 622
