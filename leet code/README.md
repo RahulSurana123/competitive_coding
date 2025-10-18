@@ -324,6 +324,7 @@
 -  [ Daily Temperatures ](./Daily%20Temperatures.cpp)
 -  [ Restore the Array From Adjacent Pairs ](./Restore%20the%20Array%20From%20Adjacent%20Pairs.cpp)
 -  [ Image Smoother ](./Image%20Smoother.cpp)
+-  [ Maximum Number of Distinct Elements After Operations ](./Maximum%20Number%20of%20Distinct%20Elements%20After%20Operations.cpp)
 -  [ Sort Colors ](./Sort%20Colors.cpp)
 -  [ Check if There is a Valid Partition For The Array ](./Check%20if%20There%20is%20a%20Valid%20Partition%20For%20The%20Array.cpp)
 -  [ Construct Quad Tree ](./Construct%20Quad%20Tree.cpp)
@@ -629,4 +630,4 @@
 -  [ Sliding Window Maximum ](./Sliding%20Window%20Maximum.cpp)
 -  [ Find Original Array From Doubled Array ](./Find%20Original%20Array%20From%20Doubled%20Array.cpp)
 
-### Total Code Count : 624
+### Total Code Count : 625
