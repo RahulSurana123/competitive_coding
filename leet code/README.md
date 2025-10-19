@@ -88,6 +88,7 @@
 -  [ Rotate Image ](./Rotate%20Image.cpp)
 -  [ Balanced Binary Tree ](./Balanced%20Binary%20Tree.cpp)
 -  [ Diagonal Traverse II ](./Diagonal%20Traverse%20II.cpp)
+-  [ Consecutive Numbers ](./Consecutive%20Numbers.sql)
 -  [ Convert Sorted Array to Binary Search Tree ](./Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp)
 -  [ Integer to Roman ](./Integer%20to%20Roman.cpp)
 -  [ Min Cost Climbing Stairs ](./Min%20Cost%20Climbing%20Stairs.cpp)
@@ -133,6 +134,7 @@
 -  [ Partition Array According to Given Pivot ](./Partition%20Array%20According%20to%20Given%20Pivot.cpp)
 -  [ K-th Smallest Prime Fraction ](./K-th%20Smallest%20Prime%20Fraction.cpp)
 -  [ Group Anagrams ](./Group%20Anagrams.cpp)
+-  [ Nth Highest Salary ](./Nth%20Highest%20Salary.sql)
 -  [ Unique Binary Search Trees II ](./Unique%20Binary%20Search%20Trees%20II.cpp)
 -  [ Maximum Nesting Depth of the Parentheses ](./Maximum%20Nesting%20Depth%20of%20the%20Parentheses.cpp)
 -  [ Maximum Number of Coins You Can Get ](./Maximum%20Number%20of%20Coins%20You%20Can%20Get.cpp)
@@ -631,4 +633,4 @@
 -  [ Sliding Window Maximum ](./Sliding%20Window%20Maximum.cpp)
 -  [ Find Original Array From Doubled Array ](./Find%20Original%20Array%20From%20Doubled%20Array.cpp)
 
-### Total Code Count : 626
+### Total Code Count : 628
