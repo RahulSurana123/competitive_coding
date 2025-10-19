@@ -364,6 +364,7 @@
 -  [ Climbing Stairs ](./Climbing%20Stairs.cpp)
 -  [ Convert BST to Greater Tree ](./Convert%20BST%20to%20Greater%20Tree.cpp)
 -  [ Maximum Product of Two Elements in an Array ](./Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.cpp)
+-  [ Adjacent Increasing Subarrays Detection I ](./Adjacent%20Increasing%20Subarrays%20Detection%20I.cpp)
 -  [ Find Mode in Binary Search Tree ](./Find%20Mode%20in%20Binary%20Search%20Tree.cpp)
 -  [ Binary Search Tree Iterator ](./Binary%20Search%20Tree%20Iterator.cpp)
 -  [ Top K Frequent Elements ](./Top%20K%20Frequent%20Elements.cpp)
@@ -630,4 +631,4 @@
 -  [ Sliding Window Maximum ](./Sliding%20Window%20Maximum.cpp)
 -  [ Find Original Array From Doubled Array ](./Find%20Original%20Array%20From%20Doubled%20Array.cpp)
 
-### Total Code Count : 625
+### Total Code Count : 626
