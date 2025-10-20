@@ -345,6 +345,7 @@
 -  [ Sum Root to Leaf Numbers ](./Sum%20Root%20to%20Leaf%20Numbers.cpp)
 -  [ Greatest Common Divisor of Strings ](./Greatest%20Common%20Divisor%20of%20Strings.cpp)
 -  [ Longest Substring Without Repeating Characters ](./Longest%20Substring%20Without%20Repeating%20Characters.cpp)
+-  [ Managers with at Least 5 Direct Reports ](./Managers%20with%20at%20Least%205%20Direct%20Reports.sql)
 -  [ Find Lucky Integer in an Array ](./Find%20Lucky%20Integer%20in%20an%20Array.cpp)
 -  [ Cherry Pickup II ](./Cherry%20Pickup%20II.cpp)
 -  [ Rotate Function. ](./Rotate%20Function.java)
@@ -633,4 +634,4 @@
 -  [ Sliding Window Maximum ](./Sliding%20Window%20Maximum.cpp)
 -  [ Find Original Array From Doubled Array ](./Find%20Original%20Array%20From%20Doubled%20Array.cpp)
 
-### Total Code Count : 628
+### Total Code Count : 629

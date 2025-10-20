@@ -10,7 +10,7 @@
 | Platform  |  Problem Count |
 | --------  |  ------------- |
 |    [ Google Contest Problems ](./Google%20Contest%20Problems)     |      8    |
-|    [ leet code ](./leet%20code)     |      628    |
+|    [ leet code ](./leet%20code)     |      629    |
 |    [ CodeChef ](./CodeChef)     |      77    |
 |    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
 |    [ hackerearth ](./hackerearth)     |      27    |
@@ -24,4 +24,4 @@
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      7    |
 |    [ Geek for Geek ](./Geek%20for%20Geek)     |      72    |
 
-### Total Code Count : 1035
+### Total Code Count : 1036
