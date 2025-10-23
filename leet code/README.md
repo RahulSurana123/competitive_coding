@@ -273,6 +273,7 @@
 -  [ Best Time to Buy and Sell Stock with Cooldown ](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.cpp)
 -  [ Same Tree ](./Same%20Tree.cpp)
 -  [ Longest Palindromic Substring ](./Longest%20Palindromic%20Substring.cpp)
+-  [ Final Value of Variable After Performing Operations ](./Final%20Value%20of%20Variable%20After%20Performing%20Operations.cpp)
 -  [ Minimum Number of Arrows to Burst Balloons ](./Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)
 -  [ Minimum Remove to Make Valid Parentheses ](./Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)
 -  [ Search in a Binary Search Tree ](./Search%20in%20a%20Binary%20Search%20Tree.cpp)
@@ -634,4 +635,4 @@
 -  [ Sliding Window Maximum ](./Sliding%20Window%20Maximum.cpp)
 -  [ Find Original Array From Doubled Array ](./Find%20Original%20Array%20From%20Doubled%20Array.cpp)
 
-### Total Code Count : 629
+### Total Code Count : 630
