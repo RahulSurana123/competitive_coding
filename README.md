@@ -9,19 +9,19 @@
 ***
 | Platform  |  Problem Count |
 | --------  |  ------------- |
-|    [ Google Contest Problems ](./Google%20Contest%20Problems)     |      8    |
-|    [ leet code ](./leet%20code)     |      630    |
-|    [ CodeChef ](./CodeChef)     |      77    |
-|    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
-|    [ hackerearth ](./hackerearth)     |      27    |
-|    [ code monk ](./code%20monk)     |      26    |
 |    [ Meta Puzzles ](./Meta%20Puzzles)     |      4    |
-|    [ Hiring ](./Hiring)     |      70    |
-|    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      8    |
-|    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
-|    [ hackerrank ](./hackerrank)     |      3    |
-|    [ CodeForces ](./CodeForces)     |      60    |
 |    [ Practice & Experiments ](./Practice%20&%20Experiments)     |      7    |
 |    [ Geek for Geek ](./Geek%20for%20Geek)     |      72    |
+|    [ CodeForces ](./CodeForces)     |      60    |
+|    [ CodeChef ](./CodeChef)     |      77    |
+|    [ hackerearth ](./hackerearth)     |      27    |
+|    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
+|    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      8    |
+|    [ leet code ](./leet%20code)     |      632    |
+|    [ Google Contest Problems ](./Google%20Contest%20Problems)     |      8    |
+|    [ hackerrank ](./hackerrank)     |      3    |
+|    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
+|    [ Hiring ](./Hiring)     |      70    |
+|    [ code monk ](./code%20monk)     |      26    |
 
-### Total Code Count : 1037
+### Total Code Count : 1039
