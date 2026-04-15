@@ -182,6 +182,7 @@
 -  [ Arithmetic Subarrays ](./Arithmetic%20Subarrays.cpp)
 -  [ Count Ways To Build Good Strings ](./Count%20Ways%20To%20Build%20Good%20Strings.cpp)
 -  [ Largest Perimeter Triangle ](./Largest%20Perimeter%20Triangle.cpp)
+-  [ Minimum Total Distance Traveled ](./Minimum%20Total%20Distance%20Traveled.cpp)
 -  [ Design Underground System ](./Design%20Underground%20System.cpp)
 -  [ Add Binary ](./Add%20Binary.cpp)
 -  [ Shuffle the Array ](./Shuffle%20the%20Array.cpp)
@@ -517,6 +518,7 @@
 -  [ Minimum Flips to Make a OR b Equal to c ](./Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.cpp)
 -  [ Minimize Maximum Pair Sum in Array ](./Minimize%20Maximum%20Pair%20Sum%20in%20Array.cpp)
 -  [ Minimum Number of Arrows to Burst Balloons ](./Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)
+-  [ Shortest Distance to Target String in a Circular Array ](./Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array.cpp)
 -  [ Remove Duplicates from Sorted List II ](./Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)
 -  [ Gas Station ](./Gas%20Station.cpp)
 -  [ Furthest Point From Origin ](./Furthest%20Point%20From%20Origin.cpp)
@@ -637,4 +639,4 @@
 -  [ Maximum Score from Performing Multiplication Operations ](./Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp)
 -  [ Unique Paths ](./Unique%20Paths.cpp)
 
-### Total Code Count : 632
+### Total Code Count : 634
