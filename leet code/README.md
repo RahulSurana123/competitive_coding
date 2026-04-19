@@ -585,6 +585,7 @@
 -  [ Determine if Two Strings Are Close ](./Determine%20if%20Two%20Strings%20Are%20Close.cpp)
 -  [ Ones and Zeroes ](./Ones%20and%20Zeroes.cpp)
 -  [ Longest Palindromic Subsequence ](./Longest%20Palindromic%20Subsequence.cpp)
+-  [ Maximum Amount of Money Robot Can Earn ](./Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn.cpp)
 -  [ Symmetric Tree ](./Symmetric%20Tree.cpp)
 -  [ Longest Cycle in a Graph ](./Longest%20Cycle%20in%20a%20Graph.cpp)
 -  [ Find the Difference ](./Find%20the%20Difference.cpp)
@@ -639,4 +640,4 @@
 -  [ Maximum Score from Performing Multiplication Operations ](./Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp)
 -  [ Unique Paths ](./Unique%20Paths.cpp)
 
-### Total Code Count : 634
+### Total Code Count : 635

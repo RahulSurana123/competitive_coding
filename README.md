@@ -17,11 +17,11 @@
 |    [ hackerearth ](./hackerearth)     |      27    |
 |    [ Rated competition Codes ](./Rated%20competition%20Codes)     |      32    |
 |    [ CSES Task Practices ](./CSES%20Task%20Practices)     |      8    |
-|    [ leet code ](./leet%20code)     |      634    |
+|    [ leet code ](./leet%20code)     |      635    |
 |    [ Google Contest Problems ](./Google%20Contest%20Problems)     |      8    |
 |    [ hackerrank ](./hackerrank)     |      3    |
 |    [ Striver SDE Sheet ](./Striver%20SDE%20Sheet)     |      13    |
 |    [ Hiring ](./Hiring)     |      70    |
 |    [ code monk ](./code%20monk)     |      26    |
 
-### Total Code Count : 1041
+### Total Code Count : 1042
