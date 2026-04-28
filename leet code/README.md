@@ -180,6 +180,7 @@
 -  [ Consecutive Characters ](./Consecutive%20Characters.cpp)
 -  [ Longest Increasing Subsequence ](./Longest%20Increasing%20Subsequence.cpp)
 -  [ Count Odd Numbers in an Interval Range ](./Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)
+-  [ Two Furthest Houses With Different Colors ](./Two%20Furthest%20Houses%20With%20Different%20Colors.cpp)
 -  [ Arithmetic Subarrays ](./Arithmetic%20Subarrays.cpp)
 -  [ Count Ways To Build Good Strings ](./Count%20Ways%20To%20Build%20Good%20Strings.cpp)
 -  [ Largest Perimeter Triangle ](./Largest%20Perimeter%20Triangle.cpp)
@@ -268,6 +269,7 @@
 -  [ Online Stock Span ](./Online%20Stock%20Span.cpp)
 -  [ Minimum Amount of Time to Collect Garbage ](./Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.cpp)
 -  [ Number of Digit One ](./Number%20of%20Digit%20One.cpp)
+-  [ Sum of Distances ](./Sum%20of%20Distances.cpp)
 -  [ Height Checker ](./Height%20Checker.cpp)
 -  [ Maximum Width of Binary Tree ](./Maximum%20Width%20of%20Binary%20Tree.cpp)
 -  [ Remove All Adjacent Duplicates in String II ](./Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)
@@ -378,6 +380,7 @@
 -  [ Partition Equal Subset Sum ](./Partition%20Equal%20Subset%20Sum.cpp)
 -  [ Linked List Random Node ](./Linked%20List%20Random%20Node.cpp)
 -  [ Find Lucky Integer in an Array ](./Find%20Lucky%20Integer%20in%20an%20Array.cpp)
+-  [ Check if There is a Valid Path in a Grid ](./Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid.cpp)
 -  [ Verifying an Alien Dictionary ](./Verifying%20an%20Alien%20Dictionary.cpp)
 -  [ Maximum XOR of Two Numbers in an Array ](./Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.cpp)
 -  [ Maximum Product of Two Elements in an Array ](./Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.cpp)
@@ -546,6 +549,7 @@
 -  [ Palindromic Substrings ](./Palindromic%20Substrings.cpp)
 -  [ Amount of Time for Binary Tree to Be Infected ](./Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.cpp)
 -  [ Insert Delete GetRandom O(1) ](./Insert%20Delete%20GetRandom%20O(1).cpp)
+-  [ Minimum Operations to Make a Uni-Value Grid ](./Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid.cpp)
 -  [ Perfect Squares ](./Perfect%20Squares.cpp)
 -  [ Mirror Distance of an Integer ](./Mirror%20Distance%20of%20an%20Integer.cpp)
 -  [ Palindrome Number ](./Palindrome%20Number.cpp)
@@ -608,6 +612,7 @@
 -  [ Remove Covered Intervals ](./Remove%20Covered%20Intervals.cpp)
 -  [ Valid Sudoku ](./Valid%20Sudoku.cpp)
 -  [ Invert Binary Tree ](./Invert%20Binary%20Tree.cpp)
+-  [ Words Within Two Edits of Dictionary ](./Words%20Within%20Two%20Edits%20of%20Dictionary.cpp)
 -  [ Flatten Nested List Iterator ](./Flatten%20Nested%20List%20Iterator.cpp)
 -  [ Maximal Square ](./Maximal%20Square.cpp)
 -  [ Integer to Roman ](./Integer%20to%20Roman.cpp)
@@ -645,4 +650,4 @@
 -  [ Maximum Score from Performing Multiplication Operations ](./Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp)
 -  [ Unique Paths ](./Unique%20Paths.cpp)
 
-### Total Code Count : 640
+### Total Code Count : 645
