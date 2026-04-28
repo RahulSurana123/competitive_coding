@@ -147,6 +147,7 @@
 -  [ Reverse Integer ](./Reverse%20Integer.cpp)
 -  [ Minimum Time to Complete Trips ](./Minimum%20Time%20to%20Complete%20Trips.cpp)
 -  [ Detonate the Maximum Bombs ](./Detonate%20the%20Maximum%20Bombs.cpp)
+-  [ Count Numbers with Unique Digits ](./Count%20Numbers%20with%20Unique%20Digits.cpp)
 -  [ Number of Ways to Arrive at Destination ](./Number%20of%20Ways%20to%20Arrive%20at%20Destination.cpp)
 -  [ Two Sum ](./Two%20Sum.cpp)
 -  [ Number of Operations to Make Network Connected ](./Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp)
@@ -243,6 +244,7 @@
 -  [ Text Justification ](./Text%20Justification.cpp)
 -  [ Count Sorted Vowel Strings ](./Count%20Sorted%20Vowel%20Strings.cpp)
 -  [ Pow(x, n) ](./Pow(x,%20n).cpp)
+-  [ Minimum Absolute Distance Between Mirror Pairs ](./Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs.cpp)
 -  [ Interleaving String ](./Interleaving%20String.cpp)
 -  [ Populating Next Right Pointers in Each Node II ](./Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.cpp)
 -  [ Odd Even Linked List ](./Odd%20Even%20Linked%20List.cpp)
@@ -277,6 +279,7 @@
 -  [ Word Search ](./Word%20Search.cpp)
 -  [ Dota2 Senate ](./Dota2%20Senate.cpp)
 -  [ Find a Corresponding Node of a Binary Tree in a Clone of That Tree ](./Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.cpp)
+-  [ Closest Equal Element Queries ](./Closest%20Equal%20Element%20Queries.cpp)
 -  [ Sequential Digits ](./Sequential%20Digits.cpp)
 -  [ Sum of Subarray Minimums ](./Sum%20of%20Subarray%20Minimums.cpp)
 -  [ Minimum Remove to Make Valid Parentheses ](./Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)
@@ -519,6 +522,7 @@
 -  [ Minimize Maximum Pair Sum in Array ](./Minimize%20Maximum%20Pair%20Sum%20in%20Array.cpp)
 -  [ Minimum Number of Arrows to Burst Balloons ](./Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)
 -  [ Shortest Distance to Target String in a Circular Array ](./Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array.cpp)
+-  [ Maximum Distance Between a Pair of Values ](./Maximum%20Distance%20Between%20a%20Pair%20of%20Values.cpp)
 -  [ Remove Duplicates from Sorted List II ](./Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)
 -  [ Gas Station ](./Gas%20Station.cpp)
 -  [ Furthest Point From Origin ](./Furthest%20Point%20From%20Origin.cpp)
@@ -543,6 +547,7 @@
 -  [ Amount of Time for Binary Tree to Be Infected ](./Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.cpp)
 -  [ Insert Delete GetRandom O(1) ](./Insert%20Delete%20GetRandom%20O(1).cpp)
 -  [ Perfect Squares ](./Perfect%20Squares.cpp)
+-  [ Mirror Distance of an Integer ](./Mirror%20Distance%20of%20an%20Integer.cpp)
 -  [ Palindrome Number ](./Palindrome%20Number.cpp)
 -  [ Partition Array According to Given Pivot ](./Partition%20Array%20According%20to%20Given%20Pivot.cpp)
 -  [ Check if There is a Valid Partition For The Array ](./Check%20if%20There%20is%20a%20Valid%20Partition%20For%20The%20Array.cpp)
@@ -640,4 +645,4 @@
 -  [ Maximum Score from Performing Multiplication Operations ](./Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp)
 -  [ Unique Paths ](./Unique%20Paths.cpp)
 
-### Total Code Count : 635
+### Total Code Count : 640
